@@ -6,39 +6,43 @@ use Exception;
 
 require __DIR__ . '/vendor/autoload.php';
 
-$requester = new Requestor( new Config\WPackagistConfig() );
-do {
+$configs = array(
+	new Config\WPackagistConfig(),
+	new Config\PackagistConfig(),
+);
 
-	echo "Processing {$requester->config->provider}";
+foreach( $configs as $config ) {
+	do {
 
-	try {
-		$groups = $requester->request_groups();
-		foreach ( $groups as $group ) {
-			$packages = $requester->request_packages( $group );
-			echo "\n\nProcessing {$group->label}\n";
+		try {
+			$requester = new Requestor( $config );
 
-			foreach ( $packages as $package ) {
-				if ( ! $requester->request_package( $package ) ) {
-					echo ".";
-					continue;
+			echo "Processing {$requester->config->provider}";
+
+			$groups = $requester->request_groups();
+			foreach ( $groups as $group ) {
+				$packages = $requester->request_packages( $group );
+				echo "\n\nProcessing {$group->label}\n";
+
+				foreach ( $packages as $package ) {
+					if ( ! $requester->request_package( $package ) ) {
+						echo ".";
+						continue;
+					}
+					echo "\nSaving {$package->slug}";
+					$package->persist_info();
+
 				}
-				echo "\nSaving {$package->slug}";
-				$package->persist_info();
-
 			}
+		} catch ( Exception $e ) {
+			/**
+			 * Wait a minute after an error.
+			 */
+			echo "\n\nSleeping for a minute";
+			sleep( 60 );
+			continue;
 		}
-	} catch ( Exception $e ) {
-		/**
-		 * Wait a minute after an error.
-		 */
-		echo "\n\nSleeping for a minute";
-		sleep( 60 );
-		continue;
-	}
-	/**
-	 * Wait an hour after processing the full list.
-	 */
-	echo "\n\nSleeping for an hour";
-	sleep( 60 * 60 );
-} while ( true );
 
+	} while ( false );
+
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flagged-content": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/flagged-content",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 135157,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flagged-content.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flagged-content\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flagged-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flagged-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 135158,
+                "time": "2017-08-28 01:42:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flagged-content.zip?timestamp=1503884570"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flagged-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flagged-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

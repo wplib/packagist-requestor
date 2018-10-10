@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/brad": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/brad",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 51333,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brad.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brad\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/brad",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51334,
+                "time": "2017-07-17 15:35:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brad.zip?timestamp=1500305703"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

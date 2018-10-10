@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/5p2p-vc-openagenda": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/5p2p-vc-openagenda",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 1650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/5p2p-vc-openagenda.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/5p2p-vc-openagenda\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/5p2p-vc-openagenda\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/5p2p-vc-openagenda",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 1651,
+                "time": "2017-08-19 16:18:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/5p2p-vc-openagenda.zip?timestamp=1503159516"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/5p2p-vc-openagenda\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/5p2p-vc-openagenda\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

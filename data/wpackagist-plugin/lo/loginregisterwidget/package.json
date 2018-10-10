@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loginregisterwidget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/loginregisterwidget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 203415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginregisterwidget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginregisterwidget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginregisterwidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loginregisterwidget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203416,
+                "time": "2016-01-31 13:27:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginregisterwidget.zip?timestamp=1454246837"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginregisterwidget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginregisterwidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

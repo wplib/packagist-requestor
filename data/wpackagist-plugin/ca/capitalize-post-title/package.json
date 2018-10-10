@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/capitalize-post-title": {
+            "0.1": {
+                "name": "wpackagist-plugin\/capitalize-post-title",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 60031,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/capitalize-post-title.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/capitalize-post-title\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/capitalize-post-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/capitalize-post-title",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 60032,
+                "time": "2018-07-04 03:39:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/capitalize-post-title.zip?timestamp=1530675599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/capitalize-post-title\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/capitalize-post-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loi-hamon": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/loi-hamon",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 203585,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loi-hamon.zip?timestamp=1461584721"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loi-hamon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loi-hamon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loi-hamon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203586,
+                "time": "2016-04-25 11:45:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loi-hamon.zip?timestamp=1461584721"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loi-hamon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loi-hamon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

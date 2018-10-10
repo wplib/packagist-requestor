@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gleam": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gleam",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 152561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gleam.zip?timestamp=1527053494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gleam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gleam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gleam",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 152562,
+                "time": "2018-05-23 05:31:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gleam.zip?timestamp=1527053494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gleam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gleam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

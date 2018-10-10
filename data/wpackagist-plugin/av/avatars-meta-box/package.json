@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/avatars-meta-box": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/avatars-meta-box",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 32122,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avatars-meta-box.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avatars-meta-box\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avatars-meta-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/avatars-meta-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32123,
+                "time": "2015-10-27 16:18:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avatars-meta-box.zip?timestamp=1445962705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avatars-meta-box\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avatars-meta-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

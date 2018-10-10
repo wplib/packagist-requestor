@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/social-menu-icons": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/social-menu-icons",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 328638,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-menu-icons.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-menu-icons\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-menu-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/social-menu-icons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 328639,
+                "time": "2018-09-19 14:23:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-menu-icons.zip?timestamp=1537367034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-menu-icons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-menu-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

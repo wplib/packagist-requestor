@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/danielme-weather": {
+            "1.0": {
+                "name": "wpackagist-plugin\/danielme-weather",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93877,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/danielme-weather.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/danielme-weather\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/danielme-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/danielme-weather",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 93878,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/danielme-weather.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/danielme-weather\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/danielme-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/danielme-weather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93879,
+                "time": "2017-09-08 20:05:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/danielme-weather.zip?timestamp=1504901116"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/danielme-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/danielme-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

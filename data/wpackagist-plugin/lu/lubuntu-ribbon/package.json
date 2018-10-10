@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lubuntu-ribbon": {
+            "0.1": {
+                "name": "wpackagist-plugin\/lubuntu-ribbon",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 204545,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lubuntu-ribbon.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lubuntu-ribbon\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lubuntu-ribbon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lubuntu-ribbon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204546,
+                "time": "2015-01-30 09:13:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lubuntu-ribbon.zip?timestamp=1422609209"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lubuntu-ribbon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lubuntu-ribbon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

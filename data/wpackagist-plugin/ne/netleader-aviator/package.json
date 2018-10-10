@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/netleader-aviator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/netleader-aviator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 230650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netleader-aviator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netleader-aviator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netleader-aviator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/netleader-aviator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230651,
+                "time": "2018-09-06 16:13:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netleader-aviator.zip?timestamp=1536250384"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netleader-aviator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netleader-aviator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

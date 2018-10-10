@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/supasearch": {
+            "0.2.0-beta": {
+                "name": "wpackagist-plugin\/supasearch",
+                "version": "0.2.0-beta",
+                "version_normalized": "0.2.0.0-beta",
+                "uid": 341438,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/supasearch.0.2.0-beta.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/supasearch\/",
+                    "reference": "tags\/0.2.0-beta"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/supasearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/supasearch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341439,
+                "time": "2016-10-31 14:18:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/supasearch.zip?timestamp=1477923517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/supasearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/supasearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

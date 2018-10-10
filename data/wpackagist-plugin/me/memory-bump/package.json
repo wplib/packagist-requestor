@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/memory-bump": {
+            "0.1": {
+                "name": "wpackagist-plugin\/memory-bump",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 214294,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memory-bump.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memory-bump\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memory-bump\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/memory-bump",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214295,
+                "time": "2018-07-12 17:18:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memory-bump.zip?timestamp=1531415896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memory-bump\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memory-bump\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

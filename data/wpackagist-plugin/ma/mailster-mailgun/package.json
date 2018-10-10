@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailster-mailgun": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mailster-mailgun",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 207404,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailster-mailgun.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailster-mailgun\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailster-mailgun\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/mailster-mailgun",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 207405,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailster-mailgun.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailster-mailgun\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailster-mailgun\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailster-mailgun",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207406,
+                "time": "2018-09-03 12:38:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailster-mailgun.zip?timestamp=1535978301"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailster-mailgun\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailster-mailgun\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/earnfrom-shoppydoo": {
+            "1.1": {
+                "name": "wpackagist-plugin\/earnfrom-shoppydoo",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 107450,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/earnfrom-shoppydoo.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/earnfrom-shoppydoo\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/earnfrom-shoppydoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/earnfrom-shoppydoo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107451,
+                "time": "2017-02-11 08:44:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/earnfrom-shoppydoo.zip?timestamp=1486802692"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/earnfrom-shoppydoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/earnfrom-shoppydoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

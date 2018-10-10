@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-email": {
+            "1.0": {
+                "name": "wpackagist-plugin\/disable-email",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100256,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-email.zip?timestamp=1459688962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100257,
+                "time": "2016-04-03 13:09:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-email.zip?timestamp=1459688962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bizworx-tools": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/bizworx-tools",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 42815,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bizworx-tools.zip?timestamp=1538561718"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bizworx-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bizworx-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bizworx-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 42816,
+                "time": "2018-10-03 10:15:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bizworx-tools.zip?timestamp=1538561718"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bizworx-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bizworx-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

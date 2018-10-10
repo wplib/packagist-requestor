@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-xprofile-custom-fields": {
+            "2.6.4": {
+                "name": "wpackagist-plugin\/bp-xprofile-custom-fields",
+                "version": "2.6.4",
+                "version_normalized": "2.6.4.0",
+                "uid": 51131,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-xprofile-custom-fields.2.6.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-xprofile-custom-fields\/",
+                    "reference": "tags\/2.6.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-xprofile-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-xprofile-custom-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51132,
+                "time": "2018-06-05 09:26:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-xprofile-custom-fields.zip?timestamp=1528190792"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-xprofile-custom-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-xprofile-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

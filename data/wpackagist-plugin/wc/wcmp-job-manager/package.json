@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wcmp-job-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wcmp-job-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 381630,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wcmp-job-manager.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wcmp-job-manager\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wcmp-job-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wcmp-job-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 381631,
+                "time": "2018-03-06 09:07:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wcmp-job-manager.zip?timestamp=1520327275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wcmp-job-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wcmp-job-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/snap-share": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/snap-share",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 326555,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/snap-share.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/snap-share\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/snap-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/snap-share",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 326556,
+                "time": "2016-07-30 01:05:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/snap-share.zip?timestamp=1469840755"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/snap-share\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/snap-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/download-s3-content": {
+            "1.0": {
+                "name": "wpackagist-plugin\/download-s3-content",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 104141,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/download-s3-content.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/download-s3-content\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/download-s3-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/download-s3-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 104142,
+                "time": "2017-11-02 06:45:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/download-s3-content.zip?timestamp=1509605153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/download-s3-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/download-s3-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

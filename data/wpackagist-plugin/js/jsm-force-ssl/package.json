@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jsm-force-ssl": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/jsm-force-ssl",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 186334,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-force-ssl.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-force-ssl\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-force-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jsm-force-ssl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186335,
+                "time": "2018-09-23 15:52:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-force-ssl.zip?timestamp=1537717929"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-force-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-force-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

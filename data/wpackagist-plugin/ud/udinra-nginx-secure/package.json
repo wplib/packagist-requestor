@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/udinra-nginx-secure": {
+            "1.0": {
+                "name": "wpackagist-plugin\/udinra-nginx-secure",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 364885,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/udinra-nginx-secure.zip?timestamp=1486711013"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/udinra-nginx-secure\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/udinra-nginx-secure\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/udinra-nginx-secure",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364886,
+                "time": "2017-02-10 07:16:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/udinra-nginx-secure.zip?timestamp=1486711013"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/udinra-nginx-secure\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/udinra-nginx-secure\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

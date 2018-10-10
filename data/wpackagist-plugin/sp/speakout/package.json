@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/speakout": {
+            "1.14.3": {
+                "name": "wpackagist-plugin\/speakout",
+                "version": "1.14.3",
+                "version_normalized": "1.14.3.0",
+                "uid": 332664,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/speakout.zip?timestamp=1538553994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/speakout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/speakout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/speakout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332665,
+                "time": "2018-10-03 08:06:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/speakout.zip?timestamp=1538553994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/speakout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/speakout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

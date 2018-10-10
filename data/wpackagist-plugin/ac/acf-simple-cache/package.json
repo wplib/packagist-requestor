@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-simple-cache": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/acf-simple-cache",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5343,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-simple-cache.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-simple-cache\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-simple-cache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-simple-cache",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5344,
+                "time": "2017-11-13 08:50:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-simple-cache.zip?timestamp=1510563004"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-simple-cache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-simple-cache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

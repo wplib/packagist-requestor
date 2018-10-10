@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/conditional-simple-colorbox": {
+            "1.0": {
+                "name": "wpackagist-plugin\/conditional-simple-colorbox",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 77134,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/conditional-simple-colorbox.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/conditional-simple-colorbox\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/conditional-simple-colorbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/conditional-simple-colorbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77135,
+                "time": "2015-05-16 16:06:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/conditional-simple-colorbox.zip?timestamp=1431792366"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/conditional-simple-colorbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/conditional-simple-colorbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

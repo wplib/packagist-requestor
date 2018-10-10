@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/maintenance-snippets": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/maintenance-snippets",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 207623,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maintenance-snippets.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maintenance-snippets\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maintenance-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/maintenance-snippets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207624,
+                "time": "2017-11-29 21:45:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maintenance-snippets.zip?timestamp=1511991954"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maintenance-snippets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maintenance-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

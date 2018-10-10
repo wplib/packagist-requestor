@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-followme-css": {
+            "3.0.0": {
+                "name": "wpackagist-plugin\/wp-followme-css",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 416928,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-followme-css.3.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-followme-css\/",
+                    "reference": "tags\/3.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-followme-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-followme-css",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 416929,
+                "time": "2016-05-11 22:35:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-followme-css.zip?timestamp=1463006104"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-followme-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-followme-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

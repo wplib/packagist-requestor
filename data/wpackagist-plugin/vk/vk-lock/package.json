@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vk-lock": {
+            "0.1.8": {
+                "name": "wpackagist-plugin\/vk-lock",
+                "version": "0.1.8",
+                "version_normalized": "0.1.8.0",
+                "uid": 377650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vk-lock.0.1.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vk-lock\/",
+                    "reference": "tags\/0.1.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vk-lock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vk-lock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 377651,
+                "time": "2017-08-20 13:00:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vk-lock.zip?timestamp=1503234007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vk-lock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vk-lock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/poster-twitter": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/poster-twitter",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 265470,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/poster-twitter.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/poster-twitter\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/poster-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/poster-twitter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 265471,
+                "time": "2018-06-09 03:32:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/poster-twitter.zip?timestamp=1528515145"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/poster-twitter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/poster-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

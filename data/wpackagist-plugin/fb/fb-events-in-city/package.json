@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fb-events-in-city": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fb-events-in-city",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130292,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-events-in-city.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-events-in-city\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-events-in-city\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fb-events-in-city",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130293,
+                "time": "2018-03-08 19:05:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-events-in-city.zip?timestamp=1520535910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-events-in-city\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-events-in-city\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

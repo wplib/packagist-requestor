@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/uamplified-io": {
+            "1.0": {
+                "name": "wpackagist-plugin\/uamplified-io",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 364643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uamplified-io.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uamplified-io\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uamplified-io\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/uamplified-io",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364644,
+                "time": "2018-08-12 22:10:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uamplified-io.zip?timestamp=1534111853"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uamplified-io\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uamplified-io\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

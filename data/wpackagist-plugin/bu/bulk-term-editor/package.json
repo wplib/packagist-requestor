@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bulk-term-editor": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/bulk-term-editor",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 55966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-term-editor.zip?timestamp=1456725279"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-term-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-term-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bulk-term-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55967,
+                "time": "2016-02-29 05:54:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-term-editor.zip?timestamp=1456725279"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-term-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-term-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-qingstor": {
+            "0.3.4": {
+                "name": "wpackagist-plugin\/wp-qingstor",
+                "version": "0.3.4",
+                "version_normalized": "0.3.4.0",
+                "uid": 428113,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-qingstor.zip?timestamp=1495432757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-qingstor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-qingstor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-qingstor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 428114,
+                "time": "2017-05-22 05:59:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-qingstor.zip?timestamp=1495432757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-qingstor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-qingstor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-colors": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ultimate-colors",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 365582,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-colors.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-colors\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-colors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-colors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 365583,
+                "time": "2016-10-07 07:53:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-colors.zip?timestamp=1475826781"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-colors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-colors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

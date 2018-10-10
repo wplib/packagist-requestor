@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/find-posts-using-attachment": {
+            "1.0": {
+                "name": "wpackagist-plugin\/find-posts-using-attachment",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 134274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/find-posts-using-attachment.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/find-posts-using-attachment\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/find-posts-using-attachment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/find-posts-using-attachment",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 134275,
+                "time": "2017-11-14 13:07:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/find-posts-using-attachment.zip?timestamp=1510664871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/find-posts-using-attachment\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/find-posts-using-attachment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

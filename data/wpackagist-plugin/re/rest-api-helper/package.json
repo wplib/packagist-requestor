@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rest-api-helper": {
+            "2.2.3": {
+                "name": "wpackagist-plugin\/rest-api-helper",
+                "version": "2.2.3",
+                "version_normalized": "2.2.3.0",
+                "uid": 290371,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-helper.zip?timestamp=1528743138"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-helper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rest-api-helper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290372,
+                "time": "2018-06-11 18:52:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-helper.zip?timestamp=1528743138"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-helper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

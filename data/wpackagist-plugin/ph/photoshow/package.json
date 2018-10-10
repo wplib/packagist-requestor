@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/photoshow": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/photoshow",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 255155,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/photoshow.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/photoshow\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/photoshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/photoshow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255156,
+                "time": "2018-01-03 22:47:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/photoshow.zip?timestamp=1515019648"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/photoshow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/photoshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

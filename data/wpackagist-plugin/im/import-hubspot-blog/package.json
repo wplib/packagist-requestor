@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/import-hubspot-blog": {
+            "1.0": {
+                "name": "wpackagist-plugin\/import-hubspot-blog",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 174625,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-hubspot-blog.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-hubspot-blog\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-hubspot-blog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/import-hubspot-blog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174626,
+                "time": "2017-03-04 00:04:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-hubspot-blog.zip?timestamp=1488585871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-hubspot-blog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-hubspot-blog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

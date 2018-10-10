@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/promolivechat": {
+            "1.0": {
+                "name": "wpackagist-plugin\/promolivechat",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 271502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/promolivechat.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/promolivechat\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/promolivechat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/promolivechat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 271503,
+                "time": "2016-05-11 10:38:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/promolivechat.zip?timestamp=1462963099"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/promolivechat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/promolivechat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

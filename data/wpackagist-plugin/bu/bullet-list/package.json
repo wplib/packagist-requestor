@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bullet-list": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bullet-list",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 56051,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bullet-list.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bullet-list\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bullet-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bullet-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 56052,
+                "time": "2017-09-08 15:54:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bullet-list.zip?timestamp=1504886079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bullet-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bullet-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

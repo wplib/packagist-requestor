@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vhx": {
+            "1.2": {
+                "name": "wpackagist-plugin\/vhx",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 374441,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vhx.zip?timestamp=1513958506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vhx\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vhx\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vhx",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 374442,
+                "time": "2017-12-22 16:01:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vhx.zip?timestamp=1513958506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vhx\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vhx\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

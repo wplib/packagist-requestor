@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magic-popups": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/magic-popups",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-popups.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-popups\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-popups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magic-popups",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205981,
+                "time": "2016-06-09 08:09:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-popups.zip?timestamp=1465459768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-popups\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-popups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

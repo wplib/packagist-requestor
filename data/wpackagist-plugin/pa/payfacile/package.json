@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/payfacile": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/payfacile",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 250486,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payfacile.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payfacile\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payfacile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/payfacile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250487,
+                "time": "2017-01-30 10:44:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payfacile.zip?timestamp=1485773050"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payfacile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payfacile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

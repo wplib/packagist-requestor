@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weather-forecast": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/weather-forecast",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 382152,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weather-forecast.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weather-forecast\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weather-forecast\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weather-forecast",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382153,
+                "time": "2018-01-25 13:38:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weather-forecast.zip?timestamp=1516887518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weather-forecast\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weather-forecast\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

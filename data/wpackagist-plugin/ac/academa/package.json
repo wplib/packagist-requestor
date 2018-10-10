@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/academa": {
+            "0.1": {
+                "name": "wpackagist-plugin\/academa",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 2980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/academa.zip?timestamp=1532399935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/academa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/academa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/academa",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 2981,
+                "time": "2018-07-24 02:38:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/academa.zip?timestamp=1532399935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/academa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/academa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

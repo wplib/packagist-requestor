@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-filtering": {
+            "2.3.2": {
+                "name": "wpackagist-plugin\/easy-filtering",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "uid": 109005,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-filtering.zip?timestamp=1531834290"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-filtering\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-filtering\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-filtering",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 109006,
+                "time": "2018-07-17 13:31:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-filtering.zip?timestamp=1531834290"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-filtering\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-filtering\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

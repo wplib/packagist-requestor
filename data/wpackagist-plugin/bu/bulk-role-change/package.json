@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bulk-role-change": {
+            "1.1": {
+                "name": "wpackagist-plugin\/bulk-role-change",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 55948,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-role-change.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-role-change\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-role-change\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bulk-role-change",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55949,
+                "time": "2016-07-14 17:34:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-role-change.zip?timestamp=1468517676"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-role-change\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-role-change\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/postem-ipsum": {
+            "1.9": {
+                "name": "wpackagist-plugin\/postem-ipsum",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "uid": 265441,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postem-ipsum.zip?timestamp=1529923041"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postem-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postem-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/postem-ipsum",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 265442,
+                "time": "2018-06-25 10:37:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postem-ipsum.zip?timestamp=1529923041"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postem-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postem-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

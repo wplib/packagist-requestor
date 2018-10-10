@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oratio-shop-assistant-woocommerce": {
+            "1.0": {
+                "name": "wpackagist-plugin\/oratio-shop-assistant-woocommerce",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 244385,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oratio-shop-assistant-woocommerce.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oratio-shop-assistant-woocommerce\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oratio-shop-assistant-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oratio-shop-assistant-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 244386,
+                "time": "2016-11-16 15:30:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oratio-shop-assistant-woocommerce.zip?timestamp=1479310235"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oratio-shop-assistant-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oratio-shop-assistant-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

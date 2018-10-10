@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/change-comment-parent": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/change-comment-parent",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65747,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/change-comment-parent.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/change-comment-parent\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/change-comment-parent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/change-comment-parent",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65748,
+                "time": "2015-12-15 02:57:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/change-comment-parent.zip?timestamp=1450148272"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/change-comment-parent\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/change-comment-parent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

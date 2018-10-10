@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/furikake": {
+            "0.1.8": {
+                "name": "wpackagist-plugin\/furikake",
+                "version": "0.1.8",
+                "version_normalized": "0.1.8.0",
+                "uid": 144791,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/furikake.zip?timestamp=1537346772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/furikake\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/furikake\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/furikake",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144792,
+                "time": "2018-09-19 08:46:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/furikake.zip?timestamp=1537346772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/furikake\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/furikake\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

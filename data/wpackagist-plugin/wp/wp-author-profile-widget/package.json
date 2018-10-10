@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-author-profile-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-author-profile-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 406738,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-author-profile-widget.zip?timestamp=1532943150"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-author-profile-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-author-profile-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-author-profile-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 406739,
+                "time": "2018-07-30 09:32:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-author-profile-widget.zip?timestamp=1532943150"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-author-profile-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-author-profile-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

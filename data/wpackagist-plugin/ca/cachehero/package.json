@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cachehero": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/cachehero",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 58598,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cachehero.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cachehero\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cachehero\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cachehero",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 58599,
+                "time": "2015-06-17 22:03:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cachehero.zip?timestamp=1434578592"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cachehero\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cachehero\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

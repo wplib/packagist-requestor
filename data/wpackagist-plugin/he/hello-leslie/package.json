@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-leslie": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hello-leslie",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 164385,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-leslie.zip?timestamp=1530100855"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-leslie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-leslie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-leslie",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164386,
+                "time": "2018-06-27 12:00:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-leslie.zip?timestamp=1530100855"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-leslie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-leslie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

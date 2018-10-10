@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amilia-store": {
+            "2.6.9": {
+                "name": "wpackagist-plugin\/amilia-store",
+                "version": "2.6.9",
+                "version_normalized": "2.6.9.0",
+                "uid": 20660,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amilia-store.zip?timestamp=1538483594"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amilia-store\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amilia-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amilia-store",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 20661,
+                "time": "2018-10-02 12:33:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amilia-store.zip?timestamp=1538483594"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amilia-store\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amilia-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

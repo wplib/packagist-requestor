@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/posts-for-all-pages": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/posts-for-all-pages",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 266105,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-for-all-pages.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-for-all-pages\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-for-all-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/posts-for-all-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 266106,
+                "time": "2017-06-12 20:08:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-for-all-pages.zip?timestamp=1497298137"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-for-all-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-for-all-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

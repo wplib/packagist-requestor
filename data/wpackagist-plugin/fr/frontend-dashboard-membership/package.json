@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontend-dashboard-membership": {
+            "1.1": {
+                "name": "wpackagist-plugin\/frontend-dashboard-membership",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 143550,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-dashboard-membership.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-dashboard-membership\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-dashboard-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontend-dashboard-membership",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143551,
+                "time": "2018-10-08 00:23:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-dashboard-membership.zip?timestamp=1538958190"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-dashboard-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-dashboard-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chiron": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chiron",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 67762,
+                "time": "2017-02-10 14:57:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chiron.zip?timestamp=1486738650"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chiron\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chiron\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

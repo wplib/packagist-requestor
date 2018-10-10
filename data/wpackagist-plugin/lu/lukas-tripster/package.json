@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lukas-tripster": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lukas-tripster",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lukas-tripster.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lukas-tripster\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lukas-tripster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lukas-tripster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204606,
+                "time": "2018-07-11 07:33:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lukas-tripster.zip?timestamp=1531294421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lukas-tripster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lukas-tripster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

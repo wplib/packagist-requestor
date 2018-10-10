@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-saban": {
+            "0.1": {
+                "name": "wpackagist-plugin\/hello-saban",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 164418,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-saban.zip?timestamp=1516214990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-saban\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-saban\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-saban",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164419,
+                "time": "2018-01-17 18:49:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-saban.zip?timestamp=1516214990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-saban\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-saban\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

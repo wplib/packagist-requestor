@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cool-fancybox": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cool-fancybox",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 82761,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cool-fancybox.zip?timestamp=1472029292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cool-fancybox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cool-fancybox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cool-fancybox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82762,
+                "time": "2016-08-24 09:01:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cool-fancybox.zip?timestamp=1472029292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cool-fancybox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cool-fancybox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

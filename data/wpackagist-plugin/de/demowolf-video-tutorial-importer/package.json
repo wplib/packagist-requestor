@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/demowolf-video-tutorial-importer": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/demowolf-video-tutorial-importer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 97652,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/demowolf-video-tutorial-importer.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/demowolf-video-tutorial-importer\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/demowolf-video-tutorial-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/demowolf-video-tutorial-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97653,
+                "time": "2016-06-11 14:28:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/demowolf-video-tutorial-importer.zip?timestamp=1465655339"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/demowolf-video-tutorial-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/demowolf-video-tutorial-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/picture-gallery": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/picture-gallery",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 255941,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/picture-gallery.zip?timestamp=1503393346"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/picture-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/picture-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/picture-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255942,
+                "time": "2017-08-22 09:15:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/picture-gallery.zip?timestamp=1503393346"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/picture-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/picture-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

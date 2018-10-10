@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/konora-membership": {
+            "0.1": {
+                "name": "wpackagist-plugin\/konora-membership",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 191205,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora-membership.zip?timestamp=1429530706"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/konora-membership",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191206,
+                "time": "2015-04-20 11:51:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora-membership.zip?timestamp=1429530706"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

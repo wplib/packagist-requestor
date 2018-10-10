@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/contact-form-7-simple-recaptcha": {
+            "0.0.2": {
+                "name": "wpackagist-plugin\/contact-form-7-simple-recaptcha",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "uid": 79159,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7-simple-recaptcha.0.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contact-form-7-simple-recaptcha\/",
+                    "reference": "tags\/0.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contact-form-7-simple-recaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/contact-form-7-simple-recaptcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 79160,
+                "time": "2018-10-05 01:13:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contact-form-7-simple-recaptcha.zip?timestamp=1538702027"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contact-form-7-simple-recaptcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contact-form-7-simple-recaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

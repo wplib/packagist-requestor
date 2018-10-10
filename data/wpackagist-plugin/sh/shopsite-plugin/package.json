@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shopsite-plugin": {
+            "1.5.6": {
+                "name": "wpackagist-plugin\/shopsite-plugin",
+                "version": "1.5.6",
+                "version_normalized": "1.5.6.0",
+                "uid": 309705,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopsite-plugin.zip?timestamp=1501711324"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopsite-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopsite-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shopsite-plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 309706,
+                "time": "2017-08-02 22:02:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopsite-plugin.zip?timestamp=1501711324"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopsite-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopsite-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

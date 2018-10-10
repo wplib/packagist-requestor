@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magee-restaurant": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/magee-restaurant",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magee-restaurant.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magee-restaurant\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magee-restaurant\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magee-restaurant",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205745,
+                "time": "2016-10-14 06:02:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magee-restaurant.zip?timestamp=1476424921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magee-restaurant\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magee-restaurant\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

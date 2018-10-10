@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-page-tester": {
+            "1.4.4": {
+                "name": "wpackagist-plugin\/simple-page-tester",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "uid": 316311,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-page-tester.zip?timestamp=1514931410"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-page-tester\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-page-tester\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-page-tester",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 316312,
+                "time": "2018-01-02 22:16:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-page-tester.zip?timestamp=1514931410"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-page-tester\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-page-tester\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

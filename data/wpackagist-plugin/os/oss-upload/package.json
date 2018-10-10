@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oss-upload": {
+            "4.3.2": {
+                "name": "wpackagist-plugin\/oss-upload",
+                "version": "4.3.2",
+                "version_normalized": "4.3.2.0",
+                "uid": 245695,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oss-upload.zip?timestamp=1539075345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oss-upload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oss-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oss-upload",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245696,
+                "time": "2018-10-09 08:55:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oss-upload.zip?timestamp=1539075345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oss-upload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oss-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

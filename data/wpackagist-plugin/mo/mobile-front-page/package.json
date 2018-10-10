@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mobile-front-page": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mobile-front-page",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 220086,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobile-front-page.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobile-front-page\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobile-front-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mobile-front-page",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 220087,
+                "time": "2018-06-09 18:35:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobile-front-page.zip?timestamp=1528569320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobile-front-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobile-front-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-phpmyadmin-extension": {
+            "1.65": {
+                "name": "wpackagist-plugin\/wp-phpmyadmin-extension",
+                "version": "1.65",
+                "version_normalized": "1.65.0.0",
+                "uid": 426292,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-phpmyadmin-extension.zip?timestamp=1538856130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-phpmyadmin-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-phpmyadmin-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-phpmyadmin-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 426293,
+                "time": "2018-10-06 20:02:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-phpmyadmin-extension.zip?timestamp=1538856130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-phpmyadmin-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-phpmyadmin-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

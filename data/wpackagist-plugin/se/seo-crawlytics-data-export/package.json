@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seo-crawlytics-data-export": {
+            "1.0": {
+                "name": "wpackagist-plugin\/seo-crawlytics-data-export",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 304844,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-crawlytics-data-export.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-crawlytics-data-export\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-crawlytics-data-export\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seo-crawlytics-data-export",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 304845,
+                "time": "2017-06-10 10:10:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-crawlytics-data-export.zip?timestamp=1497089437"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-crawlytics-data-export\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-crawlytics-data-export\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

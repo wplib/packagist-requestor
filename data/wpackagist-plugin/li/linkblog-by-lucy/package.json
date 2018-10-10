@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/linkblog-by-lucy": {
+            "1.0": {
+                "name": "wpackagist-plugin\/linkblog-by-lucy",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 198862,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkblog-by-lucy.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkblog-by-lucy\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkblog-by-lucy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/linkblog-by-lucy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198863,
+                "time": "2015-06-15 22:01:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkblog-by-lucy.zip?timestamp=1434405710"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkblog-by-lucy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkblog-by-lucy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

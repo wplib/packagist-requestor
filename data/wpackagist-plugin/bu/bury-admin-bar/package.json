@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bury-admin-bar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bury-admin-bar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 56313,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bury-admin-bar.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bury-admin-bar\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bury-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bury-admin-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 56314,
+                "time": "2018-04-16 19:39:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bury-admin-bar.zip?timestamp=1523907544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bury-admin-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bury-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

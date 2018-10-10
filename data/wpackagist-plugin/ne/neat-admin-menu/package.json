@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/neat-admin-menu": {
+            "1.1": {
+                "name": "wpackagist-plugin\/neat-admin-menu",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 229883,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/neat-admin-menu.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/neat-admin-menu\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/neat-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/neat-admin-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229884,
+                "time": "2018-08-30 03:24:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/neat-admin-menu.zip?timestamp=1535599489"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/neat-admin-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/neat-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

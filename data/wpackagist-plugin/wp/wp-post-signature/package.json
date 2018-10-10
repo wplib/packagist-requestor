@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-post-signature": {
+            "0.3.7": {
+                "name": "wpackagist-plugin\/wp-post-signature",
+                "version": "0.3.7",
+                "version_normalized": "0.3.7.0",
+                "uid": 427052,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-post-signature.zip?timestamp=1495419977"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-post-signature\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-post-signature\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-post-signature",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 427053,
+                "time": "2017-05-22 02:26:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-post-signature.zip?timestamp=1495419977"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-post-signature\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-post-signature\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

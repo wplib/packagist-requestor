@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-simple-product-badge": {
+            "1.1": {
+                "name": "wpackagist-plugin\/wc-simple-product-badge",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 381317,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-simple-product-badge.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-simple-product-badge\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-simple-product-badge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-simple-product-badge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 381318,
+                "time": "2016-03-31 02:04:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-simple-product-badge.zip?timestamp=1459389887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-simple-product-badge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-simple-product-badge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

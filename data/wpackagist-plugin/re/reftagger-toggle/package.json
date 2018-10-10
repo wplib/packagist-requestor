@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reftagger-toggle": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/reftagger-toggle",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 285451,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reftagger-toggle.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reftagger-toggle\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reftagger-toggle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reftagger-toggle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285452,
+                "time": "2016-05-18 17:30:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reftagger-toggle.zip?timestamp=1463592656"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reftagger-toggle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reftagger-toggle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

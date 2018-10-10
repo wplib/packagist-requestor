@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mage-faq": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mage-faq",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205680,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-faq.zip?timestamp=1497518278"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mage-faq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205681,
+                "time": "2017-06-15 09:17:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-faq.zip?timestamp=1497518278"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

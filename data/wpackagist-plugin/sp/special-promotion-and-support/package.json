@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/special-promotion-and-support": {
+            "1.0": {
+                "name": "wpackagist-plugin\/special-promotion-and-support",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 332842,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/special-promotion-and-support.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/special-promotion-and-support\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/special-promotion-and-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/special-promotion-and-support",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332843,
+                "time": "2018-07-30 17:47:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/special-promotion-and-support.zip?timestamp=1532972831"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/special-promotion-and-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/special-promotion-and-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vat-moss": {
+            "1.0.28": {
+                "name": "wpackagist-plugin\/vat-moss",
+                "version": "1.0.28",
+                "version_normalized": "1.0.28.0",
+                "uid": 373138,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vat-moss.zip?timestamp=1533060028"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vat-moss\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vat-moss\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vat-moss",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373139,
+                "time": "2018-07-31 18:00:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vat-moss.zip?timestamp=1533060028"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vat-moss\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vat-moss\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

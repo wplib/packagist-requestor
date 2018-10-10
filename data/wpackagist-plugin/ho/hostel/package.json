@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hostel": {
+            "1.1.2.1": {
+                "name": "wpackagist-plugin\/hostel",
+                "version": "1.1.2.1",
+                "version_normalized": "1.1.2.1",
+                "uid": 167420,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hostel.zip?timestamp=1536143264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hostel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hostel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hostel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 167421,
+                "time": "2018-09-05 10:27:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hostel.zip?timestamp=1536143264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hostel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hostel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

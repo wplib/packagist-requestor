@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/next-page-caching": {
+            "0.1": {
+                "name": "wpackagist-plugin\/next-page-caching",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 233338,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/next-page-caching.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/next-page-caching\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/next-page-caching\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/next-page-caching",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 233339,
+                "time": "2018-03-30 05:08:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/next-page-caching.zip?timestamp=1522386515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/next-page-caching\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/next-page-caching\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

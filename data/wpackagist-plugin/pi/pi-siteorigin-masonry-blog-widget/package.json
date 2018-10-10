@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pi-siteorigin-masonry-blog-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pi-siteorigin-masonry-blog-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 255547,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pi-siteorigin-masonry-blog-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pi-siteorigin-masonry-blog-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pi-siteorigin-masonry-blog-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pi-siteorigin-masonry-blog-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255548,
+                "time": "2018-02-14 06:00:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pi-siteorigin-masonry-blog-widget.zip?timestamp=1518588007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pi-siteorigin-masonry-blog-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pi-siteorigin-masonry-blog-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

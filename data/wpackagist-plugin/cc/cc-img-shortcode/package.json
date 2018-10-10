@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cc-img-shortcode": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cc-img-shortcode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 63824,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-img-shortcode.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-img-shortcode\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-img-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cc-img-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63825,
+                "time": "2017-10-20 09:27:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-img-shortcode.zip?timestamp=1508491673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-img-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-img-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

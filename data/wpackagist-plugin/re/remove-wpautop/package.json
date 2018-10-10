@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remove-wpautop": {
+            "1.0": {
+                "name": "wpackagist-plugin\/remove-wpautop",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 287286,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-wpautop.zip?timestamp=1463320517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-wpautop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-wpautop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remove-wpautop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287287,
+                "time": "2016-05-15 13:55:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-wpautop.zip?timestamp=1463320517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-wpautop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-wpautop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

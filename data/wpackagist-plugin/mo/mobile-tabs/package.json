@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mobile-tabs": {
+            "3.3": {
+                "name": "wpackagist-plugin\/mobile-tabs",
+                "version": "3.3",
+                "version_normalized": "3.3.0.0",
+                "uid": 220178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobile-tabs.3.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobile-tabs\/",
+                    "reference": "tags\/3.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobile-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mobile-tabs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 220179,
+                "time": "2018-09-25 08:26:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobile-tabs.zip?timestamp=1537863995"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobile-tabs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobile-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

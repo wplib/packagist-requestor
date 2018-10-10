@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/i-chat": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/i-chat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 169846,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-chat.zip?timestamp=1495044291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/i-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169847,
+                "time": "2017-05-17 18:04:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-chat.zip?timestamp=1495044291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

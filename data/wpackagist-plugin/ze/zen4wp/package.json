@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zen4wp": {
+            "1.4.0": {
+                "name": "wpackagist-plugin\/zen4wp",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "uid": 452360,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zen4wp.zip?timestamp=1485841203"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zen4wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zen4wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zen4wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 452361,
+                "time": "2017-01-31 05:40:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zen4wp.zip?timestamp=1485841203"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zen4wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zen4wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

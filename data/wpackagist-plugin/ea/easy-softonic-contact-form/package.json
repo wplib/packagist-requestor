@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-softonic-contact-form": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/easy-softonic-contact-form",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 110661,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-softonic-contact-form.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-softonic-contact-form\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-softonic-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-softonic-contact-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 110662,
+                "time": "2017-06-06 07:57:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-softonic-contact-form.zip?timestamp=1496735826"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-softonic-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-softonic-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

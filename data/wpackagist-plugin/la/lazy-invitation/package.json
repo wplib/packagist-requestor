@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lazy-invitation": {
+            "1.4": {
+                "name": "wpackagist-plugin\/lazy-invitation",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 193842,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lazy-invitation.zip?timestamp=1453819571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lazy-invitation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lazy-invitation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lazy-invitation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 193843,
+                "time": "2016-01-26 14:46:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lazy-invitation.zip?timestamp=1453819571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lazy-invitation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lazy-invitation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

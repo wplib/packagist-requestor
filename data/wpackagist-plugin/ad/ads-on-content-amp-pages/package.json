@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ads-on-content-amp-pages": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ads-on-content-amp-pages",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 10693,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ads-on-content-amp-pages.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ads-on-content-amp-pages\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ads-on-content-amp-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ads-on-content-amp-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 10694,
+                "time": "2018-01-03 00:27:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ads-on-content-amp-pages.zip?timestamp=1514939245"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ads-on-content-amp-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ads-on-content-amp-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

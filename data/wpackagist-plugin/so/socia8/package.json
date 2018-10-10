@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/socia8": {
+            "0.1": {
+                "name": "wpackagist-plugin\/socia8",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 327232,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socia8.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socia8\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socia8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/socia8",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 327233,
+                "time": "2017-12-30 11:04:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socia8.zip?timestamp=1514631857"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socia8\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socia8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nodeifywp": {
+            "1.1": {
+                "name": "wpackagist-plugin\/nodeifywp",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 236484,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nodeifywp.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nodeifywp\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nodeifywp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nodeifywp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 236485,
+                "time": "2016-12-30 04:35:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nodeifywp.zip?timestamp=1483072515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nodeifywp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nodeifywp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

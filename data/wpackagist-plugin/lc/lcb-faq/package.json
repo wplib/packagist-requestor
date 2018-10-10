@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lcb-faq": {
+            "1.1": {
+                "name": "wpackagist-plugin\/lcb-faq",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 194208,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lcb-faq.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lcb-faq\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lcb-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lcb-faq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194209,
+                "time": "2015-10-12 20:01:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lcb-faq.zip?timestamp=1444680099"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lcb-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lcb-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/widget-taxonomy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/widget-taxonomy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 386605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widget-taxonomy.zip?timestamp=1497013018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widget-taxonomy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widget-taxonomy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/widget-taxonomy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 386606,
+                "time": "2017-06-09 12:56:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widget-taxonomy.zip?timestamp=1497013018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widget-taxonomy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widget-taxonomy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forms-for-benchmark-email": {
+            "1.0": {
+                "name": "wpackagist-plugin\/forms-for-benchmark-email",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 140899,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-benchmark-email.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-benchmark-email\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-benchmark-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forms-for-benchmark-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140900,
+                "time": "2016-12-29 14:43:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-benchmark-email.zip?timestamp=1483022621"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-benchmark-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-benchmark-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

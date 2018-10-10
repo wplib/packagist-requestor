@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/actionable-news": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/actionable-news",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 5707,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/actionable-news.zip?timestamp=1464270247"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/actionable-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/actionable-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/actionable-news",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5708,
+                "time": "2016-05-26 13:44:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/actionable-news.zip?timestamp=1464270247"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/actionable-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/actionable-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cni-site-settings": {
+            "0.0.3": {
+                "name": "wpackagist-plugin\/cni-site-settings",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "uid": 72455,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cni-site-settings.zip?timestamp=1480297655"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cni-site-settings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cni-site-settings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cni-site-settings",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72456,
+                "time": "2016-11-28 01:47:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cni-site-settings.zip?timestamp=1480297655"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cni-site-settings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cni-site-settings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

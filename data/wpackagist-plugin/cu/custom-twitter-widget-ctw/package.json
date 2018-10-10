@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-twitter-widget-ctw": {
+            "0.4": {
+                "name": "wpackagist-plugin\/custom-twitter-widget-ctw",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 91645,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-twitter-widget-ctw.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-twitter-widget-ctw\/",
+                    "reference": "tags\/0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-twitter-widget-ctw\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-twitter-widget-ctw",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 91646,
+                "time": "2016-11-30 17:12:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-twitter-widget-ctw.zip?timestamp=1480525931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-twitter-widget-ctw\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-twitter-widget-ctw\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

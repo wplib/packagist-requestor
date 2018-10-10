@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/xslt": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/xslt",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 446862,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xslt.zip?timestamp=1511384273"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xslt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xslt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/xslt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 446863,
+                "time": "2017-11-22 20:57:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xslt.zip?timestamp=1511384273"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xslt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xslt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

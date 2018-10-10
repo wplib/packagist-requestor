@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/talkerify-for-wp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/talkerify-for-wp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345924,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talkerify-for-wp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talkerify-for-wp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talkerify-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/talkerify-for-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345925,
+                "time": "2017-03-07 01:19:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talkerify-for-wp.zip?timestamp=1488849553"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talkerify-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talkerify-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/term-duplicator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/term-duplicator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 348627,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/term-duplicator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/term-duplicator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/term-duplicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/term-duplicator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 348628,
+                "time": "2017-02-22 21:33:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/term-duplicator.zip?timestamp=1487799220"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/term-duplicator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/term-duplicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

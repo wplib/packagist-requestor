@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/konnichiwa": {
+            "0.7.9.1": {
+                "name": "wpackagist-plugin\/konnichiwa",
+                "version": "0.7.9.1",
+                "version_normalized": "0.7.9.1",
+                "uid": 191177,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konnichiwa.zip?timestamp=1538386124"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konnichiwa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konnichiwa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/konnichiwa",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191178,
+                "time": "2018-10-01 09:28:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konnichiwa.zip?timestamp=1538386124"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konnichiwa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konnichiwa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

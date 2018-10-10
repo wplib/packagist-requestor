@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invoicesonline": {
+            "2.9.1": {
+                "name": "wpackagist-plugin\/invoicesonline",
+                "version": "2.9.1",
+                "version_normalized": "2.9.1.0",
+                "uid": 180137,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoicesonline.zip?timestamp=1531737932"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoicesonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoicesonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.8": {
+                "name": "wpackagist-plugin\/invoicesonline",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 180138,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoicesonline.1.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoicesonline\/",
+                    "reference": "tags\/1.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoicesonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invoicesonline",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180139,
+                "time": "2018-07-16 10:45:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoicesonline.zip?timestamp=1531737932"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoicesonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoicesonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

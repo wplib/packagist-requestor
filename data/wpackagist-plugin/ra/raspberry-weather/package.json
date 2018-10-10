@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/raspberry-weather": {
+            "1.5": {
+                "name": "wpackagist-plugin\/raspberry-weather",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 280813,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/raspberry-weather.zip?timestamp=1484247430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/raspberry-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/raspberry-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/raspberry-weather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 280814,
+                "time": "2017-01-12 18:57:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/raspberry-weather.zip?timestamp=1484247430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/raspberry-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/raspberry-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

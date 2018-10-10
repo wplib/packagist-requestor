@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insert-or-embed-adobe-captivate-content-into-wp": {
+            "2.15": {
+                "name": "wpackagist-plugin\/insert-or-embed-adobe-captivate-content-into-wp",
+                "version": "2.15",
+                "version_normalized": "2.15.0.0",
+                "uid": 177464,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-or-embed-adobe-captivate-content-into-wp.2.15.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-or-embed-adobe-captivate-content-into-wp\/",
+                    "reference": "tags\/2.15"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-or-embed-adobe-captivate-content-into-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insert-or-embed-adobe-captivate-content-into-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177465,
+                "time": "2018-09-21 03:47:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-or-embed-adobe-captivate-content-into-wp.zip?timestamp=1537501658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-or-embed-adobe-captivate-content-into-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-or-embed-adobe-captivate-content-into-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

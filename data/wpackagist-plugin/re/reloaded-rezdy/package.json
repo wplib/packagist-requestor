@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reloaded-rezdy": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/reloaded-rezdy",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 286529,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reloaded-rezdy.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reloaded-rezdy\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reloaded-rezdy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reloaded-rezdy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286530,
+                "time": "2017-07-13 08:07:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reloaded-rezdy.zip?timestamp=1499933244"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reloaded-rezdy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reloaded-rezdy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

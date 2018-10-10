@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cc-deploy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cc-deploy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 63794,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-deploy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-deploy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-deploy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/cc-deploy",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 63795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-deploy.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-deploy\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-deploy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cc-deploy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63796,
+                "time": "2018-03-13 15:31:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-deploy.zip?timestamp=1520955101"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-deploy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-deploy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

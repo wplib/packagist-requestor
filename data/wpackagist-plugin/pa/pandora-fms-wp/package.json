@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pandora-fms-wp": {
+            "0.1": {
+                "name": "wpackagist-plugin\/pandora-fms-wp",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 248748,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pandora-fms-wp.zip?timestamp=1489582495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pandora-fms-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pandora-fms-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pandora-fms-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 248749,
+                "time": "2017-03-15 12:54:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pandora-fms-wp.zip?timestamp=1489582495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pandora-fms-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pandora-fms-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

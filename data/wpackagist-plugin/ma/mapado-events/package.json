@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mapado-events": {
+            "0.4.0": {
+                "name": "wpackagist-plugin\/mapado-events",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "uid": 208916,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mapado-events.0.4.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mapado-events\/",
+                    "reference": "tags\/0.4.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mapado-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mapado-events",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208917,
+                "time": "2018-10-09 09:04:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mapado-events.zip?timestamp=1539075852"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mapado-events\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mapado-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

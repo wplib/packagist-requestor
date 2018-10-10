@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/toi-news": {
+            "1.0": {
+                "name": "wpackagist-plugin\/toi-news",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 356774,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toi-news.zip?timestamp=1496403205"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toi-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toi-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/toi-news",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356775,
+                "time": "2017-06-02 11:33:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toi-news.zip?timestamp=1496403205"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toi-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toi-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

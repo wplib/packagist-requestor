@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jetpack-mobile-theme-floating-ad": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/jetpack-mobile-theme-floating-ad",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 183451,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-mobile-theme-floating-ad.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-mobile-theme-floating-ad\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-mobile-theme-floating-ad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jetpack-mobile-theme-floating-ad",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183452,
+                "time": "2015-07-16 21:42:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-mobile-theme-floating-ad.zip?timestamp=1437082973"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-mobile-theme-floating-ad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-mobile-theme-floating-ad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

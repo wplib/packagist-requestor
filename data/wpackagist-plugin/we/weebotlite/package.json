@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weebotlite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/weebotlite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 384050,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weebotlite.zip?timestamp=1494812721"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weebotlite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weebotlite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weebotlite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384051,
+                "time": "2017-05-15 01:45:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weebotlite.zip?timestamp=1494812721"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weebotlite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weebotlite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

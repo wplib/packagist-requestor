@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/responsivity": {
+            "0.0.5": {
+                "name": "wpackagist-plugin\/responsivity",
+                "version": "0.0.5",
+                "version_normalized": "0.0.5.0",
+                "uid": 290303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsivity.zip?timestamp=1538514817"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsivity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsivity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/responsivity",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290304,
+                "time": "2018-10-02 21:13:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsivity.zip?timestamp=1538514817"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsivity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsivity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

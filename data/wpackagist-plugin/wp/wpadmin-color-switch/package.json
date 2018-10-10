@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpadmin-color-switch": {
+            "0.1.2": {
+                "name": "wpackagist-plugin\/wpadmin-color-switch",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "uid": 439700,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadmin-color-switch.0.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadmin-color-switch\/",
+                    "reference": "tags\/0.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadmin-color-switch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpadmin-color-switch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439701,
+                "time": "2016-10-04 15:15:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadmin-color-switch.zip?timestamp=1475594157"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadmin-color-switch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadmin-color-switch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/copernicus": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/copernicus",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 82908,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copernicus.zip?timestamp=1534937628"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copernicus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copernicus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/copernicus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82909,
+                "time": "2018-08-22 11:33:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copernicus.zip?timestamp=1534937628"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copernicus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copernicus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

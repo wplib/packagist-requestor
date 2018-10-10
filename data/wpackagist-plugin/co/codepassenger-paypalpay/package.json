@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/codepassenger-paypalpay": {
+            "1.0": {
+                "name": "wpackagist-plugin\/codepassenger-paypalpay",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 73066,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepassenger-paypalpay.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepassenger-paypalpay\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepassenger-paypalpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/codepassenger-paypalpay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 73067,
+                "time": "2017-09-12 19:54:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepassenger-paypalpay.zip?timestamp=1505246048"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepassenger-paypalpay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepassenger-paypalpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-core-update-cleaner": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-core-update-cleaner",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 411023,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-core-update-cleaner.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-core-update-cleaner\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-core-update-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-core-update-cleaner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 411024,
+                "time": "2017-10-31 09:54:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-core-update-cleaner.zip?timestamp=1509443681"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-core-update-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-core-update-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

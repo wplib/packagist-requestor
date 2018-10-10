@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cpo-shortcodes": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/cpo-shortcodes",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 85100,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpo-shortcodes.zip?timestamp=1512567984"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpo-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpo-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cpo-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85101,
+                "time": "2017-12-06 13:46:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpo-shortcodes.zip?timestamp=1512567984"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpo-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpo-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

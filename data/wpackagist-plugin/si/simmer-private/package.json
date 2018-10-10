@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simmer-private": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/simmer-private",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 312650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simmer-private.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simmer-private\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simmer-private\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simmer-private",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312651,
+                "time": "2017-02-18 17:51:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simmer-private.zip?timestamp=1487440271"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simmer-private\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simmer-private\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

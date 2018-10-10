@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/thunder-port": {
+            "1.1": {
+                "name": "wpackagist-plugin\/thunder-port",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 353966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thunder-port.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thunder-port\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thunder-port\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/thunder-port",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 353967,
+                "time": "2016-11-07 00:11:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thunder-port.zip?timestamp=1478477469"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thunder-port\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thunder-port\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

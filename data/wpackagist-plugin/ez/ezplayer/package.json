@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ezplayer": {
+            "1.0.10": {
+                "name": "wpackagist-plugin\/ezplayer",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "uid": 126817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezplayer.zip?timestamp=1513854815"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezplayer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezplayer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ezplayer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126818,
+                "time": "2017-12-21 11:13:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezplayer.zip?timestamp=1513854815"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezplayer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezplayer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ssv-mailchimp": {
+            "3.1.5": {
+                "name": "wpackagist-plugin\/ssv-mailchimp",
+                "version": "3.1.5",
+                "version_normalized": "3.1.5.0",
+                "uid": 335209,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ssv-mailchimp.zip?timestamp=1496089062"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ssv-mailchimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ssv-mailchimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ssv-mailchimp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 335210,
+                "time": "2017-05-29 20:17:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ssv-mailchimp.zip?timestamp=1496089062"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ssv-mailchimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ssv-mailchimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

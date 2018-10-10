@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asd-rockandroll-powerslider": {
+            "1.201808221": {
+                "name": "wpackagist-plugin\/asd-rockandroll-powerslider",
+                "version": "1.201808221",
+                "version_normalized": "1.201808221.0.0",
+                "uid": 27301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-rockandroll-powerslider.1.201808221.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-rockandroll-powerslider\/",
+                    "reference": "tags\/1.201808221"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-rockandroll-powerslider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asd-rockandroll-powerslider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27302,
+                "time": "2018-08-24 01:46:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-rockandroll-powerslider.zip?timestamp=1535075182"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-rockandroll-powerslider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-rockandroll-powerslider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

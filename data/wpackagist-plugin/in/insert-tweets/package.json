@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insert-tweets": {
+            "1.1": {
+                "name": "wpackagist-plugin\/insert-tweets",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 177574,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-tweets.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-tweets\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-tweets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insert-tweets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177575,
+                "time": "2016-12-27 03:40:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-tweets.zip?timestamp=1482810017"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-tweets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-tweets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

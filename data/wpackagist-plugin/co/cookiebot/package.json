@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cookiebot": {
+            "2.1.0": {
+                "name": "wpackagist-plugin\/cookiebot",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "uid": 82631,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookiebot.zip?timestamp=1538743014"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookiebot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookiebot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cookiebot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82632,
+                "time": "2018-10-05 12:36:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookiebot.zip?timestamp=1538743014"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookiebot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookiebot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/without-update-themes": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/without-update-themes",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 387948,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/without-update-themes.zip?timestamp=1471059495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/without-update-themes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/without-update-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/without-update-themes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387949,
+                "time": "2016-08-13 03:38:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/without-update-themes.zip?timestamp=1471059495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/without-update-themes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/without-update-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

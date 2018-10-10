@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/watsonfinds": {
+            "1.10.0": {
+                "name": "wpackagist-plugin\/watsonfinds",
+                "version": "1.10.0",
+                "version_normalized": "1.10.0.0",
+                "uid": 379889,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/watsonfinds.zip?timestamp=1521680035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/watsonfinds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/watsonfinds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/watsonfinds",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379890,
+                "time": "2018-03-22 00:53:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/watsonfinds.zip?timestamp=1521680035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/watsonfinds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/watsonfinds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

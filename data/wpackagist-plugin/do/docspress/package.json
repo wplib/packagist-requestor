@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/docspress": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/docspress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102711,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/docspress.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/docspress\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/docspress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0.0": {
+                "name": "wpackagist-plugin\/docspress",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 102712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/docspress.2.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/docspress\/",
+                    "reference": "tags\/2.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/docspress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/docspress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102713,
+                "time": "2018-09-10 11:15:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/docspress.zip?timestamp=1536578135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/docspress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/docspress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

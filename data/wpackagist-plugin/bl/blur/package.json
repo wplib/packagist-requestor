@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blur": {
+            "1.0": {
+                "name": "wpackagist-plugin\/blur",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 46352,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blur.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blur\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blur\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blur",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46353,
+                "time": "2016-08-27 08:28:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blur.zip?timestamp=1472286493"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blur\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blur\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

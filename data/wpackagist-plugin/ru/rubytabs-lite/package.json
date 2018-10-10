@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rubytabs-lite": {
+            "1.031": {
+                "name": "wpackagist-plugin\/rubytabs-lite",
+                "version": "1.031",
+                "version_normalized": "1.031.0.0",
+                "uid": 296804,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rubytabs-lite.1.031.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rubytabs-lite\/",
+                    "reference": "tags\/1.031"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rubytabs-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rubytabs-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 296805,
+                "time": "2016-02-21 10:51:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rubytabs-lite.zip?timestamp=1456051877"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rubytabs-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rubytabs-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

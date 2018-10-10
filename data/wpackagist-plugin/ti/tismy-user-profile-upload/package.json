@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tismy-user-profile-upload": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/tismy-user-profile-upload",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 356041,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tismy-user-profile-upload.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tismy-user-profile-upload\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tismy-user-profile-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tismy-user-profile-upload",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356042,
+                "time": "2016-04-18 21:03:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tismy-user-profile-upload.zip?timestamp=1461013430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tismy-user-profile-upload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tismy-user-profile-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

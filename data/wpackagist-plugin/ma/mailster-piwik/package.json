@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailster-piwik": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mailster-piwik",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 207420,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailster-piwik.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailster-piwik\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailster-piwik\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailster-piwik",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207421,
+                "time": "2017-06-28 20:33:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailster-piwik.zip?timestamp=1498682000"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailster-piwik\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailster-piwik\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

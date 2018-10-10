@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-excerpt-length": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/custom-excerpt-length",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 89382,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-excerpt-length.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-excerpt-length\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-excerpt-length\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-excerpt-length",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 89383,
+                "time": "2017-11-14 20:32:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-excerpt-length.zip?timestamp=1510691534"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-excerpt-length\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-excerpt-length\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

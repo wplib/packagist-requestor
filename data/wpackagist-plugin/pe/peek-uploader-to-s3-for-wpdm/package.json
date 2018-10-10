@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/peek-uploader-to-s3-for-wpdm": {
+            "1.0": {
+                "name": "wpackagist-plugin\/peek-uploader-to-s3-for-wpdm",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 252110,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/peek-uploader-to-s3-for-wpdm.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/peek-uploader-to-s3-for-wpdm\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/peek-uploader-to-s3-for-wpdm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/peek-uploader-to-s3-for-wpdm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 252111,
+                "time": "2017-10-17 08:45:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/peek-uploader-to-s3-for-wpdm.zip?timestamp=1508229912"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/peek-uploader-to-s3-for-wpdm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/peek-uploader-to-s3-for-wpdm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

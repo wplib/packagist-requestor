@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-product-stock-status": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wc-product-stock-status",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 381022,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-product-stock-status.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-product-stock-status\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-stock-status\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-product-stock-status",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 381023,
+                "time": "2017-07-20 07:04:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-product-stock-status.zip?timestamp=1500534293"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-product-stock-status\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-product-stock-status\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

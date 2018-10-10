@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-users-guide": {
+            "1.01": {
+                "name": "wpackagist-plugin\/wp-users-guide",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 437994,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-users-guide.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-users-guide\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-users-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-users-guide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437995,
+                "time": "2016-03-09 06:42:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-users-guide.zip?timestamp=1457505730"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-users-guide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-users-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

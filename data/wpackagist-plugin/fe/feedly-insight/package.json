@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/feedly-insight": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/feedly-insight",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 132124,
+                "time": "2015-04-08 01:44:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feedly-insight.zip?timestamp=1428457488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feedly-insight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feedly-insight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

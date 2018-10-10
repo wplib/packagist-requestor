@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amp-extensions": {
+            "1.1": {
+                "name": "wpackagist-plugin\/amp-extensions",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 21076,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amp-extensions.zip?timestamp=1490286542"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amp-extensions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amp-extensions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amp-extensions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21077,
+                "time": "2017-03-23 16:29:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amp-extensions.zip?timestamp=1490286542"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amp-extensions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amp-extensions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

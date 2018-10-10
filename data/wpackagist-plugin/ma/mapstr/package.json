@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mapstr": {
+            "0.2.0": {
+                "name": "wpackagist-plugin\/mapstr",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 209120,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mapstr.zip?timestamp=1476785228"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mapstr\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mapstr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mapstr",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209121,
+                "time": "2016-10-18 10:07:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mapstr.zip?timestamp=1476785228"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mapstr\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mapstr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

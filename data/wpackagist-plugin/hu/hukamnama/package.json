@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hukamnama": {
+            "0.5": {
+                "name": "wpackagist-plugin\/hukamnama",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 169158,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hukamnama.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hukamnama\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hukamnama\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hukamnama",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169159,
+                "time": "2017-02-22 04:06:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hukamnama.zip?timestamp=1487736365"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hukamnama\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hukamnama\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

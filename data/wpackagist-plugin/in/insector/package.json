@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insector": {
+            "1.0": {
+                "name": "wpackagist-plugin\/insector",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 177364,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insector.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insector\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177365,
+                "time": "2016-12-30 22:18:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insector.zip?timestamp=1483136285"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

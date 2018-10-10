@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whats-new-for-ameba-blog": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/whats-new-for-ameba-blog",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 385055,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whats-new-for-ameba-blog.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whats-new-for-ameba-blog\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whats-new-for-ameba-blog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whats-new-for-ameba-blog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385056,
+                "time": "2018-08-19 04:52:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whats-new-for-ameba-blog.zip?timestamp=1534654356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whats-new-for-ameba-blog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whats-new-for-ameba-blog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

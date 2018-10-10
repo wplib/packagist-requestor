@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/linuxinfo": {
+            "0.8": {
+                "name": "wpackagist-plugin\/linuxinfo",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 199519,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linuxinfo.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linuxinfo\/",
+                    "reference": "tags\/0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linuxinfo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/linuxinfo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199520,
+                "time": "2015-03-23 19:09:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linuxinfo.zip?timestamp=1427137746"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linuxinfo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linuxinfo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

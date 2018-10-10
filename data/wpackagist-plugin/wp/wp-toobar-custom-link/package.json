@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-toobar-custom-link": {
+            "0.1": {
+                "name": "wpackagist-plugin\/wp-toobar-custom-link",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 436537,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-toobar-custom-link.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-toobar-custom-link\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-toobar-custom-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-toobar-custom-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 436538,
+                "time": "2016-01-20 02:38:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-toobar-custom-link.zip?timestamp=1453257512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-toobar-custom-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-toobar-custom-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-and-custom-post-template-addon": {
+            "0.2": {
+                "name": "wpackagist-plugin\/acf-and-custom-post-template-addon",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 4821,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-and-custom-post-template-addon.zip?timestamp=1435966259"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-and-custom-post-template-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-and-custom-post-template-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-and-custom-post-template-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 4822,
+                "time": "2015-07-03 23:30:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-and-custom-post-template-addon.zip?timestamp=1435966259"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-and-custom-post-template-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-and-custom-post-template-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

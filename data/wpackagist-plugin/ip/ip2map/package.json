@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip2map": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ip2map",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 180431,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip2map.zip?timestamp=1496282412"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip2map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip2map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip2map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180432,
+                "time": "2017-06-01 02:00:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip2map.zip?timestamp=1496282412"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip2map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip2map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

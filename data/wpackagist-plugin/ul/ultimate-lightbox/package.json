@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-lightbox": {
+            "0.21": {
+                "name": "wpackagist-plugin\/ultimate-lightbox",
+                "version": "0.21",
+                "version_normalized": "0.21.0.0",
+                "uid": 366010,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-lightbox.zip?timestamp=1521568018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-lightbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-lightbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-lightbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 366011,
+                "time": "2018-03-20 17:46:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-lightbox.zip?timestamp=1521568018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-lightbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-lightbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

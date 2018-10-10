@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ws-sharebar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ws-sharebar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 445043,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-sharebar.zip?timestamp=1503040856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-sharebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-sharebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ws-sharebar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445044,
+                "time": "2017-08-18 07:20:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-sharebar.zip?timestamp=1503040856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-sharebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-sharebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

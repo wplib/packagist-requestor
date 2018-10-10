@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/buddypress-shortcodes": {
+            "1.2": {
+                "name": "wpackagist-plugin\/buddypress-shortcodes",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 55125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddypress-shortcodes.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddypress-shortcodes\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddypress-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/buddypress-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55126,
+                "time": "2015-05-31 09:16:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddypress-shortcodes.zip?timestamp=1433063810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddypress-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddypress-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

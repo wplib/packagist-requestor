@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/internet-time": {
+            "1.1": {
+                "name": "wpackagist-plugin\/internet-time",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 179656,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internet-time.zip?timestamp=1457209584"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internet-time\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internet-time\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/internet-time",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179657,
+                "time": "2016-03-05 20:26:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internet-time.zip?timestamp=1457209584"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internet-time\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internet-time\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

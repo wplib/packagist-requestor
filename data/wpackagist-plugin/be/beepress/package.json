@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beepress": {
+            "5.6.0": {
+                "name": "wpackagist-plugin\/beepress",
+                "version": "5.6.0",
+                "version_normalized": "5.6.0.0",
+                "uid": 38832,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beepress.zip?timestamp=1538032869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beepress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38833,
+                "time": "2018-09-27 07:21:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beepress.zip?timestamp=1538032869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

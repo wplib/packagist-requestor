@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hypotext": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hypotext",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 169782,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hypotext.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hypotext\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hypotext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/hypotext",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 169783,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hypotext.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hypotext\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hypotext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hypotext",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169784,
+                "time": "2015-08-05 04:31:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hypotext.zip?timestamp=1438749092"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hypotext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hypotext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

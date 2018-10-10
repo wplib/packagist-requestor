@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/domain-sharding": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/domain-sharding",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 103265,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/domain-sharding.zip?timestamp=1520203704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/domain-sharding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/domain-sharding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/domain-sharding",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103266,
+                "time": "2018-03-04 22:48:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/domain-sharding.zip?timestamp=1520203704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/domain-sharding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/domain-sharding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cioc-volunteer-opportunity-feeds": {
+            "1.1": {
+                "name": "wpackagist-plugin\/cioc-volunteer-opportunity-feeds",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 68687,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cioc-volunteer-opportunity-feeds.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cioc-volunteer-opportunity-feeds\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cioc-volunteer-opportunity-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cioc-volunteer-opportunity-feeds",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 68688,
+                "time": "2018-03-02 15:51:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cioc-volunteer-opportunity-feeds.zip?timestamp=1520005917"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cioc-volunteer-opportunity-feeds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cioc-volunteer-opportunity-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tweak-hidden-options": {
+            "1.01": {
+                "name": "wpackagist-plugin\/tweak-hidden-options",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 361340,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tweak-hidden-options.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tweak-hidden-options\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tweak-hidden-options\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tweak-hidden-options",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 361341,
+                "time": "2016-02-05 23:16:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tweak-hidden-options.zip?timestamp=1454714218"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tweak-hidden-options\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tweak-hidden-options\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/business-pack": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/business-pack",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 57090,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/business-pack.zip?timestamp=1496898886"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/business-pack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/business-pack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/business-pack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 57091,
+                "time": "2017-06-08 05:14:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/business-pack.zip?timestamp=1496898886"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/business-pack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/business-pack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

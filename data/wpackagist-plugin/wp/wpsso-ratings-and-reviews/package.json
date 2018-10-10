@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-ratings-and-reviews": {
+            "1.4.0": {
+                "name": "wpackagist-plugin\/wpsso-ratings-and-reviews",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "uid": 443754,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-ratings-and-reviews.1.4.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-ratings-and-reviews\/",
+                    "reference": "tags\/1.4.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-ratings-and-reviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-ratings-and-reviews",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443755,
+                "time": "2018-10-06 17:04:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-ratings-and-reviews.zip?timestamp=1538845453"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-ratings-and-reviews\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-ratings-and-reviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

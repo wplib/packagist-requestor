@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pw-woocommerce-affiliates": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pw-woocommerce-affiliates",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 274521,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pw-woocommerce-affiliates.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pw-woocommerce-affiliates\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pw-woocommerce-affiliates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pw-woocommerce-affiliates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274522,
+                "time": "2018-09-13 16:28:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pw-woocommerce-affiliates.zip?timestamp=1536856108"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pw-woocommerce-affiliates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pw-woocommerce-affiliates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/codeblocks": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/codeblocks",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 72856,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codeblocks.zip?timestamp=1422115119"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codeblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codeblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/codeblocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72857,
+                "time": "2015-01-24 15:58:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codeblocks.zip?timestamp=1422115119"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codeblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codeblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/art-decoration-shortcode": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/art-decoration-shortcode",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 26678,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/art-decoration-shortcode.1.5.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/art-decoration-shortcode\/",
+                    "reference": "tags\/1.5.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/art-decoration-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/art-decoration-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26679,
+                "time": "2018-10-10 00:06:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/art-decoration-shortcode.zip?timestamp=1539129998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/art-decoration-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/art-decoration-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

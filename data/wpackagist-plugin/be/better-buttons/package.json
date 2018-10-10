@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-buttons": {
+            "1.0": {
+                "name": "wpackagist-plugin\/better-buttons",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 40111,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-buttons.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-buttons\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-buttons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-buttons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40112,
+                "time": "2018-02-25 09:46:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-buttons.zip?timestamp=1519551964"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-buttons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-buttons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

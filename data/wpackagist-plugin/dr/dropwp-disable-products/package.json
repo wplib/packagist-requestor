@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dropwp-disable-products": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/dropwp-disable-products",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 105205,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dropwp-disable-products.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dropwp-disable-products\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dropwp-disable-products\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dropwp-disable-products",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105206,
+                "time": "2016-10-08 15:12:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dropwp-disable-products.zip?timestamp=1475939528"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dropwp-disable-products\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dropwp-disable-products\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-shorties": {
+            "2.95": {
+                "name": "wpackagist-plugin\/wp-shorties",
+                "version": "2.95",
+                "version_normalized": "2.95.0.0",
+                "uid": 431433,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-shorties.2.95.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-shorties\/",
+                    "reference": "tags\/2.95"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-shorties\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.0": {
+                "name": "wpackagist-plugin\/wp-shorties",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 431434,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-shorties.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-shorties\/",
+                    "reference": "tags\/3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-shorties\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-shorties",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 431435,
+                "time": "2016-11-15 05:44:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-shorties.zip?timestamp=1479188687"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-shorties\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-shorties\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

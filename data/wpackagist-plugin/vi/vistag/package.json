@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vistag": {
+            "1.2": {
+                "name": "wpackagist-plugin\/vistag",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 376952,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vistag.zip?timestamp=1513264587"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vistag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vistag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vistag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376953,
+                "time": "2017-12-14 15:16:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vistag.zip?timestamp=1513264587"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vistag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vistag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

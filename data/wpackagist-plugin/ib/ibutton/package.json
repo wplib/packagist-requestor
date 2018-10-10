@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ibutton": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ibutton",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 170593,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ibutton.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ibutton\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ibutton\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ibutton",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 170594,
+                "time": "2015-11-25 17:07:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ibutton.zip?timestamp=1448471220"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ibutton\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ibutton\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

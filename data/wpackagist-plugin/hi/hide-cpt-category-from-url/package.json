@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hide-cpt-category-from-url": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/hide-cpt-category-from-url",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 165320,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-cpt-category-from-url.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-cpt-category-from-url\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-cpt-category-from-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hide-cpt-category-from-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165321,
+                "time": "2018-07-11 09:47:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-cpt-category-from-url.zip?timestamp=1531302472"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-cpt-category-from-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-cpt-category-from-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

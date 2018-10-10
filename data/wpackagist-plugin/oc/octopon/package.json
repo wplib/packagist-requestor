@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/octopon": {
+            "1.0": {
+                "name": "wpackagist-plugin\/octopon",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 239596,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/octopon.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/octopon\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/octopon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/octopon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239597,
+                "time": "2018-06-15 17:36:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/octopon.zip?timestamp=1529084165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/octopon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/octopon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

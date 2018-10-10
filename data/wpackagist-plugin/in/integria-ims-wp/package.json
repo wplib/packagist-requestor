@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/integria-ims-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/integria-ims-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179105,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integria-ims-wp.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integria-ims-wp\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integria-ims-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/integria-ims-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179106,
+                "time": "2017-02-14 14:20:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integria-ims-wp.zip?timestamp=1487082002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integria-ims-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integria-ims-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

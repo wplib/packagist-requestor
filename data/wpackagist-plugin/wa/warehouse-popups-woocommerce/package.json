@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/warehouse-popups-woocommerce": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/warehouse-popups-woocommerce",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 379601,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/warehouse-popups-woocommerce.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/warehouse-popups-woocommerce\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/warehouse-popups-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/warehouse-popups-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379602,
+                "time": "2018-08-30 19:16:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/warehouse-popups-woocommerce.zip?timestamp=1535656560"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/warehouse-popups-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/warehouse-popups-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

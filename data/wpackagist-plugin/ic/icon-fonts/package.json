@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/icon-fonts": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/icon-fonts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 171028,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/icon-fonts.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/icon-fonts\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/icon-fonts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/icon-fonts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171029,
+                "time": "2015-06-13 00:37:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/icon-fonts.zip?timestamp=1434155874"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/icon-fonts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/icon-fonts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

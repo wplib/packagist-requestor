@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-autosave": {
+            "1.0": {
+                "name": "wpackagist-plugin\/disable-autosave",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100106,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-autosave.zip?timestamp=1503830921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-autosave\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-autosave\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-autosave",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100107,
+                "time": "2017-08-27 10:48:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-autosave.zip?timestamp=1503830921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-autosave\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-autosave\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

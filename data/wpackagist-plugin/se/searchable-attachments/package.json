@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/searchable-attachments": {
+            "0.2": {
+                "name": "wpackagist-plugin\/searchable-attachments",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 302258,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/searchable-attachments.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/searchable-attachments\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/searchable-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/searchable-attachments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302259,
+                "time": "2016-01-03 03:25:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/searchable-attachments.zip?timestamp=1451791551"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/searchable-attachments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/searchable-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

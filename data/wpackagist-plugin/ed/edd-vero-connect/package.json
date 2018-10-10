@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-vero-connect": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/edd-vero-connect",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 113844,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-vero-connect.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-vero-connect\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-vero-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-vero-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113845,
+                "time": "2016-05-06 23:58:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-vero-connect.zip?timestamp=1462579115"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-vero-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-vero-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

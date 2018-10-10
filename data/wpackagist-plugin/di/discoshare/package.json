@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/discoshare": {
+            "1.0": {
+                "name": "wpackagist-plugin\/discoshare",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100815,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/discoshare.zip?timestamp=1456816333"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/discoshare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/discoshare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/discoshare",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100816,
+                "time": "2016-03-01 07:12:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/discoshare.zip?timestamp=1456816333"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/discoshare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/discoshare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

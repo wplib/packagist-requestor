@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lazyload-post-gallery": {
+            "0.1": {
+                "name": "wpackagist-plugin\/lazyload-post-gallery",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 194056,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lazyload-post-gallery.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lazyload-post-gallery\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lazyload-post-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lazyload-post-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194057,
+                "time": "2017-05-02 06:23:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lazyload-post-gallery.zip?timestamp=1493706202"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lazyload-post-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lazyload-post-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

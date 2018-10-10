@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advanced-options-editor": {
+            "1.0": {
+                "name": "wpackagist-plugin\/advanced-options-editor",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 12658,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-options-editor.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-options-editor\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-options-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advanced-options-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 12659,
+                "time": "2017-07-26 23:24:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-options-editor.zip?timestamp=1501111499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-options-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-options-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

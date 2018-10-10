@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/display-yandex-zen-postgrid": {
+            "0.1": {
+                "name": "wpackagist-plugin\/display-yandex-zen-postgrid",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 101509,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/display-yandex-zen-postgrid.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/display-yandex-zen-postgrid\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/display-yandex-zen-postgrid\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/display-yandex-zen-postgrid",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101510,
+                "time": "2018-06-21 12:25:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/display-yandex-zen-postgrid.zip?timestamp=1529583945"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/display-yandex-zen-postgrid\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/display-yandex-zen-postgrid\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

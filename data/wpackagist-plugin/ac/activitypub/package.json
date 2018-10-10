@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/activitypub": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/activitypub",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 5996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/activitypub.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/activitypub\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/activitypub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/activitypub",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5997,
+                "time": "2018-09-24 19:21:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/activitypub.zip?timestamp=1537816899"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/activitypub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/activitypub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/surbma-gdpr-proof-gravity-forms": {
+            "2.1": {
+                "name": "wpackagist-plugin\/surbma-gdpr-proof-gravity-forms",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 342676,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-gdpr-proof-gravity-forms.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-gdpr-proof-gravity-forms\/",
+                    "reference": "tags\/2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-gdpr-proof-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/surbma-gdpr-proof-gravity-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342677,
+                "time": "2018-05-14 22:33:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-gdpr-proof-gravity-forms.zip?timestamp=1526337203"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-gdpr-proof-gravity-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-gdpr-proof-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

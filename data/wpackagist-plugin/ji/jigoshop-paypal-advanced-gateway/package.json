@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jigoshop-paypal-advanced-gateway": {
+            "3.3": {
+                "name": "wpackagist-plugin\/jigoshop-paypal-advanced-gateway",
+                "version": "3.3",
+                "version_normalized": "3.3.0.0",
+                "uid": 183792,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jigoshop-paypal-advanced-gateway.3.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jigoshop-paypal-advanced-gateway\/",
+                    "reference": "tags\/3.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jigoshop-paypal-advanced-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jigoshop-paypal-advanced-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183793,
+                "time": "2018-01-02 15:00:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jigoshop-paypal-advanced-gateway.zip?timestamp=1514905229"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jigoshop-paypal-advanced-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jigoshop-paypal-advanced-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

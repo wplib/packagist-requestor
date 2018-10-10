@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cascade-delete-media": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/cascade-delete-media",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 61424,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cascade-delete-media.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cascade-delete-media\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cascade-delete-media\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cascade-delete-media",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61425,
+                "time": "2015-04-23 06:05:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cascade-delete-media.zip?timestamp=1429769127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cascade-delete-media\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cascade-delete-media\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

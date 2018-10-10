@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/order-thumbnail-for-woocommerce": {
+            "1.0": {
+                "name": "wpackagist-plugin\/order-thumbnail-for-woocommerce",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 244760,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/order-thumbnail-for-woocommerce.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/order-thumbnail-for-woocommerce\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/order-thumbnail-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/order-thumbnail-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 244761,
+                "time": "2017-10-10 10:06:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/order-thumbnail-for-woocommerce.zip?timestamp=1507629989"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/order-thumbnail-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/order-thumbnail-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

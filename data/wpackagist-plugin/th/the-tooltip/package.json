@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/the-tooltip": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/the-tooltip",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 351490,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-tooltip.zip?timestamp=1471736569"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-tooltip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-tooltip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/the-tooltip",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 351491,
+                "time": "2016-08-20 23:42:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-tooltip.zip?timestamp=1471736569"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-tooltip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-tooltip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

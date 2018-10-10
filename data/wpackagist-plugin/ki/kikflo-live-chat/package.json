@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kikflo-live-chat": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/kikflo-live-chat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 189613,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kikflo-live-chat.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kikflo-live-chat\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kikflo-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kikflo-live-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 189614,
+                "time": "2016-04-11 20:56:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kikflo-live-chat.zip?timestamp=1460408200"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kikflo-live-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kikflo-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

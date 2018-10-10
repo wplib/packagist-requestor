@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bridgedd": {
+            "1.4.1.5": {
+                "name": "wpackagist-plugin\/bridgedd",
+                "version": "1.4.1.5",
+                "version_normalized": "1.4.1.5",
+                "uid": 52069,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bridgedd.zip?timestamp=1533936391"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bridgedd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bridgedd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bridgedd",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 52070,
+                "time": "2018-08-10 21:26:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bridgedd.zip?timestamp=1533936391"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bridgedd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bridgedd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mail-debug-for-woocommerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/mail-debug-for-woocommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 206321,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-debug-for-woocommerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-debug-for-woocommerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-debug-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mail-debug-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206322,
+                "time": "2018-06-23 10:40:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-debug-for-woocommerce.zip?timestamp=1529750418"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-debug-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-debug-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

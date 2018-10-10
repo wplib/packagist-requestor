@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/syrup": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/syrup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 344562,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syrup.zip?timestamp=1483966640"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syrup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syrup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/syrup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344563,
+                "time": "2017-01-09 12:57:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syrup.zip?timestamp=1483966640"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syrup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syrup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

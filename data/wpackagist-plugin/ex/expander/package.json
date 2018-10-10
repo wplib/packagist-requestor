@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/expander": {
+            "0.3.3": {
+                "name": "wpackagist-plugin\/expander",
+                "version": "0.3.3",
+                "version_normalized": "0.3.3.0",
+                "uid": 125107,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expander.zip?timestamp=1471605094"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expander\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/expander",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 125108,
+                "time": "2016-08-19 11:11:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expander.zip?timestamp=1471605094"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expander\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

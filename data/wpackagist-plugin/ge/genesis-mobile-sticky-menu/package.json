@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/genesis-mobile-sticky-menu": {
+            "1.2": {
+                "name": "wpackagist-plugin\/genesis-mobile-sticky-menu",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 149063,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/genesis-mobile-sticky-menu.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/genesis-mobile-sticky-menu\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/genesis-mobile-sticky-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/genesis-mobile-sticky-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 149064,
+                "time": "2015-04-16 17:14:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/genesis-mobile-sticky-menu.zip?timestamp=1429204469"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/genesis-mobile-sticky-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/genesis-mobile-sticky-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

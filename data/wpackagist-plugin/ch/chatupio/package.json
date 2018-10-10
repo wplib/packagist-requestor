@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatupio": {
+            "1.1": {
+                "name": "wpackagist-plugin\/chatupio",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 66583,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatupio.zip?timestamp=1423766156"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatupio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatupio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatupio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66584,
+                "time": "2015-02-12 18:35:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatupio.zip?timestamp=1423766156"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatupio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatupio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

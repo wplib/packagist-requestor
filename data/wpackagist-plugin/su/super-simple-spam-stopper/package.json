@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/super-simple-spam-stopper": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/super-simple-spam-stopper",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 341780,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-simple-spam-stopper.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-simple-spam-stopper\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-simple-spam-stopper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/super-simple-spam-stopper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341781,
+                "time": "2016-01-02 17:13:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-simple-spam-stopper.zip?timestamp=1451754803"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-simple-spam-stopper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-simple-spam-stopper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ps-add-to-social-bookmarking": {
+            "1.4": {
+                "name": "wpackagist-plugin\/ps-add-to-social-bookmarking",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 272711,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ps-add-to-social-bookmarking.1.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ps-add-to-social-bookmarking\/",
+                    "reference": "tags\/1.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ps-add-to-social-bookmarking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ps-add-to-social-bookmarking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 272712,
+                "time": "2016-02-23 18:10:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ps-add-to-social-bookmarking.zip?timestamp=1456251005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ps-add-to-social-bookmarking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ps-add-to-social-bookmarking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

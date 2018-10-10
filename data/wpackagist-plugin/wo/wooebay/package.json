@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wooebay": {
+            "1.00": {
+                "name": "wpackagist-plugin\/wooebay",
+                "version": "1.00",
+                "version_normalized": "1.00.0.0",
+                "uid": 399786,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wooebay.1.00.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wooebay\/",
+                    "reference": "tags\/1.00"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wooebay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wooebay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399787,
+                "time": "2018-02-06 09:16:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wooebay.zip?timestamp=1517908578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wooebay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wooebay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

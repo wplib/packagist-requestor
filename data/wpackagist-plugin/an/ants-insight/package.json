@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ants-insight": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ants-insight",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 23319,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ants-insight.zip?timestamp=1467857999"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ants-insight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ants-insight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ants-insight",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23320,
+                "time": "2016-07-07 02:19:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ants-insight.zip?timestamp=1467857999"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ants-insight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ants-insight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/job-listings-bookmark": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/job-listings-bookmark",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 184386,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings-bookmark.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings-bookmark\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings-bookmark\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/job-listings-bookmark",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184387,
+                "time": "2017-05-29 04:01:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings-bookmark.zip?timestamp=1496030508"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings-bookmark\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings-bookmark\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

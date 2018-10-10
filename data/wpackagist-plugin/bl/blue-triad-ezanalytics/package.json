@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blue-triad-ezanalytics": {
+            "1.0": {
+                "name": "wpackagist-plugin\/blue-triad-ezanalytics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 46019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blue-triad-ezanalytics.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blue-triad-ezanalytics\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blue-triad-ezanalytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blue-triad-ezanalytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46020,
+                "time": "2018-07-03 20:24:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blue-triad-ezanalytics.zip?timestamp=1530649493"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blue-triad-ezanalytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blue-triad-ezanalytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

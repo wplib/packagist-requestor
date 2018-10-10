@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asciify": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/asciify",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27259,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciify.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciify\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asciify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27260,
+                "time": "2018-04-09 09:06:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciify.zip?timestamp=1523264804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

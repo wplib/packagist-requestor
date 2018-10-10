@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/encryption-tools-generator": {
+            "0.1": {
+                "name": "wpackagist-plugin\/encryption-tools-generator",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 119505,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/encryption-tools-generator.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/encryption-tools-generator\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/encryption-tools-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/encryption-tools-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 119506,
+                "time": "2015-05-09 09:24:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/encryption-tools-generator.zip?timestamp=1431163481"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/encryption-tools-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/encryption-tools-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bluecube-email-templates": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bluecube-email-templates",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 46094,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bluecube-email-templates.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bluecube-email-templates\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bluecube-email-templates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bluecube-email-templates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46095,
+                "time": "2016-10-11 13:55:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bluecube-email-templates.zip?timestamp=1476194127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bluecube-email-templates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bluecube-email-templates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

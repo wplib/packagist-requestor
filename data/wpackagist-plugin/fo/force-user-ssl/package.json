@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/force-user-ssl": {
+            "1.0": {
+                "name": "wpackagist-plugin\/force-user-ssl",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 139731,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-user-ssl.zip?timestamp=1499933485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-user-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-user-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/force-user-ssl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139732,
+                "time": "2017-07-13 08:11:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-user-ssl.zip?timestamp=1499933485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-user-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-user-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

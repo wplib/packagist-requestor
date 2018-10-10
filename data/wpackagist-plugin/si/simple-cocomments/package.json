@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-cocomments": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/simple-cocomments",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 313486,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-cocomments.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-cocomments\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-cocomments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-cocomments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 313487,
+                "time": "2018-03-11 11:48:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-cocomments.zip?timestamp=1520768930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-cocomments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-cocomments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

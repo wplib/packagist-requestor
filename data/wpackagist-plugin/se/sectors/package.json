@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sectors": {
+            "1.1": {
+                "name": "wpackagist-plugin\/sectors",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 302507,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sectors.zip?timestamp=1519435370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sectors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sectors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sectors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302508,
+                "time": "2018-02-24 01:22:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sectors.zip?timestamp=1519435370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sectors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sectors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

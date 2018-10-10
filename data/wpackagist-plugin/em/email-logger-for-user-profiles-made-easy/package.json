@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/email-logger-for-user-profiles-made-easy": {
+            "1.0": {
+                "name": "wpackagist-plugin\/email-logger-for-user-profiles-made-easy",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 117440,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-logger-for-user-profiles-made-easy.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-logger-for-user-profiles-made-easy\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-logger-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/email-logger-for-user-profiles-made-easy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 117441,
+                "time": "2017-04-19 05:29:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-logger-for-user-profiles-made-easy.zip?timestamp=1492579765"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-logger-for-user-profiles-made-easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-logger-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/capitalize-text-input": {
+            "0.1": {
+                "name": "wpackagist-plugin\/capitalize-text-input",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 60033,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/capitalize-text-input.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/capitalize-text-input\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/capitalize-text-input\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/capitalize-text-input",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 60034,
+                "time": "2018-04-11 15:12:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/capitalize-text-input.zip?timestamp=1523459536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/capitalize-text-input\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/capitalize-text-input\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

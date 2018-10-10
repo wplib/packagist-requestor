@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miso": {
+            "0.2": {
+                "name": "wpackagist-plugin\/miso",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 218795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miso.zip?timestamp=1523943801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miso\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miso\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miso",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218796,
+                "time": "2018-04-17 05:43:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miso.zip?timestamp=1523943801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miso\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miso\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kento-notify": {
+            "1.0": {
+                "name": "wpackagist-plugin\/kento-notify",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 188908,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kento-notify.zip?timestamp=1433827638"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kento-notify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kento-notify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kento-notify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 188909,
+                "time": "2015-06-09 05:27:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kento-notify.zip?timestamp=1433827638"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kento-notify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kento-notify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

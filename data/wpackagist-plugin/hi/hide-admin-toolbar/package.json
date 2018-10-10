@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hide-admin-toolbar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hide-admin-toolbar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 165259,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-admin-toolbar.zip?timestamp=1516774234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-admin-toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-admin-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hide-admin-toolbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165260,
+                "time": "2018-01-24 06:10:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-admin-toolbar.zip?timestamp=1516774234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-admin-toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-admin-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/snoost-twitch-game-streams": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/snoost-twitch-game-streams",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 326827,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/snoost-twitch-game-streams.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/snoost-twitch-game-streams\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/snoost-twitch-game-streams\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/snoost-twitch-game-streams",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 326828,
+                "time": "2017-07-10 06:32:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/snoost-twitch-game-streams.zip?timestamp=1499668323"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/snoost-twitch-game-streams\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/snoost-twitch-game-streams\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

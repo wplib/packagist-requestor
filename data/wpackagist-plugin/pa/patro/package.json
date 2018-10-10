@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/patro": {
+            "1.4": {
+                "name": "wpackagist-plugin\/patro",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 250179,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/patro.zip?timestamp=1500376579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/patro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/patro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/patro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250180,
+                "time": "2017-07-18 11:16:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/patro.zip?timestamp=1500376579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/patro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/patro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

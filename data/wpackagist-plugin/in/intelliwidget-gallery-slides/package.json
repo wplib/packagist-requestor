@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/intelliwidget-gallery-slides": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/intelliwidget-gallery-slides",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179186,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intelliwidget-gallery-slides.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intelliwidget-gallery-slides\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intelliwidget-gallery-slides\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/intelliwidget-gallery-slides",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179187,
+                "time": "2015-04-21 00:18:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intelliwidget-gallery-slides.zip?timestamp=1429575504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intelliwidget-gallery-slides\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intelliwidget-gallery-slides\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

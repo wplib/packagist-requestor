@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-disable-attachment-pages": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/wp-disable-attachment-pages",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 412532,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-disable-attachment-pages.zip?timestamp=1528131979"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-disable-attachment-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-disable-attachment-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-disable-attachment-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 412533,
+                "time": "2018-06-04 17:06:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-disable-attachment-pages.zip?timestamp=1528131979"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-disable-attachment-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-disable-attachment-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

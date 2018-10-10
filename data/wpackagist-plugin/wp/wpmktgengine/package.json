@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpmktgengine": {
+            "3.6.5": {
+                "name": "wpackagist-plugin\/wpmktgengine",
+                "version": "3.6.5",
+                "version_normalized": "3.6.5.0",
+                "uid": 442301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmktgengine.zip?timestamp=1538367550"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmktgengine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmktgengine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpmktgengine",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442302,
+                "time": "2018-10-01 04:19:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmktgengine.zip?timestamp=1538367550"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmktgengine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmktgengine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/paybright": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/paybright",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 250399,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paybright.zip?timestamp=1533145966"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paybright\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paybright\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/paybright",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250400,
+                "time": "2018-08-01 17:52:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paybright.zip?timestamp=1533145966"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paybright\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paybright\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

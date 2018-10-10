@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-user-registration": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/disable-user-registration",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 100600,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-user-registration.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-user-registration\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-user-registration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-user-registration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100601,
+                "time": "2017-01-07 04:16:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-user-registration.zip?timestamp=1483762585"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-user-registration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-user-registration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

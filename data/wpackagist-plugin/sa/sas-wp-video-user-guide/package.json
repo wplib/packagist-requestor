@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sas-wp-video-user-guide": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sas-wp-video-user-guide",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 299308,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sas-wp-video-user-guide.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sas-wp-video-user-guide\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sas-wp-video-user-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sas-wp-video-user-guide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299309,
+                "time": "2016-03-08 17:01:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sas-wp-video-user-guide.zip?timestamp=1457456503"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sas-wp-video-user-guide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sas-wp-video-user-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

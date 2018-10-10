@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/i-am": {
+            "2.97": {
+                "name": "wpackagist-plugin\/i-am",
+                "version": "2.97",
+                "version_normalized": "2.97.0.0",
+                "uid": 169808,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am.zip?timestamp=1450304265"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/i-am",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169809,
+                "time": "2015-12-16 22:17:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am.zip?timestamp=1450304265"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

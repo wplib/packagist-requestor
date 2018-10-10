@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/infinite-scroll-from-jetpack": {
+            "0.3": {
+                "name": "wpackagist-plugin\/infinite-scroll-from-jetpack",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 176206,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infinite-scroll-from-jetpack.zip?timestamp=1430819798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infinite-scroll-from-jetpack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infinite-scroll-from-jetpack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/infinite-scroll-from-jetpack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 176207,
+                "time": "2015-05-05 09:56:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infinite-scroll-from-jetpack.zip?timestamp=1430819798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infinite-scroll-from-jetpack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infinite-scroll-from-jetpack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weichuncai": {
+            "1.5": {
+                "name": "wpackagist-plugin\/weichuncai",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 384182,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weichuncai.zip?timestamp=1517294985"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weichuncai\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weichuncai\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weichuncai",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384183,
+                "time": "2018-01-30 06:49:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weichuncai.zip?timestamp=1517294985"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weichuncai\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weichuncai\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

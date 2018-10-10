@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crisp-gallery": {
+            "1.0": {
+                "name": "wpackagist-plugin\/crisp-gallery",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 86117,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crisp-gallery.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crisp-gallery\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crisp-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crisp-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86118,
+                "time": "2017-08-26 16:29:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crisp-gallery.zip?timestamp=1503764980"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crisp-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crisp-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

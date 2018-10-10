@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/knovio-knowledgevision-embed": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/knovio-knowledgevision-embed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 190765,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/knovio-knowledgevision-embed.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/knovio-knowledgevision-embed\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/knovio-knowledgevision-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/knovio-knowledgevision-embed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190766,
+                "time": "2016-01-29 15:36:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/knovio-knowledgevision-embed.zip?timestamp=1454081792"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/knovio-knowledgevision-embed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/knovio-knowledgevision-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

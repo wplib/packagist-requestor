@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fullestop-lock-down-admin": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fullestop-lock-down-admin",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 144426,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullestop-lock-down-admin.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullestop-lock-down-admin\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullestop-lock-down-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fullestop-lock-down-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144427,
+                "time": "2016-11-25 09:42:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullestop-lock-down-admin.zip?timestamp=1480066942"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullestop-lock-down-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullestop-lock-down-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

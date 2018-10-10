@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-ad-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/easy-ad-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 107650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-ad-manager.zip?timestamp=1531853903"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-ad-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-ad-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-ad-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107651,
+                "time": "2018-07-17 18:58:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-ad-manager.zip?timestamp=1531853903"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-ad-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-ad-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

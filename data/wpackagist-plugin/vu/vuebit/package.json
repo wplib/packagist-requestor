@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vuebit": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/vuebit",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 378560,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vuebit.zip?timestamp=1521572501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vuebit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vuebit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vuebit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 378561,
+                "time": "2018-03-20 19:01:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vuebit.zip?timestamp=1521572501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vuebit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vuebit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

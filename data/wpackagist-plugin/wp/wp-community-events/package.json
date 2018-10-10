@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-community-events": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-community-events",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 410500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-community-events.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-community-events\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-community-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/wp-community-events",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 410501,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-community-events.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-community-events\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-community-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-community-events",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 410502,
+                "time": "2017-07-11 06:30:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-community-events.zip?timestamp=1499754644"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-community-events\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-community-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

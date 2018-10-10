@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-snapshots": {
+            "0.9": {
+                "name": "wpackagist-plugin\/post-snapshots",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 264458,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-snapshots.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-snapshots\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-snapshots\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-snapshots",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 264459,
+                "time": "2018-08-14 17:21:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-snapshots.zip?timestamp=1534267312"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-snapshots\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-snapshots\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

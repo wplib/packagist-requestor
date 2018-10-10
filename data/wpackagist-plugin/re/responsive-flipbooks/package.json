@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/responsive-flipbooks": {
+            "1.0": {
+                "name": "wpackagist-plugin\/responsive-flipbooks",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 289328,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-flipbooks.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-flipbooks\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-flipbooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/responsive-flipbooks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 289329,
+                "time": "2017-10-17 10:56:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-flipbooks.zip?timestamp=1508237765"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-flipbooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-flipbooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

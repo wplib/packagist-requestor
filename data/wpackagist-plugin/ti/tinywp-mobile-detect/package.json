@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tinywp-mobile-detect": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tinywp-mobile-detect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 355773,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tinywp-mobile-detect.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tinywp-mobile-detect\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tinywp-mobile-detect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tinywp-mobile-detect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 355774,
+                "time": "2017-12-10 15:23:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tinywp-mobile-detect.zip?timestamp=1512919427"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tinywp-mobile-detect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tinywp-mobile-detect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

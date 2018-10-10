@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/uninstall": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/uninstall",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 368272,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uninstall.zip?timestamp=1480532048"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uninstall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uninstall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/uninstall",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368273,
+                "time": "2016-11-30 18:54:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uninstall.zip?timestamp=1480532048"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uninstall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uninstall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

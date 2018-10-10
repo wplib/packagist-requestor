@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/password-vault": {
+            "1.8.3": {
+                "name": "wpackagist-plugin\/password-vault",
+                "version": "1.8.3",
+                "version_normalized": "1.8.3.0",
+                "uid": 250022,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/password-vault.zip?timestamp=1522820764"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/password-vault\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/password-vault\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/password-vault",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250023,
+                "time": "2018-04-04 05:46:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/password-vault.zip?timestamp=1522820764"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/password-vault\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/password-vault\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

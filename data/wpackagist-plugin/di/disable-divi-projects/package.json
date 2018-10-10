@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-divi-projects": {
+            "2.0": {
+                "name": "wpackagist-plugin\/disable-divi-projects",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 100239,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-divi-projects.zip?timestamp=1465677629"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-divi-projects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-divi-projects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-divi-projects",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100240,
+                "time": "2016-06-11 20:40:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-divi-projects.zip?timestamp=1465677629"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-divi-projects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-divi-projects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

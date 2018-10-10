@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/search-order-by-product-sku-for-woocommerce": {
+            "0.1": {
+                "name": "wpackagist-plugin\/search-order-by-product-sku-for-woocommerce",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 302125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-order-by-product-sku-for-woocommerce.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-order-by-product-sku-for-woocommerce\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-order-by-product-sku-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/search-order-by-product-sku-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302126,
+                "time": "2018-10-04 18:27:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-order-by-product-sku-for-woocommerce.zip?timestamp=1538677669"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-order-by-product-sku-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-order-by-product-sku-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

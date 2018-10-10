@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nopin": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/nopin",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 236877,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nopin.zip?timestamp=1505877740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nopin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nopin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nopin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 236878,
+                "time": "2017-09-20 03:22:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nopin.zip?timestamp=1505877740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nopin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nopin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

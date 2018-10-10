@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-wp-dashboard": {
+            "0.1": {
+                "name": "wpackagist-plugin\/easy-wp-dashboard",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 111214,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-wp-dashboard.zip?timestamp=1472716869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-wp-dashboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-wp-dashboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-wp-dashboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 111215,
+                "time": "2016-09-01 08:01:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-wp-dashboard.zip?timestamp=1472716869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-wp-dashboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-wp-dashboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "wpackagist-theme\/bistro": {
+            "1.0": {
+                "name": "wpackagist-theme\/bistro",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 42119,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/theme\/bistro.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/themes.svn.wordpress.org\/bistro\/",
+                    "reference": "1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/themes\/bistro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-theme"
+            }
+        }
+    }
+}

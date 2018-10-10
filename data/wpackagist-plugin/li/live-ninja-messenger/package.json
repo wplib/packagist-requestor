@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-ninja-messenger": {
+            "0.0.2": {
+                "name": "wpackagist-plugin\/live-ninja-messenger",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "uid": 200983,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-ninja-messenger.zip?timestamp=1475161858"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-ninja-messenger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-ninja-messenger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-ninja-messenger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200984,
+                "time": "2016-09-29 15:10:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-ninja-messenger.zip?timestamp=1475161858"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-ninja-messenger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-ninja-messenger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

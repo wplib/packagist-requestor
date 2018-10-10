@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ct-page-editors": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/ct-page-editors",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 87488,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ct-page-editors.zip?timestamp=1428942625"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ct-page-editors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ct-page-editors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ct-page-editors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87489,
+                "time": "2015-04-13 16:30:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ct-page-editors.zip?timestamp=1428942625"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ct-page-editors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ct-page-editors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

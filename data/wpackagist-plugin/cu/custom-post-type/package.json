@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-post-type": {
+            "1.0": {
+                "name": "wpackagist-plugin\/custom-post-type",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 90537,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-post-type.zip?timestamp=1473054990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-post-type\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-post-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-post-type",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 90538,
+                "time": "2016-09-05 05:56:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-post-type.zip?timestamp=1473054990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-post-type\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-post-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ad-manage": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ad-manage",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 6475,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-manage.zip?timestamp=1486720960"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-manage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-manage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ad-manage",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6476,
+                "time": "2017-02-10 10:02:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-manage.zip?timestamp=1486720960"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-manage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-manage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/awesome-studio": {
+            "2.4.3": {
+                "name": "wpackagist-plugin\/awesome-studio",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "uid": 33169,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-studio.zip?timestamp=1522992976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-studio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-studio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/awesome-studio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 33170,
+                "time": "2018-04-06 05:36:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-studio.zip?timestamp=1522992976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-studio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-studio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

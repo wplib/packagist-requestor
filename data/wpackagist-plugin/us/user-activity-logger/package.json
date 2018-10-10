@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-activity-logger": {
+            "0.0.2": {
+                "name": "wpackagist-plugin\/user-activity-logger",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "uid": 370654,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-activity-logger.0.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-activity-logger\/",
+                    "reference": "tags\/0.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-activity-logger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-activity-logger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370655,
+                "time": "2017-12-05 03:15:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-activity-logger.zip?timestamp=1512443706"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-activity-logger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-activity-logger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

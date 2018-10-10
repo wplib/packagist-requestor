@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subscribe-bar-youtube": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/subscribe-bar-youtube",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339859,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscribe-bar-youtube.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscribe-bar-youtube\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscribe-bar-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subscribe-bar-youtube",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339860,
+                "time": "2018-02-21 04:47:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscribe-bar-youtube.zip?timestamp=1519188427"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscribe-bar-youtube\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscribe-bar-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gs-pinterest-portfolio": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gs-pinterest-portfolio",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 160875,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gs-pinterest-portfolio.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gs-pinterest-portfolio\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gs-pinterest-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gs-pinterest-portfolio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160876,
+                "time": "2018-05-21 10:17:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gs-pinterest-portfolio.zip?timestamp=1526897876"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gs-pinterest-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gs-pinterest-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

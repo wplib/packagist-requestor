@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-with-amazon": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/login-with-amazon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 203253,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-with-amazon.zip?timestamp=1496421458"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-with-amazon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-with-amazon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-with-amazon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203254,
+                "time": "2017-06-02 16:37:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-with-amazon.zip?timestamp=1496421458"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-with-amazon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-with-amazon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/practo": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/practo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 267083,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/practo.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/practo\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/practo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/practo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267084,
+                "time": "2016-04-26 10:17:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/practo.zip?timestamp=1461665877"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/practo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/practo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

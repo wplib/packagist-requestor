@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-bar-wrap-fix": {
+            "0.9.2": {
+                "name": "wpackagist-plugin\/admin-bar-wrap-fix",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "uid": 8920,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-wrap-fix.0.9.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-wrap-fix\/",
+                    "reference": "tags\/0.9.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-wrap-fix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-bar-wrap-fix",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8921,
+                "time": "2018-08-15 20:25:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-wrap-fix.zip?timestamp=1534364729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-wrap-fix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-wrap-fix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

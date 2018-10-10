@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocommerce-display-products-by-tags": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woocommerce-display-products-by-tags",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 395001,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-display-products-by-tags.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-display-products-by-tags\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-display-products-by-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocommerce-display-products-by-tags",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 395002,
+                "time": "2016-01-07 00:28:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-display-products-by-tags.zip?timestamp=1452126495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-display-products-by-tags\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-display-products-by-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

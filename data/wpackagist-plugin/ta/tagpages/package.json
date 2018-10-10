@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tagpages": {
+            "1.64": {
+                "name": "wpackagist-plugin\/tagpages",
+                "version": "1.64",
+                "version_normalized": "1.64.0.0",
+                "uid": 345618,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tagpages.zip?timestamp=1510207842"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tagpages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tagpages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tagpages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345619,
+                "time": "2017-11-09 06:10:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tagpages.zip?timestamp=1510207842"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tagpages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tagpages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cucuads": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/cucuads",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 87779,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cucuads.zip?timestamp=1462291482"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cucuads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cucuads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cucuads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87780,
+                "time": "2016-05-03 16:04:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cucuads.zip?timestamp=1462291482"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cucuads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cucuads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/catag": {
+            "2.2": {
+                "name": "wpackagist-plugin\/catag",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 61725,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catag.zip?timestamp=1516258595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/catag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61726,
+                "time": "2018-01-18 06:56:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catag.zip?timestamp=1516258595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

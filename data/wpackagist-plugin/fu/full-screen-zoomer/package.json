@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/full-screen-zoomer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/full-screen-zoomer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 144357,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/full-screen-zoomer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/full-screen-zoomer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/full-screen-zoomer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/full-screen-zoomer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144358,
+                "time": "2015-12-02 20:51:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/full-screen-zoomer.zip?timestamp=1449089479"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/full-screen-zoomer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/full-screen-zoomer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sms-verification-pars": {
+            "2.1": {
+                "name": "wpackagist-plugin\/sms-verification-pars",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 326274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sms-verification-pars.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sms-verification-pars\/",
+                    "reference": "tags\/2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sms-verification-pars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sms-verification-pars",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 326275,
+                "time": "2016-09-30 14:15:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sms-verification-pars.zip?timestamp=1475244955"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sms-verification-pars\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sms-verification-pars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

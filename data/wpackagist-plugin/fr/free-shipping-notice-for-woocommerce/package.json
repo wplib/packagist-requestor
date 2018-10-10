@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/free-shipping-notice-for-woocommerce": {
+            "1.0": {
+                "name": "wpackagist-plugin\/free-shipping-notice-for-woocommerce",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142506,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-shipping-notice-for-woocommerce.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-shipping-notice-for-woocommerce\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-shipping-notice-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/free-shipping-notice-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142507,
+                "time": "2018-07-06 21:49:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-shipping-notice-for-woocommerce.zip?timestamp=1530913782"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-shipping-notice-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-shipping-notice-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

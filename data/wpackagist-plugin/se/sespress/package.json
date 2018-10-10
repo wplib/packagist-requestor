@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sespress": {
+            "0.1": {
+                "name": "wpackagist-plugin\/sespress",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 306481,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sespress.zip?timestamp=1515590018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sespress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sespress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sespress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306482,
+                "time": "2018-01-10 13:13:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sespress.zip?timestamp=1515590018"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sespress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sespress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

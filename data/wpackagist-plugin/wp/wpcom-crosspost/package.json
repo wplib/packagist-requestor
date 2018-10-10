@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpcom-crosspost": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpcom-crosspost",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 440458,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcom-crosspost.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcom-crosspost\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcom-crosspost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpcom-crosspost",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440459,
+                "time": "2016-09-03 06:34:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcom-crosspost.zip?timestamp=1472884465"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcom-crosspost\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcom-crosspost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

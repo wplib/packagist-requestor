@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/perzonalization": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/perzonalization",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 253567,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/perzonalization.1.4.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/perzonalization\/",
+                    "reference": "tags\/1.4.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/perzonalization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/perzonalization",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 253568,
+                "time": "2018-10-09 13:09:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/perzonalization.zip?timestamp=1539090557"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/perzonalization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/perzonalization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

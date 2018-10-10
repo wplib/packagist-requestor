@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-post-via-email-littlebizzy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/disable-post-via-email-littlebizzy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100465,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-post-via-email-littlebizzy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-post-via-email-littlebizzy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-post-via-email-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-post-via-email-littlebizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100466,
+                "time": "2018-07-15 20:40:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-post-via-email-littlebizzy.zip?timestamp=1531687223"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-post-via-email-littlebizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-post-via-email-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

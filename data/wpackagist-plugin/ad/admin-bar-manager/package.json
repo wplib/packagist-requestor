@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-bar-manager": {
+            "1.0": {
+                "name": "wpackagist-plugin\/admin-bar-manager",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-manager.zip?timestamp=1474276215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-bar-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8889,
+                "time": "2016-09-19 09:10:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-manager.zip?timestamp=1474276215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

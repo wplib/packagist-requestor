@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/headache-killer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/headache-killer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 163440,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/headache-killer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/headache-killer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/headache-killer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/headache-killer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 163441,
+                "time": "2016-11-19 01:31:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/headache-killer.zip?timestamp=1479519075"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/headache-killer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/headache-killer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

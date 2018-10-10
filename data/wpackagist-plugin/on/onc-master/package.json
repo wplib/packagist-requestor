@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/onc-master": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/onc-master",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 241234,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/onc-master.zip?timestamp=1537853499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/onc-master\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/onc-master\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0": {
+                "name": "wpackagist-plugin\/onc-master",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 241235,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/onc-master.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/onc-master\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/onc-master\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/onc-master",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 241236,
+                "time": "2018-09-25 05:31:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/onc-master.zip?timestamp=1537853499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/onc-master\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/onc-master\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-tweet-a-quote": {
+            "1.4.1": {
+                "name": "wpackagist-plugin\/wpsso-tweet-a-quote",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "uid": 443768,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-tweet-a-quote.1.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-tweet-a-quote\/",
+                    "reference": "tags\/1.4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-tweet-a-quote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-tweet-a-quote",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443769,
+                "time": "2018-10-04 16:16:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-tweet-a-quote.zip?timestamp=1538669810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-tweet-a-quote\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-tweet-a-quote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

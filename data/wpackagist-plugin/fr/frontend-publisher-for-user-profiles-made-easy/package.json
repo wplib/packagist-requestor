@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontend-publisher-for-user-profiles-made-easy": {
+            "1.3": {
+                "name": "wpackagist-plugin\/frontend-publisher-for-user-profiles-made-easy",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 143613,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-publisher-for-user-profiles-made-easy.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-publisher-for-user-profiles-made-easy\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-publisher-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontend-publisher-for-user-profiles-made-easy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143614,
+                "time": "2016-10-11 08:54:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-publisher-for-user-profiles-made-easy.zip?timestamp=1476176051"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-publisher-for-user-profiles-made-easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-publisher-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

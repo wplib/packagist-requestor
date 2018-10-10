@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elgg-bridge": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/elgg-bridge",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 116492,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elgg-bridge.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elgg-bridge\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elgg-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elgg-bridge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116493,
+                "time": "2016-07-05 13:45:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elgg-bridge.zip?timestamp=1467726324"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elgg-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elgg-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

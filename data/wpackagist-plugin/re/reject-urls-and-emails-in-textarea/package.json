@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reject-urls-and-emails-in-textarea": {
+            "1.1": {
+                "name": "wpackagist-plugin\/reject-urls-and-emails-in-textarea",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 285850,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reject-urls-and-emails-in-textarea.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reject-urls-and-emails-in-textarea\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reject-urls-and-emails-in-textarea\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reject-urls-and-emails-in-textarea",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285851,
+                "time": "2016-01-27 03:16:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reject-urls-and-emails-in-textarea.zip?timestamp=1453864575"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reject-urls-and-emails-in-textarea\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reject-urls-and-emails-in-textarea\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

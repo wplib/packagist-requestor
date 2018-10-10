@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-srt": {
+            "0.5": {
+                "name": "wpackagist-plugin\/gp-srt",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 157229,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-srt.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-srt\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-srt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0": {
+                "name": "wpackagist-plugin\/gp-srt",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 157230,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-srt.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-srt\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-srt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-srt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157231,
+                "time": "2017-06-08 22:31:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-srt.zip?timestamp=1496961067"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-srt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-srt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

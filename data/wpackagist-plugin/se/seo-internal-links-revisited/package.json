@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seo-internal-links-revisited": {
+            "1.0": {
+                "name": "wpackagist-plugin\/seo-internal-links-revisited",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 305089,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-internal-links-revisited.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-internal-links-revisited\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-internal-links-revisited\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seo-internal-links-revisited",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 305090,
+                "time": "2017-03-29 17:08:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-internal-links-revisited.zip?timestamp=1490807307"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-internal-links-revisited\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-internal-links-revisited\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

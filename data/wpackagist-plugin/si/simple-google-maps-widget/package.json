@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-google-maps-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/simple-google-maps-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 314873,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-google-maps-widget.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-google-maps-widget\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-google-maps-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-google-maps-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 314874,
+                "time": "2018-08-03 10:16:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-google-maps-widget.zip?timestamp=1533291394"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-google-maps-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-google-maps-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

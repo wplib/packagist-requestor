@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-custom-checkout-fields": {
+            "0.1": {
+                "name": "wpackagist-plugin\/woo-custom-checkout-fields",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 389466,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-custom-checkout-fields.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-custom-checkout-fields\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-custom-checkout-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-custom-checkout-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 389467,
+                "time": "2017-06-08 09:13:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-custom-checkout-fields.zip?timestamp=1496913239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-custom-checkout-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-custom-checkout-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

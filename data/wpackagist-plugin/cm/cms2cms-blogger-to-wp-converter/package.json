@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cms2cms-blogger-to-wp-converter": {
+            "3.7.0": {
+                "name": "wpackagist-plugin\/cms2cms-blogger-to-wp-converter",
+                "version": "3.7.0",
+                "version_normalized": "3.7.0.0",
+                "uid": 72273,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cms2cms-blogger-to-wp-converter.3.7.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cms2cms-blogger-to-wp-converter\/",
+                    "reference": "tags\/3.7.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cms2cms-blogger-to-wp-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cms2cms-blogger-to-wp-converter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72274,
+                "time": "2018-09-12 13:03:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cms2cms-blogger-to-wp-converter.zip?timestamp=1536757433"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cms2cms-blogger-to-wp-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cms2cms-blogger-to-wp-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

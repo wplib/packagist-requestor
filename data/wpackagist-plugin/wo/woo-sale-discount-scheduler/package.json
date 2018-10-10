@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-sale-discount-scheduler": {
+            "1.0": {
+                "name": "wpackagist-plugin\/woo-sale-discount-scheduler",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 392410,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-sale-discount-scheduler.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-sale-discount-scheduler\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-sale-discount-scheduler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-sale-discount-scheduler",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 392411,
+                "time": "2018-09-21 05:44:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-sale-discount-scheduler.zip?timestamp=1537508686"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-sale-discount-scheduler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-sale-discount-scheduler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

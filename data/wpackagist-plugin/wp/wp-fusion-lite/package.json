@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-fusion-lite": {
+            "3.17.1": {
+                "name": "wpackagist-plugin\/wp-fusion-lite",
+                "version": "3.17.1",
+                "version_normalized": "3.17.1.0",
+                "uid": 417378,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-fusion-lite.3.17.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-fusion-lite\/",
+                    "reference": "tags\/3.17.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-fusion-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-fusion-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 417379,
+                "time": "2018-09-10 15:49:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-fusion-lite.zip?timestamp=1536594561"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-fusion-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-fusion-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

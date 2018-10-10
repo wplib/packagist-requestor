@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/profile-update-notifications-for-user-profiles-made-easy": {
+            "1.0": {
+                "name": "wpackagist-plugin\/profile-update-notifications-for-user-profiles-made-easy",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 270815,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-update-notifications-for-user-profiles-made-easy.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-update-notifications-for-user-profiles-made-easy\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-update-notifications-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/profile-update-notifications-for-user-profiles-made-easy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270816,
+                "time": "2017-02-13 15:58:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-update-notifications-for-user-profiles-made-easy.zip?timestamp=1487001539"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-update-notifications-for-user-profiles-made-easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-update-notifications-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

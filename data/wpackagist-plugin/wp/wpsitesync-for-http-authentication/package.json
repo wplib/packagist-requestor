@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsitesync-for-http-authentication": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpsitesync-for-http-authentication",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 443660,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsitesync-for-http-authentication.zip?timestamp=1494029267"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsitesync-for-http-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsitesync-for-http-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsitesync-for-http-authentication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443661,
+                "time": "2017-05-06 00:07:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsitesync-for-http-authentication.zip?timestamp=1494029267"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsitesync-for-http-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsitesync-for-http-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

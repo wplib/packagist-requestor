@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/arianelab": {
+            "1.0": {
+                "name": "wpackagist-plugin\/arianelab",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 26248,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arianelab.zip?timestamp=1523376633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arianelab\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arianelab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/arianelab",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26249,
+                "time": "2018-04-10 16:10:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arianelab.zip?timestamp=1523376633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arianelab\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arianelab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

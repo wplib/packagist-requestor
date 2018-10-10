@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordpass": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wordpass",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 401139,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpass.zip?timestamp=1469734155"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordpass",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 401140,
+                "time": "2016-07-28 19:29:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpass.zip?timestamp=1469734155"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wprecovery": {
+            "2.0": {
+                "name": "wpackagist-plugin\/wprecovery",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 443007,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wprecovery.zip?timestamp=1477045648"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wprecovery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wprecovery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wprecovery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443008,
+                "time": "2016-10-21 10:27:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wprecovery.zip?timestamp=1477045648"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wprecovery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wprecovery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-order-cancel-for-customers": {
+            "1.1": {
+                "name": "wpackagist-plugin\/woo-order-cancel-for-customers",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 390722,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-order-cancel-for-customers.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-order-cancel-for-customers\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-order-cancel-for-customers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-order-cancel-for-customers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 390723,
+                "time": "2018-05-19 03:34:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-order-cancel-for-customers.zip?timestamp=1526700843"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-order-cancel-for-customers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-order-cancel-for-customers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

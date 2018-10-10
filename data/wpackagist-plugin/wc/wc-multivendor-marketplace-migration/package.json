@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-multivendor-marketplace-migration": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wc-multivendor-marketplace-migration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 380772,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-multivendor-marketplace-migration.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-multivendor-marketplace-migration\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-multivendor-marketplace-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-multivendor-marketplace-migration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 380773,
+                "time": "2018-09-29 10:21:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-multivendor-marketplace-migration.zip?timestamp=1538216495"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-multivendor-marketplace-migration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-multivendor-marketplace-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

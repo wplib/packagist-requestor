@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automatic-post-categories": {
+            "1.0": {
+                "name": "wpackagist-plugin\/automatic-post-categories",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31258,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-post-categories.zip?timestamp=1485796888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-post-categories\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-post-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automatic-post-categories",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31259,
+                "time": "2017-01-30 17:21:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-post-categories.zip?timestamp=1485796888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-post-categories\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-post-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

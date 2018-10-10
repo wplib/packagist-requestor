@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/summary-and-details": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/summary-and-details",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 341016,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/summary-and-details.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/summary-and-details\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/summary-and-details\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/summary-and-details",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341017,
+                "time": "2018-04-04 16:31:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/summary-and-details.zip?timestamp=1522859519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/summary-and-details\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/summary-and-details\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

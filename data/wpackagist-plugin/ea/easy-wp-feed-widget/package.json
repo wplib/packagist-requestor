@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-wp-feed-widget": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/easy-wp-feed-widget",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 111209,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-wp-feed-widget.zip?timestamp=1484038669"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-wp-feed-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-wp-feed-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-wp-feed-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 111210,
+                "time": "2017-01-10 08:57:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-wp-feed-widget.zip?timestamp=1484038669"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-wp-feed-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-wp-feed-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

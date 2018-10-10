@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crmwg": {
+            "1.1": {
+                "name": "wpackagist-plugin\/crmwg",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 86215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crmwg.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crmwg\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crmwg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crmwg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86216,
+                "time": "2017-05-02 06:22:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crmwg.zip?timestamp=1493706175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crmwg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crmwg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/impressum": {
+            "0.1": {
+                "name": "wpackagist-plugin\/impressum",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 174886,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/impressum.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/impressum\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/impressum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2": {
+                "name": "wpackagist-plugin\/impressum",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 174887,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/impressum.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/impressum\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/impressum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/impressum",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174888,
+                "time": "2018-05-24 16:36:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/impressum.zip?timestamp=1527179800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/impressum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/impressum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

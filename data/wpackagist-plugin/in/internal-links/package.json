@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/internal-links": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/internal-links",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179550,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internal-links.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internal-links\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internal-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/internal-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179551,
+                "time": "2018-09-22 10:21:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internal-links.zip?timestamp=1537611691"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internal-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internal-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

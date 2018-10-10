@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auto-refresh-single-page": {
+            "1.1": {
+                "name": "wpackagist-plugin\/auto-refresh-single-page",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 30671,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-refresh-single-page.zip?timestamp=1429855630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-refresh-single-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-refresh-single-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auto-refresh-single-page",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 30672,
+                "time": "2015-04-24 06:07:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-refresh-single-page.zip?timestamp=1429855630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-refresh-single-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-refresh-single-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

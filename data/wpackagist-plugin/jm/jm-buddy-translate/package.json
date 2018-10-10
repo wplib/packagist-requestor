@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jm-buddy-translate": {
+            "1.0.9": {
+                "name": "wpackagist-plugin\/jm-buddy-translate",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "uid": 184182,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jm-buddy-translate.1.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jm-buddy-translate\/",
+                    "reference": "tags\/1.0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jm-buddy-translate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jm-buddy-translate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184183,
+                "time": "2017-11-09 01:45:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jm-buddy-translate.zip?timestamp=1510191953"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jm-buddy-translate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jm-buddy-translate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

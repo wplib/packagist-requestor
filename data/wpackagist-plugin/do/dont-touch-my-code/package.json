@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dont-touch-my-code": {
+            "0.2": {
+                "name": "wpackagist-plugin\/dont-touch-my-code",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 103640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dont-touch-my-code.zip?timestamp=1434535239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dont-touch-my-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dont-touch-my-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dont-touch-my-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103641,
+                "time": "2015-06-17 10:00:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dont-touch-my-code.zip?timestamp=1434535239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dont-touch-my-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dont-touch-my-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

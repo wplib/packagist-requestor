@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wcf-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wcf-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 381539,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wcf-widget.zip?timestamp=1533272914"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wcf-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wcf-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wcf-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 381540,
+                "time": "2018-08-03 05:08:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wcf-widget.zip?timestamp=1533272914"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wcf-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wcf-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

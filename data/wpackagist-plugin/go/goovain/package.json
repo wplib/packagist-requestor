@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/goovain": {
+            "1.5": {
+                "name": "wpackagist-plugin\/goovain",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 156859,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goovain.zip?timestamp=1422397245"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goovain\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goovain\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/goovain",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 156860,
+                "time": "2015-01-27 22:20:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goovain.zip?timestamp=1422397245"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goovain\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goovain\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

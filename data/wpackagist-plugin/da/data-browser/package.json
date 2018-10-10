@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/data-browser": {
+            "1.1.5": {
+                "name": "wpackagist-plugin\/data-browser",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "uid": 94624,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/data-browser.1.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/data-browser\/",
+                    "reference": "tags\/1.1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/data-browser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/data-browser",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94625,
+                "time": "2017-04-21 21:46:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/data-browser.zip?timestamp=1492811170"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/data-browser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/data-browser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

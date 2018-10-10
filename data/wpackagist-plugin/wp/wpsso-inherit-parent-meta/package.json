@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-inherit-parent-meta": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/wpsso-inherit-parent-meta",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 443748,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-inherit-parent-meta.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-inherit-parent-meta\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-inherit-parent-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-inherit-parent-meta",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443749,
+                "time": "2018-10-04 16:07:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-inherit-parent-meta.zip?timestamp=1538669263"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-inherit-parent-meta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-inherit-parent-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

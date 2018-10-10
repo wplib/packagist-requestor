@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ioli": {
+            "1.6": {
+                "name": "wpackagist-plugin\/ioli",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 180197,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ioli.zip?timestamp=1437003065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ioli\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ioli\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ioli",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180198,
+                "time": "2015-07-15 23:31:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ioli.zip?timestamp=1437003065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ioli\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ioli\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

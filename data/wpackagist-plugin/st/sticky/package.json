@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sticky": {
+            "2.5.5": {
+                "name": "wpackagist-plugin\/sticky",
+                "version": "2.5.5",
+                "version_normalized": "2.5.5.0",
+                "uid": 336989,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky.zip?timestamp=1496219135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sticky",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336990,
+                "time": "2017-05-31 08:25:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky.zip?timestamp=1496219135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

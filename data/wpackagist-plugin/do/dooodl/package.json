@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dooodl": {
+            "2.0.10": {
+                "name": "wpackagist-plugin\/dooodl",
+                "version": "2.0.10",
+                "version_normalized": "2.0.10.0",
+                "uid": 103696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dooodl.zip?timestamp=1451488374"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dooodl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dooodl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dooodl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103697,
+                "time": "2015-12-30 15:12:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dooodl.zip?timestamp=1451488374"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dooodl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dooodl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

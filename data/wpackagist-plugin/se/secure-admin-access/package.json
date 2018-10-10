@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secure-admin-access": {
+            "1.0": {
+                "name": "wpackagist-plugin\/secure-admin-access",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 302554,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-admin-access.zip?timestamp=1507877473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-admin-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-admin-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secure-admin-access",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302555,
+                "time": "2017-10-13 06:51:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-admin-access.zip?timestamp=1507877473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-admin-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-admin-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

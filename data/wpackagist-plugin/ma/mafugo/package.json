@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mafugo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mafugo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205200,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mafugo.zip?timestamp=1499350819"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mafugo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mafugo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mafugo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205201,
+                "time": "2017-07-06 14:20:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mafugo.zip?timestamp=1499350819"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mafugo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mafugo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

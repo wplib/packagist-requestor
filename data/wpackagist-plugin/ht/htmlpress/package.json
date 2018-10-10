@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/htmlpress": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/htmlpress",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 168696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/htmlpress.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/htmlpress\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/htmlpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/htmlpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168697,
+                "time": "2018-02-02 20:45:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/htmlpress.zip?timestamp=1517604347"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/htmlpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/htmlpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

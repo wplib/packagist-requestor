@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lh-booking-widget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/lh-booking-widget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 196185,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-booking-widget.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-booking-widget\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-booking-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lh-booking-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196186,
+                "time": "2017-01-09 10:22:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-booking-widget.zip?timestamp=1483957343"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-booking-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-booking-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

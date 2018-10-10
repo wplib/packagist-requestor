@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quizmaster-progress-bar": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/quizmaster-progress-bar",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 277931,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quizmaster-progress-bar.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quizmaster-progress-bar\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quizmaster-progress-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quizmaster-progress-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 277932,
+                "time": "2017-06-06 05:51:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quizmaster-progress-bar.zip?timestamp=1496728264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quizmaster-progress-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quizmaster-progress-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

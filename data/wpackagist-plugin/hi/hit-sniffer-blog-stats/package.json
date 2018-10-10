@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hit-sniffer-blog-stats": {
+            "2.11": {
+                "name": "wpackagist-plugin\/hit-sniffer-blog-stats",
+                "version": "2.11",
+                "version_normalized": "2.11.0.0",
+                "uid": 166134,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hit-sniffer-blog-stats.2.11.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hit-sniffer-blog-stats\/",
+                    "reference": "tags\/2.11"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hit-sniffer-blog-stats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hit-sniffer-blog-stats",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166135,
+                "time": "2016-09-07 17:37:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hit-sniffer-blog-stats.zip?timestamp=1473269833"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hit-sniffer-blog-stats\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hit-sniffer-blog-stats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

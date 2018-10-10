@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/codepeople-theme-switch": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/codepeople-theme-switch",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 73085,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepeople-theme-switch.1.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepeople-theme-switch\/",
+                    "reference": "tags\/1.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepeople-theme-switch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/codepeople-theme-switch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 73086,
+                "time": "2018-04-07 10:59:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepeople-theme-switch.zip?timestamp=1523098789"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepeople-theme-switch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepeople-theme-switch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

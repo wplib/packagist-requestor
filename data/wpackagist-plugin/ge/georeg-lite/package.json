@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/georeg-lite": {
+            "1.0": {
+                "name": "wpackagist-plugin\/georeg-lite",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 150117,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/georeg-lite.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/georeg-lite\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/georeg-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/georeg-lite",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 150118,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/georeg-lite.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/georeg-lite\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/georeg-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/georeg-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150119,
+                "time": "2015-01-13 23:32:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/georeg-lite.zip?timestamp=1421191924"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/georeg-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/georeg-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

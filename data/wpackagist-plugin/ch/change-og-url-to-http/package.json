@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/change-og-url-to-http": {
+            "1.0": {
+                "name": "wpackagist-plugin\/change-og-url-to-http",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65797,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/change-og-url-to-http.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/change-og-url-to-http\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/change-og-url-to-http\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/change-og-url-to-http",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65798,
+                "time": "2018-07-17 13:04:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/change-og-url-to-http.zip?timestamp=1531832641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/change-og-url-to-http\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/change-og-url-to-http\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

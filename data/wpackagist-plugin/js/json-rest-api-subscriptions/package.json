@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/json-rest-api-subscriptions": {
+            "1.0": {
+                "name": "wpackagist-plugin\/json-rest-api-subscriptions",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 186568,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-rest-api-subscriptions.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-rest-api-subscriptions\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-rest-api-subscriptions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/json-rest-api-subscriptions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186569,
+                "time": "2016-12-08 14:29:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-rest-api-subscriptions.zip?timestamp=1481207360"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-rest-api-subscriptions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-rest-api-subscriptions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

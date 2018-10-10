@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-to-moodle": {
+            "1.1": {
+                "name": "wpackagist-plugin\/woo-to-moodle",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 393056,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-to-moodle.zip?timestamp=1521060012"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-to-moodle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-to-moodle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-to-moodle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 393057,
+                "time": "2018-03-14 20:40:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-to-moodle.zip?timestamp=1521060012"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-to-moodle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-to-moodle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

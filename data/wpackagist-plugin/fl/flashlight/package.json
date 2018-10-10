@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flashlight": {
+            "1.0": {
+                "name": "wpackagist-plugin\/flashlight",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 135476,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flashlight.zip?timestamp=1451336864"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flashlight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flashlight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flashlight",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 135477,
+                "time": "2015-12-28 21:07:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flashlight.zip?timestamp=1451336864"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flashlight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flashlight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

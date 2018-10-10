@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anxious-client-shield": {
+            "1.0": {
+                "name": "wpackagist-plugin\/anxious-client-shield",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23349,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anxious-client-shield.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anxious-client-shield\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anxious-client-shield\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anxious-client-shield",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23350,
+                "time": "2017-10-30 16:35:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anxious-client-shield.zip?timestamp=1509381330"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anxious-client-shield\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anxious-client-shield\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

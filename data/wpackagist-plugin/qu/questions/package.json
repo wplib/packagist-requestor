@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/questions": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/questions",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 276248,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/questions.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/questions\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/questions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/questions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 276249,
+                "time": "2016-05-20 15:33:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/questions.zip?timestamp=1463758388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/questions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/questions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

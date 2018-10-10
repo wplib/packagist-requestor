@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sort-recently-active-plugins": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sort-recently-active-plugins",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 330996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sort-recently-active-plugins.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sort-recently-active-plugins\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sort-recently-active-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sort-recently-active-plugins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 330997,
+                "time": "2018-02-01 00:51:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sort-recently-active-plugins.zip?timestamp=1517446272"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sort-recently-active-plugins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sort-recently-active-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

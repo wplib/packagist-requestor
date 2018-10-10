@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/happyfox-helpdesk": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/happyfox-helpdesk",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 162670,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/happyfox-helpdesk.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/happyfox-helpdesk\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/happyfox-helpdesk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/happyfox-helpdesk",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 162671,
+                "time": "2015-08-03 12:34:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/happyfox-helpdesk.zip?timestamp=1438605284"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/happyfox-helpdesk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/happyfox-helpdesk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

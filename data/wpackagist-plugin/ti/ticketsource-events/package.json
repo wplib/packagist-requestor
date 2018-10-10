@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ticketsource-events": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ticketsource-events",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 354132,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketsource-events.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketsource-events\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketsource-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ticketsource-events",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354133,
+                "time": "2018-06-01 08:48:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketsource-events.zip?timestamp=1527842906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketsource-events\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketsource-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-cleanup": {
+            "1.0": {
+                "name": "wpackagist-plugin\/admin-cleanup",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 9007,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-cleanup.zip?timestamp=1464792597"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-cleanup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-cleanup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-cleanup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 9008,
+                "time": "2016-06-01 14:49:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-cleanup.zip?timestamp=1464792597"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-cleanup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-cleanup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

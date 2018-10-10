@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/socialplus": {
+            "1.0": {
+                "name": "wpackagist-plugin\/socialplus",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 330083,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socialplus.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socialplus\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socialplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/socialplus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 330084,
+                "time": "2018-01-04 14:25:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socialplus.zip?timestamp=1515075925"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socialplus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socialplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-all-wp-updates": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/disable-all-wp-updates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100078,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-all-wp-updates.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-all-wp-updates\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-all-wp-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/disable-all-wp-updates",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 100079,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-all-wp-updates.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-all-wp-updates\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-all-wp-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-all-wp-updates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100080,
+                "time": "2016-06-21 15:15:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-all-wp-updates.zip?timestamp=1466522136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-all-wp-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-all-wp-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

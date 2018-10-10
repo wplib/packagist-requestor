@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invoices-camptix": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/invoices-camptix",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 180133,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoices-camptix.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoices-camptix\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoices-camptix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invoices-camptix",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180134,
+                "time": "2018-01-23 23:32:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoices-camptix.zip?timestamp=1516750327"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoices-camptix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoices-camptix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

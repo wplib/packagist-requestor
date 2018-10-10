@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/odds-widget": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/odds-widget",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 239671,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/odds-widget.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/odds-widget\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/odds-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/odds-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239672,
+                "time": "2016-03-08 22:22:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/odds-widget.zip?timestamp=1457475774"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/odds-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/odds-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

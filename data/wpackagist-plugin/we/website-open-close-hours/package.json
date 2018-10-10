@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/website-open-close-hours": {
+            "1.0": {
+                "name": "wpackagist-plugin\/website-open-close-hours",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383642,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-open-close-hours.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-open-close-hours\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-open-close-hours\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/website-open-close-hours",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383643,
+                "time": "2018-07-16 13:12:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-open-close-hours.zip?timestamp=1531746757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-open-close-hours\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-open-close-hours\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

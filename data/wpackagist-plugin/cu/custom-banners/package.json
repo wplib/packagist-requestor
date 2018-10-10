@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-banners": {
+            "3.1.1": {
+                "name": "wpackagist-plugin\/custom-banners",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "uid": 88446,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-banners.zip?timestamp=1520005070"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-banners\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-banners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-banners",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 88447,
+                "time": "2018-03-02 15:37:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-banners.zip?timestamp=1520005070"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-banners\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-banners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

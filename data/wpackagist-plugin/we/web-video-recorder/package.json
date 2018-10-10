@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/web-video-recorder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/web-video-recorder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 382731,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/web-video-recorder.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/web-video-recorder\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/web-video-recorder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/web-video-recorder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382732,
+                "time": "2018-03-16 05:52:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/web-video-recorder.zip?timestamp=1521179554"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/web-video-recorder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/web-video-recorder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

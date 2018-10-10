@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-fields-for-woo-customers": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/custom-fields-for-woo-customers",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 89805,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-fields-for-woo-customers.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-fields-for-woo-customers\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-fields-for-woo-customers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-fields-for-woo-customers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 89806,
+                "time": "2017-12-26 00:06:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-fields-for-woo-customers.zip?timestamp=1514246816"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-fields-for-woo-customers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-fields-for-woo-customers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

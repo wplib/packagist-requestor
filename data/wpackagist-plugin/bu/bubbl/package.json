@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bubbl": {
+            "1.1": {
+                "name": "wpackagist-plugin\/bubbl",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 53277,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bubbl.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bubbl\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bubbl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bubbl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53278,
+                "time": "2016-07-11 18:58:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bubbl.zip?timestamp=1468263515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bubbl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bubbl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

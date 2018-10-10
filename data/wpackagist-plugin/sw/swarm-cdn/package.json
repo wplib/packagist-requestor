@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/swarm-cdn": {
+            "0.4.1": {
+                "name": "wpackagist-plugin\/swarm-cdn",
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
+                "uid": 343305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swarm-cdn.zip?timestamp=1454435140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swarm-cdn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swarm-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/swarm-cdn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 343306,
+                "time": "2016-02-02 17:45:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swarm-cdn.zip?timestamp=1454435140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swarm-cdn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swarm-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

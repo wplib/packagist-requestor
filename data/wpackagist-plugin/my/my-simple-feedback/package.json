@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-simple-feedback": {
+            "1.0": {
+                "name": "wpackagist-plugin\/my-simple-feedback",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 227274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-simple-feedback.zip?timestamp=1516283518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-simple-feedback\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-simple-feedback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-simple-feedback",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227275,
+                "time": "2018-01-18 13:51:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-simple-feedback.zip?timestamp=1516283518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-simple-feedback\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-simple-feedback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

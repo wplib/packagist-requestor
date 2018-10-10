@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jps-affiliate": {
+            "0.1": {
+                "name": "wpackagist-plugin\/jps-affiliate",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 185205,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jps-affiliate.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jps-affiliate\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jps-affiliate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jps-affiliate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 185206,
+                "time": "2018-09-03 02:16:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jps-affiliate.zip?timestamp=1535940998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jps-affiliate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jps-affiliate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ascend-accessibility": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ascend-accessibility",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27222,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ascend-accessibility.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ascend-accessibility\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ascend-accessibility\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ascend-accessibility",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27223,
+                "time": "2018-08-11 02:26:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ascend-accessibility.zip?timestamp=1533954374"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ascend-accessibility\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ascend-accessibility\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

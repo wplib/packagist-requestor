@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-review-reminders": {
+            "1.2.4": {
+                "name": "wpackagist-plugin\/easy-review-reminders",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "uid": 110518,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-review-reminders.1.2.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-review-reminders\/",
+                    "reference": "tags\/1.2.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-review-reminders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-review-reminders",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 110519,
+                "time": "2018-09-26 02:28:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-review-reminders.zip?timestamp=1537928895"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-review-reminders\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-review-reminders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

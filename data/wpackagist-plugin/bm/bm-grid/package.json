@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bm-grid": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bm-grid",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 46373,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bm-grid.zip?timestamp=1490763088"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bm-grid\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bm-grid\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bm-grid",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46374,
+                "time": "2017-03-29 04:51:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bm-grid.zip?timestamp=1490763088"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bm-grid\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bm-grid\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

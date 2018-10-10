@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jclocksgmt-wp": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/jclocksgmt-wp",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 183028,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jclocksgmt-wp.zip?timestamp=1463764684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jclocksgmt-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jclocksgmt-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jclocksgmt-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183029,
+                "time": "2016-05-20 17:18:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jclocksgmt-wp.zip?timestamp=1463764684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jclocksgmt-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jclocksgmt-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

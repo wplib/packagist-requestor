@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cc-mu-plugins-loader": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cc-mu-plugins-loader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 63846,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-mu-plugins-loader.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-mu-plugins-loader\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-mu-plugins-loader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cc-mu-plugins-loader",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63847,
+                "time": "2017-12-29 12:44:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-mu-plugins-loader.zip?timestamp=1514551465"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-mu-plugins-loader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-mu-plugins-loader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

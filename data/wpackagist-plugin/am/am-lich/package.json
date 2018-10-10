@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/am-lich": {
+            "1.0": {
+                "name": "wpackagist-plugin\/am-lich",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 19648,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/am-lich.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/am-lich\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/am-lich\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/am-lich",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19649,
+                "time": "2016-08-08 13:04:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/am-lich.zip?timestamp=1470661481"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/am-lich\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/am-lich\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/the-hits-counter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/the-hits-counter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 350908,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-hits-counter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-hits-counter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-hits-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/the-hits-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 350909,
+                "time": "2017-08-24 16:37:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-hits-counter.zip?timestamp=1503592652"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-hits-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-hits-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

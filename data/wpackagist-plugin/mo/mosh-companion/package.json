@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mosh-companion": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mosh-companion",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 222370,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mosh-companion.zip?timestamp=1537093892"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mosh-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mosh-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mosh-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222371,
+                "time": "2018-09-16 10:31:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mosh-companion.zip?timestamp=1537093892"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mosh-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mosh-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

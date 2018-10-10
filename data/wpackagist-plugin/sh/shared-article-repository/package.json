@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shared-article-repository": {
+            "0.09": {
+                "name": "wpackagist-plugin\/shared-article-repository",
+                "version": "0.09",
+                "version_normalized": "0.09.0.0",
+                "uid": 307917,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shared-article-repository.zip?timestamp=1493049882"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shared-article-repository\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shared-article-repository\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shared-article-repository",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 307918,
+                "time": "2017-04-24 16:04:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shared-article-repository.zip?timestamp=1493049882"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shared-article-repository\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shared-article-repository\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

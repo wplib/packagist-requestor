@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dynamic-text": {
+            "2.1.2": {
+                "name": "wpackagist-plugin\/dynamic-text",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "uid": 106755,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-text.zip?timestamp=1486970089"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-text\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dynamic-text",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106756,
+                "time": "2017-02-13 07:14:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-text.zip?timestamp=1486970089"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-text\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpd-authorize-net-payment-gateway-for-woocommerce": {
+            "0.7": {
+                "name": "wpackagist-plugin\/wpd-authorize-net-payment-gateway-for-woocommerce",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 440668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpd-authorize-net-payment-gateway-for-woocommerce.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpd-authorize-net-payment-gateway-for-woocommerce\/",
+                    "reference": "tags\/0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpd-authorize-net-payment-gateway-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpd-authorize-net-payment-gateway-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440669,
+                "time": "2017-12-17 02:29:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpd-authorize-net-payment-gateway-for-woocommerce.zip?timestamp=1513477753"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpd-authorize-net-payment-gateway-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpd-authorize-net-payment-gateway-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

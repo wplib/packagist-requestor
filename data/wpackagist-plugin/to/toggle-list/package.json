@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/toggle-list": {
+            "0.1": {
+                "name": "wpackagist-plugin\/toggle-list",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 356729,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toggle-list.zip?timestamp=1464280760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toggle-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toggle-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/toggle-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356730,
+                "time": "2016-05-26 16:39:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toggle-list.zip?timestamp=1464280760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toggle-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toggle-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

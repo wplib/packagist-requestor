@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rw-divi-unite-gallery": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rw-divi-unite-gallery",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 297428,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rw-divi-unite-gallery.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rw-divi-unite-gallery\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rw-divi-unite-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rw-divi-unite-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297429,
+                "time": "2017-07-27 13:30:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rw-divi-unite-gallery.zip?timestamp=1501162259"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rw-divi-unite-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rw-divi-unite-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

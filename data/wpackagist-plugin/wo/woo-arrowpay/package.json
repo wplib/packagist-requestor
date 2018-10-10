@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-arrowpay": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/woo-arrowpay",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 388746,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-arrowpay.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-arrowpay\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-arrowpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-arrowpay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 388747,
+                "time": "2018-01-26 01:31:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-arrowpay.zip?timestamp=1516930271"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-arrowpay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-arrowpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

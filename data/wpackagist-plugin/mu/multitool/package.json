@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multitool": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/multitool",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 225723,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multitool.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multitool\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multitool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2.1": {
+                "name": "wpackagist-plugin\/multitool",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 225724,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multitool.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multitool\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multitool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multitool",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225725,
+                "time": "2017-06-19 22:49:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multitool.zip?timestamp=1497912568"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multitool\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multitool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

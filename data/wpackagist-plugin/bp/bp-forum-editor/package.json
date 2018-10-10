@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-forum-editor": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bp-forum-editor",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 50296,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-forum-editor.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-forum-editor\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-forum-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-forum-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 50297,
+                "time": "2015-05-14 18:00:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-forum-editor.zip?timestamp=1431626402"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-forum-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-forum-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

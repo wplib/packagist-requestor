@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/link2post": {
+            "0.1": {
+                "name": "wpackagist-plugin\/link2post",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 198831,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link2post.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link2post\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link2post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/link2post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198832,
+                "time": "2017-12-08 01:24:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link2post.zip?timestamp=1512696262"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link2post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link2post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

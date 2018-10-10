@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jpress-archive": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/jpress-archive",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 185216,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jpress-archive.zip?timestamp=1466432945"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jpress-archive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jpress-archive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jpress-archive",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 185217,
+                "time": "2016-06-20 14:29:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jpress-archive.zip?timestamp=1466432945"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jpress-archive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jpress-archive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

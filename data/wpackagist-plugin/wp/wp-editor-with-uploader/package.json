@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-editor-with-uploader": {
+            "0.8": {
+                "name": "wpackagist-plugin\/wp-editor-with-uploader",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 414268,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-editor-with-uploader.zip?timestamp=1459217881"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-editor-with-uploader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-editor-with-uploader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-editor-with-uploader",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 414269,
+                "time": "2016-03-29 02:18:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-editor-with-uploader.zip?timestamp=1459217881"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-editor-with-uploader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-editor-with-uploader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

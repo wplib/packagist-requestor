@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/letterpress": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/letterpress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 195913,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/letterpress.zip?timestamp=1536685949"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/letterpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/letterpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/letterpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195914,
+                "time": "2018-09-11 17:12:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/letterpress.zip?timestamp=1536685949"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/letterpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/letterpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

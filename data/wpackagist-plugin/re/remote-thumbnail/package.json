@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remote-thumbnail": {
+            "1.0": {
+                "name": "wpackagist-plugin\/remote-thumbnail",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 286733,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remote-thumbnail.zip?timestamp=1465280586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remote-thumbnail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remote-thumbnail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remote-thumbnail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286734,
+                "time": "2016-06-07 06:23:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remote-thumbnail.zip?timestamp=1465280586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remote-thumbnail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remote-thumbnail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

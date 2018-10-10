@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/codepeople-post-map": {
+            "1.0.18": {
+                "name": "wpackagist-plugin\/codepeople-post-map",
+                "version": "1.0.18",
+                "version_normalized": "1.0.18.0",
+                "uid": 73083,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepeople-post-map.1.0.18.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepeople-post-map\/",
+                    "reference": "tags\/1.0.18"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepeople-post-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/codepeople-post-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 73084,
+                "time": "2018-08-30 14:15:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/codepeople-post-map.zip?timestamp=1535638512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/codepeople-post-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/codepeople-post-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

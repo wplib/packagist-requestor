@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/paytalk-lipa-na-mpesa": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/paytalk-lipa-na-mpesa",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 251291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paytalk-lipa-na-mpesa.1.5.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paytalk-lipa-na-mpesa\/",
+                    "reference": "tags\/1.5.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paytalk-lipa-na-mpesa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/paytalk-lipa-na-mpesa",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 251292,
+                "time": "2018-10-01 13:19:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paytalk-lipa-na-mpesa.zip?timestamp=1538399993"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paytalk-lipa-na-mpesa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paytalk-lipa-na-mpesa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/uvdesk": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/uvdesk",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 372470,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uvdesk.zip?timestamp=1536903388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uvdesk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uvdesk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/uvdesk",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372471,
+                "time": "2018-09-14 05:36:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uvdesk.zip?timestamp=1536903388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uvdesk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uvdesk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

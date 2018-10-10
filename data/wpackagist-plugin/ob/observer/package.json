@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/observer": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/observer",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 239191,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/observer.zip?timestamp=1459557910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/observer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/observer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/observer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239192,
+                "time": "2016-04-02 00:45:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/observer.zip?timestamp=1459557910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/observer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/observer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

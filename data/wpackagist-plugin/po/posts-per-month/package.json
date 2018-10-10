@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/posts-per-month": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/posts-per-month",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 266319,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-per-month.zip?timestamp=1465132970"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-per-month\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-per-month\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/posts-per-month",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 266320,
+                "time": "2016-06-05 13:22:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-per-month.zip?timestamp=1465132970"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-per-month\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-per-month\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

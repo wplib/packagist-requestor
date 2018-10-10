@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/plugins-site-menu-link": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/plugins-site-menu-link",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 259427,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/plugins-site-menu-link.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/plugins-site-menu-link\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/plugins-site-menu-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/plugins-site-menu-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259428,
+                "time": "2017-11-16 19:03:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/plugins-site-menu-link.zip?timestamp=1510858992"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/plugins-site-menu-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/plugins-site-menu-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

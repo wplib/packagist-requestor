@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ticketor": {
+            "4.3": {
+                "name": "wpackagist-plugin\/ticketor",
+                "version": "4.3",
+                "version_normalized": "4.3.0.0",
+                "uid": 354153,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketor.zip?timestamp=1479938180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ticketor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354154,
+                "time": "2016-11-23 21:56:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketor.zip?timestamp=1479938180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/google-trends-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/google-trends-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 156564,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/google-trends-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/google-trends-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/google-trends-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/google-trends-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 156565,
+                "time": "2015-02-07 18:54:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/google-trends-widget.zip?timestamp=1423335293"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/google-trends-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/google-trends-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

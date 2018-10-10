@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/diarypress": {
+            "5.1": {
+                "name": "wpackagist-plugin\/diarypress",
+                "version": "5.1",
+                "version_normalized": "5.1.0.0",
+                "uid": 99044,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diarypress.zip?timestamp=1498319849"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diarypress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diarypress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/diarypress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99045,
+                "time": "2017-06-24 15:57:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diarypress.zip?timestamp=1498319849"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diarypress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diarypress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

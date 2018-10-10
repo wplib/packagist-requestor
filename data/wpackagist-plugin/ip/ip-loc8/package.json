@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip-loc8": {
+            "1.1": {
+                "name": "wpackagist-plugin\/ip-loc8",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 180355,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-loc8.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-loc8\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-loc8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip-loc8",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180356,
+                "time": "2016-12-15 11:20:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-loc8.zip?timestamp=1481800836"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-loc8\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-loc8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

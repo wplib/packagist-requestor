@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dependency-minification": {
+            "0.9.8": {
+                "name": "wpackagist-plugin\/dependency-minification",
+                "version": "0.9.8",
+                "version_normalized": "0.9.8.0",
+                "uid": 97706,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dependency-minification.zip?timestamp=1424828806"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dependency-minification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dependency-minification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dependency-minification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97707,
+                "time": "2015-02-25 01:46:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dependency-minification.zip?timestamp=1424828806"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dependency-minification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dependency-minification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

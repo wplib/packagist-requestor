@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pe-panels": {
+            "1.04": {
+                "name": "wpackagist-plugin\/pe-panels",
+                "version": "1.04",
+                "version_normalized": "1.04.0.0",
+                "uid": 252002,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pe-panels.zip?timestamp=1511336163"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pe-panels\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pe-panels\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pe-panels",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 252003,
+                "time": "2017-11-22 07:36:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pe-panels.zip?timestamp=1511336163"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pe-panels\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pe-panels\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

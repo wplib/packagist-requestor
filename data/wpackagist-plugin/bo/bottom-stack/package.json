@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bottom-stack": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/bottom-stack",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 49788,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bottom-stack.zip?timestamp=1528800335"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bottom-stack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bottom-stack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bottom-stack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49789,
+                "time": "2018-06-12 10:45:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bottom-stack.zip?timestamp=1528800335"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bottom-stack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bottom-stack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

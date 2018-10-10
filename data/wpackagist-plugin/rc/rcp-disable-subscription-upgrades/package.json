@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rcp-disable-subscription-upgrades": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rcp-disable-subscription-upgrades",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 281461,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rcp-disable-subscription-upgrades.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rcp-disable-subscription-upgrades\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rcp-disable-subscription-upgrades\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rcp-disable-subscription-upgrades",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281462,
+                "time": "2016-05-11 13:39:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rcp-disable-subscription-upgrades.zip?timestamp=1462973953"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rcp-disable-subscription-upgrades\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rcp-disable-subscription-upgrades\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

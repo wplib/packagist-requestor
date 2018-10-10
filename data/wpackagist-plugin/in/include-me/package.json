@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/include-me": {
+            "1.1.5": {
+                "name": "wpackagist-plugin\/include-me",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "uid": 175511,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/include-me.1.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/include-me\/",
+                    "reference": "tags\/1.1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/include-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/include-me",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175512,
+                "time": "2017-04-20 12:11:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/include-me.zip?timestamp=1492690264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/include-me\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/include-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

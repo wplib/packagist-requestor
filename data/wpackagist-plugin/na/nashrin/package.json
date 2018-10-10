@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nashrin": {
+            "1.1": {
+                "name": "wpackagist-plugin\/nashrin",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 229253,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nashrin.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nashrin\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nashrin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nashrin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229254,
+                "time": "2017-04-15 07:49:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nashrin.zip?timestamp=1492242588"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nashrin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nashrin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

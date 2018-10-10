@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/meal-planner": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/meal-planner",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 211893,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/meal-planner.zip?timestamp=1465371186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/meal-planner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/meal-planner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/meal-planner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211894,
+                "time": "2016-06-08 07:33:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/meal-planner.zip?timestamp=1465371186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/meal-planner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/meal-planner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

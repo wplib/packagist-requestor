@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elastik-addons-for-wpbakery": {
+            "0.27": {
+                "name": "wpackagist-plugin\/elastik-addons-for-wpbakery",
+                "version": "0.27",
+                "version_normalized": "0.27.0.0",
+                "uid": 115714,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elastik-addons-for-wpbakery.zip?timestamp=1538327859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elastik-addons-for-wpbakery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elastik-addons-for-wpbakery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elastik-addons-for-wpbakery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115715,
+                "time": "2018-09-30 17:17:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elastik-addons-for-wpbakery.zip?timestamp=1538327859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elastik-addons-for-wpbakery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elastik-addons-for-wpbakery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

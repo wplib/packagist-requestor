@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/storemapper": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/storemapper",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 338122,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/storemapper.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/storemapper\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/storemapper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/storemapper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338123,
+                "time": "2017-12-08 17:09:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/storemapper.zip?timestamp=1512752990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/storemapper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/storemapper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

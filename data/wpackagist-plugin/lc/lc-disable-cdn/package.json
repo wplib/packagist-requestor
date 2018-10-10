@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lc-disable-cdn": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/lc-disable-cdn",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 194162,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lc-disable-cdn.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lc-disable-cdn\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lc-disable-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lc-disable-cdn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194163,
+                "time": "2018-06-13 02:31:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lc-disable-cdn.zip?timestamp=1528857101"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lc-disable-cdn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lc-disable-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

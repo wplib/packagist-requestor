@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gda-projects": {
+            "2.0": {
+                "name": "wpackagist-plugin\/gda-projects",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 148013,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gda-projects.zip?timestamp=1469739044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gda-projects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gda-projects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gda-projects",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148014,
+                "time": "2016-07-28 20:50:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gda-projects.zip?timestamp=1469739044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gda-projects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gda-projects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

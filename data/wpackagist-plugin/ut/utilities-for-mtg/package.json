@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/utilities-for-mtg": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/utilities-for-mtg",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 372380,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utilities-for-mtg.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utilities-for-mtg\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utilities-for-mtg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/utilities-for-mtg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372381,
+                "time": "2018-09-28 06:31:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utilities-for-mtg.zip?timestamp=1538116272"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utilities-for-mtg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utilities-for-mtg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

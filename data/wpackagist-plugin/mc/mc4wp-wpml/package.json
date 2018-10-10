@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mc4wp-wpml": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mc4wp-wpml",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 211565,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mc4wp-wpml.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mc4wp-wpml\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mc4wp-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mc4wp-wpml",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211566,
+                "time": "2017-08-03 09:12:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mc4wp-wpml.zip?timestamp=1501751578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mc4wp-wpml\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mc4wp-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

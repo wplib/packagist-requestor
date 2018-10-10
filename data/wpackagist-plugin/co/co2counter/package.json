@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/co2counter": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/co2counter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 72519,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/co2counter.zip?timestamp=1423741002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/co2counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/co2counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/co2counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72520,
+                "time": "2015-02-12 11:36:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/co2counter.zip?timestamp=1423741002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/co2counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/co2counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

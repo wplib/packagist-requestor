@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/layered-pop": {
+            "0.10": {
+                "name": "wpackagist-plugin\/layered-pop",
+                "version": "0.10",
+                "version_normalized": "0.10.0.0",
+                "uid": 193749,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/layered-pop.0.10.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/layered-pop\/",
+                    "reference": "tags\/0.10"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/layered-pop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.11": {
+                "name": "wpackagist-plugin\/layered-pop",
+                "version": "0.11",
+                "version_normalized": "0.11.0.0",
+                "uid": 193750,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/layered-pop.0.11.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/layered-pop\/",
+                    "reference": "tags\/0.11"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/layered-pop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/layered-pop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 193751,
+                "time": "2015-02-08 16:52:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/layered-pop.zip?timestamp=1423414321"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/layered-pop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/layered-pop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

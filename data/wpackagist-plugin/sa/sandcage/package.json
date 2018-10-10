@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sandcage": {
+            "0.1.0.0": {
+                "name": "wpackagist-plugin\/sandcage",
+                "version": "0.1.0.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 299011,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sandcage.0.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sandcage\/",
+                    "reference": "tags\/0.1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sandcage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sandcage",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299012,
+                "time": "2017-12-31 02:13:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sandcage.zip?timestamp=1514686423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sandcage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sandcage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

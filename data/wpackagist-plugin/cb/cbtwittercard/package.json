@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cbtwittercard": {
+            "1.0.7": {
+                "name": "wpackagist-plugin\/cbtwittercard",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "uid": 63536,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbtwittercard.1.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbtwittercard\/",
+                    "reference": "tags\/1.0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbtwittercard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cbtwittercard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63537,
+                "time": "2017-09-11 08:19:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbtwittercard.zip?timestamp=1505117974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbtwittercard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbtwittercard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

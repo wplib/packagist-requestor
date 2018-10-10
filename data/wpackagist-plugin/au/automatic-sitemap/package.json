@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automatic-sitemap": {
+            "1.0": {
+                "name": "wpackagist-plugin\/automatic-sitemap",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31320,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-sitemap.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-sitemap\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-sitemap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automatic-sitemap",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31321,
+                "time": "2016-03-26 09:06:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-sitemap.zip?timestamp=1458983198"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-sitemap\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-sitemap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beesquad": {
+            "0.1": {
+                "name": "wpackagist-plugin\/beesquad",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 38867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beesquad.zip?timestamp=1532991585"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beesquad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beesquad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beesquad",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38868,
+                "time": "2018-07-30 22:59:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beesquad.zip?timestamp=1532991585"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beesquad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beesquad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

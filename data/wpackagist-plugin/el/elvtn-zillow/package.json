@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elvtn-zillow": {
+            "1.3": {
+                "name": "wpackagist-plugin\/elvtn-zillow",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 116767,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elvtn-zillow.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elvtn-zillow\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elvtn-zillow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elvtn-zillow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116768,
+                "time": "2017-12-15 03:07:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elvtn-zillow.zip?timestamp=1513307275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elvtn-zillow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elvtn-zillow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

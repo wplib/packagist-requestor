@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-phil": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/hello-phil",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 164405,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-phil.zip?timestamp=1506385605"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-phil\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-phil\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-phil",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164406,
+                "time": "2017-09-26 00:26:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-phil.zip?timestamp=1506385605"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-phil\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-phil\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

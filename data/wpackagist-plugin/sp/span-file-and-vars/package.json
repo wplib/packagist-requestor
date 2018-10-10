@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/span-file-and-vars": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/span-file-and-vars",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 332329,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/span-file-and-vars.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/span-file-and-vars\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/span-file-and-vars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/span-file-and-vars",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332330,
+                "time": "2018-07-31 13:22:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/span-file-and-vars.zip?timestamp=1533043345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/span-file-and-vars\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/span-file-and-vars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

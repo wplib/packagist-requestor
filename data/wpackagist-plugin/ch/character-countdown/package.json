@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/character-countdown": {
+            "1.0": {
+                "name": "wpackagist-plugin\/character-countdown",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 66020,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/character-countdown.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/character-countdown\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/character-countdown\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/character-countdown",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66021,
+                "time": "2017-05-09 04:35:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/character-countdown.zip?timestamp=1494304552"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/character-countdown\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/character-countdown\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

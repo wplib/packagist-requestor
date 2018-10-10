@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/migrate-drupal-users": {
+            "1.0": {
+                "name": "wpackagist-plugin\/migrate-drupal-users",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 217173,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-drupal-users.zip?timestamp=1523641748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-drupal-users\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-drupal-users\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/migrate-drupal-users",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217174,
+                "time": "2018-04-13 17:49:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-drupal-users.zip?timestamp=1523641748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-drupal-users\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-drupal-users\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

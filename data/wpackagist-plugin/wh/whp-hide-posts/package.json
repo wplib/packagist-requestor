@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whp-hide-posts": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/whp-hide-posts",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 385920,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whp-hide-posts.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whp-hide-posts\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whp-hide-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whp-hide-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385921,
+                "time": "2017-10-11 18:25:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whp-hide-posts.zip?timestamp=1507746312"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whp-hide-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whp-hide-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

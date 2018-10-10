@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-shortcode-highlighter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-shortcode-highlighter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 431423,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-shortcode-highlighter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-shortcode-highlighter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-shortcode-highlighter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-shortcode-highlighter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 431424,
+                "time": "2016-09-24 09:42:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-shortcode-highlighter.zip?timestamp=1474710153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-shortcode-highlighter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-shortcode-highlighter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

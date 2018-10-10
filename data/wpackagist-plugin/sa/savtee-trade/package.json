@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/savtee-trade": {
+            "1.0": {
+                "name": "wpackagist-plugin\/savtee-trade",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 299625,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/savtee-trade.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/savtee-trade\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/savtee-trade\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/savtee-trade",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299626,
+                "time": "2018-08-16 12:11:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/savtee-trade.zip?timestamp=1534421500"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/savtee-trade\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/savtee-trade\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-section-manager": {
+            "1.0": {
+                "name": "wpackagist-plugin\/comment-section-manager",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 75712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-section-manager.zip?timestamp=1481021467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-section-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-section-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-section-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75713,
+                "time": "2016-12-06 10:51:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-section-manager.zip?timestamp=1481021467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-section-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-section-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

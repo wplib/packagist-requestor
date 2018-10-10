@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/audio-and-video-player": {
+            "1.0.19": {
+                "name": "wpackagist-plugin\/audio-and-video-player",
+                "version": "1.0.19",
+                "version_normalized": "1.0.19.0",
+                "uid": 29151,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audio-and-video-player.1.0.19.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audio-and-video-player\/",
+                    "reference": "tags\/1.0.19"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audio-and-video-player\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/audio-and-video-player",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29152,
+                "time": "2018-10-04 22:20:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audio-and-video-player.zip?timestamp=1538691617"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audio-and-video-player\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audio-and-video-player\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

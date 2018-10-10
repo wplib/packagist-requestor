@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-inclusive": {
+            "1.0.7": {
+                "name": "wpackagist-plugin\/all-inclusive",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "uid": 18487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-inclusive.zip?timestamp=1429346422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-inclusive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-inclusive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-inclusive",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18488,
+                "time": "2015-04-18 08:40:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-inclusive.zip?timestamp=1429346422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-inclusive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-inclusive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

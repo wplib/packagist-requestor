@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/checkin": {
+            "1.0": {
+                "name": "wpackagist-plugin\/checkin",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 66792,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/checkin.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/checkin\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/checkin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/checkin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66793,
+                "time": "2017-03-24 23:43:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/checkin.zip?timestamp=1490398990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/checkin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/checkin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

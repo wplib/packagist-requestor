@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pixiefy-simple-twitter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pixiefy-simple-twitter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 257434,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pixiefy-simple-twitter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pixiefy-simple-twitter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pixiefy-simple-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pixiefy-simple-twitter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 257435,
+                "time": "2016-01-01 17:52:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pixiefy-simple-twitter.zip?timestamp=1451670739"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pixiefy-simple-twitter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pixiefy-simple-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

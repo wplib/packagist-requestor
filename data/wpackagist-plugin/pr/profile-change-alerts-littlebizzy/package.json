@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/profile-change-alerts-littlebizzy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/profile-change-alerts-littlebizzy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 270730,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-change-alerts-littlebizzy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-change-alerts-littlebizzy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-change-alerts-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/profile-change-alerts-littlebizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270731,
+                "time": "2018-07-01 09:07:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-change-alerts-littlebizzy.zip?timestamp=1530436058"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-change-alerts-littlebizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-change-alerts-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

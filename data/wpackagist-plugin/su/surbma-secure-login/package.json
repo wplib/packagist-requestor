@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/surbma-secure-login": {
+            "3.1": {
+                "name": "wpackagist-plugin\/surbma-secure-login",
+                "version": "3.1",
+                "version_normalized": "3.1.0.0",
+                "uid": 342759,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-secure-login.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-secure-login\/",
+                    "reference": "tags\/3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-secure-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/surbma-secure-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342760,
+                "time": "2018-09-14 21:15:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-secure-login.zip?timestamp=1536959742"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-secure-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-secure-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

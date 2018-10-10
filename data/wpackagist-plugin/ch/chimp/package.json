@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chimp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/chimp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 67563,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chimp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chimp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chimp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 67564,
+                "time": "2016-11-07 22:22:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chimp.zip?timestamp=1478557368"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

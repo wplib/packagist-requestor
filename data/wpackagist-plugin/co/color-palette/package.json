@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/color-palette": {
+            "2.0": {
+                "name": "wpackagist-plugin\/color-palette",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 74146,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-palette.zip?timestamp=1510855006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-palette\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-palette\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/color-palette",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74147,
+                "time": "2017-11-16 17:56:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-palette.zip?timestamp=1510855006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-palette\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-palette\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

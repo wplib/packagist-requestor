@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/awesome-scrollbar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/awesome-scrollbar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 33112,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-scrollbar.zip?timestamp=1430122148"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-scrollbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/awesome-scrollbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 33113,
+                "time": "2015-04-27 08:09:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-scrollbar.zip?timestamp=1430122148"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-scrollbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

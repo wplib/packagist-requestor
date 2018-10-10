@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cazamba": {
+            "1.2": {
+                "name": "wpackagist-plugin\/cazamba",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 63272,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cazamba.zip?timestamp=1492039618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cazamba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cazamba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cazamba",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63273,
+                "time": "2017-04-12 23:26:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cazamba.zip?timestamp=1492039618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cazamba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cazamba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

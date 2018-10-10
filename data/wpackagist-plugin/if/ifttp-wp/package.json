@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ifttp-wp": {
+            "0.1": {
+                "name": "wpackagist-plugin\/ifttp-wp",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 172103,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifttp-wp.zip?timestamp=1447898234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifttp-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifttp-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ifttp-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172104,
+                "time": "2015-11-19 01:57:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifttp-wp.zip?timestamp=1447898234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifttp-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifttp-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

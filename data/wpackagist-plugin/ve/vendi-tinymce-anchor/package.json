@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vendi-tinymce-anchor": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/vendi-tinymce-anchor",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 373762,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vendi-tinymce-anchor.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vendi-tinymce-anchor\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vendi-tinymce-anchor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vendi-tinymce-anchor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373763,
+                "time": "2017-01-05 15:43:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vendi-tinymce-anchor.zip?timestamp=1483630983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vendi-tinymce-anchor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vendi-tinymce-anchor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

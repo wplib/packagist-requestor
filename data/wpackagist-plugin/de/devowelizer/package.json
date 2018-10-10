@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/devowelizer": {
+            "1.10": {
+                "name": "wpackagist-plugin\/devowelizer",
+                "version": "1.10",
+                "version_normalized": "1.10.0.0",
+                "uid": 98483,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devowelizer.1.10.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devowelizer\/",
+                    "reference": "tags\/1.10"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devowelizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.21": {
+                "name": "wpackagist-plugin\/devowelizer",
+                "version": "1.21",
+                "version_normalized": "1.21.0.0",
+                "uid": 98484,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devowelizer.1.21.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devowelizer\/",
+                    "reference": "tags\/1.21"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devowelizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/devowelizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98485,
+                "time": "2015-03-21 23:07:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devowelizer.zip?timestamp=1426979257"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devowelizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devowelizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

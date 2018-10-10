@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comscore-tag": {
+            "1.0": {
+                "name": "wpackagist-plugin\/comscore-tag",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 77048,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comscore-tag.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comscore-tag\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comscore-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comscore-tag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77049,
+                "time": "2016-08-17 07:58:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comscore-tag.zip?timestamp=1471420693"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comscore-tag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comscore-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

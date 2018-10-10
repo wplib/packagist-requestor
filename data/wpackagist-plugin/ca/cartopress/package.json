@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cartopress": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/cartopress",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 61348,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cartopress.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cartopress\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cartopress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cartopress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61349,
+                "time": "2017-06-06 04:21:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cartopress.zip?timestamp=1496722892"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cartopress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cartopress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

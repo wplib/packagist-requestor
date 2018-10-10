@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wxp-passwords": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wxp-passwords",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 445502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wxp-passwords.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wxp-passwords\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wxp-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wxp-passwords",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445503,
+                "time": "2018-05-11 13:13:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wxp-passwords.zip?timestamp=1526044419"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wxp-passwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wxp-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/manage-privacy-options": {
+            "1.0": {
+                "name": "wpackagist-plugin\/manage-privacy-options",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 208233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-privacy-options.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-privacy-options\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-privacy-options\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/manage-privacy-options",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208234,
+                "time": "2018-05-23 07:23:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-privacy-options.zip?timestamp=1527060210"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-privacy-options\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-privacy-options\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

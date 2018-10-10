@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cookieless-google-analytics": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/cookieless-google-analytics",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 82657,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookieless-google-analytics.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookieless-google-analytics\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookieless-google-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cookieless-google-analytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82658,
+                "time": "2016-03-22 09:34:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookieless-google-analytics.zip?timestamp=1458639282"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookieless-google-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookieless-google-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

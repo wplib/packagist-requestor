@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/memberlite-elements": {
+            "1.0": {
+                "name": "wpackagist-plugin\/memberlite-elements",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 214045,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memberlite-elements.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memberlite-elements\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memberlite-elements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/memberlite-elements",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214046,
+                "time": "2018-07-31 01:32:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memberlite-elements.zip?timestamp=1533000725"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memberlite-elements\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memberlite-elements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

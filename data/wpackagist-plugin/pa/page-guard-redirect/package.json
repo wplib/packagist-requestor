@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/page-guard-redirect": {
+            "1.0": {
+                "name": "wpackagist-plugin\/page-guard-redirect",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 247136,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-guard-redirect.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-guard-redirect\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-guard-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/page-guard-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 247137,
+                "time": "2017-03-25 17:16:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-guard-redirect.zip?timestamp=1490462215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-guard-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-guard-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

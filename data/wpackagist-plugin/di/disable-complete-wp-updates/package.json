@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-complete-wp-updates": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/disable-complete-wp-updates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100206,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-complete-wp-updates.zip?timestamp=1522594533"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-complete-wp-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-complete-wp-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-complete-wp-updates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100207,
+                "time": "2018-04-01 14:55:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-complete-wp-updates.zip?timestamp=1522594533"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-complete-wp-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-complete-wp-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

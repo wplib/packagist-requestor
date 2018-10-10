@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/run-sql-query": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/run-sql-query",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 296951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/run-sql-query.zip?timestamp=1470081370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/run-sql-query\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/run-sql-query\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/run-sql-query",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 296952,
+                "time": "2016-08-01 19:56:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/run-sql-query.zip?timestamp=1470081370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/run-sql-query\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/run-sql-query\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

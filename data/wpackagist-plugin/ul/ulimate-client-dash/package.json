@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ulimate-client-dash": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ulimate-client-dash",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 365309,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ulimate-client-dash.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ulimate-client-dash\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ulimate-client-dash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ulimate-client-dash",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 365310,
+                "time": "2018-10-03 06:04:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ulimate-client-dash.zip?timestamp=1538546678"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ulimate-client-dash\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ulimate-client-dash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

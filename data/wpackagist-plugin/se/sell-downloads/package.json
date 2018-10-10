@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sell-downloads": {
+            "1.0.62": {
+                "name": "wpackagist-plugin\/sell-downloads",
+                "version": "1.0.62",
+                "version_normalized": "1.0.62.0",
+                "uid": 303358,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sell-downloads.1.0.62.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sell-downloads\/",
+                    "reference": "tags\/1.0.62"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sell-downloads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sell-downloads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 303359,
+                "time": "2018-10-04 22:10:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sell-downloads.zip?timestamp=1538691055"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sell-downloads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sell-downloads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

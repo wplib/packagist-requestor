@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elbuntu-pins": {
+            "2.1": {
+                "name": "wpackagist-plugin\/elbuntu-pins",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 115758,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elbuntu-pins.zip?timestamp=1444042211"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elbuntu-pins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elbuntu-pins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elbuntu-pins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115759,
+                "time": "2015-10-05 10:50:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elbuntu-pins.zip?timestamp=1444042211"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elbuntu-pins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elbuntu-pins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

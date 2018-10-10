@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pcs-debug": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pcs-debug",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 251580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pcs-debug.zip?timestamp=1507906868"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pcs-debug\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pcs-debug\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pcs-debug",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 251581,
+                "time": "2017-10-13 15:01:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pcs-debug.zip?timestamp=1507906868"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pcs-debug\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pcs-debug\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

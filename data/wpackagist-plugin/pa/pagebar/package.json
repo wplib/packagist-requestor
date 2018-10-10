@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pagebar": {
+            "2.65": {
+                "name": "wpackagist-plugin\/pagebar",
+                "version": "2.65",
+                "version_normalized": "2.65.0.0",
+                "uid": 247838,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagebar.zip?timestamp=1492780544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pagebar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 247839,
+                "time": "2017-04-21 13:15:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagebar.zip?timestamp=1492780544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

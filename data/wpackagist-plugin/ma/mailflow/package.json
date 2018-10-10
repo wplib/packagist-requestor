@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailflow": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mailflow",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206926,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailflow.zip?timestamp=1447345740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailflow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailflow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailflow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206927,
+                "time": "2015-11-12 16:29:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailflow.zip?timestamp=1447345740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailflow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailflow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

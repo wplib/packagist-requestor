@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/voter-plugin": {
+            "3.0.18": {
+                "name": "wpackagist-plugin\/voter-plugin",
+                "version": "3.0.18",
+                "version_normalized": "3.0.18.0",
+                "uid": 378307,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/voter-plugin.zip?timestamp=1461669822"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/voter-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/voter-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/voter-plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 378308,
+                "time": "2016-04-26 11:23:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/voter-plugin.zip?timestamp=1461669822"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/voter-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/voter-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

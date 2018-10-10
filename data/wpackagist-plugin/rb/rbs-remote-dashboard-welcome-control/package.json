@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rbs-remote-dashboard-welcome-control": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rbs-remote-dashboard-welcome-control",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 281418,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rbs-remote-dashboard-welcome-control.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rbs-remote-dashboard-welcome-control\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rbs-remote-dashboard-welcome-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rbs-remote-dashboard-welcome-control",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281419,
+                "time": "2017-11-09 10:18:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rbs-remote-dashboard-welcome-control.zip?timestamp=1510222718"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rbs-remote-dashboard-welcome-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rbs-remote-dashboard-welcome-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/article-importer": {
+            "2.0": {
+                "name": "wpackagist-plugin\/article-importer",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 26794,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/article-importer.zip?timestamp=1535213046"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/article-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/article-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/article-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26795,
+                "time": "2018-08-25 16:04:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/article-importer.zip?timestamp=1535213046"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/article-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/article-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

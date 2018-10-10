@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/artibot": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/artibot",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 26720,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/artibot.zip?timestamp=1538502096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/artibot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/artibot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/artibot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26721,
+                "time": "2018-10-02 17:41:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/artibot.zip?timestamp=1538502096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/artibot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/artibot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

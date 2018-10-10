@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/offline-updater": {
+            "1.2": {
+                "name": "wpackagist-plugin\/offline-updater",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 240130,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offline-updater.zip?timestamp=1526876482"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offline-updater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offline-updater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/offline-updater",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 240131,
+                "time": "2018-05-21 04:21:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offline-updater.zip?timestamp=1526876482"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offline-updater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offline-updater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

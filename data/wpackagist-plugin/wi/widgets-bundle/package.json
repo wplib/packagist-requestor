@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/widgets-bundle": {
+            "1.0": {
+                "name": "wpackagist-plugin\/widgets-bundle",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 386787,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgets-bundle.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgets-bundle\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgets-bundle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/widgets-bundle",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 386788,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgets-bundle.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgets-bundle\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgets-bundle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/widgets-bundle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 386789,
+                "time": "2018-03-16 13:06:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgets-bundle.zip?timestamp=1521205566"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgets-bundle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgets-bundle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

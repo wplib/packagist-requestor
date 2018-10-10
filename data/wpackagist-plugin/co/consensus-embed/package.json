@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/consensus-embed": {
+            "1.6": {
+                "name": "wpackagist-plugin\/consensus-embed",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 77812,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/consensus-embed.zip?timestamp=1485379878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/consensus-embed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/consensus-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/consensus-embed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77813,
+                "time": "2017-01-25 21:31:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/consensus-embed.zip?timestamp=1485379878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/consensus-embed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/consensus-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

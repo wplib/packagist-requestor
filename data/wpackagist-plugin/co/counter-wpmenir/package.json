@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/counter-wpmenir": {
+            "0.2": {
+                "name": "wpackagist-plugin\/counter-wpmenir",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 84215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counter-wpmenir.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counter-wpmenir\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counter-wpmenir\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/counter-wpmenir",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84216,
+                "time": "2016-01-30 17:24:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counter-wpmenir.zip?timestamp=1454174642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counter-wpmenir\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counter-wpmenir\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

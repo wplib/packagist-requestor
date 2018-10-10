@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/prevu": {
+            "2.0.5": {
+                "name": "wpackagist-plugin\/prevu",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "uid": 268513,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prevu.zip?timestamp=1502939761"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prevu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prevu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/prevu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268514,
+                "time": "2017-08-17 03:16:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prevu.zip?timestamp=1502939761"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prevu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prevu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-property-feed-to-houzez-theme-connector": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-property-feed-to-houzez-theme-connector",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 427906,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-property-feed-to-houzez-theme-connector.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-property-feed-to-houzez-theme-connector\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-property-feed-to-houzez-theme-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-property-feed-to-houzez-theme-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 427907,
+                "time": "2018-07-04 11:27:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-property-feed-to-houzez-theme-connector.zip?timestamp=1530703673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-property-feed-to-houzez-theme-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-property-feed-to-houzez-theme-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

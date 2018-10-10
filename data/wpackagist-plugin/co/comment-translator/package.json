@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-translator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/comment-translator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 75788,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-translator.zip?timestamp=1420097772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-translator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-translator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-translator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75789,
+                "time": "2015-01-01 07:36:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-translator.zip?timestamp=1420097772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-translator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-translator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

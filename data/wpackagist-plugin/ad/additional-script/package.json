@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/additional-script": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/additional-script",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8043,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/additional-script.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/additional-script\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/additional-script\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0.0": {
+                "name": "wpackagist-plugin\/additional-script",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 8044,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/additional-script.2.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/additional-script\/",
+                    "reference": "tags\/2.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/additional-script\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/additional-script",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8045,
+                "time": "2018-08-04 06:55:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/additional-script.zip?timestamp=1533365707"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/additional-script\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/additional-script\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

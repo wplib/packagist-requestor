@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ajaxify-wordpress-site": {
+            "1.5.5": {
+                "name": "wpackagist-plugin\/ajaxify-wordpress-site",
+                "version": "1.5.5",
+                "version_normalized": "1.5.5.0",
+                "uid": 16605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajaxify-wordpress-site.zip?timestamp=1517594282"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajaxify-wordpress-site\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajaxify-wordpress-site\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ajaxify-wordpress-site",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 16606,
+                "time": "2018-02-02 17:58:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajaxify-wordpress-site.zip?timestamp=1517594282"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajaxify-wordpress-site\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajaxify-wordpress-site\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

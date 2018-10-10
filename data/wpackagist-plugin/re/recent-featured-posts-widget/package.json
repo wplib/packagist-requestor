@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recent-featured-posts-widget": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/recent-featured-posts-widget",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 283509,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-featured-posts-widget.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-featured-posts-widget\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-featured-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recent-featured-posts-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 283510,
+                "time": "2016-02-12 15:02:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-featured-posts-widget.zip?timestamp=1455289356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-featured-posts-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-featured-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remove-code-version-tags": {
+            "1.0": {
+                "name": "wpackagist-plugin\/remove-code-version-tags",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 286825,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-code-version-tags.zip?timestamp=1511480801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-code-version-tags\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-code-version-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remove-code-version-tags",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286826,
+                "time": "2017-11-23 23:46:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-code-version-tags.zip?timestamp=1511480801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-code-version-tags\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-code-version-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

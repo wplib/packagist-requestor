@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fullscreen-gallery": {
+            "0.1": {
+                "name": "wpackagist-plugin\/fullscreen-gallery",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 144503,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullscreen-gallery.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullscreen-gallery\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullscreen-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2": {
+                "name": "wpackagist-plugin\/fullscreen-gallery",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 144504,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullscreen-gallery.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullscreen-gallery\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullscreen-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fullscreen-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144505,
+                "time": "2015-09-14 19:54:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullscreen-gallery.zip?timestamp=1442260498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullscreen-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullscreen-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

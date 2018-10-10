@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/afs-analytics-for-woocommerce": {
+            "1.1": {
+                "name": "wpackagist-plugin\/afs-analytics-for-woocommerce",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 14793,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/afs-analytics-for-woocommerce.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/afs-analytics-for-woocommerce\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/afs-analytics-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/afs-analytics-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 14794,
+                "time": "2018-03-16 02:40:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/afs-analytics-for-woocommerce.zip?timestamp=1521168017"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/afs-analytics-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/afs-analytics-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

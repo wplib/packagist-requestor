@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/houdini": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/houdini",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 167843,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/houdini.zip?timestamp=1472342165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/houdini\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/houdini\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/houdini",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 167844,
+                "time": "2016-08-27 23:56:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/houdini.zip?timestamp=1472342165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/houdini\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/houdini\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

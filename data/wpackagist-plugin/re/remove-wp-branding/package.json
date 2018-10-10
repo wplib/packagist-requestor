@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remove-wp-branding": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/remove-wp-branding",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 287243,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-wp-branding.zip?timestamp=1464899681"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-wp-branding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-wp-branding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remove-wp-branding",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287244,
+                "time": "2016-06-02 20:34:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-wp-branding.zip?timestamp=1464899681"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-wp-branding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-wp-branding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

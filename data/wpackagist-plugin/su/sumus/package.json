@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sumus": {
+            "2.2": {
+                "name": "wpackagist-plugin\/sumus",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 341057,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sumus.zip?timestamp=1516258392"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sumus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sumus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sumus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341058,
+                "time": "2018-01-18 06:53:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sumus.zip?timestamp=1516258392"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sumus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sumus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

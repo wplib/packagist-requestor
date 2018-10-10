@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-bitcoin-wallet": {
+            "1.9": {
+                "name": "wpackagist-plugin\/wp-bitcoin-wallet",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "uid": 408194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-bitcoin-wallet.zip?timestamp=1478221927"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-bitcoin-wallet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-bitcoin-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-bitcoin-wallet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 408195,
+                "time": "2016-11-04 01:12:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-bitcoin-wallet.zip?timestamp=1478221927"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-bitcoin-wallet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-bitcoin-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

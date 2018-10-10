@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miracle-fulfillment-woocommerce-order-integration": {
+            "1.01": {
+                "name": "wpackagist-plugin\/miracle-fulfillment-woocommerce-order-integration",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 218713,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miracle-fulfillment-woocommerce-order-integration.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miracle-fulfillment-woocommerce-order-integration\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miracle-fulfillment-woocommerce-order-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miracle-fulfillment-woocommerce-order-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218714,
+                "time": "2016-04-22 17:53:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miracle-fulfillment-woocommerce-order-integration.zip?timestamp=1461347616"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miracle-fulfillment-woocommerce-order-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miracle-fulfillment-woocommerce-order-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

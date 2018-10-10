@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stock-photos": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/stock-photos",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stock-photos.zip?timestamp=1501457679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stock-photos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stock-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stock-photos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337301,
+                "time": "2017-07-30 23:34:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stock-photos.zip?timestamp=1501457679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stock-photos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stock-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automatic-internal-links": {
+            "0.9": {
+                "name": "wpackagist-plugin\/automatic-internal-links",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 31225,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-internal-links.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-internal-links\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-internal-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automatic-internal-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31226,
+                "time": "2016-01-13 16:25:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automatic-internal-links.zip?timestamp=1452702316"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automatic-internal-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automatic-internal-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

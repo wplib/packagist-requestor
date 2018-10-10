@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-content-calendar-lite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-content-calendar-lite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 410778,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-content-calendar-lite.zip?timestamp=1479427548"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-content-calendar-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-content-calendar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-content-calendar-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 410779,
+                "time": "2016-11-18 00:05:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-content-calendar-lite.zip?timestamp=1479427548"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-content-calendar-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-content-calendar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

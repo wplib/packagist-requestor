@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gamipress-buddypress-group-leaderboard": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gamipress-buddypress-group-leaderboard",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 147070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-buddypress-group-leaderboard.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-buddypress-group-leaderboard\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-buddypress-group-leaderboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gamipress-buddypress-group-leaderboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147071,
+                "time": "2018-05-03 16:37:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-buddypress-group-leaderboard.zip?timestamp=1525365470"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-buddypress-group-leaderboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-buddypress-group-leaderboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

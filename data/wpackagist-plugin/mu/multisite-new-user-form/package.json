@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multisite-new-user-form": {
+            "1.0": {
+                "name": "wpackagist-plugin\/multisite-new-user-form",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 225447,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-new-user-form.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-new-user-form\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-new-user-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multisite-new-user-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225448,
+                "time": "2018-03-20 22:25:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-new-user-form.zip?timestamp=1521584745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-new-user-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-new-user-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

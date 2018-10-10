@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/faculty-and-staff": {
+            "1.0": {
+                "name": "wpackagist-plugin\/faculty-and-staff",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 128743,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/faculty-and-staff.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/faculty-and-staff\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/faculty-and-staff\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/faculty-and-staff",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 128744,
+                "time": "2015-04-21 13:35:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/faculty-and-staff.zip?timestamp=1429623320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/faculty-and-staff\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/faculty-and-staff\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

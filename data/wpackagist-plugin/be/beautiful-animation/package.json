@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beautiful-animation": {
+            "1.0": {
+                "name": "wpackagist-plugin\/beautiful-animation",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 38380,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beautiful-animation.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beautiful-animation\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beautiful-animation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beautiful-animation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38381,
+                "time": "2018-09-28 19:50:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beautiful-animation.zip?timestamp=1538164217"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beautiful-animation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beautiful-animation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

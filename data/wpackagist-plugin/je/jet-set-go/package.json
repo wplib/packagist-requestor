@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jet-set-go": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/jet-set-go",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 183266,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jet-set-go.zip?timestamp=1510237326"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jet-set-go\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jet-set-go\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jet-set-go",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183267,
+                "time": "2017-11-09 14:22:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jet-set-go.zip?timestamp=1510237326"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jet-set-go\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jet-set-go\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

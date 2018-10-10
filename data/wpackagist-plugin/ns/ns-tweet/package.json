@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ns-tweet": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ns-tweet",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 238212,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ns-tweet.zip?timestamp=1460565192"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ns-tweet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ns-tweet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ns-tweet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238213,
+                "time": "2016-04-13 16:33:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ns-tweet.zip?timestamp=1460565192"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ns-tweet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ns-tweet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

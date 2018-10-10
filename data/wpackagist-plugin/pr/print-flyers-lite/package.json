@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/print-flyers-lite": {
+            "1.0": {
+                "name": "wpackagist-plugin\/print-flyers-lite",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 268911,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/print-flyers-lite.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/print-flyers-lite\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/print-flyers-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/print-flyers-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268912,
+                "time": "2018-08-02 14:59:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/print-flyers-lite.zip?timestamp=1533221973"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/print-flyers-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/print-flyers-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

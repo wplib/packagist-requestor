@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loginout": {
+            "0.259": {
+                "name": "wpackagist-plugin\/loginout",
+                "version": "0.259",
+                "version_normalized": "0.259.0.0",
+                "uid": 203299,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginout.zip?timestamp=1516227689"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loginout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203300,
+                "time": "2018-01-17 22:21:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginout.zip?timestamp=1516227689"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

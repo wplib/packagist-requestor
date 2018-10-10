@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bolt-news": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bolt-news",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 47582,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bolt-news.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bolt-news\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bolt-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bolt-news",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47583,
+                "time": "2017-04-27 14:45:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bolt-news.zip?timestamp=1493304343"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bolt-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bolt-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

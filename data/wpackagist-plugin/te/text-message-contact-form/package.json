@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/text-message-contact-form": {
+            "0.91": {
+                "name": "wpackagist-plugin\/text-message-contact-form",
+                "version": "0.91",
+                "version_normalized": "0.91.0.0",
+                "uid": 349494,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-message-contact-form.0.91.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-message-contact-form\/",
+                    "reference": "tags\/0.91"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-message-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/text-message-contact-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349495,
+                "time": "2016-03-03 19:01:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-message-contact-form.zip?timestamp=1457031691"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-message-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-message-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

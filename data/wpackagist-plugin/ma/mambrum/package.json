@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mambrum": {
+            "1.1": {
+                "name": "wpackagist-plugin\/mambrum",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 208128,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mambrum.zip?timestamp=1536677595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mambrum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mambrum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mambrum",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208129,
+                "time": "2018-09-11 14:53:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mambrum.zip?timestamp=1536677595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mambrum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mambrum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

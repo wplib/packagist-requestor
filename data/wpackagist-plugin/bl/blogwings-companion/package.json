@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blogwings-companion": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/blogwings-companion",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 45469,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blogwings-companion.zip?timestamp=1527056986"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blogwings-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blogwings-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blogwings-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 45470,
+                "time": "2018-05-23 06:29:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blogwings-companion.zip?timestamp=1527056986"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blogwings-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blogwings-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

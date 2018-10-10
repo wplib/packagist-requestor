@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/muv-youtube-datenschutz": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/muv-youtube-datenschutz",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 226094,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/muv-youtube-datenschutz.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/muv-youtube-datenschutz\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/muv-youtube-datenschutz\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/muv-youtube-datenschutz",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 226095,
+                "time": "2017-12-19 16:20:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/muv-youtube-datenschutz.zip?timestamp=1513700403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/muv-youtube-datenschutz\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/muv-youtube-datenschutz\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

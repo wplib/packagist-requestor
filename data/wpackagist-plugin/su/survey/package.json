@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/survey": {
+            "1.1": {
+                "name": "wpackagist-plugin\/survey",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 342951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/survey.zip?timestamp=1484914009"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/survey\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/survey\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/survey",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342952,
+                "time": "2017-01-20 12:06:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/survey.zip?timestamp=1484914009"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/survey\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/survey\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

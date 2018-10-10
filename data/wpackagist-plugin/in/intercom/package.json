@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/intercom": {
+            "2.6.1": {
+                "name": "wpackagist-plugin\/intercom",
+                "version": "2.6.1",
+                "version_normalized": "2.6.1.0",
+                "uid": 179390,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intercom.zip?timestamp=1526392577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intercom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intercom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/intercom",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179391,
+                "time": "2018-05-15 13:56:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intercom.zip?timestamp=1526392577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intercom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intercom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wootoolbelt": {
+            "0.7": {
+                "name": "wpackagist-plugin\/wootoolbelt",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 400368,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wootoolbelt.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wootoolbelt\/",
+                    "reference": "tags\/0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wootoolbelt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wootoolbelt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400369,
+                "time": "2016-10-18 12:50:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wootoolbelt.zip?timestamp=1476795054"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wootoolbelt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wootoolbelt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

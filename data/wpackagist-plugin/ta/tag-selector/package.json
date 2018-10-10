@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tag-selector": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tag-selector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345481,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-selector.zip?timestamp=1456871497"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-selector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-selector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tag-selector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345482,
+                "time": "2016-03-01 22:31:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-selector.zip?timestamp=1456871497"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-selector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-selector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

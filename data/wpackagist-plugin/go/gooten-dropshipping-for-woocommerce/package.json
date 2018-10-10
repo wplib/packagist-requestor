@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gooten-dropshipping-for-woocommerce": {
+            "1.3.0": {
+                "name": "wpackagist-plugin\/gooten-dropshipping-for-woocommerce",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "uid": 156784,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gooten-dropshipping-for-woocommerce.1.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gooten-dropshipping-for-woocommerce\/",
+                    "reference": "tags\/1.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gooten-dropshipping-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gooten-dropshipping-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 156785,
+                "time": "2017-05-23 10:50:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gooten-dropshipping-for-woocommerce.zip?timestamp=1495536628"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gooten-dropshipping-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gooten-dropshipping-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seldos-special-days": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/seldos-special-days",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 303174,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seldos-special-days.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seldos-special-days\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seldos-special-days\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seldos-special-days",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 303175,
+                "time": "2018-06-23 17:59:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seldos-special-days.zip?timestamp=1529776751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seldos-special-days\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seldos-special-days\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

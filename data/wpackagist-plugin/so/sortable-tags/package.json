@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sortable-tags": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sortable-tags",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 331012,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sortable-tags.zip?timestamp=1525165739"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sortable-tags\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sortable-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sortable-tags",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 331013,
+                "time": "2018-05-01 09:08:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sortable-tags.zip?timestamp=1525165739"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sortable-tags\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sortable-tags\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

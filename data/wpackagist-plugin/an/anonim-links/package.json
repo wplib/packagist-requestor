@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anonim-links": {
+            "1.0": {
+                "name": "wpackagist-plugin\/anonim-links",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 22794,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anonim-links.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anonim-links\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anonim-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anonim-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22795,
+                "time": "2015-07-25 15:17:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anonim-links.zip?timestamp=1437837449"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anonim-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anonim-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

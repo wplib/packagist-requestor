@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cosmic-normalizer": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cosmic-normalizer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 83836,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cosmic-normalizer.zip?timestamp=1436803515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cosmic-normalizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cosmic-normalizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cosmic-normalizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83837,
+                "time": "2015-07-13 16:05:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cosmic-normalizer.zip?timestamp=1436803515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cosmic-normalizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cosmic-normalizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

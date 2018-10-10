@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dotclear2-importer": {
+            "0.3": {
+                "name": "wpackagist-plugin\/dotclear2-importer",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 103800,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dotclear2-importer.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dotclear2-importer\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dotclear2-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dotclear2-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103801,
+                "time": "2018-07-12 17:44:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dotclear2-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dotclear2-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dotclear2-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

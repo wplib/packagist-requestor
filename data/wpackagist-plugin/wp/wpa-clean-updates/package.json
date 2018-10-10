@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpa-clean-updates": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpa-clean-updates",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 439640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpa-clean-updates.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpa-clean-updates\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpa-clean-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpa-clean-updates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439641,
+                "time": "2018-04-10 10:21:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpa-clean-updates.zip?timestamp=1523355664"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpa-clean-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpa-clean-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

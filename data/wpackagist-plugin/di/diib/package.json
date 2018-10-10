@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/diib": {
+            "1.0": {
+                "name": "wpackagist-plugin\/diib",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 99646,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diib.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diib\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/diib",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99647,
+                "time": "2015-04-27 18:05:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diib.zip?timestamp=1430157956"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diib\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

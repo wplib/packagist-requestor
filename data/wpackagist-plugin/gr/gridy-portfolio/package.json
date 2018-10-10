@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gridy-portfolio": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gridy-portfolio",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 160429,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gridy-portfolio.zip?timestamp=1442236928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gridy-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gridy-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gridy-portfolio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160430,
+                "time": "2015-09-14 13:22:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gridy-portfolio.zip?timestamp=1442236928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gridy-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gridy-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

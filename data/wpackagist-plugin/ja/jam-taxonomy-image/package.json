@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jam-taxonomy-image": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jam-taxonomy-image",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 182457,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jam-taxonomy-image.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jam-taxonomy-image\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jam-taxonomy-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jam-taxonomy-image",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182458,
+                "time": "2015-09-27 18:56:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jam-taxonomy-image.zip?timestamp=1443380188"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jam-taxonomy-image\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jam-taxonomy-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpg-detect-browser": {
+            "2.0": {
+                "name": "wpackagist-plugin\/wpg-detect-browser",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 441464,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpg-detect-browser.zip?timestamp=1480351456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpg-detect-browser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpg-detect-browser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpg-detect-browser",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441465,
+                "time": "2016-11-28 16:44:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpg-detect-browser.zip?timestamp=1480351456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpg-detect-browser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpg-detect-browser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

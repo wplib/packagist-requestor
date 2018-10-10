@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pay-to-view-all": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/pay-to-view-all",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 250268,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pay-to-view-all.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pay-to-view-all\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pay-to-view-all\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pay-to-view-all",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250269,
+                "time": "2018-02-01 01:00:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pay-to-view-all.zip?timestamp=1517446802"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pay-to-view-all\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pay-to-view-all\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-routing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gp-routing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 157233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-routing.zip?timestamp=1448600512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-routing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-routing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-routing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157234,
+                "time": "2015-11-27 05:01:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-routing.zip?timestamp=1448600512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-routing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-routing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

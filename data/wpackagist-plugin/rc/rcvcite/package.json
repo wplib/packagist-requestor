@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rcvcite": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rcvcite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281495,
+                "time": "2017-07-20 20:31:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rcvcite.zip?timestamp=1500582691"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rcvcite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rcvcite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

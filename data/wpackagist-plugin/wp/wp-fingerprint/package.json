@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-fingerprint": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-fingerprint",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 416329,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-fingerprint.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-fingerprint\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-fingerprint\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/wp-fingerprint",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 416330,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-fingerprint.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-fingerprint\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-fingerprint\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-fingerprint",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 416331,
+                "time": "2018-04-06 09:38:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-fingerprint.zip?timestamp=1523007512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-fingerprint\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-fingerprint\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

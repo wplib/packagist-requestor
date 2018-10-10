@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-edit-password-protected": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/wp-edit-password-protected",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 414178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-edit-password-protected.zip?timestamp=1536837057"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-edit-password-protected\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-edit-password-protected\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-edit-password-protected",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 414179,
+                "time": "2018-09-13 11:10:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-edit-password-protected.zip?timestamp=1536837057"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-edit-password-protected\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-edit-password-protected\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

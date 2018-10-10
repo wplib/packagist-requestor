@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ncg-converter": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ncg-converter",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 229719,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ncg-converter.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ncg-converter\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ncg-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ncg-converter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229720,
+                "time": "2016-04-01 10:55:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ncg-converter.zip?timestamp=1459508147"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ncg-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ncg-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

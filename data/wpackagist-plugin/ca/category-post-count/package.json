@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/category-post-count": {
+            "0.1.2": {
+                "name": "wpackagist-plugin\/category-post-count",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "uid": 62761,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/category-post-count.0.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/category-post-count\/",
+                    "reference": "tags\/0.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/category-post-count\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/category-post-count",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 62762,
+                "time": "2015-12-11 23:31:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/category-post-count.zip?timestamp=1449876688"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/category-post-count\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/category-post-count\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

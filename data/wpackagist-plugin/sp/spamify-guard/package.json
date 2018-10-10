@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/spamify-guard": {
+            "1.0": {
+                "name": "wpackagist-plugin\/spamify-guard",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 332257,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spamify-guard.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spamify-guard\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spamify-guard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/spamify-guard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332258,
+                "time": "2017-02-09 19:30:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spamify-guard.zip?timestamp=1486668611"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spamify-guard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spamify-guard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

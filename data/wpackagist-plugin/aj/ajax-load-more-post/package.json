@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ajax-load-more-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ajax-load-more-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 16231,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajax-load-more-post.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajax-load-more-post\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajax-load-more-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ajax-load-more-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 16232,
+                "time": "2018-01-20 19:03:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajax-load-more-post.zip?timestamp=1516475031"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajax-load-more-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajax-load-more-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/events-management": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/events-management",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 123560,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/events-management.zip?timestamp=1494510908"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/events-management\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/events-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/events-management",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 123561,
+                "time": "2017-05-11 13:55:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/events-management.zip?timestamp=1494510908"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/events-management\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/events-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

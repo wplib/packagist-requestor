@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/browser-details-for-gravity-forms": {
+            "1.0": {
+                "name": "wpackagist-plugin\/browser-details-for-gravity-forms",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 52826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/browser-details-for-gravity-forms.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/browser-details-for-gravity-forms\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/browser-details-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/browser-details-for-gravity-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 52827,
+                "time": "2015-07-23 16:57:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/browser-details-for-gravity-forms.zip?timestamp=1437670660"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/browser-details-for-gravity-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/browser-details-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

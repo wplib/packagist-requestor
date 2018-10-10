@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anonymize-links": {
+            "1.1": {
+                "name": "wpackagist-plugin\/anonymize-links",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 22800,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anonymize-links.zip?timestamp=1440012972"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anonymize-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anonymize-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anonymize-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22801,
+                "time": "2015-08-19 19:36:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anonymize-links.zip?timestamp=1440012972"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anonymize-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anonymize-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

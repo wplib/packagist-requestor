@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/members-import": {
+            "1.4.1": {
+                "name": "wpackagist-plugin\/members-import",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "uid": 214100,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-import.zip?timestamp=1517594261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-import\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/members-import",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214101,
+                "time": "2018-02-02 17:57:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-import.zip?timestamp=1517594261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-import\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loxi-event-calendar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/loxi-event-calendar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loxi-event-calendar.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loxi-event-calendar\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loxi-event-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loxi-event-calendar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204216,
+                "time": "2018-08-29 17:27:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loxi-event-calendar.zip?timestamp=1535563665"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loxi-event-calendar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loxi-event-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

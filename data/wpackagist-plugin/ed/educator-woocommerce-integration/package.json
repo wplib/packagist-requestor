@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/educator-woocommerce-integration": {
+            "1.1": {
+                "name": "wpackagist-plugin\/educator-woocommerce-integration",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 114635,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/educator-woocommerce-integration.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/educator-woocommerce-integration\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/educator-woocommerce-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/educator-woocommerce-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114636,
+                "time": "2015-11-11 16:36:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/educator-woocommerce-integration.zip?timestamp=1447259760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/educator-woocommerce-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/educator-woocommerce-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

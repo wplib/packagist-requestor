@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/appsaur-twp-youtube": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/appsaur-twp-youtube",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 25270,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appsaur-twp-youtube.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appsaur-twp-youtube\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appsaur-twp-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/appsaur-twp-youtube",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25271,
+                "time": "2017-05-24 10:13:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appsaur-twp-youtube.zip?timestamp=1495620782"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appsaur-twp-youtube\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appsaur-twp-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wtg-tasks-manager": {
+            "0.0.40": {
+                "name": "wpackagist-plugin\/wtg-tasks-manager",
+                "version": "0.0.40",
+                "version_normalized": "0.0.40.0",
+                "uid": 445325,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wtg-tasks-manager.zip?timestamp=1489879873"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wtg-tasks-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wtg-tasks-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wtg-tasks-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445326,
+                "time": "2017-03-18 23:31:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wtg-tasks-manager.zip?timestamp=1489879873"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wtg-tasks-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wtg-tasks-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/animate": {
+            "0.5": {
+                "name": "wpackagist-plugin\/animate",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 22349,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/animate.zip?timestamp=1455003437"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/animate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/animate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/animate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22350,
+                "time": "2016-02-09 07:37:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/animate.zip?timestamp=1455003437"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/animate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/animate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

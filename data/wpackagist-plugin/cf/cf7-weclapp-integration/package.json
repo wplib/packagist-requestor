@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-weclapp-integration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cf7-weclapp-integration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65181,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-weclapp-integration.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-weclapp-integration\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-weclapp-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-weclapp-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65182,
+                "time": "2018-08-30 06:16:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-weclapp-integration.zip?timestamp=1535609777"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-weclapp-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-weclapp-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-html-in-url": {
+            "1.0": {
+                "name": "wpackagist-plugin\/add-html-in-url",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 7115,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-html-in-url.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-html-in-url\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-html-in-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-html-in-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 7116,
+                "time": "2018-06-05 05:43:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-html-in-url.zip?timestamp=1528177385"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-html-in-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-html-in-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

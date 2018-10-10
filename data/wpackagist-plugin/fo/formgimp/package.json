@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/formgimp": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/formgimp",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 140472,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formgimp.zip?timestamp=1483562063"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formgimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formgimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/formgimp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140473,
+                "time": "2017-01-04 20:34:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formgimp.zip?timestamp=1483562063"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formgimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formgimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

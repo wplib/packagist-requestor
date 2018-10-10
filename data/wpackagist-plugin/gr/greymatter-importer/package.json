@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/greymatter-importer": {
+            "0.2": {
+                "name": "wpackagist-plugin\/greymatter-importer",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 159976,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/greymatter-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/greymatter-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/greymatter-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/greymatter-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 159977,
+                "time": "2018-07-12 17:44:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/greymatter-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/greymatter-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/greymatter-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

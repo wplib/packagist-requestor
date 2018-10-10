@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shiprocket": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/shiprocket",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 308695,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shiprocket.zip?timestamp=1510217839"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shiprocket\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shiprocket\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shiprocket",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 308696,
+                "time": "2017-11-09 08:57:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shiprocket.zip?timestamp=1510217839"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shiprocket\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shiprocket\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

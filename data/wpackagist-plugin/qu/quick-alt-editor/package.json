@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quick-alt-editor": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/quick-alt-editor",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 276330,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quick-alt-editor.zip?timestamp=1521187865"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quick-alt-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quick-alt-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quick-alt-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 276331,
+                "time": "2018-03-16 08:11:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quick-alt-editor.zip?timestamp=1521187865"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quick-alt-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quick-alt-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

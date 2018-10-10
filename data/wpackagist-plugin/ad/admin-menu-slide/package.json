@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-menu-slide": {
+            "1.0": {
+                "name": "wpackagist-plugin\/admin-menu-slide",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 9443,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-menu-slide.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-menu-slide\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-menu-slide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-menu-slide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 9444,
+                "time": "2015-07-30 13:50:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-menu-slide.zip?timestamp=1438264208"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-menu-slide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-menu-slide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

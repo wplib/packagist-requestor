@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpf-one-click-plugin-install": {
+            "1.1": {
+                "name": "wpackagist-plugin\/wpf-one-click-plugin-install",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 441197,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpf-one-click-plugin-install.zip?timestamp=1483954356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpf-one-click-plugin-install\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpf-one-click-plugin-install\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpf-one-click-plugin-install",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441198,
+                "time": "2017-01-09 09:32:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpf-one-click-plugin-install.zip?timestamp=1483954356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpf-one-click-plugin-install\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpf-one-click-plugin-install\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

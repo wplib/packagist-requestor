@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asd-fastbuild-widgets": {
+            "2.201808201": {
+                "name": "wpackagist-plugin\/asd-fastbuild-widgets",
+                "version": "2.201808201",
+                "version_normalized": "2.201808201.0.0",
+                "uid": 27291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-fastbuild-widgets.2.201808201.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-fastbuild-widgets\/",
+                    "reference": "tags\/2.201808201"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-fastbuild-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asd-fastbuild-widgets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27292,
+                "time": "2018-08-20 18:22:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-fastbuild-widgets.zip?timestamp=1534789347"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-fastbuild-widgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-fastbuild-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

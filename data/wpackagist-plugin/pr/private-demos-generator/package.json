@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/private-demos-generator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/private-demos-generator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 269353,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/private-demos-generator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/private-demos-generator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/private-demos-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/private-demos-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 269354,
+                "time": "2018-05-31 05:15:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/private-demos-generator.zip?timestamp=1527743718"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/private-demos-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/private-demos-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

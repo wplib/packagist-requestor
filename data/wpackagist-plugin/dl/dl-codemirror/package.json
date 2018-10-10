@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dl-codemirror": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dl-codemirror",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102348,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dl-codemirror.zip?timestamp=1472385981"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dl-codemirror\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dl-codemirror\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dl-codemirror",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102349,
+                "time": "2016-08-28 12:06:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dl-codemirror.zip?timestamp=1472385981"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dl-codemirror\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dl-codemirror\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

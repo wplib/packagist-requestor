@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hatena-connect": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/hatena-connect",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 163045,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hatena-connect.zip?timestamp=1446643098"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hatena-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hatena-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hatena-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 163046,
+                "time": "2015-11-04 13:18:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hatena-connect.zip?timestamp=1446643098"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hatena-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hatena-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

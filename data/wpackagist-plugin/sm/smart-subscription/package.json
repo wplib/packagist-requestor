@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smart-subscription": {
+            "1.0": {
+                "name": "wpackagist-plugin\/smart-subscription",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 325136,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-subscription.zip?timestamp=1518692982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-subscription\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-subscription\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smart-subscription",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325137,
+                "time": "2018-02-15 11:09:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-subscription.zip?timestamp=1518692982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-subscription\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-subscription\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

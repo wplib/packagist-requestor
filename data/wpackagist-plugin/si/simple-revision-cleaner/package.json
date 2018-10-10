@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-revision-cleaner": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/simple-revision-cleaner",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 316977,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-revision-cleaner.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-revision-cleaner\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-revision-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-revision-cleaner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 316978,
+                "time": "2018-08-28 15:25:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-revision-cleaner.zip?timestamp=1535469952"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-revision-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-revision-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minestatus": {
+            "3.0": {
+                "name": "wpackagist-plugin\/minestatus",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 217723,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minestatus.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minestatus\/",
+                    "reference": "tags\/3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minestatus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.0.1": {
+                "name": "wpackagist-plugin\/minestatus",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "uid": 217724,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minestatus.3.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minestatus\/",
+                    "reference": "tags\/3.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minestatus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minestatus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217725,
+                "time": "2016-09-21 07:26:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minestatus.zip?timestamp=1474442760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minestatus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minestatus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

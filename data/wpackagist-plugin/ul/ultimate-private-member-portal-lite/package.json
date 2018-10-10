@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-private-member-portal-lite": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ultimate-private-member-portal-lite",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 366443,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-private-member-portal-lite.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-private-member-portal-lite\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-private-member-portal-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-private-member-portal-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 366444,
+                "time": "2017-07-19 13:22:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-private-member-portal-lite.zip?timestamp=1500470521"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-private-member-portal-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-private-member-portal-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

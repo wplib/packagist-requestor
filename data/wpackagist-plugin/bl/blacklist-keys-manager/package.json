@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blacklist-keys-manager": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/blacklist-keys-manager",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 43274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blacklist-keys-manager.zip?timestamp=1432256142"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blacklist-keys-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blacklist-keys-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blacklist-keys-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43275,
+                "time": "2015-05-22 00:55:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blacklist-keys-manager.zip?timestamp=1432256142"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blacklist-keys-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blacklist-keys-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

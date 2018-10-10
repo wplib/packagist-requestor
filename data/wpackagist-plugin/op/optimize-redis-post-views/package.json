@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/optimize-redis-post-views": {
+            "1.7": {
+                "name": "wpackagist-plugin\/optimize-redis-post-views",
+                "version": "1.7",
+                "version_normalized": "1.7.0.0",
+                "uid": 243620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/optimize-redis-post-views.1.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/optimize-redis-post-views\/",
+                    "reference": "tags\/1.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/optimize-redis-post-views\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/optimize-redis-post-views",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243621,
+                "time": "2018-07-27 06:32:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/optimize-redis-post-views.zip?timestamp=1532673139"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/optimize-redis-post-views\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/optimize-redis-post-views\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

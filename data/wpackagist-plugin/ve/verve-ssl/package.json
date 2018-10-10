@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/verve-ssl": {
+            "2.6": {
+                "name": "wpackagist-plugin\/verve-ssl",
+                "version": "2.6",
+                "version_normalized": "2.6.0.0",
+                "uid": 374251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/verve-ssl.zip?timestamp=1529080294"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/verve-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/verve-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/verve-ssl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 374252,
+                "time": "2018-06-15 16:31:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/verve-ssl.zip?timestamp=1529080294"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/verve-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/verve-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/guest-order-tracking-for-woocommerce": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/guest-order-tracking-for-woocommerce",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161297,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guest-order-tracking-for-woocommerce.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guest-order-tracking-for-woocommerce\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guest-order-tracking-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/guest-order-tracking-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161298,
+                "time": "2018-01-09 06:56:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guest-order-tracking-for-woocommerce.zip?timestamp=1515480982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guest-order-tracking-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guest-order-tracking-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

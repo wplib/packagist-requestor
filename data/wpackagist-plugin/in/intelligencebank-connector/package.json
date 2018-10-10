@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/intelligencebank-connector": {
+            "0.0.4": {
+                "name": "wpackagist-plugin\/intelligencebank-connector",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "uid": 179157,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intelligencebank-connector.0.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intelligencebank-connector\/",
+                    "reference": "tags\/0.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intelligencebank-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/intelligencebank-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179158,
+                "time": "2018-05-17 13:41:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intelligencebank-connector.zip?timestamp=1526564467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intelligencebank-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intelligencebank-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

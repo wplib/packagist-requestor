@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/screenshot-machine-shortcode": {
+            "2.0.0": {
+                "name": "wpackagist-plugin\/screenshot-machine-shortcode",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 300888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/screenshot-machine-shortcode.2.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/screenshot-machine-shortcode\/",
+                    "reference": "tags\/2.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/screenshot-machine-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/screenshot-machine-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300889,
+                "time": "2018-08-11 10:41:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/screenshot-machine-shortcode.zip?timestamp=1533984104"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/screenshot-machine-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/screenshot-machine-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

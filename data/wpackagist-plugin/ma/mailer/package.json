@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailer": {
+            "1.4.4": {
+                "name": "wpackagist-plugin\/mailer",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "uid": 206914,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailer.zip?timestamp=1424675141"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206915,
+                "time": "2015-02-23 07:05:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailer.zip?timestamp=1424675141"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

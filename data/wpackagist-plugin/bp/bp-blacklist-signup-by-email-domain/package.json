@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-blacklist-signup-by-email-domain": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bp-blacklist-signup-by-email-domain",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 50123,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-blacklist-signup-by-email-domain.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-blacklist-signup-by-email-domain\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-blacklist-signup-by-email-domain\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-blacklist-signup-by-email-domain",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 50124,
+                "time": "2018-06-20 10:39:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-blacklist-signup-by-email-domain.zip?timestamp=1529491181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-blacklist-signup-by-email-domain\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-blacklist-signup-by-email-domain\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

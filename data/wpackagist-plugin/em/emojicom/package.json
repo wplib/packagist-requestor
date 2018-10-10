@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/emojicom": {
+            "1.0": {
+                "name": "wpackagist-plugin\/emojicom",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 118878,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emojicom.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emojicom\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emojicom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/emojicom",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118879,
+                "time": "2018-08-16 17:59:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emojicom.zip?timestamp=1534442352"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emojicom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emojicom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

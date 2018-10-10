@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simplemailer": {
+            "0.9": {
+                "name": "wpackagist-plugin\/simplemailer",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 318657,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simplemailer.zip?timestamp=1508391850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simplemailer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simplemailer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simplemailer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 318658,
+                "time": "2017-10-19 05:44:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simplemailer.zip?timestamp=1508391850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simplemailer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simplemailer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

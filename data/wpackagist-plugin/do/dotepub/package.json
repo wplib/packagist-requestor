@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dotepub": {
+            "1.1": {
+                "name": "wpackagist-plugin\/dotepub",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 103817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dotepub.zip?timestamp=1430553835"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dotepub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dotepub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dotepub",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103818,
+                "time": "2015-05-02 08:03:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dotepub.zip?timestamp=1430553835"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dotepub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dotepub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

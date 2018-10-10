@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-editormd": {
+            "9.9.9": {
+                "name": "wpackagist-plugin\/wp-editormd",
+                "version": "9.9.9",
+                "version_normalized": "9.9.9.0",
+                "uid": 414231,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-editormd.9.9.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-editormd\/",
+                    "reference": "tags\/9.9.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-editormd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-editormd",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 414232,
+                "time": "2018-10-07 10:14:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-editormd.zip?timestamp=1538907275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-editormd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-editormd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

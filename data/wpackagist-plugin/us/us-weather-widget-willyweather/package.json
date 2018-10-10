@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/us-weather-widget-willyweather": {
+            "1.5": {
+                "name": "wpackagist-plugin\/us-weather-widget-willyweather",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 370272,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/us-weather-widget-willyweather.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/us-weather-widget-willyweather\/",
+                    "reference": "tags\/1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/us-weather-widget-willyweather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/us-weather-widget-willyweather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370273,
+                "time": "2017-10-16 23:51:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/us-weather-widget-willyweather.zip?timestamp=1508197869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/us-weather-widget-willyweather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/us-weather-widget-willyweather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

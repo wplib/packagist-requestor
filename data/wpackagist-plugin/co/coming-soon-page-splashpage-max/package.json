@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coming-soon-page-splashpage-max": {
+            "0.1": {
+                "name": "wpackagist-plugin\/coming-soon-page-splashpage-max",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 75125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coming-soon-page-splashpage-max.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coming-soon-page-splashpage-max\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coming-soon-page-splashpage-max\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coming-soon-page-splashpage-max",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75126,
+                "time": "2018-04-02 11:41:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coming-soon-page-splashpage-max.zip?timestamp=1522669302"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coming-soon-page-splashpage-max\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coming-soon-page-splashpage-max\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

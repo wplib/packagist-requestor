@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/foma-news": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/foma-news",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 138668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foma-news.zip?timestamp=1448542478"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foma-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foma-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/foma-news",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138669,
+                "time": "2015-11-26 12:54:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foma-news.zip?timestamp=1448542478"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foma-news\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foma-news\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

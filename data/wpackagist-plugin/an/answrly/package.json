@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/answrly": {
+            "1.0": {
+                "name": "wpackagist-plugin\/answrly",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23018,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/answrly.zip?timestamp=1470357336"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/answrly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/answrly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/answrly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23019,
+                "time": "2016-08-05 00:35:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/answrly.zip?timestamp=1470357336"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/answrly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/answrly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gutenbegone": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gutenbegone",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161567,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenbegone.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenbegone\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenbegone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gutenbegone",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161568,
+                "time": "2018-07-03 10:52:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenbegone.zip?timestamp=1530615150"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenbegone\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenbegone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

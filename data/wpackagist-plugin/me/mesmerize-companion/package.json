@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mesmerize-companion": {
+            "1.6.100": {
+                "name": "wpackagist-plugin\/mesmerize-companion",
+                "version": "1.6.100",
+                "version_normalized": "1.6.100.0",
+                "uid": 215041,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mesmerize-companion.zip?timestamp=1538576733"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mesmerize-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mesmerize-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mesmerize-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 215042,
+                "time": "2018-10-03 14:25:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mesmerize-companion.zip?timestamp=1538576733"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mesmerize-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mesmerize-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ls-oembed-support-for-scratch-mit": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ls-oembed-support-for-scratch-mit",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204326,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ls-oembed-support-for-scratch-mit.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ls-oembed-support-for-scratch-mit\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ls-oembed-support-for-scratch-mit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ls-oembed-support-for-scratch-mit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204327,
+                "time": "2016-01-05 12:20:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ls-oembed-support-for-scratch-mit.zip?timestamp=1451996410"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ls-oembed-support-for-scratch-mit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ls-oembed-support-for-scratch-mit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/break-out-of-frames": {
+            "0.1": {
+                "name": "wpackagist-plugin\/break-out-of-frames",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 51835,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/break-out-of-frames.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/break-out-of-frames\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/break-out-of-frames\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/break-out-of-frames",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51836,
+                "time": "2015-04-20 23:51:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/break-out-of-frames.zip?timestamp=1429573902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/break-out-of-frames\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/break-out-of-frames\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

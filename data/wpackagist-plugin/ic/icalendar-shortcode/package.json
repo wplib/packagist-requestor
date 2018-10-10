@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/icalendar-shortcode": {
+            "0.1": {
+                "name": "wpackagist-plugin\/icalendar-shortcode",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 170725,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/icalendar-shortcode.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/icalendar-shortcode\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/icalendar-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/icalendar-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 170726,
+                "time": "2016-03-06 21:26:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/icalendar-shortcode.zip?timestamp=1457299590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/icalendar-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/icalendar-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/passqi-mfactor": {
+            "1.0.8": {
+                "name": "wpackagist-plugin\/passqi-mfactor",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "uid": 249955,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passqi-mfactor.1.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passqi-mfactor\/",
+                    "reference": "tags\/1.0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passqi-mfactor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/passqi-mfactor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249956,
+                "time": "2016-04-07 01:05:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passqi-mfactor.zip?timestamp=1459991125"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passqi-mfactor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passqi-mfactor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

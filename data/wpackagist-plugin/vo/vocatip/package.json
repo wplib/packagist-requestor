@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vocatip": {
+            "1.0": {
+                "name": "wpackagist-plugin\/vocatip",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 377919,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vocatip.zip?timestamp=1483282741"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vocatip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vocatip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vocatip",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 377920,
+                "time": "2017-01-01 14:59:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vocatip.zip?timestamp=1483282741"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vocatip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vocatip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

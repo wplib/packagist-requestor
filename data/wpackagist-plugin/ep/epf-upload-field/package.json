@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/epf-upload-field": {
+            "1.0": {
+                "name": "wpackagist-plugin\/epf-upload-field",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121100,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epf-upload-field.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epf-upload-field\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epf-upload-field\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/epf-upload-field",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121101,
+                "time": "2018-01-03 20:19:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epf-upload-field.zip?timestamp=1515010797"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epf-upload-field\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epf-upload-field\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

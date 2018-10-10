@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpdm-gutenberg-blocks": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/wpdm-gutenberg-blocks",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 440864,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdm-gutenberg-blocks.zip?timestamp=1537358981"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdm-gutenberg-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdm-gutenberg-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpdm-gutenberg-blocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440865,
+                "time": "2018-09-19 12:09:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdm-gutenberg-blocks.zip?timestamp=1537358981"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdm-gutenberg-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdm-gutenberg-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

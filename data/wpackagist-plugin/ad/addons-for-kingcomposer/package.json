@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/addons-for-kingcomposer": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/addons-for-kingcomposer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8110,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addons-for-kingcomposer.zip?timestamp=1501801044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addons-for-kingcomposer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addons-for-kingcomposer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/addons-for-kingcomposer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8111,
+                "time": "2017-08-03 22:57:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addons-for-kingcomposer.zip?timestamp=1501801044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addons-for-kingcomposer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addons-for-kingcomposer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

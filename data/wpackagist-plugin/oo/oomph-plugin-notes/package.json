@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oomph-plugin-notes": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/oomph-plugin-notes",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 242702,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oomph-plugin-notes.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oomph-plugin-notes\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oomph-plugin-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oomph-plugin-notes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242703,
+                "time": "2016-04-14 15:12:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oomph-plugin-notes.zip?timestamp=1460646761"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oomph-plugin-notes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oomph-plugin-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reinstall-plugins": {
+            "0.1": {
+                "name": "wpackagist-plugin\/reinstall-plugins",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 285828,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reinstall-plugins.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reinstall-plugins\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reinstall-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reinstall-plugins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285829,
+                "time": "2016-08-23 06:27:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reinstall-plugins.zip?timestamp=1471933658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reinstall-plugins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reinstall-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

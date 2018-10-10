@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jdefender": {
+            "2.20.11": {
+                "name": "wpackagist-plugin\/jdefender",
+                "version": "2.20.11",
+                "version_normalized": "2.20.11.0",
+                "uid": 183074,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jdefender.2.20.11.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jdefender\/",
+                    "reference": "tags\/2.20.11"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jdefender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.1": {
+                "name": "wpackagist-plugin\/jdefender",
+                "version": "3.1",
+                "version_normalized": "3.1.0.0",
+                "uid": 183075,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jdefender.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jdefender\/",
+                    "reference": "tags\/3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jdefender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jdefender",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183076,
+                "time": "2017-11-10 11:40:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jdefender.zip?timestamp=1510314008"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jdefender\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jdefender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

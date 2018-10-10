@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/geometa-acf": {
+            "0.0.4": {
+                "name": "wpackagist-plugin\/geometa-acf",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "uid": 150049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geometa-acf.0.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geometa-acf\/",
+                    "reference": "tags\/0.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geometa-acf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/geometa-acf",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150050,
+                "time": "2017-03-04 16:06:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geometa-acf.zip?timestamp=1488643611"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geometa-acf\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geometa-acf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

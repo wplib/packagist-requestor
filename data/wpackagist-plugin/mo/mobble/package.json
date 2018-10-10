@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mobble": {
+            "1.6": {
+                "name": "wpackagist-plugin\/mobble",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 219705,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobble.zip?timestamp=1482142324"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobble\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobble\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mobble",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 219706,
+                "time": "2016-12-19 10:12:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobble.zip?timestamp=1482142324"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobble\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobble\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

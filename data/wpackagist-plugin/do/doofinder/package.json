@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/doofinder": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/doofinder",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 103671,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doofinder.zip?timestamp=1535987488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doofinder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doofinder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/doofinder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103672,
+                "time": "2018-09-03 15:11:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doofinder.zip?timestamp=1535987488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doofinder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doofinder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

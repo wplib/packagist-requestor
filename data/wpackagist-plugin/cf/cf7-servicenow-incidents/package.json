@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-servicenow-incidents": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/cf7-servicenow-incidents",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 65128,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-servicenow-incidents.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-servicenow-incidents\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-servicenow-incidents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-servicenow-incidents",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65129,
+                "time": "2016-10-02 17:07:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-servicenow-incidents.zip?timestamp=1475428071"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-servicenow-incidents\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-servicenow-incidents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

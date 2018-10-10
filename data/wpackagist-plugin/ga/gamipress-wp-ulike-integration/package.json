@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gamipress-wp-ulike-integration": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gamipress-wp-ulike-integration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 147260,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-wp-ulike-integration.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-wp-ulike-integration\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-wp-ulike-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gamipress-wp-ulike-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147261,
+                "time": "2018-08-31 06:37:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-wp-ulike-integration.zip?timestamp=1535697471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-wp-ulike-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-wp-ulike-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/colorize-admin": {
+            "1.8": {
+                "name": "wpackagist-plugin\/colorize-admin",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 74372,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/colorize-admin.zip?timestamp=1517615105"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/colorize-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/colorize-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/colorize-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74373,
+                "time": "2018-02-02 23:45:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/colorize-admin.zip?timestamp=1517615105"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/colorize-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/colorize-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

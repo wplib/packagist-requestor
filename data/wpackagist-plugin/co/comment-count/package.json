@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-count": {
+            "1.02": {
+                "name": "wpackagist-plugin\/comment-count",
+                "version": "1.02",
+                "version_normalized": "1.02.0.0",
+                "uid": 75332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-count.1.02.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-count\/",
+                    "reference": "tags\/1.02"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-count\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2": {
+                "name": "wpackagist-plugin\/comment-count",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 75333,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-count.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-count\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-count\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-count",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75334,
+                "time": "2015-12-08 22:57:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-count.zip?timestamp=1449615473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-count\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-count\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

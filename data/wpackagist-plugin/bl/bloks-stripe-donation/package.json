@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bloks-stripe-donation": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bloks-stripe-donation",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 45495,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bloks-stripe-donation.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bloks-stripe-donation\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bloks-stripe-donation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bloks-stripe-donation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 45496,
+                "time": "2017-11-08 07:53:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bloks-stripe-donation.zip?timestamp=1510127613"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bloks-stripe-donation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bloks-stripe-donation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

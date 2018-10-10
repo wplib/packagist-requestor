@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tweasy": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/tweasy",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 361354,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tweasy.zip?timestamp=1501881389"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tweasy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tweasy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tweasy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 361355,
+                "time": "2017-08-04 21:16:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tweasy.zip?timestamp=1501881389"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tweasy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tweasy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/professional-booking-management": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/professional-booking-management",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 270457,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/professional-booking-management.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/professional-booking-management\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/professional-booking-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/professional-booking-management",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270458,
+                "time": "2016-04-30 19:22:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/professional-booking-management.zip?timestamp=1462044154"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/professional-booking-management\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/professional-booking-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

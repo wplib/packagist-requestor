@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/utw-importer": {
+            "0.2": {
+                "name": "wpackagist-plugin\/utw-importer",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 372441,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utw-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utw-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utw-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/utw-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372442,
+                "time": "2018-07-12 17:44:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utw-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utw-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utw-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

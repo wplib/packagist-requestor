@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amazing-widgets": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/amazing-widgets",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 19773,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amazing-widgets.zip?timestamp=1446453151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amazing-widgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amazing-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amazing-widgets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19774,
+                "time": "2015-11-02 08:32:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amazing-widgets.zip?timestamp=1446453151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amazing-widgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amazing-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

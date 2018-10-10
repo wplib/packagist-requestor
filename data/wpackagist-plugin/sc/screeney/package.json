@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/screeney": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/screeney",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 300830,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/screeney.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/screeney\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/screeney\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/screeney",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300831,
+                "time": "2018-02-15 16:52:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/screeney.zip?timestamp=1518713543"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/screeney\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/screeney\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

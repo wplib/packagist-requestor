@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/qibla-events": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/qibla-events",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 275062,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qibla-events.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qibla-events\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qibla-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/qibla-events",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 275063,
+                "time": "2018-10-05 08:12:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qibla-events.zip?timestamp=1538727133"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qibla-events\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qibla-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

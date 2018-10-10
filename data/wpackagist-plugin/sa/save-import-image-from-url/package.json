@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/save-import-image-from-url": {
+            "0.7": {
+                "name": "wpackagist-plugin\/save-import-image-from-url",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 299528,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/save-import-image-from-url.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/save-import-image-from-url\/",
+                    "reference": "tags\/0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/save-import-image-from-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/save-import-image-from-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299529,
+                "time": "2016-12-11 22:55:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/save-import-image-from-url.zip?timestamp=1481496900"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/save-import-image-from-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/save-import-image-from-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

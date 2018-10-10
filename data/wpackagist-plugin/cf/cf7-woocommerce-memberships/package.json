@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-woocommerce-memberships": {
+            "1.3.0": {
+                "name": "wpackagist-plugin\/cf7-woocommerce-memberships",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "uid": 65194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-woocommerce-memberships.1.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-woocommerce-memberships\/",
+                    "reference": "tags\/1.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-woocommerce-memberships\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-woocommerce-memberships",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65195,
+                "time": "2018-06-06 01:25:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-woocommerce-memberships.zip?timestamp=1528248314"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-woocommerce-memberships\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-woocommerce-memberships\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

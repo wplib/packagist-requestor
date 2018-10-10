@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jmb-post-feeds": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jmb-post-feeds",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 184222,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jmb-post-feeds.zip?timestamp=1500470267"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jmb-post-feeds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jmb-post-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jmb-post-feeds",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184223,
+                "time": "2017-07-19 13:17:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jmb-post-feeds.zip?timestamp=1500470267"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jmb-post-feeds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jmb-post-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

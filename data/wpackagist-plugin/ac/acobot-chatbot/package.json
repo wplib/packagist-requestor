@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acobot-chatbot": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/acobot-chatbot",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 5602,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acobot-chatbot.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acobot-chatbot\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acobot-chatbot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acobot-chatbot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5603,
+                "time": "2018-10-03 03:12:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acobot-chatbot.zip?timestamp=1538536369"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acobot-chatbot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acobot-chatbot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

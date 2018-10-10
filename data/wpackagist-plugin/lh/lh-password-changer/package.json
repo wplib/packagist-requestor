@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lh-password-changer": {
+            "1.55": {
+                "name": "wpackagist-plugin\/lh-password-changer",
+                "version": "1.55",
+                "version_normalized": "1.55.0.0",
+                "uid": 196283,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-password-changer.zip?timestamp=1512459768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-password-changer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-password-changer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lh-password-changer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196284,
+                "time": "2017-12-05 07:42:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-password-changer.zip?timestamp=1512459768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-password-changer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-password-changer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

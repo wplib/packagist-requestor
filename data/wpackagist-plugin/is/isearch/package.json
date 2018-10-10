@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/isearch": {
+            "1.1": {
+                "name": "wpackagist-plugin\/isearch",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 181076,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/isearch.zip?timestamp=1449414975"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/isearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/isearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0": {
+                "name": "wpackagist-plugin\/isearch",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 181077,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/isearch.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/isearch\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/isearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/isearch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181078,
+                "time": "2015-12-06 15:16:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/isearch.zip?timestamp=1449414975"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/isearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/isearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

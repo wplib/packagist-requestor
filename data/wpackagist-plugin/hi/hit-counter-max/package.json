@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hit-counter-max": {
+            "2.0": {
+                "name": "wpackagist-plugin\/hit-counter-max",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 166138,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hit-counter-max.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hit-counter-max\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hit-counter-max\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hit-counter-max",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166139,
+                "time": "2015-03-06 06:19:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hit-counter-max.zip?timestamp=1425622775"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hit-counter-max\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hit-counter-max\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

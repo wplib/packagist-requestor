@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/section-slider": {
+            "0.0.0": {
+                "name": "wpackagist-plugin\/section-slider",
+                "version": "0.0.0",
+                "version_normalized": "0.0.0.0",
+                "uid": 302504,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/section-slider.0.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/section-slider\/",
+                    "reference": "tags\/0.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/section-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/section-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302505,
+                "time": "2017-05-07 16:03:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/section-slider.zip?timestamp=1494173030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/section-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/section-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

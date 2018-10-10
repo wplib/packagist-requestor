@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/styler-for-wpforms": {
+            "1.0": {
+                "name": "wpackagist-plugin\/styler-for-wpforms",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339428,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/styler-for-wpforms.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/styler-for-wpforms\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/styler-for-wpforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/styler-for-wpforms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339429,
+                "time": "2017-03-28 15:21:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/styler-for-wpforms.zip?timestamp=1490714509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/styler-for-wpforms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/styler-for-wpforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

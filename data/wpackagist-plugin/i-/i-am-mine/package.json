@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/i-am-mine": {
+            "1.0": {
+                "name": "wpackagist-plugin\/i-am-mine",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 169812,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am-mine.zip?timestamp=1447686779"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am-mine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am-mine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/i-am-mine",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169813,
+                "time": "2015-11-16 15:12:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am-mine.zip?timestamp=1447686779"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am-mine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am-mine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

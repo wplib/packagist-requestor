@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsparkz-vc-template-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpsparkz-vc-template-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 443739,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsparkz-vc-template-manager.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsparkz-vc-template-manager\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsparkz-vc-template-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsparkz-vc-template-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443740,
+                "time": "2016-11-16 17:25:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsparkz-vc-template-manager.zip?timestamp=1479317146"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsparkz-vc-template-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsparkz-vc-template-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

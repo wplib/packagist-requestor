@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/email-em": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/email-em",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 116999,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-em.zip?timestamp=1467240314"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-em\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-em\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/email-em",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 117000,
+                "time": "2016-06-29 22:45:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-em.zip?timestamp=1467240314"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-em\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-em\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

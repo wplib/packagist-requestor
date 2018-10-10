@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/in-page-script": {
+            "0.1": {
+                "name": "wpackagist-plugin\/in-page-script",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 175166,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/in-page-script.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/in-page-script\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/in-page-script\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/in-page-script",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175167,
+                "time": "2015-09-07 07:21:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/in-page-script.zip?timestamp=1441610504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/in-page-script\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/in-page-script\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

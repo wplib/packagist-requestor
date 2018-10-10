@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/casa-people": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/casa-people",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 61413,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/casa-people.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/casa-people\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/casa-people\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/casa-people",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61414,
+                "time": "2016-02-29 21:09:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/casa-people.zip?timestamp=1456780169"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/casa-people\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/casa-people\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

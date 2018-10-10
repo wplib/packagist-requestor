@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/designcontest-feed": {
+            "0.1": {
+                "name": "wpackagist-plugin\/designcontest-feed",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 97813,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/designcontest-feed.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/designcontest-feed\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/designcontest-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/designcontest-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97814,
+                "time": "2015-11-25 10:59:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/designcontest-feed.zip?timestamp=1448449165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/designcontest-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/designcontest-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

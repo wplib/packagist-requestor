@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dzinga-smart-callback": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dzinga-smart-callback",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 107098,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dzinga-smart-callback.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dzinga-smart-callback\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dzinga-smart-callback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dzinga-smart-callback",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107099,
+                "time": "2017-09-01 07:43:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dzinga-smart-callback.zip?timestamp=1504251824"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dzinga-smart-callback\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dzinga-smart-callback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

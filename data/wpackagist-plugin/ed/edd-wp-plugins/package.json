@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-wp-plugins": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-wp-plugins",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113853,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-wp-plugins.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-wp-plugins\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-wp-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/edd-wp-plugins",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 113854,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-wp-plugins.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-wp-plugins\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-wp-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-wp-plugins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113855,
+                "time": "2017-09-26 17:14:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-wp-plugins.zip?timestamp=1506446069"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-wp-plugins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-wp-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

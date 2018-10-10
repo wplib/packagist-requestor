@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recent-visited": {
+            "1.0": {
+                "name": "wpackagist-plugin\/recent-visited",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 283879,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-visited.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-visited\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-visited\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recent-visited",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 283880,
+                "time": "2017-07-24 12:45:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-visited.zip?timestamp=1500900308"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-visited\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-visited\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/teams-of-tennis": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/teams-of-tennis",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 347626,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/teams-of-tennis.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/teams-of-tennis\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/teams-of-tennis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/teams-of-tennis",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347627,
+                "time": "2018-04-14 15:49:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/teams-of-tennis.zip?timestamp=1523720983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/teams-of-tennis\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/teams-of-tennis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

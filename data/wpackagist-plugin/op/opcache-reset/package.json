@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/opcache-reset": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/opcache-reset",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 242776,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/opcache-reset.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/opcache-reset\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/opcache-reset\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/opcache-reset",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242777,
+                "time": "2018-08-04 13:22:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/opcache-reset.zip?timestamp=1533388948"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/opcache-reset\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/opcache-reset\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

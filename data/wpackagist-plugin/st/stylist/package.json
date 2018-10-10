@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stylist": {
+            "0.2.3": {
+                "name": "wpackagist-plugin\/stylist",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "uid": 339571,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylist.0.2.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylist\/",
+                    "reference": "tags\/0.2.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stylist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339572,
+                "time": "2018-07-21 01:01:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylist.zip?timestamp=1532134909"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shiny-updates": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shiny-updates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 308523,
+                "time": "2016-09-27 13:24:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shiny-updates.zip?timestamp=1474982654"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shiny-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shiny-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

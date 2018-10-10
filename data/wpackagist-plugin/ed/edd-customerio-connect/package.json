@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-customerio-connect": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/edd-customerio-connect",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 113337,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-customerio-connect.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-customerio-connect\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-customerio-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-customerio-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113338,
+                "time": "2016-05-07 00:24:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-customerio-connect.zip?timestamp=1462580651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-customerio-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-customerio-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

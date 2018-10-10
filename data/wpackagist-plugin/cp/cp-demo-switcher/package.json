@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cp-demo-switcher": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cp-demo-switcher",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 84794,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-demo-switcher.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-demo-switcher\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-demo-switcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cp-demo-switcher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84795,
+                "time": "2018-09-22 06:56:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-demo-switcher.zip?timestamp=1537599388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-demo-switcher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-demo-switcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

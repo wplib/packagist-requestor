@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-woocommerce-product-slider": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-woocommerce-product-slider",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 438916,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-woocommerce-product-slider.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-woocommerce-product-slider\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-woocommerce-product-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-woocommerce-product-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 438917,
+                "time": "2018-09-30 20:13:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-woocommerce-product-slider.zip?timestamp=1538338411"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-woocommerce-product-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-woocommerce-product-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

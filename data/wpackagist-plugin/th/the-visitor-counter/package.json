@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/the-visitor-counter": {
+            "1.1": {
+                "name": "wpackagist-plugin\/the-visitor-counter",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 351479,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-visitor-counter.zip?timestamp=1535142596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-visitor-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-visitor-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/the-visitor-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 351480,
+                "time": "2018-08-24 20:29:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-visitor-counter.zip?timestamp=1535142596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-visitor-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-visitor-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

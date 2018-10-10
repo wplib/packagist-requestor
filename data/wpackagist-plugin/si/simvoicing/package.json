@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simvoicing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/simvoicing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 319814,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simvoicing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simvoicing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simvoicing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simvoicing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 319815,
+                "time": "2016-01-07 09:59:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simvoicing.zip?timestamp=1452160778"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simvoicing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simvoicing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

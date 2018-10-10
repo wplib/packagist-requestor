@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/application-passwords": {
+            "0.1-dev": {
+                "name": "wpackagist-plugin\/application-passwords",
+                "version": "0.1-dev",
+                "version_normalized": "0.1.0.0-dev",
+                "uid": 24591,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-passwords.zip?timestamp=1512329343"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-passwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/application-passwords",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24592,
+                "time": "2017-12-03 19:29:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-passwords.zip?timestamp=1512329343"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-passwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tb-search-in-menu": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tb-search-in-menu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 347006,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tb-search-in-menu.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tb-search-in-menu\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tb-search-in-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tb-search-in-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347007,
+                "time": "2016-01-08 07:18:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tb-search-in-menu.zip?timestamp=1452237500"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tb-search-in-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tb-search-in-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

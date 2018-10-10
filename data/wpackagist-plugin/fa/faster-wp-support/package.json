@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/faster-wp-support": {
+            "1.1": {
+                "name": "wpackagist-plugin\/faster-wp-support",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 129916,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/faster-wp-support.zip?timestamp=1498314640"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/faster-wp-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/faster-wp-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/faster-wp-support",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 129917,
+                "time": "2017-06-24 14:30:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/faster-wp-support.zip?timestamp=1498314640"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/faster-wp-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/faster-wp-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

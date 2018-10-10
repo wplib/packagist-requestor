@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/force-ping-display-with-disqus": {
+            "0.1": {
+                "name": "wpackagist-plugin\/force-ping-display-with-disqus",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 139618,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-ping-display-with-disqus.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-ping-display-with-disqus\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-ping-display-with-disqus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/force-ping-display-with-disqus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139619,
+                "time": "2016-03-31 00:21:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-ping-display-with-disqus.zip?timestamp=1459383709"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-ping-display-with-disqus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-ping-display-with-disqus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

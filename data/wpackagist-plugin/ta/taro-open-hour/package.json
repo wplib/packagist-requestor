@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/taro-open-hour": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/taro-open-hour",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 346493,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taro-open-hour.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taro-open-hour\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taro-open-hour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/taro-open-hour",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 346494,
+                "time": "2017-06-05 08:38:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taro-open-hour.zip?timestamp=1496651930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taro-open-hour\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taro-open-hour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/replace-wp-admin-logo": {
+            "0.1": {
+                "name": "wpackagist-plugin\/replace-wp-admin-logo",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 287764,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/replace-wp-admin-logo.zip?timestamp=1532265517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/replace-wp-admin-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/replace-wp-admin-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/replace-wp-admin-logo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287765,
+                "time": "2018-07-22 13:18:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/replace-wp-admin-logo.zip?timestamp=1532265517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/replace-wp-admin-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/replace-wp-admin-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

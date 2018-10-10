@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/taxonomy-converter": {
+            "1.1": {
+                "name": "wpackagist-plugin\/taxonomy-converter",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 346788,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taxonomy-converter.zip?timestamp=1531415896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taxonomy-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taxonomy-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/taxonomy-converter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 346789,
+                "time": "2018-07-12 17:18:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taxonomy-converter.zip?timestamp=1531415896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taxonomy-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taxonomy-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

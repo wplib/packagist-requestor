@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mage-wp-sync": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mage-wp-sync",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205738,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-wp-sync.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-wp-sync\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-wp-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mage-wp-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205739,
+                "time": "2016-11-21 08:44:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-wp-sync.zip?timestamp=1479717850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-wp-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-wp-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

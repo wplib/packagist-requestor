@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplms-courseware-migration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wplms-courseware-migration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442044,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-courseware-migration.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-courseware-migration\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-courseware-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplms-courseware-migration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442045,
+                "time": "2017-12-22 07:11:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-courseware-migration.zip?timestamp=1513926704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-courseware-migration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-courseware-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zippy-engage-companion": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/zippy-engage-companion",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 453713,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zippy-engage-companion.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zippy-engage-companion\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zippy-engage-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zippy-engage-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 453714,
+                "time": "2018-02-05 15:21:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zippy-engage-companion.zip?timestamp=1517844073"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zippy-engage-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zippy-engage-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

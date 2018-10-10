@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/table-builder-for-csv": {
+            "1.0": {
+                "name": "wpackagist-plugin\/table-builder-for-csv",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 344795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/table-builder-for-csv.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/table-builder-for-csv\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/table-builder-for-csv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/table-builder-for-csv",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344796,
+                "time": "2018-09-05 05:44:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/table-builder-for-csv.zip?timestamp=1536126291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/table-builder-for-csv\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/table-builder-for-csv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bc-html-segments": {
+            "0.1": {
+                "name": "wpackagist-plugin\/bc-html-segments",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 38027,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bc-html-segments.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bc-html-segments\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bc-html-segments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bc-html-segments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38028,
+                "time": "2016-09-13 23:28:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bc-html-segments.zip?timestamp=1473809323"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bc-html-segments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bc-html-segments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/leverage-featurebox": {
+            "1.1": {
+                "name": "wpackagist-plugin\/leverage-featurebox",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 195978,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leverage-featurebox.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leverage-featurebox\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leverage-featurebox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/leverage-featurebox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195979,
+                "time": "2015-08-02 18:39:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leverage-featurebox.zip?timestamp=1438540770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leverage-featurebox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leverage-featurebox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

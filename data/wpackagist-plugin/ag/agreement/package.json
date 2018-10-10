@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/agreement": {
+            "1.1": {
+                "name": "wpackagist-plugin\/agreement",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 15502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agreement.zip?timestamp=1517296701"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agreement\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agreement\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/agreement",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15503,
+                "time": "2018-01-30 07:18:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agreement.zip?timestamp=1517296701"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agreement\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agreement\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

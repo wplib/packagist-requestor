@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aviation-weather-briefing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aviation-weather-briefing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 32392,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aviation-weather-briefing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aviation-weather-briefing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aviation-weather-briefing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aviation-weather-briefing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32393,
+                "time": "2015-01-31 19:01:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aviation-weather-briefing.zip?timestamp=1422730862"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aviation-weather-briefing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aviation-weather-briefing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

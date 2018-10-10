@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/agenda-doveballiamocom": {
+            "1.0": {
+                "name": "wpackagist-plugin\/agenda-doveballiamocom",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 15210,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-doveballiamocom.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-doveballiamocom\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-doveballiamocom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/agenda-doveballiamocom",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15211,
+                "time": "2015-01-08 01:16:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-doveballiamocom.zip?timestamp=1420679797"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-doveballiamocom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-doveballiamocom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

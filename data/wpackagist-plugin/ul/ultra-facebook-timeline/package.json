@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultra-facebook-timeline": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ultra-facebook-timeline",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 367432,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultra-facebook-timeline.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultra-facebook-timeline\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultra-facebook-timeline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultra-facebook-timeline",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 367433,
+                "time": "2016-02-23 19:31:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultra-facebook-timeline.zip?timestamp=1456255906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultra-facebook-timeline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultra-facebook-timeline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

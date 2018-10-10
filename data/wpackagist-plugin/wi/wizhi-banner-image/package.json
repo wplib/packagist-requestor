@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wizhi-banner-image": {
+            "1.2": {
+                "name": "wpackagist-plugin\/wizhi-banner-image",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 387996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wizhi-banner-image.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wizhi-banner-image\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wizhi-banner-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wizhi-banner-image",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387997,
+                "time": "2016-06-04 15:24:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wizhi-banner-image.zip?timestamp=1465053889"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wizhi-banner-image\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wizhi-banner-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bootstrap-tutorials": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bootstrap-tutorials",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 49357,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-tutorials.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-tutorials\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-tutorials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/bootstrap-tutorials",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 49358,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-tutorials.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-tutorials\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-tutorials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bootstrap-tutorials",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49359,
+                "time": "2015-11-05 16:34:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-tutorials.zip?timestamp=1446741278"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-tutorials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-tutorials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

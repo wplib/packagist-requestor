@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ge-new-user-registrations-graph": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ge-new-user-registrations-graph",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 148239,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ge-new-user-registrations-graph.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ge-new-user-registrations-graph\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ge-new-user-registrations-graph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ge-new-user-registrations-graph",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148240,
+                "time": "2015-04-30 20:13:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ge-new-user-registrations-graph.zip?timestamp=1430424820"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ge-new-user-registrations-graph\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ge-new-user-registrations-graph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

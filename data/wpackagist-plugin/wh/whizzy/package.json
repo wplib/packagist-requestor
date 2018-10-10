@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whizzy": {
+            "1.1.7": {
+                "name": "wpackagist-plugin\/whizzy",
+                "version": "1.1.7",
+                "version_normalized": "1.1.7.0",
+                "uid": 385611,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whizzy.zip?timestamp=1536326823"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385612,
+                "time": "2018-09-07 13:27:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whizzy.zip?timestamp=1536326823"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

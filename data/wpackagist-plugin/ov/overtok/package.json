@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/overtok": {
+            "0.4": {
+                "name": "wpackagist-plugin\/overtok",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 246116,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/overtok.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/overtok\/",
+                    "reference": "tags\/0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/overtok\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/overtok",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246117,
+                "time": "2018-06-12 16:48:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/overtok.zip?timestamp=1528822119"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/overtok\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/overtok\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

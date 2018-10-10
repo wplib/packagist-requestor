@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/code-scanner": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/code-scanner",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 72723,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-scanner.zip?timestamp=1529506485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-scanner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-scanner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/code-scanner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72724,
+                "time": "2018-06-20 14:54:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-scanner.zip?timestamp=1529506485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-scanner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-scanner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

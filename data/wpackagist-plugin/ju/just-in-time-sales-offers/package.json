@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/just-in-time-sales-offers": {
+            "1.2.7": {
+                "name": "wpackagist-plugin\/just-in-time-sales-offers",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "uid": 187148,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/just-in-time-sales-offers.1.2.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/just-in-time-sales-offers\/",
+                    "reference": "tags\/1.2.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/just-in-time-sales-offers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/just-in-time-sales-offers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 187149,
+                "time": "2018-09-26 02:27:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/just-in-time-sales-offers.zip?timestamp=1537928864"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/just-in-time-sales-offers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/just-in-time-sales-offers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

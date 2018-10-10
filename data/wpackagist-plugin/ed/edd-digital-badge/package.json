@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-digital-badge": {
+            "1.0": {
+                "name": "wpackagist-plugin\/edd-digital-badge",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113339,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-digital-badge.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-digital-badge\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-digital-badge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-digital-badge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113340,
+                "time": "2016-11-07 21:47:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-digital-badge.zip?timestamp=1478555250"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-digital-badge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-digital-badge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

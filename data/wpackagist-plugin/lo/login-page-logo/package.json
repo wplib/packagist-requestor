@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-page-logo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/login-page-logo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202993,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-page-logo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-page-logo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-page-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-page-logo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202994,
+                "time": "2017-06-24 07:30:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-page-logo.zip?timestamp=1498289411"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-page-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-page-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

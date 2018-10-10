@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bookalet": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/bookalet",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 47937,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bookalet.zip?timestamp=1534243065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bookalet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bookalet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bookalet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47938,
+                "time": "2018-08-14 10:37:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bookalet.zip?timestamp=1534243065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bookalet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bookalet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hedmansoft-milestones": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hedmansoft-milestones",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 164082,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hedmansoft-milestones.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hedmansoft-milestones\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hedmansoft-milestones\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hedmansoft-milestones",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164083,
+                "time": "2018-06-15 18:53:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hedmansoft-milestones.zip?timestamp=1529088791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hedmansoft-milestones\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hedmansoft-milestones\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

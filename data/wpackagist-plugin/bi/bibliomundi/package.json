@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bibliomundi": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/bibliomundi",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 41190,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bibliomundi.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bibliomundi\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bibliomundi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bibliomundi",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 41191,
+                "time": "2018-01-12 05:00:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bibliomundi.zip?timestamp=1515733217"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bibliomundi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bibliomundi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/two-factor": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/two-factor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364007,
+                "time": "2018-09-28 18:05:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/two-factor.zip?timestamp=1538157932"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/two-factor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/two-factor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

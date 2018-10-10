@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dynamic-pricing-for-woocommerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/dynamic-pricing-for-woocommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 106705,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-pricing-for-woocommerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-pricing-for-woocommerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-pricing-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dynamic-pricing-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106706,
+                "time": "2018-06-22 17:30:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-pricing-for-woocommerce.zip?timestamp=1529688646"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-pricing-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-pricing-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

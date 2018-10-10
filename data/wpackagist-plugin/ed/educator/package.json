@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/educator": {
+            "2.0.3": {
+                "name": "wpackagist-plugin\/educator",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "uid": 114618,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/educator.zip?timestamp=1483460997"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/educator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/educator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/educator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114619,
+                "time": "2017-01-03 16:29:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/educator.zip?timestamp=1483460997"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/educator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/educator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

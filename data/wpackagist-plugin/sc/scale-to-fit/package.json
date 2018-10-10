@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scale-to-fit": {
+            "0.1": {
+                "name": "wpackagist-plugin\/scale-to-fit",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 299921,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scale-to-fit.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scale-to-fit\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scale-to-fit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scale-to-fit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299922,
+                "time": "2016-10-15 05:47:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scale-to-fit.zip?timestamp=1476510426"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scale-to-fit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scale-to-fit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

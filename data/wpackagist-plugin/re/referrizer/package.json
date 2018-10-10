@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/referrizer": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/referrizer",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 285308,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/referrizer.zip?timestamp=1537561135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/referrizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/referrizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/referrizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285309,
+                "time": "2018-09-21 20:18:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/referrizer.zip?timestamp=1537561135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/referrizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/referrizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webtv-embed": {
+            "1.0": {
+                "name": "wpackagist-plugin\/webtv-embed",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383800,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webtv-embed.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webtv-embed\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webtv-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webtv-embed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383801,
+                "time": "2017-02-08 22:45:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webtv-embed.zip?timestamp=1486593910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webtv-embed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webtv-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

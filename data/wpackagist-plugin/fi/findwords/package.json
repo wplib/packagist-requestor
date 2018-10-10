@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/findwords": {
+            "1.0": {
+                "name": "wpackagist-plugin\/findwords",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 134305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/findwords.zip?timestamp=1483281845"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/findwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/findwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/findwords",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 134306,
+                "time": "2017-01-01 14:44:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/findwords.zip?timestamp=1483281845"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/findwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/findwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

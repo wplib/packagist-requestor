@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpmu-allow-all-themes": {
+            "0.1": {
+                "name": "wpackagist-plugin\/wpmu-allow-all-themes",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 442512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmu-allow-all-themes.zip?timestamp=1501338331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmu-allow-all-themes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmu-allow-all-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpmu-allow-all-themes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442513,
+                "time": "2017-07-29 14:25:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmu-allow-all-themes.zip?timestamp=1501338331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmu-allow-all-themes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmu-allow-all-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

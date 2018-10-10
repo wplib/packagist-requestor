@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tilecrop": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tilecrop",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 354504,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tilecrop.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tilecrop\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tilecrop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tilecrop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354505,
+                "time": "2016-03-05 20:55:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tilecrop.zip?timestamp=1457211352"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tilecrop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tilecrop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

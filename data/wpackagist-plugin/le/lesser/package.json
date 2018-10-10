@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lesser": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/lesser",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 195813,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lesser.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lesser\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lesser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lesser",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195814,
+                "time": "2015-07-25 03:08:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lesser.zip?timestamp=1437793691"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lesser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lesser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

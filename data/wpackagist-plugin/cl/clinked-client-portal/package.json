@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clinked-client-portal": {
+            "1.0": {
+                "name": "wpackagist-plugin\/clinked-client-portal",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 71425,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clinked-client-portal.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clinked-client-portal\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clinked-client-portal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clinked-client-portal",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71426,
+                "time": "2018-08-28 10:46:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clinked-client-portal.zip?timestamp=1535453172"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clinked-client-portal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clinked-client-portal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

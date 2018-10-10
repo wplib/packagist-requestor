@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kotae": {
+            "0.8.4": {
+                "name": "wpackagist-plugin\/kotae",
+                "version": "0.8.4",
+                "version_normalized": "0.8.4.0",
+                "uid": 191293,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kotae.zip?timestamp=1473933934"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kotae\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kotae\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kotae",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191294,
+                "time": "2016-09-15 10:05:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kotae.zip?timestamp=1473933934"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kotae\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kotae\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

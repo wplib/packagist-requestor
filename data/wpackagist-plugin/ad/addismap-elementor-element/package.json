@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/addismap-elementor-element": {
+            "1.0": {
+                "name": "wpackagist-plugin\/addismap-elementor-element",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8006,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addismap-elementor-element.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addismap-elementor-element\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addismap-elementor-element\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/addismap-elementor-element",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8007,
+                "time": "2017-10-21 11:23:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addismap-elementor-element.zip?timestamp=1508584996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addismap-elementor-element\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addismap-elementor-element\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/awesome-gallery-widget": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/awesome-gallery-widget",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 33049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-gallery-widget.zip?timestamp=1496464339"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-gallery-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-gallery-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/awesome-gallery-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 33050,
+                "time": "2017-06-03 04:32:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awesome-gallery-widget.zip?timestamp=1496464339"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awesome-gallery-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awesome-gallery-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

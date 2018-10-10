@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seo-engine": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/seo-engine",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 304889,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-engine.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-engine\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-engine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seo-engine",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 304890,
+                "time": "2018-01-25 13:32:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-engine.zip?timestamp=1516887170"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-engine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-engine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

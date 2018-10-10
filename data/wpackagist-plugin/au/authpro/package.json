@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/authpro": {
+            "1.0": {
+                "name": "wpackagist-plugin\/authpro",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 30097,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/authpro.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/authpro\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/authpro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/authpro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 30098,
+                "time": "2015-10-03 10:29:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/authpro.zip?timestamp=1443868156"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/authpro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/authpro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-invoicing-payments-w-sprout-invoices": {
+            "1.0": {
+                "name": "wpackagist-plugin\/woo-invoicing-payments-w-sprout-invoices",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 390355,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-invoicing-payments-w-sprout-invoices.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-invoicing-payments-w-sprout-invoices\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-invoicing-payments-w-sprout-invoices\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-invoicing-payments-w-sprout-invoices",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 390356,
+                "time": "2018-03-21 18:14:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-invoicing-payments-w-sprout-invoices.zip?timestamp=1521656076"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-invoicing-payments-w-sprout-invoices\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-invoicing-payments-w-sprout-invoices\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

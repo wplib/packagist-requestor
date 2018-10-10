@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/offerte-internet": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/offerte-internet",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 239975,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offerte-internet.2.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offerte-internet\/",
+                    "reference": "tags\/2.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offerte-internet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/offerte-internet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239976,
+                "time": "2018-02-08 16:01:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offerte-internet.zip?timestamp=1518105663"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offerte-internet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offerte-internet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

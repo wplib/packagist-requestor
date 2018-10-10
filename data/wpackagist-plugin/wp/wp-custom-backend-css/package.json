@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-custom-backend-css": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-custom-backend-css",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 411690,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-custom-backend-css.zip?timestamp=1456502451"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-custom-backend-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-custom-backend-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-custom-backend-css",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 411691,
+                "time": "2016-02-26 16:00:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-custom-backend-css.zip?timestamp=1456502451"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-custom-backend-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-custom-backend-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

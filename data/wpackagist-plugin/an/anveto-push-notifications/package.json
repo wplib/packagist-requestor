@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anveto-push-notifications": {
+            "1.0": {
+                "name": "wpackagist-plugin\/anveto-push-notifications",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23342,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anveto-push-notifications.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anveto-push-notifications\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anveto-push-notifications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anveto-push-notifications",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23343,
+                "time": "2015-03-31 02:37:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anveto-push-notifications.zip?timestamp=1427769474"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anveto-push-notifications\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anveto-push-notifications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

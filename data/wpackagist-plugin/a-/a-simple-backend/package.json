@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/a-simple-backend": {
+            "1.0.4.9": {
+                "name": "wpackagist-plugin\/a-simple-backend",
+                "version": "1.0.4.9",
+                "version_normalized": "1.0.4.9",
+                "uid": 1969,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/a-simple-backend.zip?timestamp=1518093943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/a-simple-backend\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/a-simple-backend\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/a-simple-backend",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 1970,
+                "time": "2018-02-08 12:45:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/a-simple-backend.zip?timestamp=1518093943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/a-simple-backend\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/a-simple-backend\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

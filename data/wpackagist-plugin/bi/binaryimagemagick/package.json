@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/binaryimagemagick": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/binaryimagemagick",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 41784,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/binaryimagemagick.zip?timestamp=1423119961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/binaryimagemagick\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/binaryimagemagick\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/binaryimagemagick",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 41785,
+                "time": "2015-02-05 07:06:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/binaryimagemagick.zip?timestamp=1423119961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/binaryimagemagick\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/binaryimagemagick\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

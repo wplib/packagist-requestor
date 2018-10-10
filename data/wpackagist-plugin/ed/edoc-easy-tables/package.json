@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edoc-easy-tables": {
+            "1.27": {
+                "name": "wpackagist-plugin\/edoc-easy-tables",
+                "version": "1.27",
+                "version_normalized": "1.27.0.0",
+                "uid": 114364,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edoc-easy-tables.1.27.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edoc-easy-tables\/",
+                    "reference": "tags\/1.27"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edoc-easy-tables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edoc-easy-tables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114365,
+                "time": "2017-09-11 16:42:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edoc-easy-tables.zip?timestamp=1505148134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edoc-easy-tables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edoc-easy-tables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/games": {
+            "2.7.1": {
+                "name": "wpackagist-plugin\/games",
+                "version": "2.7.1",
+                "version_normalized": "2.7.1.0",
+                "uid": 146984,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/games.zip?timestamp=1447490729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/games\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/games\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/games",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 146985,
+                "time": "2015-11-14 08:45:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/games.zip?timestamp=1447490729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/games\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/games\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/visitors-counter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/visitors-counter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 376867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visitors-counter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visitors-counter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visitors-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/visitors-counter",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 376868,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visitors-counter.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visitors-counter\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visitors-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/visitors-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376869,
+                "time": "2016-08-20 03:07:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visitors-counter.zip?timestamp=1471662453"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visitors-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visitors-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

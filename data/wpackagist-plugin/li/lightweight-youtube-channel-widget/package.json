@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lightweight-youtube-channel-widget": {
+            "10.0": {
+                "name": "wpackagist-plugin\/lightweight-youtube-channel-widget",
+                "version": "10.0",
+                "version_normalized": "10.0.0.0",
+                "uid": 197496,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lightweight-youtube-channel-widget.10.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lightweight-youtube-channel-widget\/",
+                    "reference": "tags\/10.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lightweight-youtube-channel-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lightweight-youtube-channel-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 197497,
+                "time": "2015-01-05 13:36:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lightweight-youtube-channel-widget.zip?timestamp=1420465011"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lightweight-youtube-channel-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lightweight-youtube-channel-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

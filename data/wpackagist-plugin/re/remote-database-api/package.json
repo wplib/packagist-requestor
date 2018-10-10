@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remote-database-api": {
+            "1.2": {
+                "name": "wpackagist-plugin\/remote-database-api",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 286672,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remote-database-api.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remote-database-api\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remote-database-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remote-database-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286673,
+                "time": "2016-05-24 10:46:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remote-database-api.zip?timestamp=1464086797"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remote-database-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remote-database-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/corner-ad": {
+            "1.0.22": {
+                "name": "wpackagist-plugin\/corner-ad",
+                "version": "1.0.22",
+                "version_normalized": "1.0.22.0",
+                "uid": 83264,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/corner-ad.1.0.22.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/corner-ad\/",
+                    "reference": "tags\/1.0.22"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/corner-ad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/corner-ad",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83265,
+                "time": "2018-09-30 22:38:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/corner-ad.zip?timestamp=1538347134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/corner-ad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/corner-ad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

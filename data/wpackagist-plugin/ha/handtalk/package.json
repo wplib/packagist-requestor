@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/handtalk": {
+            "2.0": {
+                "name": "wpackagist-plugin\/handtalk",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 162442,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/handtalk.zip?timestamp=1538512469"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/handtalk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/handtalk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/handtalk",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 162443,
+                "time": "2018-10-02 20:34:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/handtalk.zip?timestamp=1538512469"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/handtalk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/handtalk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

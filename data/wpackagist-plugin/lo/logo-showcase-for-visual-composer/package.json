@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/logo-showcase-for-visual-composer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/logo-showcase-for-visual-composer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 203508,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logo-showcase-for-visual-composer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logo-showcase-for-visual-composer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logo-showcase-for-visual-composer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/logo-showcase-for-visual-composer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203509,
+                "time": "2016-12-08 07:28:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logo-showcase-for-visual-composer.zip?timestamp=1481182137"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logo-showcase-for-visual-composer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logo-showcase-for-visual-composer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

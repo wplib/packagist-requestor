@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advanced-youtube-channel-pagination": {
+            "1.0": {
+                "name": "wpackagist-plugin\/advanced-youtube-channel-pagination",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 13422,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-youtube-channel-pagination.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-youtube-channel-pagination\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-youtube-channel-pagination\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advanced-youtube-channel-pagination",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 13423,
+                "time": "2017-05-16 11:29:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-youtube-channel-pagination.zip?timestamp=1494934180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-youtube-channel-pagination\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-youtube-channel-pagination\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ezcount": {
+            "1.02": {
+                "name": "wpackagist-plugin\/ezcount",
+                "version": "1.02",
+                "version_normalized": "1.02.0.0",
+                "uid": 126744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezcount.zip?timestamp=1536766585"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezcount\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezcount\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ezcount",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126745,
+                "time": "2018-09-12 15:36:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezcount.zip?timestamp=1536766585"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezcount\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezcount\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

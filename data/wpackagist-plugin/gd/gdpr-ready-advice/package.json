@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gdpr-ready-advice": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gdpr-ready-advice",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 148165,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-ready-advice.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-ready-advice\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-ready-advice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gdpr-ready-advice",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148166,
+                "time": "2018-06-26 07:45:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-ready-advice.zip?timestamp=1529999138"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-ready-advice\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-ready-advice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

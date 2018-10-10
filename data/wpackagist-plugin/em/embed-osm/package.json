@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/embed-osm": {
+            "1.2": {
+                "name": "wpackagist-plugin\/embed-osm",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 118316,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-osm.zip?timestamp=1510835418"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-osm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-osm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/embed-osm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118317,
+                "time": "2017-11-16 12:30:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-osm.zip?timestamp=1510835418"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-osm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-osm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

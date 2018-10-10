@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automagicalinks": {
+            "0.1": {
+                "name": "wpackagist-plugin\/automagicalinks",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 31111,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automagicalinks.zip?timestamp=1532892403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automagicalinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automagicalinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automagicalinks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31112,
+                "time": "2018-07-29 19:26:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automagicalinks.zip?timestamp=1532892403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automagicalinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automagicalinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

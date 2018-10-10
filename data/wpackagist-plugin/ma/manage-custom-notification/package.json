@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/manage-custom-notification": {
+            "1.0": {
+                "name": "wpackagist-plugin\/manage-custom-notification",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 208198,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-custom-notification.zip?timestamp=1510992723"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-custom-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-custom-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/manage-custom-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208199,
+                "time": "2017-11-18 08:12:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-custom-notification.zip?timestamp=1510992723"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-custom-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-custom-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ee4-quickpay": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ee4-quickpay",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 114698,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ee4-quickpay.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ee4-quickpay\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ee4-quickpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ee4-quickpay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114699,
+                "time": "2017-02-02 09:09:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ee4-quickpay.zip?timestamp=1486026544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ee4-quickpay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ee4-quickpay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

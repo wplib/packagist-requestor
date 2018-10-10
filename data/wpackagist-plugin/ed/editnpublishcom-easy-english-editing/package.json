@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/editnpublishcom-easy-english-editing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/editnpublishcom-easy-english-editing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 114127,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/editnpublishcom-easy-english-editing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/editnpublishcom-easy-english-editing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/editnpublishcom-easy-english-editing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/editnpublishcom-easy-english-editing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114128,
+                "time": "2015-01-23 05:08:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/editnpublishcom-easy-english-editing.zip?timestamp=1421989724"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/editnpublishcom-easy-english-editing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/editnpublishcom-easy-english-editing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

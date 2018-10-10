@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontdoor-live-chat": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/frontdoor-live-chat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 143466,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontdoor-live-chat.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontdoor-live-chat\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontdoor-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontdoor-live-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143467,
+                "time": "2016-05-24 17:58:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontdoor-live-chat.zip?timestamp=1464112699"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontdoor-live-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontdoor-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

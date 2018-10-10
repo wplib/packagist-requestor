@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/silence-jquery-migrate-installed-message": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/silence-jquery-migrate-installed-message",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 312216,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/silence-jquery-migrate-installed-message.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/silence-jquery-migrate-installed-message\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/silence-jquery-migrate-installed-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/silence-jquery-migrate-installed-message",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312217,
+                "time": "2018-07-24 03:05:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/silence-jquery-migrate-installed-message.zip?timestamp=1532401526"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/silence-jquery-migrate-installed-message\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/silence-jquery-migrate-installed-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

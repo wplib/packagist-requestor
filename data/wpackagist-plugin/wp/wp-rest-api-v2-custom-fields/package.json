@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-rest-api-v2-custom-fields": {
+            "0.1": {
+                "name": "wpackagist-plugin\/wp-rest-api-v2-custom-fields",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 429591,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-rest-api-v2-custom-fields.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-rest-api-v2-custom-fields\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-rest-api-v2-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-rest-api-v2-custom-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 429592,
+                "time": "2016-04-07 21:16:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-rest-api-v2-custom-fields.zip?timestamp=1460063779"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-rest-api-v2-custom-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-rest-api-v2-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

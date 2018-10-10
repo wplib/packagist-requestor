@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hellothere-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/hellothere-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 164551,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellothere-widget.zip?timestamp=1518216954"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellothere-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellothere-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hellothere-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164552,
+                "time": "2018-02-09 22:55:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellothere-widget.zip?timestamp=1518216954"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellothere-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellothere-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

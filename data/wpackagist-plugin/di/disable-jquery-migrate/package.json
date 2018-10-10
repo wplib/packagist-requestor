@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-jquery-migrate": {
+            "1.0": {
+                "name": "wpackagist-plugin\/disable-jquery-migrate",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100398,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-jquery-migrate.zip?timestamp=1444250443"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-jquery-migrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-jquery-migrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-jquery-migrate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100399,
+                "time": "2015-10-07 20:40:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-jquery-migrate.zip?timestamp=1444250443"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-jquery-migrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-jquery-migrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

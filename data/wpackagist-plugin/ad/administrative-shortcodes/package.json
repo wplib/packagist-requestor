@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/administrative-shortcodes": {
+            "0.3.2": {
+                "name": "wpackagist-plugin\/administrative-shortcodes",
+                "version": "0.3.2",
+                "version_normalized": "0.3.2.0",
+                "uid": 10049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/administrative-shortcodes.zip?timestamp=1498395749"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/administrative-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/administrative-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/administrative-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 10050,
+                "time": "2017-06-25 13:02:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/administrative-shortcodes.zip?timestamp=1498395749"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/administrative-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/administrative-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

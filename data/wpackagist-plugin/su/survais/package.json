@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/survais": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/survais",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 342932,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/survais.zip?timestamp=1522317651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/survais\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/survais\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/survais",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342933,
+                "time": "2018-03-29 10:00:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/survais.zip?timestamp=1522317651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/survais\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/survais\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

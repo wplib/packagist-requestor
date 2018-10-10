@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lorem-ipsum": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/lorem-ipsum",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 203926,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lorem-ipsum.zip?timestamp=1520517283"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lorem-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lorem-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lorem-ipsum",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203927,
+                "time": "2018-03-08 13:54:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lorem-ipsum.zip?timestamp=1520517283"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lorem-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lorem-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

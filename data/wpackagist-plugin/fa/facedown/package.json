@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facedown": {
+            "1.0": {
+                "name": "wpackagist-plugin\/facedown",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 128637,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facedown.zip?timestamp=1429768077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facedown\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facedown\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facedown",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 128638,
+                "time": "2015-04-23 05:47:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facedown.zip?timestamp=1429768077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facedown\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facedown\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

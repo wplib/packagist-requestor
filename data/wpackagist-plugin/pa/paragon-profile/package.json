@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/paragon-profile": {
+            "1.1": {
+                "name": "wpackagist-plugin\/paragon-profile",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 249178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paragon-profile.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paragon-profile\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paragon-profile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/paragon-profile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249179,
+                "time": "2016-03-20 22:48:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paragon-profile.zip?timestamp=1458514136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paragon-profile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paragon-profile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

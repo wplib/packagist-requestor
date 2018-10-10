@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mobpress": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mobpress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 220450,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobpress.zip?timestamp=1514533514"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mobpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 220451,
+                "time": "2017-12-29 07:45:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mobpress.zip?timestamp=1514533514"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mobpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mobpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

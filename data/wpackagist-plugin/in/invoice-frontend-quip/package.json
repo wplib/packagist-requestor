@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invoice-frontend-quip": {
+            "1": {
+                "name": "wpackagist-plugin\/invoice-frontend-quip",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 180103,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoice-frontend-quip.zip?timestamp=1506560364"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoice-frontend-quip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoice-frontend-quip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invoice-frontend-quip",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180104,
+                "time": "2017-09-28 00:59:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoice-frontend-quip.zip?timestamp=1506560364"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoice-frontend-quip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoice-frontend-quip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

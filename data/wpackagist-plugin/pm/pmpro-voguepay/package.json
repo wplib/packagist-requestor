@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pmpro-voguepay": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pmpro-voguepay",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 259832,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-voguepay.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-voguepay\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-voguepay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pmpro-voguepay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259833,
+                "time": "2018-08-13 22:02:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-voguepay.zip?timestamp=1534197758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-voguepay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-voguepay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-getloy-payway-gateway": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/wc-getloy-payway-gateway",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 380693,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-getloy-payway-gateway.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-getloy-payway-gateway\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-getloy-payway-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-getloy-payway-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 380694,
+                "time": "2017-11-29 04:54:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-getloy-payway-gateway.zip?timestamp=1511931286"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-getloy-payway-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-getloy-payway-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

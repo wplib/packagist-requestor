@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/best-local-seo-tools": {
+            "1.0": {
+                "name": "wpackagist-plugin\/best-local-seo-tools",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 39570,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/best-local-seo-tools.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/best-local-seo-tools\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/best-local-seo-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/best-local-seo-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39571,
+                "time": "2018-04-03 14:25:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/best-local-seo-tools.zip?timestamp=1522765507"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/best-local-seo-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/best-local-seo-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

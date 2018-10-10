@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blog-coach": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/blog-coach",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 44202,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blog-coach.zip?timestamp=1454967504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blog-coach\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blog-coach\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blog-coach",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 44203,
+                "time": "2016-02-08 21:38:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blog-coach.zip?timestamp=1454967504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blog-coach\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blog-coach\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

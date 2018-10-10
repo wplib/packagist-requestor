@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/must-read": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/must-read",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 225981,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/must-read.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/must-read\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/must-read\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/must-read",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225982,
+                "time": "2017-11-09 15:34:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/must-read.zip?timestamp=1510241640"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/must-read\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/must-read\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

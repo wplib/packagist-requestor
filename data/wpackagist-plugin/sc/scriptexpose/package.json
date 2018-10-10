@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scriptexpose": {
+            "1.0": {
+                "name": "wpackagist-plugin\/scriptexpose",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 301063,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scriptexpose.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scriptexpose\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scriptexpose\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scriptexpose",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 301064,
+                "time": "2016-05-24 21:27:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scriptexpose.zip?timestamp=1464125268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scriptexpose\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scriptexpose\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

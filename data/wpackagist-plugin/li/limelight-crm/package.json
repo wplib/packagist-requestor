@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/limelight-crm": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/limelight-crm",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 198024,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limelight-crm.zip?timestamp=1510843805"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limelight-crm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limelight-crm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/limelight-crm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198025,
+                "time": "2017-11-16 14:50:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limelight-crm.zip?timestamp=1510843805"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limelight-crm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limelight-crm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

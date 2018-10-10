@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-wp-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/better-wp-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 40688,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-wp-search.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-wp-search\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-wp-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-wp-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40689,
+                "time": "2016-07-27 22:45:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-wp-search.zip?timestamp=1469659512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-wp-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-wp-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

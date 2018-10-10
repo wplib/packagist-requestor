@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zchat-enterprise": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/zchat-enterprise",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 451899,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zchat-enterprise.zip?timestamp=1468307402"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zchat-enterprise\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zchat-enterprise\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zchat-enterprise",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 451900,
+                "time": "2016-07-12 07:10:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zchat-enterprise.zip?timestamp=1468307402"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zchat-enterprise\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zchat-enterprise\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

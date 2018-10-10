@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/string-translation-importer-wpml": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/string-translation-importer-wpml",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 338695,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/string-translation-importer-wpml.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/string-translation-importer-wpml\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/string-translation-importer-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/string-translation-importer-wpml",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338696,
+                "time": "2018-02-08 05:57:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/string-translation-importer-wpml.zip?timestamp=1518069449"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/string-translation-importer-wpml\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/string-translation-importer-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

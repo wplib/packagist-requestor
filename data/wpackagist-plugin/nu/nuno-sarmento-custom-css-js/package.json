@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nuno-sarmento-custom-css-js": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/nuno-sarmento-custom-css-js",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 238537,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nuno-sarmento-custom-css-js.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nuno-sarmento-custom-css-js\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nuno-sarmento-custom-css-js\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nuno-sarmento-custom-css-js",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238538,
+                "time": "2017-11-09 14:10:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nuno-sarmento-custom-css-js.zip?timestamp=1510236634"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nuno-sarmento-custom-css-js\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nuno-sarmento-custom-css-js\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

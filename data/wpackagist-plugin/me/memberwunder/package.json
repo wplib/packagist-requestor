@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/memberwunder": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/memberwunder",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 214220,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memberwunder.zip?timestamp=1513856106"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memberwunder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memberwunder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/memberwunder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214221,
+                "time": "2017-12-21 11:35:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/memberwunder.zip?timestamp=1513856106"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/memberwunder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/memberwunder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/audience-segment-taxonomies": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/audience-segment-taxonomies",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 29138,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audience-segment-taxonomies.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audience-segment-taxonomies\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audience-segment-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/audience-segment-taxonomies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29139,
+                "time": "2017-05-02 01:48:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audience-segment-taxonomies.zip?timestamp=1493689706"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audience-segment-taxonomies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audience-segment-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

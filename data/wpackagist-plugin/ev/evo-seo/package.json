@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/evo-seo": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/evo-seo",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 124091,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/evo-seo.zip?timestamp=1538418601"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/evo-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/evo-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/evo-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124092,
+                "time": "2018-10-01 18:30:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/evo-seo.zip?timestamp=1538418601"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/evo-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/evo-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pl-manager": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pl-manager",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 257757,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pl-manager.zip?timestamp=1490180758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pl-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pl-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pl-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 257758,
+                "time": "2017-03-22 11:05:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pl-manager.zip?timestamp=1490180758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pl-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pl-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

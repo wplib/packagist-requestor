@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customize-search-results-order": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/customize-search-results-order",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 92252,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-search-results-order.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-search-results-order\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-search-results-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customize-search-results-order",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92253,
+                "time": "2018-04-30 07:22:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-search-results-order.zip?timestamp=1525072971"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-search-results-order\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-search-results-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

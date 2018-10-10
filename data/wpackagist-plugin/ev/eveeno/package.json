@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/eveeno": {
+            "1.32": {
+                "name": "wpackagist-plugin\/eveeno",
+                "version": "1.32",
+                "version_normalized": "1.32.0.0",
+                "uid": 122691,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eveeno.zip?timestamp=1532383982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eveeno\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eveeno\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/eveeno",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122692,
+                "time": "2018-07-23 22:13:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eveeno.zip?timestamp=1532383982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eveeno\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eveeno\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

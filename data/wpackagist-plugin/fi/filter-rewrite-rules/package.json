@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/filter-rewrite-rules": {
+            "0.1": {
+                "name": "wpackagist-plugin\/filter-rewrite-rules",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 133998,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/filter-rewrite-rules.zip?timestamp=1464951618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/filter-rewrite-rules\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/filter-rewrite-rules\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/filter-rewrite-rules",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 133999,
+                "time": "2016-06-03 11:00:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/filter-rewrite-rules.zip?timestamp=1464951618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/filter-rewrite-rules\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/filter-rewrite-rules\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

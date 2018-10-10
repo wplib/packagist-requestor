@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/http-syndication": {
+            "1.5": {
+                "name": "wpackagist-plugin\/http-syndication",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 168863,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/http-syndication.zip?timestamp=1466107622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/http-syndication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/http-syndication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/http-syndication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168864,
+                "time": "2016-06-16 20:07:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/http-syndication.zip?timestamp=1466107622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/http-syndication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/http-syndication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

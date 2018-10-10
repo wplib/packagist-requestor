@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/badgeup": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/badgeup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 35157,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badgeup.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badgeup\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badgeup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/badgeup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35158,
+                "time": "2017-12-31 22:11:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badgeup.zip?timestamp=1514758300"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badgeup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badgeup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

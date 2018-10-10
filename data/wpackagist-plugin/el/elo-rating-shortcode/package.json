@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elo-rating-shortcode": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/elo-rating-shortcode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 116689,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elo-rating-shortcode.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elo-rating-shortcode\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elo-rating-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elo-rating-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116690,
+                "time": "2017-11-10 11:35:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elo-rating-shortcode.zip?timestamp=1510313703"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elo-rating-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elo-rating-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

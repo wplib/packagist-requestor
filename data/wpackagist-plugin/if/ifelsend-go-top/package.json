@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ifelsend-go-top": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ifelsend-go-top",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 171886,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifelsend-go-top.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifelsend-go-top\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifelsend-go-top\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ifelsend-go-top",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171887,
+                "time": "2017-02-10 03:43:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifelsend-go-top.zip?timestamp=1486698212"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifelsend-go-top\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifelsend-go-top\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

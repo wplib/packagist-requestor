@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/well-traveled": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/well-traveled",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 384544,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/well-traveled.zip?timestamp=1498757750"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/well-traveled\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/well-traveled\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/well-traveled",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384545,
+                "time": "2017-06-29 17:35:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/well-traveled.zip?timestamp=1498757750"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/well-traveled\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/well-traveled\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/efront": {
+            "2.3.1": {
+                "name": "wpackagist-plugin\/efront",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "uid": 114916,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/efront.zip?timestamp=1427962358"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/efront\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/efront\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/efront",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114917,
+                "time": "2015-04-02 08:12:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/efront.zip?timestamp=1427962358"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/efront\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/efront\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cflead": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cflead",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65217,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cflead.zip?timestamp=1528973153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cflead\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cflead\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cflead",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65218,
+                "time": "2018-06-14 10:45:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cflead.zip?timestamp=1528973153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cflead\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cflead\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

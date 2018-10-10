@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/websec": {
+            "1.0": {
+                "name": "wpackagist-plugin\/websec",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383572,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/websec.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/websec\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/websec\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/websec",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383573,
+                "time": "2016-11-17 19:33:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/websec.zip?timestamp=1479411196"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/websec\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/websec\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

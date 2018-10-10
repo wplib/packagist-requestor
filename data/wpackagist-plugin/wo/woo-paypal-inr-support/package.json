@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-paypal-inr-support": {
+            "0.9": {
+                "name": "wpackagist-plugin\/woo-paypal-inr-support",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 391147,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-paypal-inr-support.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-paypal-inr-support\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-paypal-inr-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-paypal-inr-support",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 391148,
+                "time": "2018-07-10 12:05:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-paypal-inr-support.zip?timestamp=1531224329"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-paypal-inr-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-paypal-inr-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

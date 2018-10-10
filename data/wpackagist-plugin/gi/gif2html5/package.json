@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gif2html5": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/gif2html5",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 151526,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gif2html5.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gif2html5\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gif2html5\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gif2html5",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151527,
+                "time": "2015-08-27 00:10:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gif2html5.zip?timestamp=1440634243"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gif2html5\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gif2html5\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

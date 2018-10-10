@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/markdown-highlighter": {
+            "0.1": {
+                "name": "wpackagist-plugin\/markdown-highlighter",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 209561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/markdown-highlighter.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/markdown-highlighter\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/markdown-highlighter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/markdown-highlighter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209562,
+                "time": "2016-05-28 06:34:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/markdown-highlighter.zip?timestamp=1464417290"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/markdown-highlighter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/markdown-highlighter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/migrate-guru": {
+            "1.72": {
+                "name": "wpackagist-plugin\/migrate-guru",
+                "version": "1.72",
+                "version_normalized": "1.72.0.0",
+                "uid": 217176,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-guru.zip?timestamp=1535033528"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-guru\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-guru\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/migrate-guru",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217177,
+                "time": "2018-08-23 14:12:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-guru.zip?timestamp=1535033528"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-guru\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-guru\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

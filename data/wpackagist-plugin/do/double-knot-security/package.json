@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/double-knot-security": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/double-knot-security",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 103872,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/double-knot-security.zip?timestamp=1497529059"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/double-knot-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/double-knot-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/double-knot-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103873,
+                "time": "2017-06-15 12:17:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/double-knot-security.zip?timestamp=1497529059"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/double-knot-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/double-knot-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

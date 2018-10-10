@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/role-based-storage-limiter": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/role-based-storage-limiter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 294052,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/role-based-storage-limiter.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/role-based-storage-limiter\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/role-based-storage-limiter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/role-based-storage-limiter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 294053,
+                "time": "2017-03-10 03:24:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/role-based-storage-limiter.zip?timestamp=1489116283"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/role-based-storage-limiter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/role-based-storage-limiter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/movie-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/movie-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 222797,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/movie-widget.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/movie-widget\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/movie-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/movie-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222798,
+                "time": "2018-09-15 08:52:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/movie-widget.zip?timestamp=1537001545"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/movie-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/movie-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

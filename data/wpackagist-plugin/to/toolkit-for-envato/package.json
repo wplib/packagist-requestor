@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/toolkit-for-envato": {
+            "1.4": {
+                "name": "wpackagist-plugin\/toolkit-for-envato",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 357039,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toolkit-for-envato.zip?timestamp=1509501169"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toolkit-for-envato\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toolkit-for-envato\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/toolkit-for-envato",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 357040,
+                "time": "2017-11-01 01:52:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toolkit-for-envato.zip?timestamp=1509501169"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toolkit-for-envato\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toolkit-for-envato\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

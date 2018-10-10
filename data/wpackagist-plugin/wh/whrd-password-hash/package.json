@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whrd-password-hash": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/whrd-password-hash",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 385922,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whrd-password-hash.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whrd-password-hash\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whrd-password-hash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whrd-password-hash",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385923,
+                "time": "2017-03-07 10:06:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whrd-password-hash.zip?timestamp=1488881185"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whrd-password-hash\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whrd-password-hash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

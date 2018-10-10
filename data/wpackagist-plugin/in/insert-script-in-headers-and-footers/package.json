@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insert-script-in-headers-and-footers": {
+            "1.0": {
+                "name": "wpackagist-plugin\/insert-script-in-headers-and-footers",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 177546,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-script-in-headers-and-footers.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-script-in-headers-and-footers\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-script-in-headers-and-footers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insert-script-in-headers-and-footers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177547,
+                "time": "2018-08-30 11:14:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insert-script-in-headers-and-footers.zip?timestamp=1535627682"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insert-script-in-headers-and-footers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insert-script-in-headers-and-footers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

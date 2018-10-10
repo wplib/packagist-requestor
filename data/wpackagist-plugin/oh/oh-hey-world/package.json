@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oh-hey-world": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/oh-hey-world",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 240321,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oh-hey-world.zip?timestamp=1460081717"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oh-hey-world\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oh-hey-world\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oh-hey-world",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 240322,
+                "time": "2016-04-08 02:15:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oh-hey-world.zip?timestamp=1460081717"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oh-hey-world\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oh-hey-world\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

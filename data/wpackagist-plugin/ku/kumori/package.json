@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kumori": {
+            "0.23": {
+                "name": "wpackagist-plugin\/kumori",
+                "version": "0.23",
+                "version_normalized": "0.23.0.0",
+                "uid": 191753,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kumori.zip?timestamp=1423587684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kumori\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kumori\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kumori",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191754,
+                "time": "2015-02-10 17:01:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kumori.zip?timestamp=1423587684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kumori\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kumori\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

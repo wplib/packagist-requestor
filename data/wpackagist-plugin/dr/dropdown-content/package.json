@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dropdown-content": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/dropdown-content",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 105062,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dropdown-content.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dropdown-content\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dropdown-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dropdown-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105063,
+                "time": "2016-09-27 14:11:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dropdown-content.zip?timestamp=1474985497"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dropdown-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dropdown-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/word-security": {
+            "1.0": {
+                "name": "wpackagist-plugin\/word-security",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 400540,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/word-security.zip?timestamp=1521832405"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/word-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/word-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/word-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400541,
+                "time": "2018-03-23 19:13:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/word-security.zip?timestamp=1521832405"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/word-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/word-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

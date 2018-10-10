@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/support-extends-genesis": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/support-extends-genesis",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 342367,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/support-extends-genesis.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/support-extends-genesis\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/support-extends-genesis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/support-extends-genesis",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342368,
+                "time": "2016-02-26 07:46:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/support-extends-genesis.zip?timestamp=1456472770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/support-extends-genesis\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/support-extends-genesis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

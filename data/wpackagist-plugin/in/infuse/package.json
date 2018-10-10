@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/infuse": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/infuse",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 176523,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infuse.zip?timestamp=1457943902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infuse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infuse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/infuse",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 176524,
+                "time": "2016-03-14 08:25:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infuse.zip?timestamp=1457943902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infuse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infuse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

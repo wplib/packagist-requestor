@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/unloq": {
+            "2.1.22": {
+                "name": "wpackagist-plugin\/unloq",
+                "version": "2.1.22",
+                "version_normalized": "2.1.22.0",
+                "uid": 368696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unloq.zip?timestamp=1536066873"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unloq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unloq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/unloq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368697,
+                "time": "2018-09-04 13:14:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unloq.zip?timestamp=1536066873"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unloq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unloq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

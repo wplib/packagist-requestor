@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woobopolis": {
+            "1.0": {
+                "name": "wpackagist-plugin\/woobopolis",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 393572,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woobopolis.zip?timestamp=1457966242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woobopolis\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woobopolis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woobopolis",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 393573,
+                "time": "2016-03-14 14:37:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woobopolis.zip?timestamp=1457966242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woobopolis\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woobopolis\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

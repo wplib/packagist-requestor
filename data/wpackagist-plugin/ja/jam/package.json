@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jam": {
+            "2.1": {
+                "name": "wpackagist-plugin\/jam",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 182440,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jam.zip?timestamp=1511498965"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jam",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182441,
+                "time": "2017-11-24 04:49:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jam.zip?timestamp=1511498965"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

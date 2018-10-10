@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smart-posts-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/smart-posts-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 324928,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-posts-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-posts-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smart-posts-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 324929,
+                "time": "2016-04-28 18:19:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-posts-widget.zip?timestamp=1461867582"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-posts-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

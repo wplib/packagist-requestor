@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/revglue-coupons": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/revglue-coupons",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291772,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-coupons.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-coupons\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-coupons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/revglue-coupons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291773,
+                "time": "2018-10-03 14:15:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-coupons.zip?timestamp=1538576130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-coupons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-coupons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

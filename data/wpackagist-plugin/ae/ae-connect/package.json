@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ae-connect": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ae-connect",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 13729,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ae-connect.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ae-connect\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ae-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1.0": {
+                "name": "wpackagist-plugin\/ae-connect",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 13730,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ae-connect.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ae-connect\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ae-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ae-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 13731,
+                "time": "2018-08-30 17:34:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ae-connect.zip?timestamp=1535650444"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ae-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ae-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

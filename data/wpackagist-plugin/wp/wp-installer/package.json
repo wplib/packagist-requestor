@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-installer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-installer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 420438,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-installer.zip?timestamp=1469594005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-installer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-installer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "4.5.3": {
+                "name": "wpackagist-plugin\/wp-installer",
+                "version": "4.5.3",
+                "version_normalized": "4.5.3.0",
+                "uid": 420439,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-installer.4.5.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-installer\/",
+                    "reference": "tags\/4.5.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-installer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-installer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 420440,
+                "time": "2016-07-27 04:33:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-installer.zip?timestamp=1469594005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-installer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-installer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

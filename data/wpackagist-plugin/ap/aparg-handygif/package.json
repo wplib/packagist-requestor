@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aparg-handygif": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aparg-handygif",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aparg-handygif.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aparg-handygif\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aparg-handygif\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aparg-handygif",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23818,
+                "time": "2018-02-08 10:20:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aparg-handygif.zip?timestamp=1518085236"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aparg-handygif\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aparg-handygif\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simplesocial": {
+            "1.0": {
+                "name": "wpackagist-plugin\/simplesocial",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 318935,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simplesocial.zip?timestamp=1537411230"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simplesocial\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simplesocial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simplesocial",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 318936,
+                "time": "2018-09-20 02:40:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simplesocial.zip?timestamp=1537411230"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simplesocial\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simplesocial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

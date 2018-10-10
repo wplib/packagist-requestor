@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/events-rest-api": {
+            "3.0.1.beta.003": {
+                "name": "wpackagist-plugin\/events-rest-api",
+                "version": "3.0.1.beta.003",
+                "version_normalized": "3.0.1.0-beta003",
+                "uid": 123773,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/events-rest-api.zip?timestamp=1477070022"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/events-rest-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/events-rest-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/events-rest-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 123774,
+                "time": "2016-10-21 17:13:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/events-rest-api.zip?timestamp=1477070022"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/events-rest-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/events-rest-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

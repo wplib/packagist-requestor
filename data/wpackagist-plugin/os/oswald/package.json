@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oswald": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/oswald",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 245816,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oswald.zip?timestamp=1467537783"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oswald\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oswald\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oswald",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245817,
+                "time": "2016-07-03 09:23:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oswald.zip?timestamp=1467537783"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oswald\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oswald\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

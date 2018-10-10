@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ws-maintenance-mode": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ws-maintenance-mode",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 445028,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-maintenance-mode.zip?timestamp=1503039733"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ws-maintenance-mode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445029,
+                "time": "2017-08-18 07:02:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-maintenance-mode.zip?timestamp=1503039733"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

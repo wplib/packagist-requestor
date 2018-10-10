@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/liveeditor": {
+            "1.0": {
+                "name": "wpackagist-plugin\/liveeditor",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 201366,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liveeditor.zip?timestamp=1489520871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liveeditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liveeditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/liveeditor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201367,
+                "time": "2017-03-14 19:47:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liveeditor.zip?timestamp=1489520871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liveeditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liveeditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

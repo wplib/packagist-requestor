@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-forex-table": {
+            "1.1": {
+                "name": "wpackagist-plugin\/live-forex-table",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 200962,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-forex-table.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-forex-table\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-forex-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-forex-table",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200963,
+                "time": "2016-09-28 09:48:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-forex-table.zip?timestamp=1475056087"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-forex-table\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-forex-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/intershield": {
+            "0.6": {
+                "name": "wpackagist-plugin\/intershield",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 179692,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intershield.zip?timestamp=1532532545"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intershield\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intershield\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/intershield",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179693,
+                "time": "2018-07-25 15:29:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intershield.zip?timestamp=1532532545"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intershield\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intershield\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

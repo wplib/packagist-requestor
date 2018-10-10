@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nimble-squirrel": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/nimble-squirrel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 234987,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nimble-squirrel.zip?timestamp=1467379579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nimble-squirrel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nimble-squirrel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nimble-squirrel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234988,
+                "time": "2016-07-01 13:26:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nimble-squirrel.zip?timestamp=1467379579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nimble-squirrel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nimble-squirrel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

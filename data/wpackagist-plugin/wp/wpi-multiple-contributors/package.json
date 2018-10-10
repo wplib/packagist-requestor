@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpi-multiple-contributors": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpi-multiple-contributors",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441780,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpi-multiple-contributors.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpi-multiple-contributors\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpi-multiple-contributors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpi-multiple-contributors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441781,
+                "time": "2016-04-02 16:35:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpi-multiple-contributors.zip?timestamp=1459614943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpi-multiple-contributors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpi-multiple-contributors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

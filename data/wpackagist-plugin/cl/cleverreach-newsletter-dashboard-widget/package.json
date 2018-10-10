@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cleverreach-newsletter-dashboard-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/cleverreach-newsletter-dashboard-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 70760,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cleverreach-newsletter-dashboard-widget.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cleverreach-newsletter-dashboard-widget\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cleverreach-newsletter-dashboard-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cleverreach-newsletter-dashboard-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70761,
+                "time": "2015-04-17 21:18:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cleverreach-newsletter-dashboard-widget.zip?timestamp=1429305538"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cleverreach-newsletter-dashboard-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cleverreach-newsletter-dashboard-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

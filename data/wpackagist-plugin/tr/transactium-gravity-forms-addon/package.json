@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/transactium-gravity-forms-addon": {
+            "1.0": {
+                "name": "wpackagist-plugin\/transactium-gravity-forms-addon",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 358869,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/transactium-gravity-forms-addon.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/transactium-gravity-forms-addon\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/transactium-gravity-forms-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/transactium-gravity-forms-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 358870,
+                "time": "2017-11-17 11:01:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/transactium-gravity-forms-addon.zip?timestamp=1510916473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/transactium-gravity-forms-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/transactium-gravity-forms-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

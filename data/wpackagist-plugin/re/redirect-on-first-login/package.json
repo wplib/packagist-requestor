@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/redirect-on-first-login": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/redirect-on-first-login",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 284710,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/redirect-on-first-login.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/redirect-on-first-login\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/redirect-on-first-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/redirect-on-first-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 284711,
+                "time": "2017-05-08 04:38:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/redirect-on-first-login.zip?timestamp=1494218331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/redirect-on-first-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/redirect-on-first-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

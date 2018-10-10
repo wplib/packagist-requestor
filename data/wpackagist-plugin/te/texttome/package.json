@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/texttome": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/texttome",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 349667,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/texttome.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/texttome\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/texttome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/texttome",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349668,
+                "time": "2018-01-23 16:43:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/texttome.zip?timestamp=1516725832"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/texttome\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/texttome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

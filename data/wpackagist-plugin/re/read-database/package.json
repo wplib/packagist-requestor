@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/read-database": {
+            "1.1": {
+                "name": "wpackagist-plugin\/read-database",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 281872,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/read-database.zip?timestamp=1488708072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/read-database\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/read-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/read-database",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281873,
+                "time": "2017-03-05 10:01:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/read-database.zip?timestamp=1488708072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/read-database\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/read-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-name-security": {
+            "2.3.1": {
+                "name": "wpackagist-plugin\/user-name-security",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "uid": 371257,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-name-security.zip?timestamp=1521544519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-name-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-name-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-name-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371258,
+                "time": "2018-03-20 11:15:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-name-security.zip?timestamp=1521544519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-name-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-name-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beaverlodge-maintenance": {
+            "1.1.4": {
+                "name": "wpackagist-plugin\/beaverlodge-maintenance",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "uid": 38624,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beaverlodge-maintenance.zip?timestamp=1465278292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beaverlodge-maintenance\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beaverlodge-maintenance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beaverlodge-maintenance",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38625,
+                "time": "2016-06-07 05:44:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beaverlodge-maintenance.zip?timestamp=1465278292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beaverlodge-maintenance\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beaverlodge-maintenance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

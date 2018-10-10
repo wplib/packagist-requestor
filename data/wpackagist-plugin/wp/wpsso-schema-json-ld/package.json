@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-schema-json-ld": {
+            "1.34.0": {
+                "name": "wpackagist-plugin\/wpsso-schema-json-ld",
+                "version": "1.34.0",
+                "version_normalized": "1.34.0.0",
+                "uid": 443760,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-schema-json-ld.1.34.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-schema-json-ld\/",
+                    "reference": "tags\/1.34.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-schema-json-ld\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-schema-json-ld",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443761,
+                "time": "2018-10-08 14:09:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-schema-json-ld.zip?timestamp=1539007761"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-schema-json-ld\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-schema-json-ld\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

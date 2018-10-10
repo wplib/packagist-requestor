@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magic-shortcodes-builder-lite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/magic-shortcodes-builder-lite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206015,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-shortcodes-builder-lite.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-shortcodes-builder-lite\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-shortcodes-builder-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magic-shortcodes-builder-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206016,
+                "time": "2018-08-28 21:59:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-shortcodes-builder-lite.zip?timestamp=1535493562"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-shortcodes-builder-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-shortcodes-builder-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

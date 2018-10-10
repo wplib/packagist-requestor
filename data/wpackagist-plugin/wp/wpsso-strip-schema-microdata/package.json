@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-strip-schema-microdata": {
+            "1.4.1": {
+                "name": "wpackagist-plugin\/wpsso-strip-schema-microdata",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "uid": 443764,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-strip-schema-microdata.1.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-strip-schema-microdata\/",
+                    "reference": "tags\/1.4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-strip-schema-microdata\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-strip-schema-microdata",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443765,
+                "time": "2018-10-08 15:00:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-strip-schema-microdata.zip?timestamp=1539010850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-strip-schema-microdata\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-strip-schema-microdata\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

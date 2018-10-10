@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fuseforms-for-mailchimp": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/fuseforms-for-mailchimp",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 144867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fuseforms-for-mailchimp.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fuseforms-for-mailchimp\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fuseforms-for-mailchimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fuseforms-for-mailchimp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144868,
+                "time": "2015-11-23 15:41:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fuseforms-for-mailchimp.zip?timestamp=1448293263"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fuseforms-for-mailchimp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fuseforms-for-mailchimp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

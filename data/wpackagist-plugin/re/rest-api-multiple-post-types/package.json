@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rest-api-multiple-post-types": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/rest-api-multiple-post-types",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 290394,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-multiple-post-types.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-multiple-post-types\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-multiple-post-types\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rest-api-multiple-post-types",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290395,
+                "time": "2017-08-22 16:16:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-multiple-post-types.zip?timestamp=1503418575"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-multiple-post-types\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-multiple-post-types\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

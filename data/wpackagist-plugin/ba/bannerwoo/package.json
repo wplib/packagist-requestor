@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bannerwoo": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bannerwoo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 35837,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bannerwoo.zip?timestamp=1429351916"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bannerwoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bannerwoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bannerwoo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35838,
+                "time": "2015-04-18 10:11:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bannerwoo.zip?timestamp=1429351916"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bannerwoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bannerwoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comprehensive-google-map-plugin": {
+            "9.1.2": {
+                "name": "wpackagist-plugin\/comprehensive-google-map-plugin",
+                "version": "9.1.2",
+                "version_normalized": "9.1.2.0",
+                "uid": 77019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comprehensive-google-map-plugin.9.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comprehensive-google-map-plugin\/",
+                    "reference": "tags\/9.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comprehensive-google-map-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comprehensive-google-map-plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77020,
+                "time": "2016-06-21 19:53:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comprehensive-google-map-plugin.zip?timestamp=1466538799"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comprehensive-google-map-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comprehensive-google-map-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

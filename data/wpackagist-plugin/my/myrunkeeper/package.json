@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/myrunkeeper": {
+            "2.0": {
+                "name": "wpackagist-plugin\/myrunkeeper",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 228392,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/myrunkeeper.zip?timestamp=1504548763"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/myrunkeeper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/myrunkeeper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/myrunkeeper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 228393,
+                "time": "2017-09-04 18:12:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/myrunkeeper.zip?timestamp=1504548763"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/myrunkeeper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/myrunkeeper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

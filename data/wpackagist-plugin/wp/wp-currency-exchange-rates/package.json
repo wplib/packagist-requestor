@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-currency-exchange-rates": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-currency-exchange-rates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 411581,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-currency-exchange-rates.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-currency-exchange-rates\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-currency-exchange-rates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-currency-exchange-rates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 411582,
+                "time": "2017-08-24 22:04:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-currency-exchange-rates.zip?timestamp=1503612297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-currency-exchange-rates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-currency-exchange-rates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

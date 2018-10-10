@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ttv-easy-embed-player": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/ttv-easy-embed-player",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 360847,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ttv-easy-embed-player.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ttv-easy-embed-player\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ttv-easy-embed-player\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ttv-easy-embed-player",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 360848,
+                "time": "2018-09-24 18:17:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ttv-easy-embed-player.zip?timestamp=1537813027"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ttv-easy-embed-player\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ttv-easy-embed-player\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

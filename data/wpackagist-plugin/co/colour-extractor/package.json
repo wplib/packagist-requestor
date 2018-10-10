@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/colour-extractor": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/colour-extractor",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 74603,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/colour-extractor.zip?timestamp=1444731642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/colour-extractor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/colour-extractor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/colour-extractor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74604,
+                "time": "2015-10-13 10:20:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/colour-extractor.zip?timestamp=1444731642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/colour-extractor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/colour-extractor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

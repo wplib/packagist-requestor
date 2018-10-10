@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clerkio": {
+            "1.5.2": {
+                "name": "wpackagist-plugin\/clerkio",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "uid": 70578,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clerkio.zip?timestamp=1537536356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clerkio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clerkio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clerkio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70579,
+                "time": "2018-09-21 13:25:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clerkio.zip?timestamp=1537536356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clerkio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clerkio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

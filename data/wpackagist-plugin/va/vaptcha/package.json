@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vaptcha": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/vaptcha",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 373052,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vaptcha.zip?timestamp=1533102850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vaptcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vaptcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373053,
+                "time": "2018-08-01 05:54:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vaptcha.zip?timestamp=1533102850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vaptcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

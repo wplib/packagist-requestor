@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/calendi": {
+            "1.0": {
+                "name": "wpackagist-plugin\/calendi",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 59061,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/calendi.zip?timestamp=1535135756"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/calendi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/calendi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/calendi",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59062,
+                "time": "2018-08-24 18:35:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/calendi.zip?timestamp=1535135756"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/calendi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/calendi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

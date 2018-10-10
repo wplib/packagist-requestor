@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/what-the-template": {
+            "1.0": {
+                "name": "wpackagist-plugin\/what-the-template",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 384997,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-the-template.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-the-template\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-the-template\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/what-the-template",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384998,
+                "time": "2017-01-26 14:07:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-the-template.zip?timestamp=1485439630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-the-template\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-the-template\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

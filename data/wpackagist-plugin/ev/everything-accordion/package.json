@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/everything-accordion": {
+            "1.0": {
+                "name": "wpackagist-plugin\/everything-accordion",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 124045,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/everything-accordion.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/everything-accordion\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/everything-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/everything-accordion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124046,
+                "time": "2018-08-30 22:00:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/everything-accordion.zip?timestamp=1535666451"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/everything-accordion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/everything-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

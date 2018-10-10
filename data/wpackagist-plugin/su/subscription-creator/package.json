@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subscription-creator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/subscription-creator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 340369,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscription-creator.zip?timestamp=1528728218"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscription-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscription-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subscription-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 340370,
+                "time": "2018-06-11 14:43:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscription-creator.zip?timestamp=1528728218"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscription-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscription-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

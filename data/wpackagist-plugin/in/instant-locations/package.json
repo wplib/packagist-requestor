@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/instant-locations": {
+            "1.0": {
+                "name": "wpackagist-plugin\/instant-locations",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 178329,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-locations.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-locations\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-locations\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/instant-locations",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178330,
+                "time": "2016-04-21 03:02:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-locations.zip?timestamp=1461207729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-locations\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-locations\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

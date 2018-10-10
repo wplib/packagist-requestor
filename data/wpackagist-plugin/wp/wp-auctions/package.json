@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-auctions": {
+            "3.6.5": {
+                "name": "wpackagist-plugin\/wp-auctions",
+                "version": "3.6.5",
+                "version_normalized": "3.6.5.0",
+                "uid": 406696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-auctions.zip?timestamp=1525379179"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-auctions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-auctions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/wp-auctions",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 406697,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-auctions.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-auctions\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-auctions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-auctions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 406698,
+                "time": "2018-05-03 20:26:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-auctions.zip?timestamp=1525379179"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-auctions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-auctions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

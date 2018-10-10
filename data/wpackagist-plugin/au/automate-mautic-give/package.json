@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automate-mautic-give": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/automate-mautic-give",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31124,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automate-mautic-give.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automate-mautic-give\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automate-mautic-give\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automate-mautic-give",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31125,
+                "time": "2018-02-06 11:40:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automate-mautic-give.zip?timestamp=1517917216"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automate-mautic-give\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automate-mautic-give\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

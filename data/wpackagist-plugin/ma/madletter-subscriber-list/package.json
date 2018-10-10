@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/madletter-subscriber-list": {
+            "0.1": {
+                "name": "wpackagist-plugin\/madletter-subscriber-list",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 205198,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/madletter-subscriber-list.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/madletter-subscriber-list\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/madletter-subscriber-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/madletter-subscriber-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205199,
+                "time": "2017-04-17 18:28:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/madletter-subscriber-list.zip?timestamp=1492453691"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/madletter-subscriber-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/madletter-subscriber-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

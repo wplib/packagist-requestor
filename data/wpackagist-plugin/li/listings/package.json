@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/listings": {
+            "0.2.0": {
+                "name": "wpackagist-plugin\/listings",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 200161,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/listings.0.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/listings\/",
+                    "reference": "tags\/0.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.3.0": {
+                "name": "wpackagist-plugin\/listings",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "uid": 200162,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/listings.0.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/listings\/",
+                    "reference": "tags\/0.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/listings",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200163,
+                "time": "2016-08-03 11:18:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/listings.zip?timestamp=1470223111"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/listings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

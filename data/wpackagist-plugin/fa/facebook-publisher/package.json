@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facebook-publisher": {
+            "1.0": {
+                "name": "wpackagist-plugin\/facebook-publisher",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 128282,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-publisher.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-publisher\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facebook-publisher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 128283,
+                "time": "2015-02-03 07:05:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-publisher.zip?timestamp=1422947142"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-publisher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

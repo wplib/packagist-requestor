@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cbdashboardmanager": {
+            "1.1.5": {
+                "name": "wpackagist-plugin\/cbdashboardmanager",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "uid": 63411,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbdashboardmanager.1.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbdashboardmanager\/",
+                    "reference": "tags\/1.1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbdashboardmanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cbdashboardmanager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63412,
+                "time": "2015-07-02 16:41:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbdashboardmanager.zip?timestamp=1435855268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbdashboardmanager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbdashboardmanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

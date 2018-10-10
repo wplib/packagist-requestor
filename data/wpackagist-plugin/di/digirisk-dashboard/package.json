@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/digirisk-dashboard": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/digirisk-dashboard",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 99438,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digirisk-dashboard.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digirisk-dashboard\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digirisk-dashboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/digirisk-dashboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99439,
+                "time": "2017-12-14 08:24:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digirisk-dashboard.zip?timestamp=1513239863"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digirisk-dashboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digirisk-dashboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

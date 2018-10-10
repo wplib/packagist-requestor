@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fb-page-support": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fb-page-support",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130418,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-page-support.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-page-support\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-page-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fb-page-support",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130419,
+                "time": "2018-08-24 19:58:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-page-support.zip?timestamp=1535140737"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-page-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-page-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

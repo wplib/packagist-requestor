@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advance-search-ajax": {
+            "1.0": {
+                "name": "wpackagist-plugin\/advance-search-ajax",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 11257,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advance-search-ajax.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advance-search-ajax\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advance-search-ajax\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advance-search-ajax",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 11258,
+                "time": "2018-09-21 17:46:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advance-search-ajax.zip?timestamp=1537551990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advance-search-ajax\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advance-search-ajax\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-in-one-demo-importexport": {
+            "0.1": {
+                "name": "wpackagist-plugin\/all-in-one-demo-importexport",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 17778,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-demo-importexport.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-in-one-demo-importexport\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-demo-importexport\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-in-one-demo-importexport",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 17779,
+                "time": "2017-12-26 11:03:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-demo-importexport.zip?timestamp=1514286193"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-in-one-demo-importexport\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-demo-importexport\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

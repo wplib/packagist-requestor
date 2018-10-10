@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailclient": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mailclient",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206908,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailclient.zip?timestamp=1445882439"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailclient\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailclient\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailclient",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206909,
+                "time": "2015-10-26 18:00:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailclient.zip?timestamp=1445882439"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailclient\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailclient\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

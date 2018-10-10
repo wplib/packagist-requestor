@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/affiliates-formidable": {
+            "2.0.0": {
+                "name": "wpackagist-plugin\/affiliates-formidable",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 14376,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/affiliates-formidable.2.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/affiliates-formidable\/",
+                    "reference": "tags\/2.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/affiliates-formidable\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/affiliates-formidable",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 14377,
+                "time": "2017-11-19 13:06:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/affiliates-formidable.zip?timestamp=1511096804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/affiliates-formidable\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/affiliates-formidable\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

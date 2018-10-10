@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/job-listings": {
+            "0.1": {
+                "name": "wpackagist-plugin\/job-listings",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 184383,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.1.1": {
+                "name": "wpackagist-plugin\/job-listings",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 184384,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/job-listings",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184385,
+                "time": "2017-05-30 09:39:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings.zip?timestamp=1496137182"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

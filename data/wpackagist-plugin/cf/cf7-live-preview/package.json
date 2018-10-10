@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-live-preview": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cf7-live-preview",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65000,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-live-preview.zip?timestamp=1527908249"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-live-preview\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-live-preview\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-live-preview",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65001,
+                "time": "2018-06-02 02:57:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-live-preview.zip?timestamp=1527908249"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-live-preview\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-live-preview\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

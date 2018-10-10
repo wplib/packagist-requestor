@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-state-update": {
+            "0.4": {
+                "name": "wpackagist-plugin\/wc-state-update",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 381333,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-state-update.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-state-update\/",
+                    "reference": "tags\/0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-state-update\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-state-update",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 381334,
+                "time": "2018-05-17 17:45:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-state-update.zip?timestamp=1526579145"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-state-update\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-state-update\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/app-banner": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/app-banner",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 24194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/app-banner.zip?timestamp=1512649577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/app-banner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/app-banner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/app-banner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24195,
+                "time": "2017-12-07 12:26:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/app-banner.zip?timestamp=1512649577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/app-banner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/app-banner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

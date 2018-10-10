@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/full-screen-search-overlay": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/full-screen-search-overlay",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 144350,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/full-screen-search-overlay.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/full-screen-search-overlay\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/full-screen-search-overlay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/full-screen-search-overlay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144351,
+                "time": "2016-02-17 22:32:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/full-screen-search-overlay.zip?timestamp=1455748348"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/full-screen-search-overlay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/full-screen-search-overlay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

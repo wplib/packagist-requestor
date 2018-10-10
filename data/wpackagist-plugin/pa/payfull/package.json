@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/payfull": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/payfull",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 250520,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payfull.zip?timestamp=1518521778"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payfull\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payfull\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/payfull",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250521,
+                "time": "2018-02-13 11:36:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payfull.zip?timestamp=1518521778"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payfull\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payfull\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mp-artwork": {
+            "1.2.4": {
+                "name": "wpackagist-plugin\/mp-artwork",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "uid": 222911,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mp-artwork.zip?timestamp=1511784237"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mp-artwork\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mp-artwork\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mp-artwork",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222912,
+                "time": "2017-11-27 12:03:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mp-artwork.zip?timestamp=1511784237"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mp-artwork\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mp-artwork\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

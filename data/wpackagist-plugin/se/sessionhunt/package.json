@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sessionhunt": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/sessionhunt",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 306495,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sessionhunt.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sessionhunt\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sessionhunt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sessionhunt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306496,
+                "time": "2018-03-19 17:05:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sessionhunt.zip?timestamp=1521479134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sessionhunt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sessionhunt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

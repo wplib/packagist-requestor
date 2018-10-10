@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tc-product-catalog": {
+            "1.2": {
+                "name": "wpackagist-plugin\/tc-product-catalog",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 347069,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tc-product-catalog.zip?timestamp=1533120663"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tc-product-catalog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tc-product-catalog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tc-product-catalog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347070,
+                "time": "2018-08-01 10:51:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tc-product-catalog.zip?timestamp=1533120663"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tc-product-catalog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tc-product-catalog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

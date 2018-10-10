@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/instructables": {
+            "2.0.4": {
+                "name": "wpackagist-plugin\/instructables",
+                "version": "2.0.4",
+                "version_normalized": "2.0.4.0",
+                "uid": 178775,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instructables.zip?timestamp=1501992320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instructables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instructables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/instructables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178776,
+                "time": "2017-08-06 04:05:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instructables.zip?timestamp=1501992320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instructables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instructables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

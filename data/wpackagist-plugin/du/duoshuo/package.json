@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/duoshuo": {
+            "1.2": {
+                "name": "wpackagist-plugin\/duoshuo",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 105748,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duoshuo.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duoshuo\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duoshuo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/duoshuo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105749,
+                "time": "2015-12-18 06:58:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duoshuo.zip?timestamp=1450421933"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duoshuo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duoshuo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

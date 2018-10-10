@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adcoin-payments": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/adcoin-payments",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 6815,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adcoin-payments.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adcoin-payments\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adcoin-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adcoin-payments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6816,
+                "time": "2018-04-13 12:11:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adcoin-payments.zip?timestamp=1523621463"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adcoin-payments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adcoin-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-referrers": {
+            "0.2": {
+                "name": "wpackagist-plugin\/comment-referrers",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 75668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-referrers.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-referrers\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-referrers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-referrers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75669,
+                "time": "2016-12-09 10:28:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-referrers.zip?timestamp=1481279296"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-referrers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-referrers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

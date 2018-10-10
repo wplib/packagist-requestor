@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mendeleyplugin": {
+            "1.1.20": {
+                "name": "wpackagist-plugin\/mendeleyplugin",
+                "version": "1.1.20",
+                "version_normalized": "1.1.20.0",
+                "uid": 214382,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mendeleyplugin.zip?timestamp=1510867086"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mendeleyplugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mendeleyplugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mendeleyplugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214383,
+                "time": "2017-11-16 21:18:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mendeleyplugin.zip?timestamp=1510867086"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mendeleyplugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mendeleyplugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

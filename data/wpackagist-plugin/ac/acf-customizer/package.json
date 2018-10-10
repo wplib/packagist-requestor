@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-customizer": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/acf-customizer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 4912,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-customizer.zip?timestamp=1536036473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-customizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-customizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-customizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 4913,
+                "time": "2018-09-04 04:47:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-customizer.zip?timestamp=1536036473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-customizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-customizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

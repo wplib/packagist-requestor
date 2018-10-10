@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customify-sites": {
+            "0.0.4": {
+                "name": "wpackagist-plugin\/customify-sites",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "uid": 92070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customify-sites.zip?timestamp=1528366680"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customify-sites\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customify-sites\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customify-sites",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92071,
+                "time": "2018-06-07 10:18:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customify-sites.zip?timestamp=1528366680"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customify-sites\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customify-sites\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

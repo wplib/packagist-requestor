@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seraphinite-discount-for-woocommerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/seraphinite-discount-for-woocommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 305943,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seraphinite-discount-for-woocommerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seraphinite-discount-for-woocommerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seraphinite-discount-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seraphinite-discount-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 305944,
+                "time": "2018-02-20 23:34:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seraphinite-discount-for-woocommerce.zip?timestamp=1519169654"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seraphinite-discount-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seraphinite-discount-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

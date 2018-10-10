@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/good-shelf": {
+            "1.1": {
+                "name": "wpackagist-plugin\/good-shelf",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 153966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/good-shelf.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/good-shelf\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/good-shelf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/good-shelf",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153967,
+                "time": "2015-06-20 14:49:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/good-shelf.zip?timestamp=1434811740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/good-shelf\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/good-shelf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

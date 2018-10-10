@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amazify": {
+            "1.1.0.3": {
+                "name": "wpackagist-plugin\/amazify",
+                "version": "1.1.0.3",
+                "version_normalized": "1.1.0.3",
+                "uid": 19718,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amazify.zip?timestamp=1530266239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amazify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amazify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amazify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19719,
+                "time": "2018-06-29 09:57:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amazify.zip?timestamp=1530266239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amazify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amazify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

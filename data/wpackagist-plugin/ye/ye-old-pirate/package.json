@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ye-old-pirate": {
+            "1.04": {
+                "name": "wpackagist-plugin\/ye-old-pirate",
+                "version": "1.04",
+                "version_normalized": "1.04.0.0",
+                "uid": 447612,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ye-old-pirate.zip?timestamp=1497692940"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ye-old-pirate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ye-old-pirate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ye-old-pirate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 447613,
+                "time": "2017-06-17 09:49:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ye-old-pirate.zip?timestamp=1497692940"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ye-old-pirate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ye-old-pirate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

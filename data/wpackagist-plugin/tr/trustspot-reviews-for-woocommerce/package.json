@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/trustspot-reviews-for-woocommerce": {
+            "1.1": {
+                "name": "wpackagist-plugin\/trustspot-reviews-for-woocommerce",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 360451,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trustspot-reviews-for-woocommerce.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trustspot-reviews-for-woocommerce\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trustspot-reviews-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/trustspot-reviews-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 360452,
+                "time": "2017-01-28 19:19:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trustspot-reviews-for-woocommerce.zip?timestamp=1485631174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trustspot-reviews-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trustspot-reviews-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

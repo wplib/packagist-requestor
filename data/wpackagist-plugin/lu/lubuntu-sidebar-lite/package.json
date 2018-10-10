@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lubuntu-sidebar-lite": {
+            "0.1": {
+                "name": "wpackagist-plugin\/lubuntu-sidebar-lite",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 204547,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lubuntu-sidebar-lite.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lubuntu-sidebar-lite\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lubuntu-sidebar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lubuntu-sidebar-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204548,
+                "time": "2015-01-30 09:14:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lubuntu-sidebar-lite.zip?timestamp=1422609240"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lubuntu-sidebar-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lubuntu-sidebar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

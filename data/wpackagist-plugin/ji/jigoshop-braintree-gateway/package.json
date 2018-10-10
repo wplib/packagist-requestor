@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jigoshop-braintree-gateway": {
+            "3.1.2": {
+                "name": "wpackagist-plugin\/jigoshop-braintree-gateway",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "uid": 183740,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jigoshop-braintree-gateway.3.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jigoshop-braintree-gateway\/",
+                    "reference": "tags\/3.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jigoshop-braintree-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jigoshop-braintree-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183741,
+                "time": "2018-01-02 14:58:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jigoshop-braintree-gateway.zip?timestamp=1514905117"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jigoshop-braintree-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jigoshop-braintree-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

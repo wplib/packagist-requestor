@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/single-user-chat": {
+            "0.4": {
+                "name": "wpackagist-plugin\/single-user-chat",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 319973,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/single-user-chat.zip?timestamp=1537951384"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/single-user-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/single-user-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/single-user-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 319974,
+                "time": "2018-09-26 08:43:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/single-user-chat.zip?timestamp=1537951384"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/single-user-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/single-user-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

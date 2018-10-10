@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/emma-woo-addon": {
+            "1.2.8": {
+                "name": "wpackagist-plugin\/emma-woo-addon",
+                "version": "1.2.8",
+                "version_normalized": "1.2.8.0",
+                "uid": 118809,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emma-woo-addon.zip?timestamp=1509620630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emma-woo-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emma-woo-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/emma-woo-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118810,
+                "time": "2017-11-02 11:03:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emma-woo-addon.zip?timestamp=1509620630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emma-woo-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emma-woo-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

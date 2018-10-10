@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-logout-register-menu": {
+            "1.0": {
+                "name": "wpackagist-plugin\/login-logout-register-menu",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-logout-register-menu.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-logout-register-menu\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-logout-register-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-logout-register-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202967,
+                "time": "2018-04-21 05:49:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-logout-register-menu.zip?timestamp=1524289774"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-logout-register-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-logout-register-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

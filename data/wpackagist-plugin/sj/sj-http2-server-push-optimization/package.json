@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sj-http2-server-push-optimization": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sj-http2-server-push-optimization",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 321285,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sj-http2-server-push-optimization.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sj-http2-server-push-optimization\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sj-http2-server-push-optimization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sj-http2-server-push-optimization",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 321286,
+                "time": "2017-01-23 09:09:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sj-http2-server-push-optimization.zip?timestamp=1485162578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sj-http2-server-push-optimization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sj-http2-server-push-optimization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

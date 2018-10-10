@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/netsecop": {
+            "1.0": {
+                "name": "wpackagist-plugin\/netsecop",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 230685,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netsecop.zip?timestamp=1511293549"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netsecop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netsecop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/netsecop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230686,
+                "time": "2017-11-21 19:45:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netsecop.zip?timestamp=1511293549"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netsecop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netsecop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

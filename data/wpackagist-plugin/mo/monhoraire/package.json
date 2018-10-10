@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monhoraire": {
+            "0.1": {
+                "name": "wpackagist-plugin\/monhoraire",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 221555,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monhoraire.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monhoraire\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monhoraire\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monhoraire",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221556,
+                "time": "2017-05-10 10:11:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monhoraire.zip?timestamp=1494411091"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monhoraire\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monhoraire\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

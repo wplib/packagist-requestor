@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/log-in-out": {
+            "1.0": {
+                "name": "wpackagist-plugin\/log-in-out",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202670,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/log-in-out.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/log-in-out\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/log-in-out\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/log-in-out",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202671,
+                "time": "2015-06-12 05:49:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/log-in-out.zip?timestamp=1434088180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/log-in-out\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/log-in-out\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

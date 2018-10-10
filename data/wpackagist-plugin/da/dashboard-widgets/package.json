@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dashboard-widgets": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/dashboard-widgets",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 94541,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashboard-widgets.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashboard-widgets\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashboard-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dashboard-widgets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94542,
+                "time": "2017-12-07 08:09:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashboard-widgets.zip?timestamp=1512634171"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashboard-widgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashboard-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

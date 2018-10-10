@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/external-thumbnail": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/external-thumbnail",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 126372,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/external-thumbnail.zip?timestamp=1466148671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/external-thumbnail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/external-thumbnail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/external-thumbnail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126373,
+                "time": "2016-06-17 07:31:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/external-thumbnail.zip?timestamp=1466148671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/external-thumbnail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/external-thumbnail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpcat2tag-importer": {
+            "0.5": {
+                "name": "wpackagist-plugin\/wpcat2tag-importer",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 440318,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcat2tag-importer.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcat2tag-importer\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcat2tag-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpcat2tag-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440319,
+                "time": "2018-07-12 17:18:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcat2tag-importer.zip?timestamp=1531415896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcat2tag-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcat2tag-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

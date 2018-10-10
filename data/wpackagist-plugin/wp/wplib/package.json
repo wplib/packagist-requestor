@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplib": {
+            "0.14.4": {
+                "name": "wpackagist-plugin\/wplib",
+                "version": "0.14.4",
+                "version_normalized": "0.14.4.0",
+                "uid": 441957,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplib.0.14.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplib\/",
+                    "reference": "tags\/0.14.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.14.5": {
+                "name": "wpackagist-plugin\/wplib",
+                "version": "0.14.5",
+                "version_normalized": "0.14.5.0",
+                "uid": 441958,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplib.0.14.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplib\/",
+                    "reference": "tags\/0.14.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplib",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441959,
+                "time": "2018-05-24 19:50:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplib.zip?timestamp=1527191434"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplib\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

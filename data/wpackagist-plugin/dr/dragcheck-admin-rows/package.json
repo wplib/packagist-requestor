@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dragcheck-admin-rows": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dragcheck-admin-rows",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 104406,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dragcheck-admin-rows.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dragcheck-admin-rows\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dragcheck-admin-rows\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dragcheck-admin-rows",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 104407,
+                "time": "2015-10-29 13:26:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dragcheck-admin-rows.zip?timestamp=1446125205"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dragcheck-admin-rows\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dragcheck-admin-rows\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

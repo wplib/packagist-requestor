@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nofollow-adder": {
+            "1.0": {
+                "name": "wpackagist-plugin\/nofollow-adder",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 236488,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nofollow-adder.zip?timestamp=1527732967"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nofollow-adder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nofollow-adder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nofollow-adder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 236489,
+                "time": "2018-05-31 02:16:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nofollow-adder.zip?timestamp=1527732967"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nofollow-adder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nofollow-adder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

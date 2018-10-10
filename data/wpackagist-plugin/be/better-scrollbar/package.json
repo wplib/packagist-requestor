@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-scrollbar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/better-scrollbar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 40567,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-scrollbar.zip?timestamp=1481559994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-scrollbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-scrollbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40568,
+                "time": "2016-12-12 16:26:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-scrollbar.zip?timestamp=1481559994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-scrollbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

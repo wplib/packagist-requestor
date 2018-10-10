@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/textplode-sms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/textplode-sms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349691,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/textplode-sms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/textplode-sms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/textplode-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/textplode-sms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349692,
+                "time": "2016-08-17 14:57:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/textplode-sms.zip?timestamp=1471445848"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/textplode-sms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/textplode-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

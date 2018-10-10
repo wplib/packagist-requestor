@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pomo-editor": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/pomo-editor",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 261030,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pomo-editor.zip?timestamp=1528298175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pomo-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pomo-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pomo-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 261031,
+                "time": "2018-06-06 15:16:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pomo-editor.zip?timestamp=1528298175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pomo-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pomo-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/force-domain-redirect": {
+            "0.2": {
+                "name": "wpackagist-plugin\/force-domain-redirect",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 139559,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-domain-redirect.zip?timestamp=1434198134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-domain-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-domain-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/force-domain-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139560,
+                "time": "2015-06-13 12:22:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-domain-redirect.zip?timestamp=1434198134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-domain-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-domain-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

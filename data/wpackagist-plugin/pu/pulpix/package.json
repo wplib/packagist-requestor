@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pulpix": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pulpix",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 273430,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pulpix.zip?timestamp=1498038077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pulpix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pulpix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pulpix",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273431,
+                "time": "2017-06-21 09:41:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pulpix.zip?timestamp=1498038077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pulpix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pulpix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

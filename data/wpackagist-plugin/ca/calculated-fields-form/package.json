@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/calculated-fields-form": {
+            "1.0.257": {
+                "name": "wpackagist-plugin\/calculated-fields-form",
+                "version": "1.0.257",
+                "version_normalized": "1.0.257.0",
+                "uid": 58836,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/calculated-fields-form.1.0.257.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/calculated-fields-form\/",
+                    "reference": "tags\/1.0.257"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/calculated-fields-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/calculated-fields-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 58837,
+                "time": "2018-10-09 10:38:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/calculated-fields-form.zip?timestamp=1539081519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/calculated-fields-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/calculated-fields-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

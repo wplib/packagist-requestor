@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multisite-site-ssl-indicator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/multisite-site-ssl-indicator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 225576,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-site-ssl-indicator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-site-ssl-indicator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-site-ssl-indicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multisite-site-ssl-indicator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225577,
+                "time": "2017-11-30 15:34:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-site-ssl-indicator.zip?timestamp=1512056063"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-site-ssl-indicator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-site-ssl-indicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tawkto-manager": {
+            "2.2.2": {
+                "name": "wpackagist-plugin\/tawkto-manager",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "uid": 346689,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tawkto-manager.zip?timestamp=1516205006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tawkto-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tawkto-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tawkto-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 346690,
+                "time": "2018-01-17 16:03:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tawkto-manager.zip?timestamp=1516205006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tawkto-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tawkto-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

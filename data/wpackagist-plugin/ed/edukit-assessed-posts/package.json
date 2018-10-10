@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edukit-assessed-posts": {
+            "0.1": {
+                "name": "wpackagist-plugin\/edukit-assessed-posts",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 114641,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edukit-assessed-posts.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edukit-assessed-posts\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edukit-assessed-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edukit-assessed-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114642,
+                "time": "2017-05-17 12:46:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edukit-assessed-posts.zip?timestamp=1495025215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edukit-assessed-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edukit-assessed-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

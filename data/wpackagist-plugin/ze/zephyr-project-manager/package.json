@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zephyr-project-manager": {
+            "1.6.0": {
+                "name": "wpackagist-plugin\/zephyr-project-manager",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "uid": 452708,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zephyr-project-manager.zip?timestamp=1539111890"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zephyr-project-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zephyr-project-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zephyr-project-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 452709,
+                "time": "2018-10-09 19:04:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zephyr-project-manager.zip?timestamp=1539111890"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zephyr-project-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zephyr-project-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

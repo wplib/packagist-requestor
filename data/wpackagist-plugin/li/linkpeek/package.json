@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/linkpeek": {
+            "0.2.5": {
+                "name": "wpackagist-plugin\/linkpeek",
+                "version": "0.2.5",
+                "version_normalized": "0.2.5.0",
+                "uid": 199212,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkpeek.zip?timestamp=1482289736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkpeek\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkpeek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/linkpeek",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199213,
+                "time": "2016-12-21 03:08:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkpeek.zip?timestamp=1482289736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkpeek\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkpeek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

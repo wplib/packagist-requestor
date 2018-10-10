@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/some-pay-social-shopping": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/some-pay-social-shopping",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 330783,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/some-pay-social-shopping.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/some-pay-social-shopping\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/some-pay-social-shopping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/some-pay-social-shopping",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 330784,
+                "time": "2017-11-21 13:30:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/some-pay-social-shopping.zip?timestamp=1511271003"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/some-pay-social-shopping\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/some-pay-social-shopping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

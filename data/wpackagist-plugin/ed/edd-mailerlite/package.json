@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-mailerlite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-mailerlite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113531,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-mailerlite.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-mailerlite\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-mailerlite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-mailerlite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113532,
+                "time": "2017-05-09 16:14:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-mailerlite.zip?timestamp=1494346488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-mailerlite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-mailerlite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/widgetpack-review-system": {
+            "1.2": {
+                "name": "wpackagist-plugin\/widgetpack-review-system",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 386803,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgetpack-review-system.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgetpack-review-system\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgetpack-review-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/widgetpack-review-system",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 386804,
+                "time": "2016-09-12 18:50:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgetpack-review-system.zip?timestamp=1473706250"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgetpack-review-system\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgetpack-review-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

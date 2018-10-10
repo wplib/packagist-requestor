@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acmesocial": {
+            "1.0": {
+                "name": "wpackagist-plugin\/acmesocial",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5599,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acmesocial.zip?timestamp=1486743627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acmesocial\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acmesocial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acmesocial",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5600,
+                "time": "2017-02-10 16:20:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acmesocial.zip?timestamp=1486743627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acmesocial\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acmesocial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

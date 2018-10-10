@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontend-http-authentication-protection": {
+            "0.1": {
+                "name": "wpackagist-plugin\/frontend-http-authentication-protection",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 143603,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-http-authentication-protection.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-http-authentication-protection\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-http-authentication-protection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontend-http-authentication-protection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143604,
+                "time": "2016-12-09 05:24:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontend-http-authentication-protection.zip?timestamp=1481261063"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontend-http-authentication-protection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontend-http-authentication-protection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anchorpress": {
+            "0.4": {
+                "name": "wpackagist-plugin\/anchorpress",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 21908,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anchorpress.zip?timestamp=1486762027"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anchorpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anchorpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anchorpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21909,
+                "time": "2017-02-10 21:27:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anchorpress.zip?timestamp=1486762027"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anchorpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anchorpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

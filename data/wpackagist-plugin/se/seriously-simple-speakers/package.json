@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seriously-simple-speakers": {
+            "1.0": {
+                "name": "wpackagist-plugin\/seriously-simple-speakers",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 306172,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seriously-simple-speakers.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seriously-simple-speakers\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seriously-simple-speakers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seriously-simple-speakers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306173,
+                "time": "2016-12-12 08:36:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seriously-simple-speakers.zip?timestamp=1481531775"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seriously-simple-speakers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seriously-simple-speakers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

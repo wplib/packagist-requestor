@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/circles-gallery": {
+            "1.0.10": {
+                "name": "wpackagist-plugin\/circles-gallery",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "uid": 68732,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/circles-gallery.1.0.10.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/circles-gallery\/",
+                    "reference": "tags\/1.0.10"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/circles-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/circles-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 68733,
+                "time": "2015-11-04 23:20:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/circles-gallery.zip?timestamp=1446679230"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/circles-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/circles-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

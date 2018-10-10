@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/groundhogg": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/groundhogg",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 160518,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/groundhogg.zip?timestamp=1538408322"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/groundhogg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/groundhogg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/groundhogg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160519,
+                "time": "2018-10-01 15:38:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/groundhogg.zip?timestamp=1538408322"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/groundhogg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/groundhogg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

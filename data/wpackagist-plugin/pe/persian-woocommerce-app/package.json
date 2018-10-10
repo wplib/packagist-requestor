@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/persian-woocommerce-app": {
+            "0.1-beta": {
+                "name": "wpackagist-plugin\/persian-woocommerce-app",
+                "version": "0.1-beta",
+                "version_normalized": "0.1.0.0-beta",
+                "uid": 253256,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/persian-woocommerce-app.0.1-beta.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/persian-woocommerce-app\/",
+                    "reference": "tags\/0.1-beta"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/persian-woocommerce-app\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/persian-woocommerce-app",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 253257,
+                "time": "2018-04-30 08:10:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/persian-woocommerce-app.zip?timestamp=1525075807"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/persian-woocommerce-app\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/persian-woocommerce-app\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

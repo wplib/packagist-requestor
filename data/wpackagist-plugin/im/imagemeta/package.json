@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/imagemeta": {
+            "1.0.7": {
+                "name": "wpackagist-plugin\/imagemeta",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "uid": 174077,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/imagemeta.zip?timestamp=1537461959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/imagemeta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/imagemeta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/imagemeta",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174078,
+                "time": "2018-09-20 16:45:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/imagemeta.zip?timestamp=1537461959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/imagemeta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/imagemeta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

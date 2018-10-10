@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/canvaspop-photo-printing-api": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/canvaspop-photo-printing-api",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 59958,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canvaspop-photo-printing-api.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canvaspop-photo-printing-api\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canvaspop-photo-printing-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/canvaspop-photo-printing-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59959,
+                "time": "2016-03-30 18:47:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canvaspop-photo-printing-api.zip?timestamp=1459363639"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canvaspop-photo-printing-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canvaspop-photo-printing-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

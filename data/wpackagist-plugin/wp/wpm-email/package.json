@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpm-email": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpm-email",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442158,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpm-email.zip?timestamp=1522355079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpm-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpm-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpm-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442159,
+                "time": "2018-03-29 20:24:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpm-email.zip?timestamp=1522355079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpm-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpm-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pricing-table-by-ps": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pricing-table-by-ps",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 268709,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pricing-table-by-ps.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pricing-table-by-ps\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pricing-table-by-ps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pricing-table-by-ps",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268710,
+                "time": "2017-11-19 06:59:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pricing-table-by-ps.zip?timestamp=1511074748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pricing-table-by-ps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pricing-table-by-ps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

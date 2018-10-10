@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/telegram-chat": {
+            "3.0.4": {
+                "name": "wpackagist-plugin\/telegram-chat",
+                "version": "3.0.4",
+                "version_normalized": "3.0.4.0",
+                "uid": 348060,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/telegram-chat.zip?timestamp=1487792010"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/telegram-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/telegram-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/telegram-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 348061,
+                "time": "2017-02-22 19:33:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/telegram-chat.zip?timestamp=1487792010"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/telegram-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/telegram-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

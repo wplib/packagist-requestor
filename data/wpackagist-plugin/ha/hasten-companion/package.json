@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hasten-companion": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/hasten-companion",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 162974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hasten-companion.zip?timestamp=1525803716"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hasten-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hasten-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hasten-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 162975,
+                "time": "2018-05-08 18:21:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hasten-companion.zip?timestamp=1525803716"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hasten-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hasten-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

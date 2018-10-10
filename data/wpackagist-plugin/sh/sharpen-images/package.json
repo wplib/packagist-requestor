@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sharpen-images": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sharpen-images",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 308194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sharpen-images.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sharpen-images\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sharpen-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sharpen-images",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 308195,
+                "time": "2016-02-08 21:08:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sharpen-images.zip?timestamp=1454965704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sharpen-images\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sharpen-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

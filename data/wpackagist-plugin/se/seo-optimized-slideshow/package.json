@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seo-optimized-slideshow": {
+            "0.1": {
+                "name": "wpackagist-plugin\/seo-optimized-slideshow",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 305189,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-optimized-slideshow.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-optimized-slideshow\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-optimized-slideshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seo-optimized-slideshow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 305190,
+                "time": "2017-09-13 11:45:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seo-optimized-slideshow.zip?timestamp=1505303154"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seo-optimized-slideshow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seo-optimized-slideshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

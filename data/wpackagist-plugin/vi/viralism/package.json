@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/viralism": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/viralism",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 376402,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/viralism.zip?timestamp=1497434709"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/viralism\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/viralism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/viralism",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376403,
+                "time": "2017-06-14 10:05:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/viralism.zip?timestamp=1497434709"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/viralism\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/viralism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

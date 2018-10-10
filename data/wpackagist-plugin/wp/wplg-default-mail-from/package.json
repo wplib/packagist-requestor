@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplg-default-mail-from": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wplg-default-mail-from",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441983,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplg-default-mail-from.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplg-default-mail-from\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplg-default-mail-from\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplg-default-mail-from",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441984,
+                "time": "2016-08-18 11:24:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplg-default-mail-from.zip?timestamp=1471519446"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplg-default-mail-from\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplg-default-mail-from\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

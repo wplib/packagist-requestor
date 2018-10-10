@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gsislogin": {
+            "1": {
+                "name": "wpackagist-plugin\/gsislogin",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 160940,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gsislogin.zip?timestamp=1524814838"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gsislogin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gsislogin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gsislogin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160941,
+                "time": "2018-04-27 07:40:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gsislogin.zip?timestamp=1524814838"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gsislogin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gsislogin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

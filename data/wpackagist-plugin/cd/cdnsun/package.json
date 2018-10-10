@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cdnsun": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cdnsun",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 64078,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cdnsun.zip?timestamp=1533123602"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cdnsun\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cdnsun\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cdnsun",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 64079,
+                "time": "2018-08-01 11:40:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cdnsun.zip?timestamp=1533123602"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cdnsun\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cdnsun\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blue-admin": {
+            "16.10": {
+                "name": "wpackagist-plugin\/blue-admin",
+                "version": "16.10",
+                "version_normalized": "16.10.0.0",
+                "uid": 45819,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blue-admin.zip?timestamp=1484850942"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blue-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blue-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blue-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 45820,
+                "time": "2017-01-19 18:35:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blue-admin.zip?timestamp=1484850942"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blue-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blue-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-front-end-profile": {
+            "0.2.2": {
+                "name": "wpackagist-plugin\/wp-front-end-profile",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "uid": 417312,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-front-end-profile.0.2.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-front-end-profile\/",
+                    "reference": "tags\/0.2.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-front-end-profile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-front-end-profile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 417313,
+                "time": "2016-09-14 18:19:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-front-end-profile.zip?timestamp=1473877142"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-front-end-profile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-front-end-profile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

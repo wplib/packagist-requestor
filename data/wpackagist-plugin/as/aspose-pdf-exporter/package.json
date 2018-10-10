@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aspose-pdf-exporter": {
+            "2.0": {
+                "name": "wpackagist-plugin\/aspose-pdf-exporter",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 27700,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aspose-pdf-exporter.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aspose-pdf-exporter\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aspose-pdf-exporter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aspose-pdf-exporter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27701,
+                "time": "2015-08-12 06:36:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aspose-pdf-exporter.zip?timestamp=1439361367"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aspose-pdf-exporter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aspose-pdf-exporter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

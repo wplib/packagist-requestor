@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-noindex": {
+            "0.9": {
+                "name": "wpackagist-plugin\/better-noindex",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 40429,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-noindex.zip?timestamp=1434745410"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-noindex\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-noindex\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-noindex",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40430,
+                "time": "2015-06-19 20:23:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-noindex.zip?timestamp=1434745410"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-noindex\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-noindex\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

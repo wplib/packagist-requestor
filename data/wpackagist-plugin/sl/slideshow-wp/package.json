@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/slideshow-wp": {
+            "1.1": {
+                "name": "wpackagist-plugin\/slideshow-wp",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 323727,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slideshow-wp.zip?timestamp=1499697920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slideshow-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slideshow-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/slideshow-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 323728,
+                "time": "2017-07-10 14:45:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slideshow-wp.zip?timestamp=1499697920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slideshow-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slideshow-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

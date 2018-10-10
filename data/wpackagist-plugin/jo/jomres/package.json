@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jomres": {
+            "9.13.0": {
+                "name": "wpackagist-plugin\/jomres",
+                "version": "9.13.0",
+                "version_normalized": "9.13.0.0",
+                "uid": 184740,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jomres.zip?timestamp=1536745232"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jomres\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jomres\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jomres",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184741,
+                "time": "2018-09-12 09:40:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jomres.zip?timestamp=1536745232"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jomres\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jomres\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

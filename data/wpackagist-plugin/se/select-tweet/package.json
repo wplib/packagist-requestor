@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/select-tweet": {
+            "1.0": {
+                "name": "wpackagist-plugin\/select-tweet",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 303224,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/select-tweet.zip?timestamp=1514444717"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/select-tweet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/select-tweet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/select-tweet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 303225,
+                "time": "2017-12-28 07:05:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/select-tweet.zip?timestamp=1514444717"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/select-tweet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/select-tweet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

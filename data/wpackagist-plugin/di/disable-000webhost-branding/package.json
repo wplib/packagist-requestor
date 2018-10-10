@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-000webhost-branding": {
+            "2.0": {
+                "name": "wpackagist-plugin\/disable-000webhost-branding",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 100042,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-000webhost-branding.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-000webhost-branding\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-000webhost-branding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-000webhost-branding",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100043,
+                "time": "2018-04-02 19:18:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-000webhost-branding.zip?timestamp=1522696726"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-000webhost-branding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-000webhost-branding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

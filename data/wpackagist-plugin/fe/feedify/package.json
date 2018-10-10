@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/feedify": {
+            "1.0": {
+                "name": "wpackagist-plugin\/feedify",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 132098,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feedify.zip?timestamp=1521101928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feedify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feedify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/feedify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 132099,
+                "time": "2018-03-15 08:18:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feedify.zip?timestamp=1521101928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feedify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feedify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

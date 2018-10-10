@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/slcm": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/slcm",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 322492,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slcm.zip?timestamp=1510197767"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slcm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slcm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/slcm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 322493,
+                "time": "2017-11-09 03:22:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slcm.zip?timestamp=1510197767"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slcm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slcm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

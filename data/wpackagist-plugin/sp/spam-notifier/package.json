@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/spam-notifier": {
+            "1.01": {
+                "name": "wpackagist-plugin\/spam-notifier",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 332190,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spam-notifier.zip?timestamp=1512020504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spam-notifier\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spam-notifier\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/spam-notifier",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332191,
+                "time": "2017-11-30 05:41:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spam-notifier.zip?timestamp=1512020504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spam-notifier\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spam-notifier\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/case-converter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/case-converter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 61419,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/case-converter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/case-converter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/case-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/case-converter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61420,
+                "time": "2018-07-26 15:57:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/case-converter.zip?timestamp=1532620641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/case-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/case-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

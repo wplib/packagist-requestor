@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pleasant-viewer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pleasant-viewer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 258423,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pleasant-viewer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pleasant-viewer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pleasant-viewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/pleasant-viewer",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 258424,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pleasant-viewer.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pleasant-viewer\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pleasant-viewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pleasant-viewer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 258425,
+                "time": "2017-11-09 00:53:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pleasant-viewer.zip?timestamp=1510188835"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pleasant-viewer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pleasant-viewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

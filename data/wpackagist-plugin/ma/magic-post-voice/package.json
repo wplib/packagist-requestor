@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magic-post-voice": {
+            "1.0": {
+                "name": "wpackagist-plugin\/magic-post-voice",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206008,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-post-voice.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-post-voice\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-post-voice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magic-post-voice",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206009,
+                "time": "2017-11-14 21:06:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magic-post-voice.zip?timestamp=1510693587"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magic-post-voice\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magic-post-voice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

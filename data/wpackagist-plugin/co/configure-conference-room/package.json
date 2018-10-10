@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/configure-conference-room": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/configure-conference-room",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 77221,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/configure-conference-room.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/configure-conference-room\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/configure-conference-room\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/configure-conference-room",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77222,
+                "time": "2018-08-08 11:46:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/configure-conference-room.zip?timestamp=1533728784"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/configure-conference-room\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/configure-conference-room\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

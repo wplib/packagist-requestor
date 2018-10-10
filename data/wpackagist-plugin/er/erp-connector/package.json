@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/erp-connector": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/erp-connector",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 121511,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/erp-connector.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/erp-connector\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/erp-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/erp-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121512,
+                "time": "2015-12-18 11:35:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/erp-connector.zip?timestamp=1450438506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/erp-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/erp-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

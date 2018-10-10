@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cysteme-finder": {
+            "2.2": {
+                "name": "wpackagist-plugin\/cysteme-finder",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 93230,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cysteme-finder.zip?timestamp=1522398345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cysteme-finder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cysteme-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cysteme-finder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93231,
+                "time": "2018-03-30 08:25:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cysteme-finder.zip?timestamp=1522398345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cysteme-finder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cysteme-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

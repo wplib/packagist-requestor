@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/action-button-by-speakable": {
+            "1.0": {
+                "name": "wpackagist-plugin\/action-button-by-speakable",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5699,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/action-button-by-speakable.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/action-button-by-speakable\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/action-button-by-speakable\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/action-button-by-speakable",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5700,
+                "time": "2017-11-17 22:33:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/action-button-by-speakable.zip?timestamp=1510958007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/action-button-by-speakable\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/action-button-by-speakable\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

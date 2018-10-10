@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/useinfluence": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/useinfluence",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 370503,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/useinfluence.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/useinfluence\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/useinfluence\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/useinfluence",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370504,
+                "time": "2018-09-01 15:03:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/useinfluence.zip?timestamp=1535814202"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/useinfluence\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/useinfluence\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

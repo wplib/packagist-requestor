@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clickback-web-tracker": {
+            "1.06": {
+                "name": "wpackagist-plugin\/clickback-web-tracker",
+                "version": "1.06",
+                "version_normalized": "1.06.0.0",
+                "uid": 70917,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickback-web-tracker.zip?timestamp=1535557224"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickback-web-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickback-web-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clickback-web-tracker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70918,
+                "time": "2018-08-29 15:40:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickback-web-tracker.zip?timestamp=1535557224"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickback-web-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickback-web-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

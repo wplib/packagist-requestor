@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jurassic-login": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jurassic-login",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 187020,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jurassic-login.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jurassic-login\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jurassic-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jurassic-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 187021,
+                "time": "2016-08-17 10:21:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jurassic-login.zip?timestamp=1471429283"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jurassic-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jurassic-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

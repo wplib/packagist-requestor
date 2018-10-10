@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-block-ips": {
+            "0.1": {
+                "name": "wpackagist-plugin\/gf-block-ips",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 151121,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-block-ips.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-block-ips\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-block-ips\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-block-ips",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151122,
+                "time": "2017-10-18 16:51:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-block-ips.zip?timestamp=1508345480"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-block-ips\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-block-ips\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

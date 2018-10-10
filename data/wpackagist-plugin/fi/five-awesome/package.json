@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/five-awesome": {
+            "1.0": {
+                "name": "wpackagist-plugin\/five-awesome",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 134894,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/five-awesome.zip?timestamp=1518784490"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/five-awesome\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/five-awesome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/five-awesome",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 134895,
+                "time": "2018-02-16 12:34:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/five-awesome.zip?timestamp=1518784490"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/five-awesome\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/five-awesome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

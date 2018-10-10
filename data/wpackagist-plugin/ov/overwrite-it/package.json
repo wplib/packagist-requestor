@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/overwrite-it": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/overwrite-it",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 246165,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/overwrite-it.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/overwrite-it\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/overwrite-it\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/overwrite-it",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246166,
+                "time": "2018-09-20 12:04:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/overwrite-it.zip?timestamp=1537445096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/overwrite-it\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/overwrite-it\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

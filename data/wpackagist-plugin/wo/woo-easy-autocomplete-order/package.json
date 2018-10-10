@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-easy-autocomplete-order": {
+            "1.1": {
+                "name": "wpackagist-plugin\/woo-easy-autocomplete-order",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 389817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-easy-autocomplete-order.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-easy-autocomplete-order\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-easy-autocomplete-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-easy-autocomplete-order",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 389818,
+                "time": "2017-06-26 07:36:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-easy-autocomplete-order.zip?timestamp=1498462579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-easy-autocomplete-order\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-easy-autocomplete-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplms-unit-access-addon": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wplms-unit-access-addon",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-unit-access-addon.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-unit-access-addon\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-unit-access-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplms-unit-access-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442071,
+                "time": "2017-05-26 12:03:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-unit-access-addon.zip?timestamp=1495800204"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-unit-access-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-unit-access-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

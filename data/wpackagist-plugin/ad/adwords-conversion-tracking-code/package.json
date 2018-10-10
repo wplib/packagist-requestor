@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adwords-conversion-tracking-code": {
+            "1.0": {
+                "name": "wpackagist-plugin\/adwords-conversion-tracking-code",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 13702,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adwords-conversion-tracking-code.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adwords-conversion-tracking-code\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adwords-conversion-tracking-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adwords-conversion-tracking-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 13703,
+                "time": "2015-09-14 11:40:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adwords-conversion-tracking-code.zip?timestamp=1442230827"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adwords-conversion-tracking-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adwords-conversion-tracking-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

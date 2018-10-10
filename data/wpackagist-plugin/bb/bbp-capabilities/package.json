@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bbp-capabilities": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bbp-capabilities",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 36933,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbp-capabilities.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbp-capabilities\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbp-capabilities\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bbp-capabilities",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36934,
+                "time": "2017-06-26 19:18:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbp-capabilities.zip?timestamp=1498504683"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbp-capabilities\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbp-capabilities\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

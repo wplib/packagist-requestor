@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rename-db-table-prefix": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/rename-db-table-prefix",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 287317,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rename-db-table-prefix.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rename-db-table-prefix\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rename-db-table-prefix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rename-db-table-prefix",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287318,
+                "time": "2017-09-29 17:00:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rename-db-table-prefix.zip?timestamp=1506704421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rename-db-table-prefix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rename-db-table-prefix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dhivehi-text": {
+            "0.1": {
+                "name": "wpackagist-plugin\/dhivehi-text",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 98732,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dhivehi-text.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dhivehi-text\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dhivehi-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dhivehi-text",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98733,
+                "time": "2015-11-26 15:41:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dhivehi-text.zip?timestamp=1448552479"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dhivehi-text\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dhivehi-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/independent-favorite-plugins": {
+            "1.1": {
+                "name": "wpackagist-plugin\/independent-favorite-plugins",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 175659,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/independent-favorite-plugins.zip?timestamp=1462433111"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/independent-favorite-plugins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/independent-favorite-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/independent-favorite-plugins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175660,
+                "time": "2016-05-05 07:25:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/independent-favorite-plugins.zip?timestamp=1462433111"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/independent-favorite-plugins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/independent-favorite-plugins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

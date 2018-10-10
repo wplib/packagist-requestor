@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/title-case": {
+            "1.2": {
+                "name": "wpackagist-plugin\/title-case",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 356087,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/title-case.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/title-case\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/title-case\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/title-case",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356088,
+                "time": "2018-05-26 22:33:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/title-case.zip?timestamp=1527373987"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/title-case\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/title-case\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

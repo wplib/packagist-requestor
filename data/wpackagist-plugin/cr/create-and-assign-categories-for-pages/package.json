@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/create-and-assign-categories-for-pages": {
+            "1.0": {
+                "name": "wpackagist-plugin\/create-and-assign-categories-for-pages",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 85488,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/create-and-assign-categories-for-pages.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/create-and-assign-categories-for-pages\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/create-and-assign-categories-for-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/create-and-assign-categories-for-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85489,
+                "time": "2018-06-27 11:41:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/create-and-assign-categories-for-pages.zip?timestamp=1530099707"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/create-and-assign-categories-for-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/create-and-assign-categories-for-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

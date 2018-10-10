@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whats-new": {
+            "1.2": {
+                "name": "wpackagist-plugin\/whats-new",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 385084,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whats-new.zip?timestamp=1472283840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whats-new\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whats-new\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whats-new",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385085,
+                "time": "2016-08-27 07:44:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whats-new.zip?timestamp=1472283840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whats-new\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whats-new\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

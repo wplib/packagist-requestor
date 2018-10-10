@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/preloaders": {
+            "1.0": {
+                "name": "wpackagist-plugin\/preloaders",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 267328,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/preloaders.zip?timestamp=1528959899"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/preloaders\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/preloaders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/preloaders",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267329,
+                "time": "2018-06-14 07:04:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/preloaders.zip?timestamp=1528959899"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/preloaders\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/preloaders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

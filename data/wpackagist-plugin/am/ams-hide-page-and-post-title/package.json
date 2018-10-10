@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ams-hide-page-and-post-title": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ams-hide-page-and-post-title",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 21487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ams-hide-page-and-post-title.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ams-hide-page-and-post-title\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ams-hide-page-and-post-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ams-hide-page-and-post-title",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21488,
+                "time": "2016-12-20 13:17:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ams-hide-page-and-post-title.zip?timestamp=1482239869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ams-hide-page-and-post-title\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ams-hide-page-and-post-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

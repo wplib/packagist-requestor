@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multisite-mediasync": {
+            "1.0": {
+                "name": "wpackagist-plugin\/multisite-mediasync",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 225464,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-mediasync.zip?timestamp=1479249627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-mediasync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-mediasync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multisite-mediasync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225465,
+                "time": "2016-11-15 22:40:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-mediasync.zip?timestamp=1479249627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-mediasync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-mediasync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

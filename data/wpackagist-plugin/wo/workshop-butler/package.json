@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/workshop-butler": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/workshop-butler",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 403768,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/workshop-butler.zip?timestamp=1485271977"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/workshop-butler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/workshop-butler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/workshop-butler",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 403769,
+                "time": "2017-01-24 15:32:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/workshop-butler.zip?timestamp=1485271977"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/workshop-butler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/workshop-butler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

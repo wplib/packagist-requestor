@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sql-executioner": {
+            "1.4": {
+                "name": "wpackagist-plugin\/sql-executioner",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 334672,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sql-executioner.zip?timestamp=1475047668"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sql-executioner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sql-executioner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sql-executioner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 334673,
+                "time": "2016-09-28 07:27:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sql-executioner.zip?timestamp=1475047668"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sql-executioner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sql-executioner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

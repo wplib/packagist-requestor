@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/improved-gd-image-editor": {
+            "1.1": {
+                "name": "wpackagist-plugin\/improved-gd-image-editor",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 175002,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/improved-gd-image-editor.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/improved-gd-image-editor\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/improved-gd-image-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/improved-gd-image-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175003,
+                "time": "2015-09-14 19:59:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/improved-gd-image-editor.zip?timestamp=1442260790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/improved-gd-image-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/improved-gd-image-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

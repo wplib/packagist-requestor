@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mydirtyhobby-affiliate-sign-up": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/mydirtyhobby-affiliate-sign-up",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 228049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mydirtyhobby-affiliate-sign-up.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mydirtyhobby-affiliate-sign-up\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mydirtyhobby-affiliate-sign-up\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mydirtyhobby-affiliate-sign-up",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 228050,
+                "time": "2018-07-31 13:51:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mydirtyhobby-affiliate-sign-up.zip?timestamp=1533045108"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mydirtyhobby-affiliate-sign-up\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mydirtyhobby-affiliate-sign-up\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

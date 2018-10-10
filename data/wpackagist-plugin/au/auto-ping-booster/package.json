@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auto-ping-booster": {
+            "1.2": {
+                "name": "wpackagist-plugin\/auto-ping-booster",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 30555,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-ping-booster.zip?timestamp=1475401658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-ping-booster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-ping-booster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auto-ping-booster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 30556,
+                "time": "2016-10-02 09:47:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-ping-booster.zip?timestamp=1475401658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-ping-booster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-ping-booster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

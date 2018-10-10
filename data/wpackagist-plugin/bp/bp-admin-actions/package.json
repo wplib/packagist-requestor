@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-admin-actions": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bp-admin-actions",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 50075,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-admin-actions.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-admin-actions\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-admin-actions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/bp-admin-actions",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 50076,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-admin-actions.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-admin-actions\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-admin-actions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-admin-actions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 50077,
+                "time": "2015-02-23 16:14:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-admin-actions.zip?timestamp=1424708073"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-admin-actions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-admin-actions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

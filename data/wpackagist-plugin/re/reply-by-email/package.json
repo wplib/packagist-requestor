@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reply-by-email": {
+            "0.2.3": {
+                "name": "wpackagist-plugin\/reply-by-email",
+                "version": "0.2.3",
+                "version_normalized": "0.2.3.0",
+                "uid": 287817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reply-by-email.0.2.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reply-by-email\/",
+                    "reference": "tags\/0.2.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reply-by-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reply-by-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287818,
+                "time": "2016-04-20 16:32:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reply-by-email.zip?timestamp=1461169945"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reply-by-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reply-by-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

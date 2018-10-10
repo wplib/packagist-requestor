@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/resermy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/resermy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 288139,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/resermy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/resermy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/resermy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/resermy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 288140,
+                "time": "2018-10-02 19:24:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/resermy.zip?timestamp=1538508255"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/resermy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/resermy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

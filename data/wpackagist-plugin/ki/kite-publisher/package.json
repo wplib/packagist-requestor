@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kite-publisher": {
+            "1.0": {
+                "name": "wpackagist-plugin\/kite-publisher",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 190117,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kite-publisher.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kite-publisher\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kite-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/kite-publisher",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 190118,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kite-publisher.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kite-publisher\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kite-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kite-publisher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190119,
+                "time": "2016-12-28 12:15:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kite-publisher.zip?timestamp=1482927334"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kite-publisher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kite-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

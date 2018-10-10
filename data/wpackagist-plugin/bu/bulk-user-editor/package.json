@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bulk-user-editor": {
+            "1.7.2": {
+                "name": "wpackagist-plugin\/bulk-user-editor",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "uid": 55975,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-user-editor.zip?timestamp=1526477512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-user-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-user-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bulk-user-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55976,
+                "time": "2018-05-16 13:31:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-user-editor.zip?timestamp=1526477512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-user-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-user-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

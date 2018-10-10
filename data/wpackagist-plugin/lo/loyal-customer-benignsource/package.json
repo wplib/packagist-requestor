@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loyal-customer-benignsource": {
+            "1.0": {
+                "name": "wpackagist-plugin\/loyal-customer-benignsource",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204223,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loyal-customer-benignsource.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loyal-customer-benignsource\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loyal-customer-benignsource\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loyal-customer-benignsource",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204224,
+                "time": "2017-07-29 14:46:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loyal-customer-benignsource.zip?timestamp=1501339597"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loyal-customer-benignsource\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loyal-customer-benignsource\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

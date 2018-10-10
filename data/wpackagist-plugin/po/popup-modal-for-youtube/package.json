@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/popup-modal-for-youtube": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/popup-modal-for-youtube",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 261769,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popup-modal-for-youtube.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popup-modal-for-youtube\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popup-modal-for-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/popup-modal-for-youtube",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 261770,
+                "time": "2017-05-18 11:25:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popup-modal-for-youtube.zip?timestamp=1495106745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popup-modal-for-youtube\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popup-modal-for-youtube\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

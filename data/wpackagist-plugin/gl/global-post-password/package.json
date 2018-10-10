@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/global-post-password": {
+            "1.5.1": {
+                "name": "wpackagist-plugin\/global-post-password",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "uid": 152738,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/global-post-password.zip?timestamp=1459185431"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/global-post-password\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/global-post-password\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/global-post-password",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 152739,
+                "time": "2016-03-28 17:17:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/global-post-password.zip?timestamp=1459185431"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/global-post-password\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/global-post-password\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

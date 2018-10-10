@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wing-migrator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wing-migrator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 387453,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wing-migrator.zip?timestamp=1539051705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wing-migrator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wing-migrator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wing-migrator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387454,
+                "time": "2018-10-09 02:21:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wing-migrator.zip?timestamp=1539051705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wing-migrator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wing-migrator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

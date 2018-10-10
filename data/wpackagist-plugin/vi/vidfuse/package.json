@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vidfuse": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/vidfuse",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 375487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vidfuse.zip?timestamp=1538478140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vidfuse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vidfuse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vidfuse",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 375488,
+                "time": "2018-10-02 11:02:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vidfuse.zip?timestamp=1538478140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vidfuse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vidfuse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

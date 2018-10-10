@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simcast": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/simcast",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 312545,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simcast.zip?timestamp=1529109350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simcast\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simcast\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simcast",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312546,
+                "time": "2018-06-16 00:35:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simcast.zip?timestamp=1529109350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simcast\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simcast\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

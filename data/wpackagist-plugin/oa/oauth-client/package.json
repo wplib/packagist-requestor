@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oauth-client": {
+            "1.7.0": {
+                "name": "wpackagist-plugin\/oauth-client",
+                "version": "1.7.0",
+                "version_normalized": "1.7.0.0",
+                "uid": 238897,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oauth-client.zip?timestamp=1537782473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oauth-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oauth-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oauth-client",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238898,
+                "time": "2018-09-24 09:47:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oauth-client.zip?timestamp=1537782473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oauth-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oauth-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

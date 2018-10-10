@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smartlib-tools": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/smartlib-tools",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 325558,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smartlib-tools.zip?timestamp=1502031921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smartlib-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smartlib-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smartlib-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325559,
+                "time": "2017-08-06 15:05:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smartlib-tools.zip?timestamp=1502031921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smartlib-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smartlib-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

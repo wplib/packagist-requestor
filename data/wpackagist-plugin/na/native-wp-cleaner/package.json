@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/native-wp-cleaner": {
+            "1.0": {
+                "name": "wpackagist-plugin\/native-wp-cleaner",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 229332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-wp-cleaner.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-wp-cleaner\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-wp-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/native-wp-cleaner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229333,
+                "time": "2017-06-10 10:28:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-wp-cleaner.zip?timestamp=1497090538"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-wp-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-wp-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

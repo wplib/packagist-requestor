@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-to-memobird": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/comment-to-memobird",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 75771,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-to-memobird.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-to-memobird\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-to-memobird\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-to-memobird",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75772,
+                "time": "2017-08-12 04:32:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-to-memobird.zip?timestamp=1502512376"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-to-memobird\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-to-memobird\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restrict-role-login": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/restrict-role-login",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-role-login.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-role-login\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-role-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restrict-role-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291050,
+                "time": "2016-06-14 09:17:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-role-login.zip?timestamp=1465895825"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-role-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-role-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

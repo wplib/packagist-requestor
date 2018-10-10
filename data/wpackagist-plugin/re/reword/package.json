@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reword": {
+            "1.8": {
+                "name": "wpackagist-plugin\/reword",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 292213,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reword.zip?timestamp=1523792935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reword\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reword\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reword",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292214,
+                "time": "2018-04-15 11:48:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reword.zip?timestamp=1523792935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reword\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reword\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

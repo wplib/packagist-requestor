@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/contact-list": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/contact-list",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 80095,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contact-list.zip?timestamp=1534958517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contact-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contact-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/contact-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 80096,
+                "time": "2018-08-22 17:21:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contact-list.zip?timestamp=1534958517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contact-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contact-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

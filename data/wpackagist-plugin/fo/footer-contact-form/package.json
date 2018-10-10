@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/footer-contact-form": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/footer-contact-form",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 139332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/footer-contact-form.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/footer-contact-form\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/footer-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/footer-contact-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139333,
+                "time": "2018-02-05 06:07:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/footer-contact-form.zip?timestamp=1517810821"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/footer-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/footer-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

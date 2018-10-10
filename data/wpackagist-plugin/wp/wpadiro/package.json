@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpadiro": {
+            "1.2.6": {
+                "name": "wpackagist-plugin\/wpadiro",
+                "version": "1.2.6",
+                "version_normalized": "1.2.6.0",
+                "uid": 439675,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadiro.zip?timestamp=1498556381"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadiro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadiro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpadiro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439676,
+                "time": "2017-06-27 09:39:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadiro.zip?timestamp=1498556381"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadiro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadiro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

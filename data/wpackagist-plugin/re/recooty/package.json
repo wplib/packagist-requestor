@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recooty": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/recooty",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 284264,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recooty.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recooty\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recooty\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recooty",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 284265,
+                "time": "2018-07-13 14:48:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recooty.zip?timestamp=1531493322"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recooty\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recooty\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/katracker": {
+            "1.1.12": {
+                "name": "wpackagist-plugin\/katracker",
+                "version": "1.1.12",
+                "version_normalized": "1.1.12.0",
+                "uid": 188326,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/katracker.zip?timestamp=1518472076"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/katracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/katracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/katracker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 188327,
+                "time": "2018-02-12 21:47:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/katracker.zip?timestamp=1518472076"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/katracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/katracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

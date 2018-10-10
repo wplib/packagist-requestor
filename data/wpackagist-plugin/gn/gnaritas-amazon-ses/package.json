@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gnaritas-amazon-ses": {
+            "0.1.2": {
+                "name": "wpackagist-plugin\/gnaritas-amazon-ses",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "uid": 153339,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gnaritas-amazon-ses.0.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gnaritas-amazon-ses\/",
+                    "reference": "tags\/0.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gnaritas-amazon-ses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gnaritas-amazon-ses",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153340,
+                "time": "2017-11-17 23:01:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gnaritas-amazon-ses.zip?timestamp=1510959687"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gnaritas-amazon-ses\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gnaritas-amazon-ses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

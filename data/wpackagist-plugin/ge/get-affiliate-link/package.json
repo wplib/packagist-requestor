@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/get-affiliate-link": {
+            "1.5.13": {
+                "name": "wpackagist-plugin\/get-affiliate-link",
+                "version": "1.5.13",
+                "version_normalized": "1.5.13.0",
+                "uid": 150399,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-affiliate-link.1.5.13.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-affiliate-link\/",
+                    "reference": "tags\/1.5.13"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-affiliate-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/get-affiliate-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150400,
+                "time": "2018-01-10 16:57:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-affiliate-link.zip?timestamp=1515603462"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-affiliate-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-affiliate-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

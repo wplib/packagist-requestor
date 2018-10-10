@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aws-sns": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/aws-sns",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 33436,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aws-sns.zip?timestamp=1456641879"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aws-sns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aws-sns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aws-sns",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 33437,
+                "time": "2016-02-28 06:44:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aws-sns.zip?timestamp=1456641879"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aws-sns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aws-sns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

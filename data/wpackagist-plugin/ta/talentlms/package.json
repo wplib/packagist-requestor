@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/talentlms": {
+            "6.6.6": {
+                "name": "wpackagist-plugin\/talentlms",
+                "version": "6.6.6",
+                "version_normalized": "6.6.6.0",
+                "uid": 345888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talentlms.zip?timestamp=1537272907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talentlms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talentlms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/talentlms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345889,
+                "time": "2018-09-18 12:15:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talentlms.zip?timestamp=1537272907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talentlms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talentlms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

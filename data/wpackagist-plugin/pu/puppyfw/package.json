@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/puppyfw": {
+            "0.4.4": {
+                "name": "wpackagist-plugin\/puppyfw",
+                "version": "0.4.4",
+                "version_normalized": "0.4.4.0",
+                "uid": 273505,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/puppyfw.zip?timestamp=1513096894"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/puppyfw\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/puppyfw\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/puppyfw",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273506,
+                "time": "2017-12-12 16:41:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/puppyfw.zip?timestamp=1513096894"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/puppyfw\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/puppyfw\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

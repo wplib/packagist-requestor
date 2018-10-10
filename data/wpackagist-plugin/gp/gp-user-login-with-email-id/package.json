@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-user-login-with-email-id": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gp-user-login-with-email-id",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 157232,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-user-login-with-email-id.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-user-login-with-email-id\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-user-login-with-email-id\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-user-login-with-email-id",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157233,
+                "time": "2018-02-06 06:39:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-user-login-with-email-id.zip?timestamp=1517899152"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-user-login-with-email-id\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-user-login-with-email-id\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

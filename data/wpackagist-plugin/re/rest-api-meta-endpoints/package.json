@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rest-api-meta-endpoints": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/rest-api-meta-endpoints",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 290401,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-meta-endpoints.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-meta-endpoints\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-meta-endpoints\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rest-api-meta-endpoints",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290402,
+                "time": "2016-02-09 16:05:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-api-meta-endpoints.zip?timestamp=1455033943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-api-meta-endpoints\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-api-meta-endpoints\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

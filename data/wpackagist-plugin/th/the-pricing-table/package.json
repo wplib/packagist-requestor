@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/the-pricing-table": {
+            "1.0": {
+                "name": "wpackagist-plugin\/the-pricing-table",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 351291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-pricing-table.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-pricing-table\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-pricing-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/the-pricing-table",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 351292,
+                "time": "2017-11-16 08:54:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/the-pricing-table.zip?timestamp=1510822470"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/the-pricing-table\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/the-pricing-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

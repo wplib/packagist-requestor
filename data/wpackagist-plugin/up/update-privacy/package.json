@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/update-privacy": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/update-privacy",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 369191,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/update-privacy.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/update-privacy\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/update-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.2": {
+                "name": "wpackagist-plugin\/update-privacy",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 369192,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/update-privacy.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/update-privacy\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/update-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/update-privacy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 369193,
+                "time": "2017-11-28 23:42:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/update-privacy.zip?timestamp=1511912525"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/update-privacy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/update-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

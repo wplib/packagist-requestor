@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kagoya-typesquare": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/kagoya-typesquare",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 187620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kagoya-typesquare.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kagoya-typesquare\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kagoya-typesquare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kagoya-typesquare",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 187621,
+                "time": "2017-12-07 12:34:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kagoya-typesquare.zip?timestamp=1512650069"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kagoya-typesquare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kagoya-typesquare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

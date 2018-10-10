@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facebadge-master-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/facebadge-master-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 127057,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebadge-master-wp.zip?timestamp=1477230485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebadge-master-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebadge-master-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facebadge-master-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 127058,
+                "time": "2016-10-23 13:48:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebadge-master-wp.zip?timestamp=1477230485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebadge-master-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebadge-master-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

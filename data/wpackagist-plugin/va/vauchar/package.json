@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vauchar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/vauchar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 373175,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vauchar.zip?timestamp=1480787816"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vauchar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vauchar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vauchar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373176,
+                "time": "2016-12-03 17:56:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vauchar.zip?timestamp=1480787816"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vauchar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vauchar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

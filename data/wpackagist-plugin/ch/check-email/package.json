@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/check-email": {
+            "0.5.5": {
+                "name": "wpackagist-plugin\/check-email",
+                "version": "0.5.5",
+                "version_normalized": "0.5.5.0",
+                "uid": 66737,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/check-email.zip?timestamp=1493063078"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/check-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/check-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/check-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66738,
+                "time": "2017-04-24 19:44:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/check-email.zip?timestamp=1493063078"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/check-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/check-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

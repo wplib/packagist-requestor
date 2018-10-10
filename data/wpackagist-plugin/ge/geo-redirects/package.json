@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/geo-redirects": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/geo-redirects",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 149750,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geo-redirects.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geo-redirects\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geo-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/geo-redirects",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 149751,
+                "time": "2017-06-19 12:38:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geo-redirects.zip?timestamp=1497875919"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geo-redirects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geo-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

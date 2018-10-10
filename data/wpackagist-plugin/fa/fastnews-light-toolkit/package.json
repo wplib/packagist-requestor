@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fastnews-light-toolkit": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/fastnews-light-toolkit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130023,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fastnews-light-toolkit.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fastnews-light-toolkit\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fastnews-light-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fastnews-light-toolkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130024,
+                "time": "2015-10-14 01:37:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fastnews-light-toolkit.zip?timestamp=1444786671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fastnews-light-toolkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fastnews-light-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

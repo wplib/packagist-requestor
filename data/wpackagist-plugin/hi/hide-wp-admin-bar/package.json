@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hide-wp-admin-bar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hide-wp-admin-bar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 165567,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-wp-admin-bar.zip?timestamp=1463319911"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-wp-admin-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-wp-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hide-wp-admin-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165568,
+                "time": "2016-05-15 13:45:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-wp-admin-bar.zip?timestamp=1463319911"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-wp-admin-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-wp-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

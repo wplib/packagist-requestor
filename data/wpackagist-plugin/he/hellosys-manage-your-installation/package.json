@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hellosys-manage-your-installation": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hellosys-manage-your-installation",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 164563,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellosys-manage-your-installation.zip?timestamp=1479736115"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellosys-manage-your-installation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellosys-manage-your-installation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hellosys-manage-your-installation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164564,
+                "time": "2016-11-21 13:48:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellosys-manage-your-installation.zip?timestamp=1479736115"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellosys-manage-your-installation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellosys-manage-your-installation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

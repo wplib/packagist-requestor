@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backup-database": {
+            "4.9": {
+                "name": "wpackagist-plugin\/backup-database",
+                "version": "4.9",
+                "version_normalized": "4.9.0.0",
+                "uid": 34580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backup-database.zip?timestamp=1535560673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backup-database\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backup-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backup-database",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34581,
+                "time": "2018-08-29 16:37:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backup-database.zip?timestamp=1535560673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backup-database\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backup-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

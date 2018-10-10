@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/embedded-cdn": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/embedded-cdn",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 118448,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embedded-cdn.zip?timestamp=1467729786"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embedded-cdn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embedded-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/embedded-cdn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118449,
+                "time": "2016-07-05 14:43:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embedded-cdn.zip?timestamp=1467729786"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embedded-cdn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embedded-cdn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

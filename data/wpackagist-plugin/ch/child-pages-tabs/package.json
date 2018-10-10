@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/child-pages-tabs": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/child-pages-tabs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 67285,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/child-pages-tabs.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/child-pages-tabs\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/child-pages-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/child-pages-tabs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 67286,
+                "time": "2018-04-26 13:58:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/child-pages-tabs.zip?timestamp=1524751112"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/child-pages-tabs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/child-pages-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

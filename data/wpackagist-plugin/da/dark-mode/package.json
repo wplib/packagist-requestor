@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dark-mode": {
+            "3.0.1": {
+                "name": "wpackagist-plugin\/dark-mode",
+                "version": "3.0.1",
+                "version_normalized": "3.0.1.0",
+                "uid": 93973,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dark-mode.3.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dark-mode\/",
+                    "reference": "tags\/3.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dark-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.1": {
+                "name": "wpackagist-plugin\/dark-mode",
+                "version": "3.1",
+                "version_normalized": "3.1.0.0",
+                "uid": 93974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dark-mode.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dark-mode\/",
+                    "reference": "tags\/3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dark-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dark-mode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93975,
+                "time": "2018-08-30 17:09:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dark-mode.zip?timestamp=1535648961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dark-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dark-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

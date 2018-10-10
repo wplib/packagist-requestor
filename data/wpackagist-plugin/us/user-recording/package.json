@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-recording": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/user-recording",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 371354,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-recording.zip?timestamp=1502464094"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-recording\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-recording\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-recording",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371355,
+                "time": "2017-08-11 15:08:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-recording.zip?timestamp=1502464094"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-recording\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-recording\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

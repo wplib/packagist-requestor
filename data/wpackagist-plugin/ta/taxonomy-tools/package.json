@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/taxonomy-tools": {
+            "1.1": {
+                "name": "wpackagist-plugin\/taxonomy-tools",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 346967,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taxonomy-tools.zip?timestamp=1461162160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taxonomy-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taxonomy-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/taxonomy-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 346968,
+                "time": "2016-04-20 14:22:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/taxonomy-tools.zip?timestamp=1461162160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/taxonomy-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/taxonomy-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wprs-shortcodes": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/wprs-shortcodes",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 443186,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wprs-shortcodes.zip?timestamp=1466223788"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wprs-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wprs-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wprs-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443187,
+                "time": "2016-06-18 04:23:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wprs-shortcodes.zip?timestamp=1466223788"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wprs-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wprs-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

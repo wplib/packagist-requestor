@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anymind-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/anymind-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23554,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anymind-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anymind-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anymind-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anymind-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23555,
+                "time": "2018-04-24 07:23:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anymind-widget.zip?timestamp=1524554633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anymind-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anymind-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

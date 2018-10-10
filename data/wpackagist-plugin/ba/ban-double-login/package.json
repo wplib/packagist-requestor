@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ban-double-login": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ban-double-login",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 35467,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ban-double-login.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ban-double-login\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ban-double-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ban-double-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35468,
+                "time": "2018-06-21 12:25:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ban-double-login.zip?timestamp=1529583952"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ban-double-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ban-double-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

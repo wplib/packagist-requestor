@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woodo": {
+            "2.2": {
+                "name": "wpackagist-plugin\/woodo",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 399767,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woodo.zip?timestamp=1516259053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woodo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woodo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woodo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399768,
+                "time": "2018-01-18 07:04:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woodo.zip?timestamp=1516259053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woodo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woodo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clickgumshoe": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/clickgumshoe",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 71000,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickgumshoe.zip?timestamp=1537410478"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickgumshoe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickgumshoe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clickgumshoe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71001,
+                "time": "2018-09-20 02:27:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickgumshoe.zip?timestamp=1537410478"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickgumshoe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickgumshoe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

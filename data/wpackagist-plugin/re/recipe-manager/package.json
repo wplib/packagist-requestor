@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recipe-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/recipe-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 284009,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recipe-manager.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recipe-manager\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recipe-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recipe-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 284010,
+                "time": "2018-02-28 09:12:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recipe-manager.zip?timestamp=1519809149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recipe-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recipe-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

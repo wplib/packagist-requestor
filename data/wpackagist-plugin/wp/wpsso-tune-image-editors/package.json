@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-tune-image-editors": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/wpsso-tune-image-editors",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 443766,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-tune-image-editors.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-tune-image-editors\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-tune-image-editors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-tune-image-editors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443767,
+                "time": "2018-10-08 14:12:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-tune-image-editors.zip?timestamp=1539007959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-tune-image-editors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-tune-image-editors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/doc8": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/doc8",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doc8.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doc8\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doc8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/doc8",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102669,
+                "time": "2018-07-31 04:45:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doc8.zip?timestamp=1533012353"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doc8\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doc8\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

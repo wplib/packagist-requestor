@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edit-post-scripts-lite": {
+            "0.1": {
+                "name": "wpackagist-plugin\/edit-post-scripts-lite",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 114079,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edit-post-scripts-lite.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edit-post-scripts-lite\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edit-post-scripts-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edit-post-scripts-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114080,
+                "time": "2018-08-10 11:08:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edit-post-scripts-lite.zip?timestamp=1533899305"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edit-post-scripts-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edit-post-scripts-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

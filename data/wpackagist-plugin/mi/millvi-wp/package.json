@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/millvi-wp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/millvi-wp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 217285,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/millvi-wp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/millvi-wp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/millvi-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/millvi-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217286,
+                "time": "2018-09-26 09:18:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/millvi-wp.zip?timestamp=1537953486"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/millvi-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/millvi-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

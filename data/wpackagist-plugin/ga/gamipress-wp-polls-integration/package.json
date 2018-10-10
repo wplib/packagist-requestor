@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gamipress-wp-polls-integration": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gamipress-wp-polls-integration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 147254,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-wp-polls-integration.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-wp-polls-integration\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-wp-polls-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gamipress-wp-polls-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147255,
+                "time": "2018-09-19 07:44:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-wp-polls-integration.zip?timestamp=1537343079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-wp-polls-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-wp-polls-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

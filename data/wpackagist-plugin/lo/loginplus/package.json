@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loginplus": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/loginplus",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 203309,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginplus.zip?timestamp=1504581935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginplus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loginplus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203310,
+                "time": "2017-09-05 03:25:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loginplus.zip?timestamp=1504581935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loginplus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loginplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adram": {
+            "0.3.9": {
+                "name": "wpackagist-plugin\/adram",
+                "version": "0.3.9",
+                "version_normalized": "0.3.9.0",
+                "uid": 10422,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adram.zip?timestamp=1538637671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adram\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adram\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adram",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 10423,
+                "time": "2018-10-04 07:21:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adram.zip?timestamp=1538637671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adram\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adram\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

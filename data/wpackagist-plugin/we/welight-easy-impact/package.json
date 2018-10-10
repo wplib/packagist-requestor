@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/welight-easy-impact": {
+            "0.3.2": {
+                "name": "wpackagist-plugin\/welight-easy-impact",
+                "version": "0.3.2",
+                "version_normalized": "0.3.2.0",
+                "uid": 384474,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/welight-easy-impact.0.3.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/welight-easy-impact\/",
+                    "reference": "tags\/0.3.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/welight-easy-impact\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/welight-easy-impact",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384475,
+                "time": "2018-08-16 12:13:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/welight-easy-impact.zip?timestamp=1534421614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/welight-easy-impact\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/welight-easy-impact\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

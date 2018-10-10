@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vacancy-lab": {
+            "0.6": {
+                "name": "wpackagist-plugin\/vacancy-lab",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 372579,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vacancy-lab.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vacancy-lab\/",
+                    "reference": "tags\/0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vacancy-lab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vacancy-lab",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372580,
+                "time": "2018-09-03 10:30:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vacancy-lab.zip?timestamp=1535970630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vacancy-lab\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vacancy-lab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dismiss-update-nag": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/dismiss-update-nag",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 101030,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dismiss-update-nag.zip?timestamp=1533299923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dismiss-update-nag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dismiss-update-nag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dismiss-update-nag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101031,
+                "time": "2018-08-03 12:38:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dismiss-update-nag.zip?timestamp=1533299923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dismiss-update-nag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dismiss-update-nag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

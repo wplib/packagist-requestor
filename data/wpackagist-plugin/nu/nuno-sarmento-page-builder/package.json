@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nuno-sarmento-page-builder": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/nuno-sarmento-page-builder",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 238539,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nuno-sarmento-page-builder.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nuno-sarmento-page-builder\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nuno-sarmento-page-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nuno-sarmento-page-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238540,
+                "time": "2017-11-09 12:20:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nuno-sarmento-page-builder.zip?timestamp=1510230058"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nuno-sarmento-page-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nuno-sarmento-page-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

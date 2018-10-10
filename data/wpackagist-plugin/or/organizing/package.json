@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/organizing": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/organizing",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 245167,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/organizing.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/organizing\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/organizing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/organizing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245168,
+                "time": "2018-03-05 12:39:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/organizing.zip?timestamp=1520253551"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/organizing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/organizing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

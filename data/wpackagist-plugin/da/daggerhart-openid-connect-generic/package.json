@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daggerhart-openid-connect-generic": {
+            "3.3.1": {
+                "name": "wpackagist-plugin\/daggerhart-openid-connect-generic",
+                "version": "3.3.1",
+                "version_normalized": "3.3.1.0",
+                "uid": 93438,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daggerhart-openid-connect-generic.3.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daggerhart-openid-connect-generic\/",
+                    "reference": "tags\/3.3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daggerhart-openid-connect-generic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daggerhart-openid-connect-generic",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93439,
+                "time": "2018-02-25 15:24:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daggerhart-openid-connect-generic.zip?timestamp=1519572265"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daggerhart-openid-connect-generic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daggerhart-openid-connect-generic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

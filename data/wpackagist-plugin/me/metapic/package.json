@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/metapic": {
+            "1.4.3": {
+                "name": "wpackagist-plugin\/metapic",
+                "version": "1.4.3",
+                "version_normalized": "1.4.3.0",
+                "uid": 215676,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/metapic.zip?timestamp=1535456044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/metapic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/metapic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/metapic",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 215677,
+                "time": "2018-08-28 11:34:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/metapic.zip?timestamp=1535456044"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/metapic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/metapic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smart-overlay": {
+            "0.8.1": {
+                "name": "wpackagist-plugin\/smart-overlay",
+                "version": "0.8.1",
+                "version_normalized": "0.8.1.0",
+                "uid": 324873,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-overlay.zip?timestamp=1520455558"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-overlay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-overlay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smart-overlay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 324874,
+                "time": "2018-03-07 20:45:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-overlay.zip?timestamp=1520455558"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-overlay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-overlay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

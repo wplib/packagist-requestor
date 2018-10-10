@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/logus-toolbox": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/logus-toolbox",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 203565,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logus-toolbox.zip?timestamp=1531236798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logus-toolbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logus-toolbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/logus-toolbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203566,
+                "time": "2018-07-10 15:33:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logus-toolbox.zip?timestamp=1531236798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logus-toolbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logus-toolbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

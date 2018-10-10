@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip-address": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ip-address",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 180226,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-address.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-address\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-address\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip-address",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180227,
+                "time": "2018-07-26 13:06:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-address.zip?timestamp=1532610404"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-address\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-address\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

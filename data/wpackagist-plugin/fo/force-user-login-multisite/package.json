@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/force-user-login-multisite": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/force-user-login-multisite",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 139736,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-user-login-multisite.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-user-login-multisite\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-user-login-multisite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/force-user-login-multisite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139737,
+                "time": "2016-11-24 10:29:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-user-login-multisite.zip?timestamp=1479983380"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-user-login-multisite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-user-login-multisite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

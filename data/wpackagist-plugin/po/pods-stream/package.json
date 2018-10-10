@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pods-stream": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/pods-stream",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 260224,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pods-stream.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pods-stream\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pods-stream\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.0": {
+                "name": "wpackagist-plugin\/pods-stream",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 260225,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pods-stream.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pods-stream\/",
+                    "reference": "tags\/3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pods-stream\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pods-stream",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 260226,
+                "time": "2017-06-02 13:58:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pods-stream.zip?timestamp=1496411898"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pods-stream\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pods-stream\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

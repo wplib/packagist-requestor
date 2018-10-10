@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/anexia-monitoring": {
+            "1.0": {
+                "name": "wpackagist-plugin\/anexia-monitoring",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 22224,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anexia-monitoring.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anexia-monitoring\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anexia-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/anexia-monitoring",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 22225,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anexia-monitoring.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anexia-monitoring\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anexia-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/anexia-monitoring",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22226,
+                "time": "2017-06-09 14:57:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/anexia-monitoring.zip?timestamp=1497020227"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/anexia-monitoring\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/anexia-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

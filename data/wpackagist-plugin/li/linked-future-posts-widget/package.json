@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/linked-future-posts-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/linked-future-posts-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 198867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linked-future-posts-widget.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linked-future-posts-widget\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linked-future-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/linked-future-posts-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198868,
+                "time": "2016-10-18 12:16:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linked-future-posts-widget.zip?timestamp=1476792965"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linked-future-posts-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linked-future-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

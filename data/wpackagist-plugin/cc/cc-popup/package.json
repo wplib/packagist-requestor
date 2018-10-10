@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cc-popup": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cc-popup",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 63857,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-popup.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-popup\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cc-popup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63858,
+                "time": "2016-10-11 11:43:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cc-popup.zip?timestamp=1476186237"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cc-popup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cc-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

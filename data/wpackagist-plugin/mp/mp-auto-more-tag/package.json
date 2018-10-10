@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mp-auto-more-tag": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/mp-auto-more-tag",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 222901,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mp-auto-more-tag.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mp-auto-more-tag\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mp-auto-more-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mp-auto-more-tag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222902,
+                "time": "2018-09-06 11:23:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mp-auto-more-tag.zip?timestamp=1536232997"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mp-auto-more-tag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mp-auto-more-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

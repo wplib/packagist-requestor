@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mediavine-amp-redirect": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mediavine-amp-redirect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 212981,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mediavine-amp-redirect.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mediavine-amp-redirect\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mediavine-amp-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mediavine-amp-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 212982,
+                "time": "2017-06-28 19:01:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mediavine-amp-redirect.zip?timestamp=1498676517"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mediavine-amp-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mediavine-amp-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

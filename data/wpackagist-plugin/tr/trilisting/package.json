@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/trilisting": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/trilisting",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 360153,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trilisting.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trilisting\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trilisting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/trilisting",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 360154,
+                "time": "2018-10-09 11:34:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trilisting.zip?timestamp=1539084887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trilisting\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trilisting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

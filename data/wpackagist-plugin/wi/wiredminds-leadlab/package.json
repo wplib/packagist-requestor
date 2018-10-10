@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wiredminds-leadlab": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wiredminds-leadlab",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 387635,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wiredminds-leadlab.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wiredminds-leadlab\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wiredminds-leadlab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wiredminds-leadlab",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387636,
+                "time": "2018-01-08 13:59:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wiredminds-leadlab.zip?timestamp=1515419972"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wiredminds-leadlab\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wiredminds-leadlab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

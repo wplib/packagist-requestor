@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/datetime-fields-for-gravityforms": {
+            "1.0": {
+                "name": "wpackagist-plugin\/datetime-fields-for-gravityforms",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95121,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/datetime-fields-for-gravityforms.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/datetime-fields-for-gravityforms\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/datetime-fields-for-gravityforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/datetime-fields-for-gravityforms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95122,
+                "time": "2018-01-15 09:25:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/datetime-fields-for-gravityforms.zip?timestamp=1516008304"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/datetime-fields-for-gravityforms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/datetime-fields-for-gravityforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

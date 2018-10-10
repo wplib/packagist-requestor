@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/merge-minify-refresh-clear-caches": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/merge-minify-refresh-clear-caches",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 214878,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/merge-minify-refresh-clear-caches.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/merge-minify-refresh-clear-caches\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/merge-minify-refresh-clear-caches\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/merge-minify-refresh-clear-caches",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214879,
+                "time": "2018-04-18 12:53:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/merge-minify-refresh-clear-caches.zip?timestamp=1524055984"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/merge-minify-refresh-clear-caches\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/merge-minify-refresh-clear-caches\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

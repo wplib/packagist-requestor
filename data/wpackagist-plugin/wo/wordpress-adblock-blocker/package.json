@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordpress-adblock-blocker": {
+            "2017.08.13": {
+                "name": "wpackagist-plugin\/wordpress-adblock-blocker",
+                "version": "2017.08.13",
+                "version_normalized": "2017.08.13.0",
+                "uid": 401388,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-adblock-blocker.zip?timestamp=1500990448"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-adblock-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-adblock-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordpress-adblock-blocker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 401389,
+                "time": "2017-07-25 13:47:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-adblock-blocker.zip?timestamp=1500990448"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-adblock-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-adblock-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

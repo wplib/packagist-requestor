@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daily-logo": {
+            "2.1.0": {
+                "name": "wpackagist-plugin\/daily-logo",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "uid": 93557,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-logo.zip?timestamp=1511796180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daily-logo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93558,
+                "time": "2017-11-27 15:23:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-logo.zip?timestamp=1511796180"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

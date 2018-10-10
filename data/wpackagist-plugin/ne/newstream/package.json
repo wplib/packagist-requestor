@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/newstream": {
+            "1.0a": {
+                "name": "wpackagist-plugin\/newstream",
+                "version": "1.0a",
+                "version_normalized": "1.0.0.0-alpha",
+                "uid": 233193,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newstream.zip?timestamp=1453789790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newstream\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newstream\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/newstream",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 233194,
+                "time": "2016-01-26 06:29:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newstream.zip?timestamp=1453789790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newstream\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newstream\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

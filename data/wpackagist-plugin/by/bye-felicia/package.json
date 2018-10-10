@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bye-felicia": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bye-felicia",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 58220,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bye-felicia.zip?timestamp=1505764460"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bye-felicia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bye-felicia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bye-felicia",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 58221,
+                "time": "2017-09-18 19:54:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bye-felicia.zip?timestamp=1505764460"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bye-felicia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bye-felicia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

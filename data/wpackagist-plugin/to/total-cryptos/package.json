@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/total-cryptos": {
+            "1.0": {
+                "name": "wpackagist-plugin\/total-cryptos",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 357710,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/total-cryptos.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/total-cryptos\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/total-cryptos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/total-cryptos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 357711,
+                "time": "2018-05-28 15:04:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/total-cryptos.zip?timestamp=1527519888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/total-cryptos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/total-cryptos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

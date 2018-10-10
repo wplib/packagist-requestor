@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/media-select-bulk-downloader": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/media-select-bulk-downloader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 212666,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-select-bulk-downloader.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-select-bulk-downloader\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-select-bulk-downloader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/media-select-bulk-downloader",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 212667,
+                "time": "2016-08-24 09:43:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-select-bulk-downloader.zip?timestamp=1472031791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-select-bulk-downloader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-select-bulk-downloader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

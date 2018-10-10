@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lana-security": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/lana-security",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 192301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lana-security.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lana-security\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lana-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1.1": {
+                "name": "wpackagist-plugin\/lana-security",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 192302,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lana-security.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lana-security\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lana-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lana-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192303,
+                "time": "2018-08-09 19:17:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lana-security.zip?timestamp=1533842264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lana-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lana-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

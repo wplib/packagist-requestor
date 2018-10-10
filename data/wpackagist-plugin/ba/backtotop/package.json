@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backtotop": {
+            "2.0": {
+                "name": "wpackagist-plugin\/backtotop",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 34549,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backtotop.zip?timestamp=1429592432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backtotop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backtotop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backtotop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34550,
+                "time": "2015-04-21 05:00:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backtotop.zip?timestamp=1429592432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backtotop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backtotop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

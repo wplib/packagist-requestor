@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-plm": {
+            "3.0.2": {
+                "name": "wpackagist-plugin\/wpsso-plm",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "uid": 443752,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-plm.3.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-plm\/",
+                    "reference": "tags\/3.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-plm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-plm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443753,
+                "time": "2018-10-08 14:07:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-plm.zip?timestamp=1539007642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-plm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-plm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

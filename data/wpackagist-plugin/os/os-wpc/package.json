@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/os-wpc": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/os-wpc",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 245548,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/os-wpc.zip?timestamp=1491529354"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/os-wpc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/os-wpc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/os-wpc",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245549,
+                "time": "2017-04-07 01:42:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/os-wpc.zip?timestamp=1491529354"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/os-wpc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/os-wpc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

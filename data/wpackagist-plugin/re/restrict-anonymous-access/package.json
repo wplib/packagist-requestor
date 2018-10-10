@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restrict-anonymous-access": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/restrict-anonymous-access",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 290825,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-anonymous-access.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-anonymous-access\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-anonymous-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.1": {
+                "name": "wpackagist-plugin\/restrict-anonymous-access",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 290826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-anonymous-access.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-anonymous-access\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-anonymous-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restrict-anonymous-access",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290827,
+                "time": "2018-06-07 19:59:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-anonymous-access.zip?timestamp=1528401541"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-anonymous-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-anonymous-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

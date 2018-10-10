@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/purchase-orders-for-catablog": {
+            "0.3": {
+                "name": "wpackagist-plugin\/purchase-orders-for-catablog",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 273523,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purchase-orders-for-catablog.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purchase-orders-for-catablog\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purchase-orders-for-catablog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/purchase-orders-for-catablog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273524,
+                "time": "2016-04-05 11:23:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purchase-orders-for-catablog.zip?timestamp=1459855403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purchase-orders-for-catablog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purchase-orders-for-catablog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

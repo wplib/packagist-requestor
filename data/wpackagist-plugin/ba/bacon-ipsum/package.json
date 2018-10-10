@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bacon-ipsum": {
+            "2.3": {
+                "name": "wpackagist-plugin\/bacon-ipsum",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "uid": 34914,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bacon-ipsum.zip?timestamp=1518490998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bacon-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bacon-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bacon-ipsum",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34915,
+                "time": "2018-02-13 03:03:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bacon-ipsum.zip?timestamp=1518490998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bacon-ipsum\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bacon-ipsum\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

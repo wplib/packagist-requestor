@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tinyrsid-adapter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/tinyrsid-adapter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 355718,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tinyrsid-adapter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tinyrsid-adapter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tinyrsid-adapter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tinyrsid-adapter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 355719,
+                "time": "2017-01-15 23:40:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tinyrsid-adapter.zip?timestamp=1484523637"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tinyrsid-adapter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tinyrsid-adapter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

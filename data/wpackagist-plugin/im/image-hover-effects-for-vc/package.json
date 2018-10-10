@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-hover-effects-for-vc": {
+            "1.0": {
+                "name": "wpackagist-plugin\/image-hover-effects-for-vc",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 173233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-hover-effects-for-vc.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-hover-effects-for-vc\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-hover-effects-for-vc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-hover-effects-for-vc",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173234,
+                "time": "2016-12-08 07:29:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-hover-effects-for-vc.zip?timestamp=1481182196"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-hover-effects-for-vc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-hover-effects-for-vc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

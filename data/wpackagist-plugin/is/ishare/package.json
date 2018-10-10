@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ishare": {
+            "1.2.4": {
+                "name": "wpackagist-plugin\/ishare",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "uid": 181073,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ishare.zip?timestamp=1454751468"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ishare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ishare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ishare",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181074,
+                "time": "2016-02-06 09:37:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ishare.zip?timestamp=1454751468"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ishare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ishare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

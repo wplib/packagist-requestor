@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/safly-curl-patch": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/safly-curl-patch",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 298085,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/safly-curl-patch.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/safly-curl-patch\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/safly-curl-patch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/safly-curl-patch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 298086,
+                "time": "2018-02-08 15:51:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/safly-curl-patch.zip?timestamp=1518105112"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/safly-curl-patch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/safly-curl-patch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

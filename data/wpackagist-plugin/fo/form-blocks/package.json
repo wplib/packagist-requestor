@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/form-blocks": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/form-blocks",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 139921,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/form-blocks.zip?timestamp=1514684151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/form-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/form-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/form-blocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139922,
+                "time": "2017-12-31 01:35:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/form-blocks.zip?timestamp=1514684151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/form-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/form-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webeki-soccer-scores": {
+            "1.0": {
+                "name": "wpackagist-plugin\/webeki-soccer-scores",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 382996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webeki-soccer-scores.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webeki-soccer-scores\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webeki-soccer-scores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webeki-soccer-scores",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382997,
+                "time": "2018-09-01 15:43:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webeki-soccer-scores.zip?timestamp=1535816594"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webeki-soccer-scores\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webeki-soccer-scores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

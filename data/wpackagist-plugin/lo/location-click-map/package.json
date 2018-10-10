@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/location-click-map": {
+            "1.0": {
+                "name": "wpackagist-plugin\/location-click-map",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202230,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-click-map.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-click-map\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-click-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/location-click-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202231,
+                "time": "2016-06-13 03:36:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-click-map.zip?timestamp=1465788984"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-click-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-click-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

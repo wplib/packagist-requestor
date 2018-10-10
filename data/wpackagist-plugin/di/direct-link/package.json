@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/direct-link": {
+            "0.1": {
+                "name": "wpackagist-plugin\/direct-link",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 99816,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/direct-link.zip?timestamp=1449229072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/direct-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/direct-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/direct-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99817,
+                "time": "2015-12-04 11:37:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/direct-link.zip?timestamp=1449229072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/direct-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/direct-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

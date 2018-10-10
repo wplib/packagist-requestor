@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tfsp-301-redirects": {
+            "1.0": {
+                "name": "wpackagist-plugin\/tfsp-301-redirects",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349772,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tfsp-301-redirects.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tfsp-301-redirects\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tfsp-301-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tfsp-301-redirects",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349773,
+                "time": "2017-04-21 04:49:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tfsp-301-redirects.zip?timestamp=1492750181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tfsp-301-redirects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tfsp-301-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

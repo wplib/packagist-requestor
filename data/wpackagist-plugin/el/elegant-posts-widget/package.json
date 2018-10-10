@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elegant-posts-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/elegant-posts-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 115963,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elegant-posts-widget.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elegant-posts-widget\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elegant-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elegant-posts-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115964,
+                "time": "2017-09-17 14:55:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elegant-posts-widget.zip?timestamp=1505660129"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elegant-posts-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elegant-posts-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/active-comment": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/active-comment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5752,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/active-comment.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/active-comment\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/active-comment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/active-comment",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5753,
+                "time": "2017-12-12 05:53:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/active-comment.zip?timestamp=1513057996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/active-comment\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/active-comment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

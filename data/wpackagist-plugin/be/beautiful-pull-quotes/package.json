@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beautiful-pull-quotes": {
+            "1.0": {
+                "name": "wpackagist-plugin\/beautiful-pull-quotes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 38403,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beautiful-pull-quotes.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beautiful-pull-quotes\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beautiful-pull-quotes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beautiful-pull-quotes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38404,
+                "time": "2016-07-28 08:32:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beautiful-pull-quotes.zip?timestamp=1469694729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beautiful-pull-quotes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beautiful-pull-quotes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

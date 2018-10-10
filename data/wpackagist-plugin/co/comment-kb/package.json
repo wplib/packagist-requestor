@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comment-kb": {
+            "1.0": {
+                "name": "wpackagist-plugin\/comment-kb",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 75482,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-kb.zip?timestamp=1498152961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-kb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-kb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comment-kb",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 75483,
+                "time": "2017-06-22 17:36:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comment-kb.zip?timestamp=1498152961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comment-kb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comment-kb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

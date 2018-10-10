@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miragetconnector": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/miragetconnector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 218704,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miragetconnector.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miragetconnector\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miragetconnector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miragetconnector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218705,
+                "time": "2018-10-08 23:22:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miragetconnector.zip?timestamp=1539040977"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miragetconnector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miragetconnector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

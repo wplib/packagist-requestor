@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/unpublish": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/unpublish",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 368789,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unpublish.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unpublish\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unpublish\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/unpublish",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368790,
+                "time": "2018-08-10 13:34:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unpublish.zip?timestamp=1533908047"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unpublish\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unpublish\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

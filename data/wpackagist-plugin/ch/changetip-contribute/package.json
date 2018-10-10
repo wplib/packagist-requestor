@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/changetip-contribute": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/changetip-contribute",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 65910,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/changetip-contribute.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/changetip-contribute\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/changetip-contribute\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/changetip-contribute",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65911,
+                "time": "2016-02-08 23:47:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/changetip-contribute.zip?timestamp=1454975236"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/changetip-contribute\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/changetip-contribute\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

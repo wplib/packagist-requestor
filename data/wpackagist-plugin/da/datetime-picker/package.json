@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/datetime-picker": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/datetime-picker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/datetime-picker.zip?timestamp=1525314810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/datetime-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/datetime-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/datetime-picker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95126,
+                "time": "2018-05-03 02:33:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/datetime-picker.zip?timestamp=1525314810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/datetime-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/datetime-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

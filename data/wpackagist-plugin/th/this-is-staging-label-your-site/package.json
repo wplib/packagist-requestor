@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/this-is-staging-label-your-site": {
+            "0.3": {
+                "name": "wpackagist-plugin\/this-is-staging-label-your-site",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 353444,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/this-is-staging-label-your-site.zip?timestamp=1468418090"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/this-is-staging-label-your-site\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/this-is-staging-label-your-site\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/this-is-staging-label-your-site",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 353445,
+                "time": "2016-07-13 13:54:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/this-is-staging-label-your-site.zip?timestamp=1468418090"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/this-is-staging-label-your-site\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/this-is-staging-label-your-site\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

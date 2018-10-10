@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/face-detection": {
+            "1.0": {
+                "name": "wpackagist-plugin\/face-detection",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 127039,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/face-detection.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/face-detection\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/face-detection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/face-detection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 127040,
+                "time": "2018-09-28 15:07:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/face-detection.zip?timestamp=1538147234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/face-detection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/face-detection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

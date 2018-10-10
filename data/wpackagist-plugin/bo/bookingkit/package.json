@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bookingkit": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bookingkit",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 48512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bookingkit.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bookingkit\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bookingkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bookingkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 48513,
+                "time": "2016-10-28 14:27:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bookingkit.zip?timestamp=1477664832"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bookingkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bookingkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

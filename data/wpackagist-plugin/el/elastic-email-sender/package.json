@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elastic-email-sender": {
+            "1.1.5": {
+                "name": "wpackagist-plugin\/elastic-email-sender",
+                "version": "1.1.5",
+                "version_normalized": "1.1.5.0",
+                "uid": 115637,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elastic-email-sender.zip?timestamp=1538748900"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elastic-email-sender\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elastic-email-sender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elastic-email-sender",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115638,
+                "time": "2018-10-05 14:15:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elastic-email-sender.zip?timestamp=1538748900"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elastic-email-sender\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elastic-email-sender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

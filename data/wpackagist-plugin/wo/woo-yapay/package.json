@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-yapay": {
+            "0.2.0": {
+                "name": "wpackagist-plugin\/woo-yapay",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 393499,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-yapay.0.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-yapay\/",
+                    "reference": "tags\/0.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-yapay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-yapay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 393500,
+                "time": "2018-03-19 18:29:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-yapay.zip?timestamp=1521484141"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-yapay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-yapay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

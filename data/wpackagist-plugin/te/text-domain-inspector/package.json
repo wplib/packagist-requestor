@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/text-domain-inspector": {
+            "1.0": {
+                "name": "wpackagist-plugin\/text-domain-inspector",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349407,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-domain-inspector.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-domain-inspector\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-domain-inspector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/text-domain-inspector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349408,
+                "time": "2018-07-12 07:14:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-domain-inspector.zip?timestamp=1531379697"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-domain-inspector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-domain-inspector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

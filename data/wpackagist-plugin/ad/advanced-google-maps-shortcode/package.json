@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advanced-google-maps-shortcode": {
+            "0.2": {
+                "name": "wpackagist-plugin\/advanced-google-maps-shortcode",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 12516,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-google-maps-shortcode.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-google-maps-shortcode\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-google-maps-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advanced-google-maps-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 12517,
+                "time": "2016-12-22 15:09:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-google-maps-shortcode.zip?timestamp=1482419383"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-google-maps-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-google-maps-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

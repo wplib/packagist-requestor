@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/slack": {
+            "0.5.1": {
+                "name": "wpackagist-plugin\/slack",
+                "version": "0.5.1",
+                "version_normalized": "0.5.1.0",
+                "uid": 322388,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slack.0.5.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slack\/",
+                    "reference": "tags\/0.5.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.6.0": {
+                "name": "wpackagist-plugin\/slack",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "uid": 322389,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slack.0.6.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slack\/",
+                    "reference": "tags\/0.6.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/slack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 322390,
+                "time": "2017-04-09 18:33:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slack.zip?timestamp=1491762786"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

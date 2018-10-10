@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/revglue-stores": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/revglue-stores",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291781,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-stores.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-stores\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-stores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/revglue-stores",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291782,
+                "time": "2018-08-06 11:10:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-stores.zip?timestamp=1533553807"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-stores\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-stores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/project-sync-for-github": {
+            "0.3.8": {
+                "name": "wpackagist-plugin\/project-sync-for-github",
+                "version": "0.3.8",
+                "version_normalized": "0.3.8.0",
+                "uid": 271283,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/project-sync-for-github.0.3.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/project-sync-for-github\/",
+                    "reference": "tags\/0.3.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/project-sync-for-github\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/project-sync-for-github",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 271284,
+                "time": "2018-09-25 02:07:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/project-sync-for-github.zip?timestamp=1537841253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/project-sync-for-github\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/project-sync-for-github\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

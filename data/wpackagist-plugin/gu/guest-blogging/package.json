@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/guest-blogging": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/guest-blogging",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guest-blogging.zip?timestamp=1538710651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guest-blogging\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guest-blogging\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/guest-blogging",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161292,
+                "time": "2018-10-05 03:37:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guest-blogging.zip?timestamp=1538710651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guest-blogging\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guest-blogging\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

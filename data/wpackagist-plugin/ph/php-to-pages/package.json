@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/php-to-pages": {
+            "1.3": {
+                "name": "wpackagist-plugin\/php-to-pages",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 255408,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-to-pages.zip?timestamp=1510198645"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-to-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-to-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/php-to-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255409,
+                "time": "2017-11-09 03:37:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-to-pages.zip?timestamp=1510198645"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-to-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-to-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

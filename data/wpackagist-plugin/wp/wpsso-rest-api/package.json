@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-rest-api": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/wpsso-rest-api",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 443756,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-rest-api.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-rest-api\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-rest-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-rest-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443757,
+                "time": "2018-10-04 16:11:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-rest-api.zip?timestamp=1538669472"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-rest-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-rest-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

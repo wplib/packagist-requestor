@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/owl-carousel-wp": {
+            "2.1": {
+                "name": "wpackagist-plugin\/owl-carousel-wp",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 246215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/owl-carousel-wp.zip?timestamp=1532797351"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/owl-carousel-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/owl-carousel-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/owl-carousel-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246216,
+                "time": "2018-07-28 17:02:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/owl-carousel-wp.zip?timestamp=1532797351"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/owl-carousel-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/owl-carousel-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

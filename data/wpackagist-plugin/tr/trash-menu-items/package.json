@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/trash-menu-items": {
+            "1.0": {
+                "name": "wpackagist-plugin\/trash-menu-items",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 359455,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trash-menu-items.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trash-menu-items\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trash-menu-items\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/trash-menu-items",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 359456,
+                "time": "2018-02-19 10:29:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trash-menu-items.zip?timestamp=1519036170"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trash-menu-items\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trash-menu-items\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cleanup-duplicate-meta": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/cleanup-duplicate-meta",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 70345,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cleanup-duplicate-meta.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cleanup-duplicate-meta\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cleanup-duplicate-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cleanup-duplicate-meta",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70346,
+                "time": "2015-05-09 11:17:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cleanup-duplicate-meta.zip?timestamp=1431170247"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cleanup-duplicate-meta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cleanup-duplicate-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

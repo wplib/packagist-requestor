@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auto-collapse": {
+            "1.2.4": {
+                "name": "wpackagist-plugin\/auto-collapse",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "uid": 30181,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-collapse.zip?timestamp=1481052030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-collapse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-collapse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auto-collapse",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 30182,
+                "time": "2016-12-06 19:20:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-collapse.zip?timestamp=1481052030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-collapse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-collapse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blocks-layouts": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/blocks-layouts",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 44135,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blocks-layouts.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blocks-layouts\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blocks-layouts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blocks-layouts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 44136,
+                "time": "2018-01-29 22:54:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blocks-layouts.zip?timestamp=1517266485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blocks-layouts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blocks-layouts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

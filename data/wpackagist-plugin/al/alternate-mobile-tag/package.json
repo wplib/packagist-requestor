@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/alternate-mobile-tag": {
+            "1.1": {
+                "name": "wpackagist-plugin\/alternate-mobile-tag",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 19423,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alternate-mobile-tag.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alternate-mobile-tag\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alternate-mobile-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/alternate-mobile-tag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19424,
+                "time": "2015-04-21 04:29:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alternate-mobile-tag.zip?timestamp=1429590579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alternate-mobile-tag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alternate-mobile-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

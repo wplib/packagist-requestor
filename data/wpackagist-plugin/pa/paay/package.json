@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/paay": {
+            "2.0.25": {
+                "name": "wpackagist-plugin\/paay",
+                "version": "2.0.25",
+                "version_normalized": "2.0.25.0",
+                "uid": 246662,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paay.zip?timestamp=1487012794"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/paay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246663,
+                "time": "2017-02-13 19:06:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paay.zip?timestamp=1487012794"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

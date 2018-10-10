@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pushbeat-box": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pushbeat-box",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 274078,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pushbeat-box.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pushbeat-box\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pushbeat-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pushbeat-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274079,
+                "time": "2017-04-03 08:19:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pushbeat-box.zip?timestamp=1491207558"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pushbeat-box\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pushbeat-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

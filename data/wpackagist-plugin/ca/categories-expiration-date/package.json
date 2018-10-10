@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/categories-expiration-date": {
+            "0.1": {
+                "name": "wpackagist-plugin\/categories-expiration-date",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 62397,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/categories-expiration-date.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/categories-expiration-date\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/categories-expiration-date\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/categories-expiration-date",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 62398,
+                "time": "2018-09-10 15:05:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/categories-expiration-date.zip?timestamp=1536591926"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/categories-expiration-date\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/categories-expiration-date\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

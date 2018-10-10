@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kmm-hacks": {
+            "0.1.6": {
+                "name": "wpackagist-plugin\/kmm-hacks",
+                "version": "0.1.6",
+                "version_normalized": "0.1.6.0",
+                "uid": 190552,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kmm-hacks.0.1.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kmm-hacks\/",
+                    "reference": "tags\/0.1.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kmm-hacks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kmm-hacks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190553,
+                "time": "2018-08-09 06:13:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kmm-hacks.zip?timestamp=1533795217"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kmm-hacks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kmm-hacks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/deltaganu": {
+            "1.2": {
+                "name": "wpackagist-plugin\/deltaganu",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 97275,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deltaganu.zip?timestamp=1464162097"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deltaganu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deltaganu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/deltaganu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97276,
+                "time": "2016-05-25 07:41:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deltaganu.zip?timestamp=1464162097"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deltaganu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deltaganu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

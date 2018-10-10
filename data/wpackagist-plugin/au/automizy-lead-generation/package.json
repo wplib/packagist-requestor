@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/automizy-lead-generation": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/automizy-lead-generation",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31437,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automizy-lead-generation.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automizy-lead-generation\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automizy-lead-generation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/automizy-lead-generation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31438,
+                "time": "2015-11-03 13:23:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/automizy-lead-generation.zip?timestamp=1446557007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/automizy-lead-generation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/automizy-lead-generation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

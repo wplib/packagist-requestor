@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-wapuu": {
+            "0.3": {
+                "name": "wpackagist-plugin\/hello-wapuu",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 164483,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-wapuu.zip?timestamp=1444974077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-wapuu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-wapuu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-wapuu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164484,
+                "time": "2015-10-16 05:41:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-wapuu.zip?timestamp=1444974077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-wapuu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-wapuu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

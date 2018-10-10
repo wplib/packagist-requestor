@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tracking-la-poste-for-woocommerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/tracking-la-poste-for-woocommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 358274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tracking-la-poste-for-woocommerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tracking-la-poste-for-woocommerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tracking-la-poste-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tracking-la-poste-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 358275,
+                "time": "2016-11-30 13:28:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tracking-la-poste-for-woocommerce.zip?timestamp=1480512520"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tracking-la-poste-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tracking-la-poste-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

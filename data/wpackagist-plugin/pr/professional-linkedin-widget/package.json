@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/professional-linkedin-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/professional-linkedin-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 270461,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/professional-linkedin-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/professional-linkedin-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/professional-linkedin-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/professional-linkedin-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270462,
+                "time": "2016-08-16 06:09:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/professional-linkedin-widget.zip?timestamp=1471327748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/professional-linkedin-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/professional-linkedin-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secure-content": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/secure-content",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 302593,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-content.zip?timestamp=1451976032"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secure-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302594,
+                "time": "2016-01-05 06:40:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-content.zip?timestamp=1451976032"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

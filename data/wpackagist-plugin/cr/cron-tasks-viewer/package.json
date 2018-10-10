@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cron-tasks-viewer": {
+            "0.0.3": {
+                "name": "wpackagist-plugin\/cron-tasks-viewer",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "uid": 86286,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cron-tasks-viewer.zip?timestamp=1425128644"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cron-tasks-viewer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cron-tasks-viewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cron-tasks-viewer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86287,
+                "time": "2015-02-28 13:04:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cron-tasks-viewer.zip?timestamp=1425128644"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cron-tasks-viewer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cron-tasks-viewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

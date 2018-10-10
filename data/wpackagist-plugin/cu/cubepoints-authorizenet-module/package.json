@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cubepoints-authorizenet-module": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cubepoints-authorizenet-module",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87704,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cubepoints-authorizenet-module.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cubepoints-authorizenet-module\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cubepoints-authorizenet-module\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cubepoints-authorizenet-module",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87705,
+                "time": "2015-01-13 18:08:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cubepoints-authorizenet-module.zip?timestamp=1421172529"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cubepoints-authorizenet-module\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cubepoints-authorizenet-module\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

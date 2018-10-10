@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rep-u-press-social-analytics": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rep-u-press-social-analytics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 287682,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rep-u-press-social-analytics.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rep-u-press-social-analytics\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rep-u-press-social-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rep-u-press-social-analytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287683,
+                "time": "2016-01-30 16:24:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rep-u-press-social-analytics.zip?timestamp=1454171082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rep-u-press-social-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rep-u-press-social-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

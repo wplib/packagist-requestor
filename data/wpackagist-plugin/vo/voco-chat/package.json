@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/voco-chat": {
+            "1.1": {
+                "name": "wpackagist-plugin\/voco-chat",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 377975,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/voco-chat.zip?timestamp=1530706622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/voco-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/voco-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/voco-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 377976,
+                "time": "2018-07-04 12:17:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/voco-chat.zip?timestamp=1530706622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/voco-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/voco-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

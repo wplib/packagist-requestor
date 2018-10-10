@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/client-carousel": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/client-carousel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 71203,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/client-carousel.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/client-carousel\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/client-carousel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/client-carousel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71204,
+                "time": "2016-05-03 05:36:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/client-carousel.zip?timestamp=1462253813"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/client-carousel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/client-carousel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

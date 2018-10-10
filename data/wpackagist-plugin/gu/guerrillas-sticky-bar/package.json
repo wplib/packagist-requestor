@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/guerrillas-sticky-bar": {
+            "1.1": {
+                "name": "wpackagist-plugin\/guerrillas-sticky-bar",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 161300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guerrillas-sticky-bar.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guerrillas-sticky-bar\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guerrillas-sticky-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/guerrillas-sticky-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161301,
+                "time": "2015-07-26 00:43:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guerrillas-sticky-bar.zip?timestamp=1437871407"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guerrillas-sticky-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guerrillas-sticky-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

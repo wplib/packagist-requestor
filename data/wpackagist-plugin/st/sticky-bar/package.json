@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sticky-bar": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/sticky-bar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 336998,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-bar.zip?timestamp=1537028309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sticky-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336999,
+                "time": "2018-09-15 16:18:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-bar.zip?timestamp=1537028309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

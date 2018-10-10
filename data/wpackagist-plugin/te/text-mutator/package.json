@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/text-mutator": {
+            "0.5": {
+                "name": "wpackagist-plugin\/text-mutator",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 349489,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-mutator.zip?timestamp=1505496190"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-mutator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-mutator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/text-mutator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349490,
+                "time": "2017-09-15 17:23:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-mutator.zip?timestamp=1505496190"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-mutator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-mutator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/views-counter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/views-counter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 375712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/views-counter.zip?timestamp=1513325679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/views-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/views-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/views-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 375713,
+                "time": "2017-12-15 08:14:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/views-counter.zip?timestamp=1513325679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/views-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/views-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

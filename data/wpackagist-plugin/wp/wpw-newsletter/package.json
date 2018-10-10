@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpw-newsletter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpw-newsletter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 444439,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpw-newsletter.zip?timestamp=1477662705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpw-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpw-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpw-newsletter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 444440,
+                "time": "2016-10-28 13:51:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpw-newsletter.zip?timestamp=1477662705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpw-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpw-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quote-comments": {
+            "2.2": {
+                "name": "wpackagist-plugin\/quote-comments",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 278002,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quote-comments.2.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quote-comments\/",
+                    "reference": "tags\/2.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quote-comments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quote-comments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 278003,
+                "time": "2017-01-17 21:09:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quote-comments.zip?timestamp=1484687399"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quote-comments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quote-comments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

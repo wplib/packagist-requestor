@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/internet-speed-test": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/internet-speed-test",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internet-speed-test.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internet-speed-test\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internet-speed-test\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/internet-speed-test",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179641,
+                "time": "2018-10-04 10:13:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/internet-speed-test.zip?timestamp=1538648038"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/internet-speed-test\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/internet-speed-test\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

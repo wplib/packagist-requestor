@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lasso": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lasso",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 192748,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lasso.zip?timestamp=1506622118"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lasso\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lasso\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lasso",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192749,
+                "time": "2017-09-28 18:08:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lasso.zip?timestamp=1506622118"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lasso\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lasso\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

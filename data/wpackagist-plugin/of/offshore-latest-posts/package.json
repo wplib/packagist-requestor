@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/offshore-latest-posts": {
+            "1.0": {
+                "name": "wpackagist-plugin\/offshore-latest-posts",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 240160,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offshore-latest-posts.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offshore-latest-posts\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offshore-latest-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/offshore-latest-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 240161,
+                "time": "2016-10-18 15:25:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offshore-latest-posts.zip?timestamp=1476804326"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offshore-latest-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offshore-latest-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

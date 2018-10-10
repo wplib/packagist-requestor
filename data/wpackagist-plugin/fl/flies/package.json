@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flies": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/flies",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 137094,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flies.zip?timestamp=1421828266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0": {
+                "name": "wpackagist-plugin\/flies",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 137095,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flies.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flies\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 137096,
+                "time": "2015-01-21 08:17:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flies.zip?timestamp=1421828266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

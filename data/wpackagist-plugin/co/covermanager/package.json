@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/covermanager": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/covermanager",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 84672,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/covermanager.zip?timestamp=1508158614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/covermanager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/covermanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/covermanager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84673,
+                "time": "2017-10-16 12:56:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/covermanager.zip?timestamp=1508158614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/covermanager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/covermanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

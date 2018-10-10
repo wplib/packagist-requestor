@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/email-login-attempts": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/email-login-attempts",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 117454,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-login-attempts.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-login-attempts\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-login-attempts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/email-login-attempts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 117455,
+                "time": "2015-05-19 01:28:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-login-attempts.zip?timestamp=1431998914"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-login-attempts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-login-attempts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

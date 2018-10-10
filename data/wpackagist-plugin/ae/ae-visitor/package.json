@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ae-visitor": {
+            "1.8": {
+                "name": "wpackagist-plugin\/ae-visitor",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 13744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ae-visitor.zip?timestamp=1437797419"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ae-visitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ae-visitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ae-visitor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 13745,
+                "time": "2015-07-25 04:10:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ae-visitor.zip?timestamp=1437797419"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ae-visitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ae-visitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

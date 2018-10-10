@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/modify-visual-editor": {
+            "0.2.2": {
+                "name": "wpackagist-plugin\/modify-visual-editor",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "uid": 220899,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/modify-visual-editor.zip?timestamp=1486607539"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/modify-visual-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/modify-visual-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/modify-visual-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 220900,
+                "time": "2017-02-09 02:32:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/modify-visual-editor.zip?timestamp=1486607539"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/modify-visual-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/modify-visual-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

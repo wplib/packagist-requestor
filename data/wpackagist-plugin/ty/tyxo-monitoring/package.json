@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tyxo-monitoring": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tyxo-monitoring",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 364609,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tyxo-monitoring.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tyxo-monitoring\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tyxo-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2": {
+                "name": "wpackagist-plugin\/tyxo-monitoring",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 364610,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tyxo-monitoring.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tyxo-monitoring\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tyxo-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tyxo-monitoring",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364611,
+                "time": "2016-10-21 18:50:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tyxo-monitoring.zip?timestamp=1477075845"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tyxo-monitoring\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tyxo-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

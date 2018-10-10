@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mission-control": {
+            "0.1-alpha": {
+                "name": "wpackagist-plugin\/mission-control",
+                "version": "0.1-alpha",
+                "version_normalized": "0.1.0.0-alpha",
+                "uid": 218838,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mission-control.zip?timestamp=1473416325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mission-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mission-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mission-control",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218839,
+                "time": "2016-09-09 10:18:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mission-control.zip?timestamp=1473416325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mission-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mission-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

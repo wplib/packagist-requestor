@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/content-after-login": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/content-after-login",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 80419,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-after-login.zip?timestamp=1501700959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-after-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-after-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/content-after-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 80420,
+                "time": "2017-08-02 19:09:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-after-login.zip?timestamp=1501700959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-after-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-after-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

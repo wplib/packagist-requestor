@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-posts-default-cat": {
+            "1.1": {
+                "name": "wpackagist-plugin\/all-posts-default-cat",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 18558,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-posts-default-cat.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-posts-default-cat\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-posts-default-cat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-posts-default-cat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18559,
+                "time": "2015-09-05 11:54:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-posts-default-cat.zip?timestamp=1441454040"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-posts-default-cat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-posts-default-cat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

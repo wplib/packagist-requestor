@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ws-analytics": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ws-analytics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 444945,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-analytics.zip?timestamp=1512022422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ws-analytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 444946,
+                "time": "2017-11-30 06:13:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-analytics.zip?timestamp=1512022422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

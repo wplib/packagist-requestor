@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forms-for-mad-mimi": {
+            "1.0": {
+                "name": "wpackagist-plugin\/forms-for-mad-mimi",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 140940,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-mad-mimi.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-mad-mimi\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-mad-mimi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forms-for-mad-mimi",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140941,
+                "time": "2016-12-15 06:44:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-mad-mimi.zip?timestamp=1481784254"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-mad-mimi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-mad-mimi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

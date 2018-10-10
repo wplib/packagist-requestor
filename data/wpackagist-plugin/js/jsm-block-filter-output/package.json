@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jsm-block-filter-output": {
+            "1.1.3": {
+                "name": "wpackagist-plugin\/jsm-block-filter-output",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "uid": 186332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-block-filter-output.1.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-block-filter-output\/",
+                    "reference": "tags\/1.1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-block-filter-output\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jsm-block-filter-output",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186333,
+                "time": "2018-10-04 15:27:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-block-filter-output.zip?timestamp=1538666871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-block-filter-output\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-block-filter-output\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

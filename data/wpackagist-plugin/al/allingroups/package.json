@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/allingroups": {
+            "1.0": {
+                "name": "wpackagist-plugin\/allingroups",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 18748,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/allingroups.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/allingroups\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/allingroups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/allingroups",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18749,
+                "time": "2017-01-25 13:30:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/allingroups.zip?timestamp=1485351001"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/allingroups\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/allingroups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

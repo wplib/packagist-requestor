@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/imagedock": {
+            "1.0": {
+                "name": "wpackagist-plugin\/imagedock",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 174010,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/imagedock.zip?timestamp=1427882199"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/imagedock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/imagedock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/imagedock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174011,
+                "time": "2015-04-01 09:56:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/imagedock.zip?timestamp=1427882199"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/imagedock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/imagedock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

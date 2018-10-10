@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aib": {
+            "4.0": {
+                "name": "wpackagist-plugin\/aib",
+                "version": "4.0",
+                "version_normalized": "4.0.0.0",
+                "uid": 15609,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aib.zip?timestamp=1444648722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aib\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aib",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15610,
+                "time": "2015-10-12 11:18:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aib.zip?timestamp=1444648722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aib\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aib\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

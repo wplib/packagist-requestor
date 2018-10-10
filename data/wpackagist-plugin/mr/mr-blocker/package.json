@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mr-blocker": {
+            "1.2": {
+                "name": "wpackagist-plugin\/mr-blocker",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 223194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mr-blocker.zip?timestamp=1511831315"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mr-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mr-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mr-blocker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 223195,
+                "time": "2017-11-28 01:08:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mr-blocker.zip?timestamp=1511831315"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mr-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mr-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

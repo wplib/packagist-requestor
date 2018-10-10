@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/velaro-chat": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/velaro-chat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 373707,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/velaro-chat.zip?timestamp=1471033931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/velaro-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/velaro-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/velaro-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373708,
+                "time": "2016-08-12 20:32:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/velaro-chat.zip?timestamp=1471033931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/velaro-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/velaro-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

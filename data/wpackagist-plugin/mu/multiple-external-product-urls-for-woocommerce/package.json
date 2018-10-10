@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multiple-external-product-urls-for-woocommerce": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/multiple-external-product-urls-for-woocommerce",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 225037,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multiple-external-product-urls-for-woocommerce.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multiple-external-product-urls-for-woocommerce\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multiple-external-product-urls-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multiple-external-product-urls-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225038,
+                "time": "2018-08-31 06:03:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multiple-external-product-urls-for-woocommerce.zip?timestamp=1535695430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multiple-external-product-urls-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multiple-external-product-urls-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

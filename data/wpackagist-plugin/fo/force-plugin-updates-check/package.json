@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/force-plugin-updates-check": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/force-plugin-updates-check",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 139613,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-plugin-updates-check.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-plugin-updates-check\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-plugin-updates-check\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/force-plugin-updates-check",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139614,
+                "time": "2017-12-15 14:56:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/force-plugin-updates-check.zip?timestamp=1513349763"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/force-plugin-updates-check\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/force-plugin-updates-check\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

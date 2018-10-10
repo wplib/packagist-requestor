@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/guerrillas-youtube-video-widget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/guerrillas-youtube-video-widget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 161298,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guerrillas-youtube-video-widget.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guerrillas-youtube-video-widget\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guerrillas-youtube-video-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/guerrillas-youtube-video-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161299,
+                "time": "2016-02-04 02:59:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guerrillas-youtube-video-widget.zip?timestamp=1454554795"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guerrillas-youtube-video-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guerrillas-youtube-video-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

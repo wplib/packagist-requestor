@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/freezy-stripe": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/freezy-stripe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142762,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freezy-stripe.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freezy-stripe\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freezy-stripe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/freezy-stripe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142763,
+                "time": "2016-04-29 15:00:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freezy-stripe.zip?timestamp=1461942051"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freezy-stripe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freezy-stripe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

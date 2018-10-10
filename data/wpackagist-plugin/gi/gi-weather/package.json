@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gi-weather": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gi-weather",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151453,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gi-weather.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gi-weather\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gi-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gi-weather",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151454,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gi-weather.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gi-weather\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gi-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gi-weather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151455,
+                "time": "2015-02-16 14:42:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gi-weather.zip?timestamp=1424097720"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gi-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gi-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/test-plugin-3": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/test-plugin-3",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 348890,
+                "time": "2018-06-08 04:10:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/test-plugin-3.zip?timestamp=1528431039"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/test-plugin-3\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/test-plugin-3\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

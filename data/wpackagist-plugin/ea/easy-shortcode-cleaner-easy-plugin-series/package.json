@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-shortcode-cleaner-easy-plugin-series": {
+            "0.1": {
+                "name": "wpackagist-plugin\/easy-shortcode-cleaner-easy-plugin-series",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 110562,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-shortcode-cleaner-easy-plugin-series.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-shortcode-cleaner-easy-plugin-series\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-shortcode-cleaner-easy-plugin-series\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-shortcode-cleaner-easy-plugin-series",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 110563,
+                "time": "2015-03-06 17:53:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-shortcode-cleaner-easy-plugin-series.zip?timestamp=1425664414"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-shortcode-cleaner-easy-plugin-series\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-shortcode-cleaner-easy-plugin-series\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

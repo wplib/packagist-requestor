@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/buddyrank": {
+            "1.0.8": {
+                "name": "wpackagist-plugin\/buddyrank",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "uid": 55357,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddyrank.zip?timestamp=1448867596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddyrank\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddyrank\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/buddyrank",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55358,
+                "time": "2015-11-30 07:13:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddyrank.zip?timestamp=1448867596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddyrank\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddyrank\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sd-konami-code": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/sd-konami-code",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 301500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sd-konami-code.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sd-konami-code\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sd-konami-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sd-konami-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 301501,
+                "time": "2016-08-14 18:26:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sd-konami-code.zip?timestamp=1471199215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sd-konami-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sd-konami-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/esbleibtdabeiat": {
+            "1.0": {
+                "name": "wpackagist-plugin\/esbleibtdabeiat",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121641,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/esbleibtdabeiat.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/esbleibtdabeiat\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/esbleibtdabeiat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/esbleibtdabeiat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121642,
+                "time": "2016-10-16 18:40:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/esbleibtdabeiat.zip?timestamp=1476643248"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/esbleibtdabeiat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/esbleibtdabeiat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

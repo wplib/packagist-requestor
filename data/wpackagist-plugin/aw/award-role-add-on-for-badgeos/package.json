@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/award-role-add-on-for-badgeos": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/award-role-add-on-for-badgeos",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 32703,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/award-role-add-on-for-badgeos.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/award-role-add-on-for-badgeos\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/award-role-add-on-for-badgeos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/award-role-add-on-for-badgeos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32704,
+                "time": "2016-06-02 07:43:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/award-role-add-on-for-badgeos.zip?timestamp=1464853397"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/award-role-add-on-for-badgeos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/award-role-add-on-for-badgeos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/agenda-panda": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/agenda-panda",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 15210,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-panda.zip?timestamp=1491875029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-panda\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-panda\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/agenda-panda",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15211,
+                "time": "2017-04-11 01:43:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-panda.zip?timestamp=1491875029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-panda\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-panda\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

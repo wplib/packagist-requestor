@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-unsubscribe": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/bp-unsubscribe",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 51066,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-unsubscribe.zip?timestamp=1461913948"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-unsubscribe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-unsubscribe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-unsubscribe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51067,
+                "time": "2016-04-29 07:12:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-unsubscribe.zip?timestamp=1461913948"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-unsubscribe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-unsubscribe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

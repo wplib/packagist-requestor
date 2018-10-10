@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frame-breaker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/frame-breaker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 141980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frame-breaker.zip?timestamp=1473765400"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frame-breaker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frame-breaker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frame-breaker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141981,
+                "time": "2016-09-13 11:16:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frame-breaker.zip?timestamp=1473765400"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frame-breaker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frame-breaker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

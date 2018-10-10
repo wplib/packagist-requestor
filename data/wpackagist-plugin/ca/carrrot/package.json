@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/carrrot": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/carrrot",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 60963,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrrot.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrrot\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrrot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/carrrot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 60964,
+                "time": "2018-08-15 12:05:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrrot.zip?timestamp=1534334715"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrrot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrrot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

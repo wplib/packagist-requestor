@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pwh-honey-pot": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/pwh-honey-pot",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 274709,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pwh-honey-pot.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pwh-honey-pot\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pwh-honey-pot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pwh-honey-pot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274710,
+                "time": "2016-07-01 18:28:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pwh-honey-pot.zip?timestamp=1467397704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pwh-honey-pot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pwh-honey-pot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

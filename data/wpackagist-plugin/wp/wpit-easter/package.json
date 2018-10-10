@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpit-easter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpit-easter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441842,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpit-easter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpit-easter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpit-easter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpit-easter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441843,
+                "time": "2017-11-29 19:15:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpit-easter.zip?timestamp=1511982931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpit-easter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpit-easter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

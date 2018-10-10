@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/toolbar": {
+            "2.0": {
+                "name": "wpackagist-plugin\/toolbar",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 356952,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toolbar.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toolbar\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/toolbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356953,
+                "time": "2018-06-03 22:13:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toolbar.zip?timestamp=1528064030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

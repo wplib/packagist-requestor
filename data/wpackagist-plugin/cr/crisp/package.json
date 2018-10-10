@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crisp": {
+            "0.22": {
+                "name": "wpackagist-plugin\/crisp",
+                "version": "0.22",
+                "version_normalized": "0.22.0.0",
+                "uid": 86110,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crisp.0.22.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crisp\/",
+                    "reference": "tags\/0.22"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crisp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.23": {
+                "name": "wpackagist-plugin\/crisp",
+                "version": "0.23",
+                "version_normalized": "0.23.0.0",
+                "uid": 86111,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crisp.0.23.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crisp\/",
+                    "reference": "tags\/0.23"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crisp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crisp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86112,
+                "time": "2018-08-31 09:02:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crisp.zip?timestamp=1535706156"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crisp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crisp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

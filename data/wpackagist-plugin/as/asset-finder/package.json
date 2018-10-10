@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asset-finder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/asset-finder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27713,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asset-finder.zip?timestamp=1535401005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asset-finder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asset-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asset-finder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27714,
+                "time": "2018-08-27 20:16:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asset-finder.zip?timestamp=1535401005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asset-finder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asset-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

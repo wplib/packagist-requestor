@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clean-login": {
+            "1.9.4": {
+                "name": "wpackagist-plugin\/clean-login",
+                "version": "1.9.4",
+                "version_normalized": "1.9.4.0",
+                "uid": 69652,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-login.zip?timestamp=1534320758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clean-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 69653,
+                "time": "2018-08-15 08:12:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-login.zip?timestamp=1534320758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

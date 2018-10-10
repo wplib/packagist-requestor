@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mighty-builder": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/mighty-builder",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 217161,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mighty-builder.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mighty-builder\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mighty-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.2": {
+                "name": "wpackagist-plugin\/mighty-builder",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 217162,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mighty-builder.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mighty-builder\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mighty-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mighty-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217163,
+                "time": "2017-04-09 10:19:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mighty-builder.zip?timestamp=1491733149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mighty-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mighty-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

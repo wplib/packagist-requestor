@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lightbox-for-contact-form-7": {
+            "0.1": {
+                "name": "wpackagist-plugin\/lightbox-for-contact-form-7",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 196858,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lightbox-for-contact-form-7.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lightbox-for-contact-form-7\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lightbox-for-contact-form-7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lightbox-for-contact-form-7",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196859,
+                "time": "2018-06-25 21:07:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lightbox-for-contact-form-7.zip?timestamp=1529960851"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lightbox-for-contact-form-7\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lightbox-for-contact-form-7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

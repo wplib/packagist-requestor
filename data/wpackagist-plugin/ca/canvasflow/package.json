@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/canvasflow": {
+            "1.4.0": {
+                "name": "wpackagist-plugin\/canvasflow",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "uid": 59949,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canvasflow.zip?timestamp=1533588254"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canvasflow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canvasflow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/canvasflow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59950,
+                "time": "2018-08-06 20:44:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canvasflow.zip?timestamp=1533588254"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canvasflow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canvasflow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

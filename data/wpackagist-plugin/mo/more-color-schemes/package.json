@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/more-color-schemes": {
+            "1.0": {
+                "name": "wpackagist-plugin\/more-color-schemes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 222121,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/more-color-schemes.zip?timestamp=1496406226"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/more-color-schemes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/more-color-schemes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/more-color-schemes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222122,
+                "time": "2017-06-02 12:23:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/more-color-schemes.zip?timestamp=1496406226"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/more-color-schemes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/more-color-schemes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

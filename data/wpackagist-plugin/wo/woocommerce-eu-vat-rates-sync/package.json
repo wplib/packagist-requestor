@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocommerce-eu-vat-rates-sync": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woocommerce-eu-vat-rates-sync",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 395561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-eu-vat-rates-sync.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-eu-vat-rates-sync\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-eu-vat-rates-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocommerce-eu-vat-rates-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 395562,
+                "time": "2016-04-01 17:43:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-eu-vat-rates-sync.zip?timestamp=1459532594"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-eu-vat-rates-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-eu-vat-rates-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

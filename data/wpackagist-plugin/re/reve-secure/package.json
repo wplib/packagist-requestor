@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reve-secure": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/reve-secure",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291639,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reve-secure.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reve-secure\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reve-secure\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reve-secure",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291640,
+                "time": "2018-05-29 05:40:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reve-secure.zip?timestamp=1527572428"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reve-secure\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reve-secure\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

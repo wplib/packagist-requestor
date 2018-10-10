@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-blogging-plus": {
+            "1.3": {
+                "name": "wpackagist-plugin\/live-blogging-plus",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 200419,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-blogging-plus.zip?timestamp=1523463146"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-blogging-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-blogging-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-blogging-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200420,
+                "time": "2018-04-11 16:12:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-blogging-plus.zip?timestamp=1523463146"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-blogging-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-blogging-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

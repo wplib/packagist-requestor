@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woosplit-google-experiments-for-woocommerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/woosplit-google-experiments-for-woocommerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 400282,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woosplit-google-experiments-for-woocommerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woosplit-google-experiments-for-woocommerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woosplit-google-experiments-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woosplit-google-experiments-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400283,
+                "time": "2017-03-09 15:10:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woosplit-google-experiments-for-woocommerce.zip?timestamp=1489072258"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woosplit-google-experiments-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woosplit-google-experiments-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

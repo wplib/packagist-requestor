@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tito": {
+            "0.7": {
+                "name": "wpackagist-plugin\/tito",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 356177,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tito.zip?timestamp=1469801088"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tito\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tito\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tito",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356178,
+                "time": "2016-07-29 14:04:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tito.zip?timestamp=1469801088"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tito\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tito\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

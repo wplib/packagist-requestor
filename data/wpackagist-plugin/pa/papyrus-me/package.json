@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/papyrus-me": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/papyrus-me",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 249092,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/papyrus-me.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/papyrus-me\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/papyrus-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/papyrus-me",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249093,
+                "time": "2016-12-31 04:26:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/papyrus-me.zip?timestamp=1483158371"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/papyrus-me\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/papyrus-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

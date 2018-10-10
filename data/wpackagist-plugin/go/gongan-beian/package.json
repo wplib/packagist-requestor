@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gongan-beian": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gongan-beian",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 153861,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gongan-beian.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gongan-beian\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gongan-beian\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gongan-beian",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153862,
+                "time": "2018-07-26 14:48:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gongan-beian.zip?timestamp=1532616492"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gongan-beian\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gongan-beian\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

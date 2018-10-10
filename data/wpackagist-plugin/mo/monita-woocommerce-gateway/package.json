@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monita-woocommerce-gateway": {
+            "0.1": {
+                "name": "wpackagist-plugin\/monita-woocommerce-gateway",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 221546,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monita-woocommerce-gateway.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monita-woocommerce-gateway\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monita-woocommerce-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monita-woocommerce-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221547,
+                "time": "2018-08-16 12:30:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monita-woocommerce-gateway.zip?timestamp=1534422644"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monita-woocommerce-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monita-woocommerce-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/social-share-buttons-sidebar": {
+            "1.3": {
+                "name": "wpackagist-plugin\/social-share-buttons-sidebar",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 329414,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-share-buttons-sidebar.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-share-buttons-sidebar\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-share-buttons-sidebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/social-share-buttons-sidebar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 329415,
+                "time": "2017-04-27 11:36:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-share-buttons-sidebar.zip?timestamp=1493293017"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-share-buttons-sidebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-share-buttons-sidebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

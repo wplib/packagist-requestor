@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pixcodes": {
+            "2.3.4": {
+                "name": "wpackagist-plugin\/pixcodes",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "uid": 257216,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pixcodes.2.3.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pixcodes\/",
+                    "reference": "tags\/2.3.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pixcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pixcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 257217,
+                "time": "2017-06-07 15:22:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pixcodes.zip?timestamp=1496848971"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pixcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pixcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

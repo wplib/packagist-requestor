@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/deemtree": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/deemtree",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 96486,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deemtree.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deemtree\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deemtree\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/deemtree",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96487,
+                "time": "2016-08-04 12:13:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deemtree.zip?timestamp=1470312793"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deemtree\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deemtree\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

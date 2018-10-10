@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restrictly": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/restrictly",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 291173,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrictly.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrictly\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrictly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restrictly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291174,
+                "time": "2017-05-25 10:09:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrictly.zip?timestamp=1495706990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrictly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrictly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

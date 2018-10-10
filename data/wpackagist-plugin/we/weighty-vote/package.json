@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weighty-vote": {
+            "1.0": {
+                "name": "wpackagist-plugin\/weighty-vote",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 384365,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weighty-vote.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weighty-vote\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weighty-vote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weighty-vote",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384366,
+                "time": "2017-11-22 11:53:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weighty-vote.zip?timestamp=1511351616"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weighty-vote\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weighty-vote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

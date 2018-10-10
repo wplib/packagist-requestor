@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gracipe": {
+            "0.5": {
+                "name": "wpackagist-plugin\/gracipe",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 157616,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gracipe.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gracipe\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gracipe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gracipe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157617,
+                "time": "2015-10-29 10:35:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gracipe.zip?timestamp=1446114901"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gracipe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gracipe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

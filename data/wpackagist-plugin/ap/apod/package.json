@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/apod": {
+            "0.1": {
+                "name": "wpackagist-plugin\/apod",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 24176,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apod.zip?timestamp=1428543065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apod\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apod\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/apod",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24177,
+                "time": "2015-04-09 01:31:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apod.zip?timestamp=1428543065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apod\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apod\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

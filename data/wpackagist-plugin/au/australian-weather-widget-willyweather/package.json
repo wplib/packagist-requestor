@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/australian-weather-widget-willyweather": {
+            "1.5": {
+                "name": "wpackagist-plugin\/australian-weather-widget-willyweather",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 29379,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/australian-weather-widget-willyweather.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/australian-weather-widget-willyweather\/",
+                    "reference": "tags\/1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/australian-weather-widget-willyweather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/australian-weather-widget-willyweather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29380,
+                "time": "2017-10-17 00:14:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/australian-weather-widget-willyweather.zip?timestamp=1508199294"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/australian-weather-widget-willyweather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/australian-weather-widget-willyweather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

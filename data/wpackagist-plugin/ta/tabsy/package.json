@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tabsy": {
+            "1.4": {
+                "name": "wpackagist-plugin\/tabsy",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 345098,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tabsy.zip?timestamp=1481447917"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tabsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tabsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tabsy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345099,
+                "time": "2016-12-11 09:18:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tabsy.zip?timestamp=1481447917"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tabsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tabsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

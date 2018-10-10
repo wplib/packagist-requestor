@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lorem-ipsum-dummy-article-shortcode": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/lorem-ipsum-dummy-article-shortcode",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 203957,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lorem-ipsum-dummy-article-shortcode.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lorem-ipsum-dummy-article-shortcode\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lorem-ipsum-dummy-article-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lorem-ipsum-dummy-article-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203958,
+                "time": "2015-01-24 15:25:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lorem-ipsum-dummy-article-shortcode.zip?timestamp=1422113136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lorem-ipsum-dummy-article-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lorem-ipsum-dummy-article-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

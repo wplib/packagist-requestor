@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autua": {
+            "2.2": {
+                "name": "wpackagist-plugin\/autua",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 31818,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autua.zip?timestamp=1516258615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autua\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autua\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autua",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31819,
+                "time": "2018-01-18 06:56:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autua.zip?timestamp=1516258615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autua\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autua\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

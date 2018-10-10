@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/exchange-toolbar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/exchange-toolbar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 124564,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/exchange-toolbar.zip?timestamp=1425785694"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/exchange-toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/exchange-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/exchange-toolbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124565,
+                "time": "2015-03-08 03:34:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/exchange-toolbar.zip?timestamp=1425785694"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/exchange-toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/exchange-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

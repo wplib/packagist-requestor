@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-switcher": {
+            "1.1": {
+                "name": "wpackagist-plugin\/image-switcher",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 173712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-switcher.zip?timestamp=1536246825"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-switcher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-switcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-switcher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173713,
+                "time": "2018-09-06 15:13:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-switcher.zip?timestamp=1536246825"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-switcher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-switcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

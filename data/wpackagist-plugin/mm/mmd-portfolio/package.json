@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mmd-portfolio": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mmd-portfolio",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 219514,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mmd-portfolio.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mmd-portfolio\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mmd-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mmd-portfolio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 219515,
+                "time": "2017-07-24 10:52:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mmd-portfolio.zip?timestamp=1500893575"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mmd-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mmd-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

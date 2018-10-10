@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/em-gateway-bank-transfer": {
+            "0.1": {
+                "name": "wpackagist-plugin\/em-gateway-bank-transfer",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 116825,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/em-gateway-bank-transfer.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/em-gateway-bank-transfer\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/em-gateway-bank-transfer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/em-gateway-bank-transfer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116826,
+                "time": "2017-08-05 07:37:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/em-gateway-bank-transfer.zip?timestamp=1501918657"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/em-gateway-bank-transfer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/em-gateway-bank-transfer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asd-cookie-consent": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/asd-cookie-consent",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27289,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-cookie-consent.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-cookie-consent\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-cookie-consent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asd-cookie-consent",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27290,
+                "time": "2018-06-21 16:41:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asd-cookie-consent.zip?timestamp=1529599309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asd-cookie-consent\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asd-cookie-consent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

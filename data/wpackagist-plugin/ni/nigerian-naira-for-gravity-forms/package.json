@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nigerian-naira-for-gravity-forms": {
+            "1.0": {
+                "name": "wpackagist-plugin\/nigerian-naira-for-gravity-forms",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 234825,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nigerian-naira-for-gravity-forms.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nigerian-naira-for-gravity-forms\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nigerian-naira-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nigerian-naira-for-gravity-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234826,
+                "time": "2017-01-13 00:31:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nigerian-naira-for-gravity-forms.zip?timestamp=1484267473"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nigerian-naira-for-gravity-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nigerian-naira-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

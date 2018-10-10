@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gravity-forms-wysiwyg": {
+            "0.3": {
+                "name": "wpackagist-plugin\/gravity-forms-wysiwyg",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 159123,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravity-forms-wysiwyg.zip?timestamp=1482526599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravity-forms-wysiwyg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravity-forms-wysiwyg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gravity-forms-wysiwyg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 159124,
+                "time": "2016-12-23 20:56:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravity-forms-wysiwyg.zip?timestamp=1482526599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravity-forms-wysiwyg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravity-forms-wysiwyg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

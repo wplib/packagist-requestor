@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jsm-google-off-pre": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/jsm-google-off-pre",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 186336,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-google-off-pre.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-google-off-pre\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-google-off-pre\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jsm-google-off-pre",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186337,
+                "time": "2018-08-31 15:29:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-google-off-pre.zip?timestamp=1535729375"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-google-off-pre\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-google-off-pre\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

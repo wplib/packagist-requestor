@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lead-magnets": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/lead-magnets",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 194517,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lead-magnets.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lead-magnets\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lead-magnets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lead-magnets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194518,
+                "time": "2017-12-08 23:32:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lead-magnets.zip?timestamp=1512775952"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lead-magnets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lead-magnets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

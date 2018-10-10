@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minimalist-editor": {
+            "1.04": {
+                "name": "wpackagist-plugin\/minimalist-editor",
+                "version": "1.04",
+                "version_normalized": "1.04.0.0",
+                "uid": 218073,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimalist-editor.zip?timestamp=1538210677"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimalist-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimalist-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minimalist-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218074,
+                "time": "2018-09-29 08:44:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimalist-editor.zip?timestamp=1538210677"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimalist-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimalist-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

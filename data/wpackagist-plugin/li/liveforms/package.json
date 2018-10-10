@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/liveforms": {
+            "3.7.3": {
+                "name": "wpackagist-plugin\/liveforms",
+                "version": "3.7.3",
+                "version_normalized": "3.7.3.0",
+                "uid": 201362,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liveforms.zip?timestamp=1536354181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liveforms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liveforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/liveforms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201363,
+                "time": "2018-09-07 21:03:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liveforms.zip?timestamp=1536354181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liveforms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liveforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

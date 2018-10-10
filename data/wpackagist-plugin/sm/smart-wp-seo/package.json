@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smart-wp-seo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/smart-wp-seo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 325293,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-wp-seo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-wp-seo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-wp-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smart-wp-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325294,
+                "time": "2016-04-28 18:20:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-wp-seo.zip?timestamp=1461867625"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-wp-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-wp-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

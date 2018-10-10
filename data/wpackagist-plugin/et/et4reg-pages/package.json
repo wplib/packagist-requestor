@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/et4reg-pages": {
+            "1.0": {
+                "name": "wpackagist-plugin\/et4reg-pages",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 122306,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/et4reg-pages.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/et4reg-pages\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/et4reg-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/et4reg-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122307,
+                "time": "2018-09-04 12:13:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/et4reg-pages.zip?timestamp=1536063208"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/et4reg-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/et4reg-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

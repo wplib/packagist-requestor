@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/allow-cyrillic-usernames": {
+            "0.1": {
+                "name": "wpackagist-plugin\/allow-cyrillic-usernames",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 18844,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/allow-cyrillic-usernames.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/allow-cyrillic-usernames\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/allow-cyrillic-usernames\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/allow-cyrillic-usernames",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18845,
+                "time": "2015-12-25 14:52:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/allow-cyrillic-usernames.zip?timestamp=1451055153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/allow-cyrillic-usernames\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/allow-cyrillic-usernames\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

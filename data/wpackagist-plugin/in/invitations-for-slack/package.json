@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invitations-for-slack": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/invitations-for-slack",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 179978,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invitations-for-slack.zip?timestamp=1454030065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invitations-for-slack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invitations-for-slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invitations-for-slack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179979,
+                "time": "2016-01-29 01:14:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invitations-for-slack.zip?timestamp=1454030065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invitations-for-slack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invitations-for-slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

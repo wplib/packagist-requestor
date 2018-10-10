@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jetpack-photon-for-nextgen-gallery": {
+            "0.2": {
+                "name": "wpackagist-plugin\/jetpack-photon-for-nextgen-gallery",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 183471,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-photon-for-nextgen-gallery.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-photon-for-nextgen-gallery\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-photon-for-nextgen-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jetpack-photon-for-nextgen-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183472,
+                "time": "2016-04-05 03:37:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-photon-for-nextgen-gallery.zip?timestamp=1459827430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-photon-for-nextgen-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-photon-for-nextgen-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

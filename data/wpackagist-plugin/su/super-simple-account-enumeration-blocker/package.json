@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/super-simple-account-enumeration-blocker": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/super-simple-account-enumeration-blocker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 341693,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-simple-account-enumeration-blocker.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-simple-account-enumeration-blocker\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-simple-account-enumeration-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/super-simple-account-enumeration-blocker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341694,
+                "time": "2017-04-18 17:54:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-simple-account-enumeration-blocker.zip?timestamp=1492538074"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-simple-account-enumeration-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-simple-account-enumeration-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

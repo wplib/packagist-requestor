@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/country-content-controller": {
+            "1.0": {
+                "name": "wpackagist-plugin\/country-content-controller",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 84332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/country-content-controller.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/country-content-controller\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/country-content-controller\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/country-content-controller",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84333,
+                "time": "2017-03-24 21:55:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/country-content-controller.zip?timestamp=1490392526"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/country-content-controller\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/country-content-controller\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

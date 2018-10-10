@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sendy-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sendy-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 304304,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sendy-widget.zip?timestamp=1501906532"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sendy-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sendy-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sendy-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 304305,
+                "time": "2017-08-05 04:15:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sendy-widget.zip?timestamp=1501906532"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sendy-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sendy-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

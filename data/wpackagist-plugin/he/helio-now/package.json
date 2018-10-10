@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/helio-now": {
+            "0.1": {
+                "name": "wpackagist-plugin\/helio-now",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 164168,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helio-now.zip?timestamp=1428424800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helio-now\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helio-now\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/helio-now",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164169,
+                "time": "2015-04-07 16:40:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helio-now.zip?timestamp=1428424800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helio-now\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helio-now\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

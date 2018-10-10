@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/k-brb-maintenance-or-coming-soon": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/k-brb-maintenance-or-coming-soon",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 187505,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/k-brb-maintenance-or-coming-soon.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/k-brb-maintenance-or-coming-soon\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/k-brb-maintenance-or-coming-soon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/k-brb-maintenance-or-coming-soon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 187506,
+                "time": "2018-08-09 18:37:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/k-brb-maintenance-or-coming-soon.zip?timestamp=1533839838"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/k-brb-maintenance-or-coming-soon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/k-brb-maintenance-or-coming-soon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

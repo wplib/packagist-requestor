@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/supersonic": {
+            "1.9": {
+                "name": "wpackagist-plugin\/supersonic",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "uid": 342310,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/supersonic.zip?timestamp=1509551153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/supersonic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/supersonic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/supersonic",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342311,
+                "time": "2017-11-01 15:45:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/supersonic.zip?timestamp=1509551153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/supersonic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/supersonic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

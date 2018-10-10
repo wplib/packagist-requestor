@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/counselchat": {
+            "1.0": {
+                "name": "wpackagist-plugin\/counselchat",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 83954,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counselchat.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counselchat\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counselchat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/counselchat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83955,
+                "time": "2016-04-28 08:56:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counselchat.zip?timestamp=1461833783"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counselchat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counselchat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

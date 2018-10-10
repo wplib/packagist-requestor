@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/et-blog-style": {
+            "1.1": {
+                "name": "wpackagist-plugin\/et-blog-style",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 122305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/et-blog-style.zip?timestamp=1494190035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/et-blog-style\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/et-blog-style\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/et-blog-style",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122306,
+                "time": "2017-05-07 20:47:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/et-blog-style.zip?timestamp=1494190035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/et-blog-style\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/et-blog-style\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

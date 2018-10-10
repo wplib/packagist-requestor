@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/floating-facebook-page": {
+            "1.0": {
+                "name": "wpackagist-plugin\/floating-facebook-page",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 137373,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/floating-facebook-page.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/floating-facebook-page\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/floating-facebook-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/floating-facebook-page",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 137374,
+                "time": "2017-04-27 14:48:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/floating-facebook-page.zip?timestamp=1493304489"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/floating-facebook-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/floating-facebook-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

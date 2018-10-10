@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/geargrams-wp": {
+            "0.6": {
+                "name": "wpackagist-plugin\/geargrams-wp",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 148246,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geargrams-wp.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geargrams-wp\/",
+                    "reference": "tags\/0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geargrams-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/geargrams-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148247,
+                "time": "2016-05-09 19:24:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geargrams-wp.zip?timestamp=1462821885"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geargrams-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geargrams-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

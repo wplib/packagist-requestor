@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admins-post-statistics": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/admins-post-statistics",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 10072,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admins-post-statistics.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admins-post-statistics\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admins-post-statistics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admins-post-statistics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 10073,
+                "time": "2017-11-11 14:50:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admins-post-statistics.zip?timestamp=1510411859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admins-post-statistics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admins-post-statistics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

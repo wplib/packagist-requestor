@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-image-sizes": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/acf-image-sizes",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5098,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-image-sizes.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-image-sizes\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-image-sizes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-image-sizes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5099,
+                "time": "2017-07-20 14:37:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-image-sizes.zip?timestamp=1500561462"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-image-sizes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-image-sizes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

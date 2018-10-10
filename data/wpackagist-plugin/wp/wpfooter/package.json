@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpfooter": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpfooter",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfooter.zip?timestamp=1476856801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfooter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfooter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpfooter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441304,
+                "time": "2016-10-19 06:00:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfooter.zip?timestamp=1476856801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfooter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfooter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

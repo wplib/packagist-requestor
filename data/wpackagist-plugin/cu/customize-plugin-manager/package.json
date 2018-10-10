@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customize-plugin-manager": {
+            "0.2": {
+                "name": "wpackagist-plugin\/customize-plugin-manager",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 92221,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-plugin-manager.zip?timestamp=1531617030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-plugin-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-plugin-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customize-plugin-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92222,
+                "time": "2018-07-15 01:10:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-plugin-manager.zip?timestamp=1531617030"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-plugin-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-plugin-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

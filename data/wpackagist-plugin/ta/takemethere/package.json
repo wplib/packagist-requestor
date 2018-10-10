@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/takemethere": {
+            "1.0": {
+                "name": "wpackagist-plugin\/takemethere",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345857,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/takemethere.zip?timestamp=1484351878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/takemethere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/takemethere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/takemethere",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345858,
+                "time": "2017-01-13 23:57:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/takemethere.zip?timestamp=1484351878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/takemethere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/takemethere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

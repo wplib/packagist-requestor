@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reuse-builder": {
+            "1.2": {
+                "name": "wpackagist-plugin\/reuse-builder",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 291598,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reuse-builder.zip?timestamp=1533385307"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reuse-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reuse-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reuse-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291599,
+                "time": "2018-08-04 12:21:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reuse-builder.zip?timestamp=1533385307"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reuse-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reuse-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/infunding": {
+            "1.0": {
+                "name": "wpackagist-plugin\/infunding",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 176512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infunding.zip?timestamp=1484040893"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infunding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infunding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/infunding",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 176513,
+                "time": "2017-01-10 09:34:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/infunding.zip?timestamp=1484040893"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/infunding\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/infunding\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

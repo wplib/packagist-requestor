@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dwqa-slack-integration": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dwqa-slack-integration",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 106267,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dwqa-slack-integration.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dwqa-slack-integration\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dwqa-slack-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dwqa-slack-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106268,
+                "time": "2016-08-22 07:23:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dwqa-slack-integration.zip?timestamp=1471850580"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dwqa-slack-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dwqa-slack-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

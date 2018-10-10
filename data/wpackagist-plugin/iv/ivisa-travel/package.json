@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ivisa-travel": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ivisa-travel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 182027,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ivisa-travel.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ivisa-travel\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ivisa-travel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ivisa-travel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182028,
+                "time": "2017-09-02 02:52:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ivisa-travel.zip?timestamp=1504320767"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ivisa-travel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ivisa-travel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

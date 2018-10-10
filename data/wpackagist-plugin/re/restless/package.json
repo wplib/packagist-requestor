@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restless": {
+            "1.0": {
+                "name": "wpackagist-plugin\/restless",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 290751,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restless.zip?timestamp=1530260846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restless\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restless\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restless",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290752,
+                "time": "2018-06-29 08:27:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restless.zip?timestamp=1530260846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restless\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restless\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

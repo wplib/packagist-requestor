@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/list-posts-alphabetically": {
+            "1.0": {
+                "name": "wpackagist-plugin\/list-posts-alphabetically",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 199961,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-posts-alphabetically.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-posts-alphabetically\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-posts-alphabetically\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/list-posts-alphabetically",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199962,
+                "time": "2017-12-05 13:21:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-posts-alphabetically.zip?timestamp=1512480097"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-posts-alphabetically\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-posts-alphabetically\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

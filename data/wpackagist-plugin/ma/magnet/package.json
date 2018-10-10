@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magnet": {
+            "1.0.12": {
+                "name": "wpackagist-plugin\/magnet",
+                "version": "1.0.12",
+                "version_normalized": "1.0.12.0",
+                "uid": 206080,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magnet.zip?timestamp=1487241586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magnet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magnet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magnet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206081,
+                "time": "2017-02-16 10:39:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magnet.zip?timestamp=1487241586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magnet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magnet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

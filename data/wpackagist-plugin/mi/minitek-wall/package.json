@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minitek-wall": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/minitek-wall",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 218571,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minitek-wall.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minitek-wall\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minitek-wall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minitek-wall",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218572,
+                "time": "2017-01-18 16:51:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minitek-wall.zip?timestamp=1484758293"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minitek-wall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minitek-wall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

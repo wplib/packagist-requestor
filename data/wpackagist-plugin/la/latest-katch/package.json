@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/latest-katch": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/latest-katch",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 193192,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/latest-katch.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/latest-katch\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/latest-katch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.2": {
+                "name": "wpackagist-plugin\/latest-katch",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 193193,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/latest-katch.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/latest-katch\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/latest-katch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/latest-katch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 193194,
+                "time": "2016-04-12 19:40:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/latest-katch.zip?timestamp=1460490029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/latest-katch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/latest-katch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

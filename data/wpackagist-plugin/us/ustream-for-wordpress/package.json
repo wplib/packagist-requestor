@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ustream-for-wordpress": {
+            "2.3.1": {
+                "name": "wpackagist-plugin\/ustream-for-wordpress",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "uid": 372354,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ustream-for-wordpress.zip?timestamp=1485380362"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ustream-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ustream-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ustream-for-wordpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372355,
+                "time": "2017-01-25 21:39:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ustream-for-wordpress.zip?timestamp=1485380362"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ustream-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ustream-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blog-optimize": {
+            "1.0": {
+                "name": "wpackagist-plugin\/blog-optimize",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 44458,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blog-optimize.zip?timestamp=1521389752"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blog-optimize\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blog-optimize\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blog-optimize",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 44459,
+                "time": "2018-03-18 16:15:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blog-optimize.zip?timestamp=1521389752"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blog-optimize\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blog-optimize\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

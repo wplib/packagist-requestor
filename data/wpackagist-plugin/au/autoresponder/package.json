@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autoresponder": {
+            "2.0.5": {
+                "name": "wpackagist-plugin\/autoresponder",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "uid": 31666,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autoresponder.zip?timestamp=1471413435"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autoresponder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autoresponder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autoresponder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31667,
+                "time": "2016-08-17 05:57:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autoresponder.zip?timestamp=1471413435"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autoresponder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autoresponder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

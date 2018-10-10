@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/alchemyst-forms": {
+            "1.1.8": {
+                "name": "wpackagist-plugin\/alchemyst-forms",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "uid": 17218,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alchemyst-forms.zip?timestamp=1485788887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alchemyst-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alchemyst-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/alchemyst-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 17219,
+                "time": "2017-01-30 15:08:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alchemyst-forms.zip?timestamp=1485788887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alchemyst-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alchemyst-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

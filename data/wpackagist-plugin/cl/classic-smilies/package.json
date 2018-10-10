@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/classic-smilies": {
+            "1.3": {
+                "name": "wpackagist-plugin\/classic-smilies",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 69248,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/classic-smilies.zip?timestamp=1452078138"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/classic-smilies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/classic-smilies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/classic-smilies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 69249,
+                "time": "2016-01-06 11:02:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/classic-smilies.zip?timestamp=1452078138"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/classic-smilies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/classic-smilies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

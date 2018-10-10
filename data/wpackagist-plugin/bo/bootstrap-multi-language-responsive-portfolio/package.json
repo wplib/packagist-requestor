@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bootstrap-multi-language-responsive-portfolio": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bootstrap-multi-language-responsive-portfolio",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 49301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-multi-language-responsive-portfolio.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-multi-language-responsive-portfolio\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-multi-language-responsive-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bootstrap-multi-language-responsive-portfolio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49302,
+                "time": "2015-11-05 10:10:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-multi-language-responsive-portfolio.zip?timestamp=1446718206"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-multi-language-responsive-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-multi-language-responsive-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

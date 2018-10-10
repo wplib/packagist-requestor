@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/authldap": {
+            "2.0.3": {
+                "name": "wpackagist-plugin\/authldap",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "uid": 29466,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/authldap.zip?timestamp=1516346659"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/authldap\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/authldap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/authldap",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29467,
+                "time": "2018-01-19 07:24:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/authldap.zip?timestamp=1516346659"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/authldap\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/authldap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

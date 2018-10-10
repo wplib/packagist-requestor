@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sip-front-end-bundler-woocommerce": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/sip-front-end-bundler-woocommerce",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 320099,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sip-front-end-bundler-woocommerce.zip?timestamp=1529553757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sip-front-end-bundler-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sip-front-end-bundler-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sip-front-end-bundler-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 320100,
+                "time": "2018-06-21 04:02:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sip-front-end-bundler-woocommerce.zip?timestamp=1529553757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sip-front-end-bundler-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sip-front-end-bundler-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

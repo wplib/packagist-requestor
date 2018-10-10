@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gourmand-light": {
+            "0.0.13": {
+                "name": "wpackagist-plugin\/gourmand-light",
+                "version": "0.0.13",
+                "version_normalized": "0.0.13.0",
+                "uid": 157095,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gourmand-light.zip?timestamp=1531904512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gourmand-light\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gourmand-light\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gourmand-light",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157096,
+                "time": "2018-07-18 09:01:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gourmand-light.zip?timestamp=1531904512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gourmand-light\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gourmand-light\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

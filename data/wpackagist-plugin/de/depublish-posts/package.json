@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/depublish-posts": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/depublish-posts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 97722,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/depublish-posts.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/depublish-posts\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/depublish-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/depublish-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97723,
+                "time": "2017-12-14 18:43:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/depublish-posts.zip?timestamp=1513277007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/depublish-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/depublish-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

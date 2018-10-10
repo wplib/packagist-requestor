@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/email-id-from-comments": {
+            "1.2": {
+                "name": "wpackagist-plugin\/email-id-from-comments",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 117039,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-id-from-comments.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-id-from-comments\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-id-from-comments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/email-id-from-comments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 117040,
+                "time": "2017-05-03 15:04:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-id-from-comments.zip?timestamp=1493823844"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-id-from-comments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-id-from-comments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

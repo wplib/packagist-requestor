@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multi-smtp": {
+            "0.1": {
+                "name": "wpackagist-plugin\/multi-smtp",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 224318,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multi-smtp.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multi-smtp\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multi-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multi-smtp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 224319,
+                "time": "2016-12-09 03:00:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multi-smtp.zip?timestamp=1481252424"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multi-smtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multi-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

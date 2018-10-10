@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/real-kit": {
+            "4.2.2": {
+                "name": "wpackagist-plugin\/real-kit",
+                "version": "4.2.2",
+                "version_normalized": "4.2.2.0",
+                "uid": 282515,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-kit.zip?timestamp=1527440541"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-kit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-kit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/real-kit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 282516,
+                "time": "2018-05-27 17:02:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-kit.zip?timestamp=1527440541"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-kit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-kit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/create-with-code": {
+            "1.1": {
+                "name": "wpackagist-plugin\/create-with-code",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 85534,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/create-with-code.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/create-with-code\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/create-with-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/create-with-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85535,
+                "time": "2018-05-29 21:20:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/create-with-code.zip?timestamp=1527628809"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/create-with-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/create-with-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

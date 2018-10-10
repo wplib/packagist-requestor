@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sale-counter": {
+            "0.1": {
+                "name": "wpackagist-plugin\/sale-counter",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 298368,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sale-counter.zip?timestamp=1501737961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sale-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sale-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sale-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 298369,
+                "time": "2017-08-03 05:26:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sale-counter.zip?timestamp=1501737961"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sale-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sale-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

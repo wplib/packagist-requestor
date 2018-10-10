@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-php-vars": {
+            "1.3": {
+                "name": "wpackagist-plugin\/acf-php-vars",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 5221,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-php-vars.zip?timestamp=1538632698"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-php-vars\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-php-vars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-php-vars",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5222,
+                "time": "2018-10-04 05:58:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-php-vars.zip?timestamp=1538632698"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-php-vars\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-php-vars\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/arty-popup": {
+            "1.1": {
+                "name": "wpackagist-plugin\/arty-popup",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 27013,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arty-popup.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arty-popup\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arty-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/arty-popup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27014,
+                "time": "2017-05-09 04:34:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arty-popup.zip?timestamp=1494304491"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arty-popup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arty-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-add-user-contact-fields": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/wp-add-user-contact-fields",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 404906,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-add-user-contact-fields.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-add-user-contact-fields\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-add-user-contact-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-add-user-contact-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 404907,
+                "time": "2018-07-24 11:01:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-add-user-contact-fields.zip?timestamp=1532430084"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-add-user-contact-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-add-user-contact-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

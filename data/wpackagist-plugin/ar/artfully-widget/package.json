@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/artfully-widget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/artfully-widget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 26710,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/artfully-widget.zip?timestamp=1522877521"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/artfully-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/artfully-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/artfully-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26711,
+                "time": "2018-04-04 21:32:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/artfully-widget.zip?timestamp=1522877521"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/artfully-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/artfully-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

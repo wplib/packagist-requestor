@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minigal-nano-wp": {
+            "0.1": {
+                "name": "wpackagist-plugin\/minigal-nano-wp",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 217947,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minigal-nano-wp.zip?timestamp=1488517305"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minigal-nano-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minigal-nano-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minigal-nano-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217948,
+                "time": "2017-03-03 05:01:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minigal-nano-wp.zip?timestamp=1488517305"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minigal-nano-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minigal-nano-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/youbaze-free-crm-contact-form": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/youbaze-free-crm-contact-form",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 450015,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/youbaze-free-crm-contact-form.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/youbaze-free-crm-contact-form\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/youbaze-free-crm-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/youbaze-free-crm-contact-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 450016,
+                "time": "2018-02-06 17:46:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/youbaze-free-crm-contact-form.zip?timestamp=1517939198"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/youbaze-free-crm-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/youbaze-free-crm-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

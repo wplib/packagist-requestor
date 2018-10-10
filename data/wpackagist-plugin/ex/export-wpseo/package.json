@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/export-wpseo": {
+            "0.1": {
+                "name": "wpackagist-plugin\/export-wpseo",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 125599,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/export-wpseo.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/export-wpseo\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/export-wpseo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/export-wpseo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 125600,
+                "time": "2016-06-16 10:37:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/export-wpseo.zip?timestamp=1466073455"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/export-wpseo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/export-wpseo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

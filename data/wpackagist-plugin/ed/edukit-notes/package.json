@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edukit-notes": {
+            "0.1": {
+                "name": "wpackagist-plugin\/edukit-notes",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 114643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edukit-notes.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edukit-notes\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edukit-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edukit-notes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114644,
+                "time": "2017-05-17 12:48:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edukit-notes.zip?timestamp=1495025307"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edukit-notes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edukit-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

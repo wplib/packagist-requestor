@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-tag-manager": {
+            "1.1": {
+                "name": "wpackagist-plugin\/simple-tag-manager",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 317802,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-tag-manager.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-tag-manager\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-tag-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2": {
+                "name": "wpackagist-plugin\/simple-tag-manager",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 317803,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-tag-manager.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-tag-manager\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-tag-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-tag-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 317804,
+                "time": "2017-07-18 10:08:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-tag-manager.zip?timestamp=1500372494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-tag-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-tag-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

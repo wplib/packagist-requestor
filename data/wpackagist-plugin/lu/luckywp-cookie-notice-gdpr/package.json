@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/luckywp-cookie-notice-gdpr": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/luckywp-cookie-notice-gdpr",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204578,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-cookie-notice-gdpr.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-cookie-notice-gdpr\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-cookie-notice-gdpr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/luckywp-cookie-notice-gdpr",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204579,
+                "time": "2018-09-28 06:27:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-cookie-notice-gdpr.zip?timestamp=1538116037"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-cookie-notice-gdpr\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-cookie-notice-gdpr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

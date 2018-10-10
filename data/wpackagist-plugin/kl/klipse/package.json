@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/klipse": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/klipse",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 190510,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/klipse.zip?timestamp=1490531277"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/klipse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/klipse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/klipse",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190511,
+                "time": "2017-03-26 12:27:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/klipse.zip?timestamp=1490531277"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/klipse\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/klipse\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

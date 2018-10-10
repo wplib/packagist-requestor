@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gtl-components": {
+            "1.9": {
+                "name": "wpackagist-plugin\/gtl-components",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "uid": 161009,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gtl-components.zip?timestamp=1537078925"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gtl-components\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gtl-components\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gtl-components",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161010,
+                "time": "2018-09-16 06:22:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gtl-components.zip?timestamp=1537078925"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gtl-components\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gtl-components\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-login-to-see-price-and-buy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woo-login-to-see-price-and-buy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 390460,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-login-to-see-price-and-buy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-login-to-see-price-and-buy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-login-to-see-price-and-buy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-login-to-see-price-and-buy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 390461,
+                "time": "2016-12-11 16:18:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-login-to-see-price-and-buy.zip?timestamp=1481473104"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-login-to-see-price-and-buy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-login-to-see-price-and-buy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cbxwooextendedorders": {
+            "2.0.0": {
+                "name": "wpackagist-plugin\/cbxwooextendedorders",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 63630,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbxwooextendedorders.2.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbxwooextendedorders\/",
+                    "reference": "tags\/2.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbxwooextendedorders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cbxwooextendedorders",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 63631,
+                "time": "2015-07-16 19:38:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cbxwooextendedorders.zip?timestamp=1437075513"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cbxwooextendedorders\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cbxwooextendedorders\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

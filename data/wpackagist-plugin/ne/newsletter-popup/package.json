@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/newsletter-popup": {
+            "1.2": {
+                "name": "wpackagist-plugin\/newsletter-popup",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 232699,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newsletter-popup.zip?timestamp=1510900392"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newsletter-popup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newsletter-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/newsletter-popup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 232700,
+                "time": "2017-11-17 06:33:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newsletter-popup.zip?timestamp=1510900392"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newsletter-popup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newsletter-popup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-newsletter-subscription": {
+            "1.1": {
+                "name": "wpackagist-plugin\/wp-newsletter-subscription",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 424861,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-newsletter-subscription.zip?timestamp=1462728370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-newsletter-subscription\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-newsletter-subscription\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-newsletter-subscription",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 424862,
+                "time": "2016-05-08 17:26:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-newsletter-subscription.zip?timestamp=1462728370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-newsletter-subscription\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-newsletter-subscription\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

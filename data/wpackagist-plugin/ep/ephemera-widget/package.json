@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ephemera-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ephemera-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121106,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ephemera-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ephemera-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ephemera-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ephemera-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121107,
+                "time": "2017-07-07 09:44:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ephemera-widget.zip?timestamp=1499420692"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ephemera-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ephemera-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

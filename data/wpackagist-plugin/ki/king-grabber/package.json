@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/king-grabber": {
+            "1.1": {
+                "name": "wpackagist-plugin\/king-grabber",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 189807,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/king-grabber.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/king-grabber\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/king-grabber\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/king-grabber",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 189808,
+                "time": "2018-08-19 13:53:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/king-grabber.zip?timestamp=1534686797"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/king-grabber\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/king-grabber\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

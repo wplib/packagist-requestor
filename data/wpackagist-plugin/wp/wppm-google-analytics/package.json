@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wppm-google-analytics": {
+            "2.0.0": {
+                "name": "wpackagist-plugin\/wppm-google-analytics",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 442834,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wppm-google-analytics.zip?timestamp=1518257191"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wppm-google-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wppm-google-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wppm-google-analytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442835,
+                "time": "2018-02-10 10:06:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wppm-google-analytics.zip?timestamp=1518257191"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wppm-google-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wppm-google-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/list-categorys-posts": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/list-categorys-posts",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 199793,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-categorys-posts.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-categorys-posts\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-categorys-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/list-categorys-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199794,
+                "time": "2018-06-30 06:51:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-categorys-posts.zip?timestamp=1530341469"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-categorys-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-categorys-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chess": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/chess",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 67109,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chess.zip?timestamp=1452425510"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chess\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chess\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chess",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 67110,
+                "time": "2016-01-10 11:31:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chess.zip?timestamp=1452425510"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chess\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chess\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

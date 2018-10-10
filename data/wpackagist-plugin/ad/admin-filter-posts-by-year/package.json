@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-filter-posts-by-year": {
+            "2.0": {
+                "name": "wpackagist-plugin\/admin-filter-posts-by-year",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 9243,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-filter-posts-by-year.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-filter-posts-by-year\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-filter-posts-by-year\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-filter-posts-by-year",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 9244,
+                "time": "2017-11-09 11:38:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-filter-posts-by-year.zip?timestamp=1510227502"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-filter-posts-by-year\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-filter-posts-by-year\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

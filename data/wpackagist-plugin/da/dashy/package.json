@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dashy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dashy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 94598,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashy.zip?timestamp=1427857837"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dashy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94599,
+                "time": "2015-04-01 03:10:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashy.zip?timestamp=1427857837"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

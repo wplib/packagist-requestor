@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/apc-cache-purge": {
+            "1.0": {
+                "name": "wpackagist-plugin\/apc-cache-purge",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 23850,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apc-cache-purge.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apc-cache-purge\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apc-cache-purge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/apc-cache-purge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 23851,
+                "time": "2015-11-29 12:47:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apc-cache-purge.zip?timestamp=1448801266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apc-cache-purge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apc-cache-purge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

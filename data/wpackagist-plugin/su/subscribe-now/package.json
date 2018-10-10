@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subscribe-now": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/subscribe-now",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339892,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscribe-now.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscribe-now\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscribe-now\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subscribe-now",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339893,
+                "time": "2017-11-17 18:47:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscribe-now.zip?timestamp=1510944453"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscribe-now\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscribe-now\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

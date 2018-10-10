@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customize-pane-resizer": {
+            "0.1": {
+                "name": "wpackagist-plugin\/customize-pane-resizer",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 92218,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-pane-resizer.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-pane-resizer\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-pane-resizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customize-pane-resizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92219,
+                "time": "2015-12-06 16:27:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-pane-resizer.zip?timestamp=1449419256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-pane-resizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-pane-resizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

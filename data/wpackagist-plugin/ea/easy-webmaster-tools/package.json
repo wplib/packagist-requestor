@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-webmaster-tools": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/easy-webmaster-tools",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 111148,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-webmaster-tools.zip?timestamp=1438097545"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-webmaster-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-webmaster-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-webmaster-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 111149,
+                "time": "2015-07-28 15:32:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-webmaster-tools.zip?timestamp=1438097545"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-webmaster-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-webmaster-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

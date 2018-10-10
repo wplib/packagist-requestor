@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nutrition-table": {
+            "0.1": {
+                "name": "wpackagist-plugin\/nutrition-table",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 238647,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nutrition-table.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nutrition-table\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nutrition-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nutrition-table",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238648,
+                "time": "2018-07-19 00:26:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nutrition-table.zip?timestamp=1531959998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nutrition-table\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nutrition-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

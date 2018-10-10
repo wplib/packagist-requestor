@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-calendar-blog-feed": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/simple-calendar-blog-feed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 313300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-calendar-blog-feed.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-calendar-blog-feed\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-calendar-blog-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-calendar-blog-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 313301,
+                "time": "2017-07-06 20:15:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-calendar-blog-feed.zip?timestamp=1499372119"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-calendar-blog-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-calendar-blog-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

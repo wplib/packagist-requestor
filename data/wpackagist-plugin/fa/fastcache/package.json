@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fastcache": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fastcache",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 129864,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fastcache.zip?timestamp=1441700253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fastcache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fastcache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fastcache",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 129865,
+                "time": "2015-09-08 08:17:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fastcache.zip?timestamp=1441700253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fastcache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fastcache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

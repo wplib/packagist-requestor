@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scope-publisher": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/scope-publisher",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 300563,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scope-publisher.zip?timestamp=1527514020"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scope-publisher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scope-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scope-publisher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300564,
+                "time": "2018-05-28 13:27:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scope-publisher.zip?timestamp=1527514020"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scope-publisher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scope-publisher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

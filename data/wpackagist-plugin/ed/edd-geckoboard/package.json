@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-geckoboard": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-geckoboard",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113469,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-geckoboard.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-geckoboard\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-geckoboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-geckoboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113470,
+                "time": "2016-02-16 04:18:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-geckoboard.zip?timestamp=1455596298"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-geckoboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-geckoboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

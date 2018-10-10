@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpblog-plus": {
+            "1.71": {
+                "name": "wpackagist-plugin\/wpblog-plus",
+                "version": "1.71",
+                "version_normalized": "1.71.0.0",
+                "uid": 439952,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpblog-plus.zip?timestamp=1455457080"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpblog-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpblog-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpblog-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439953,
+                "time": "2016-02-14 13:38:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpblog-plus.zip?timestamp=1455457080"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpblog-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpblog-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

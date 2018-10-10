@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/safe-links-to-posts": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/safe-links-to-posts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 297971,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/safe-links-to-posts.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/safe-links-to-posts\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/safe-links-to-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/safe-links-to-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297972,
+                "time": "2017-11-14 20:34:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/safe-links-to-posts.zip?timestamp=1510691642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/safe-links-to-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/safe-links-to-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

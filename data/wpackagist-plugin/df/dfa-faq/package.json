@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dfa-faq": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dfa-faq",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 98589,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dfa-faq.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dfa-faq\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dfa-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dfa-faq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98590,
+                "time": "2017-09-25 08:29:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dfa-faq.zip?timestamp=1506328150"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dfa-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dfa-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

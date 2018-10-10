@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dx-getty-images-oembed": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/dx-getty-images-oembed",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 106307,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dx-getty-images-oembed.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dx-getty-images-oembed\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dx-getty-images-oembed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dx-getty-images-oembed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106308,
+                "time": "2016-12-20 11:10:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dx-getty-images-oembed.zip?timestamp=1482232220"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dx-getty-images-oembed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dx-getty-images-oembed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/buddha-wisdom": {
+            "1.1": {
+                "name": "wpackagist-plugin\/buddha-wisdom",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 53380,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddha-wisdom.zip?timestamp=1484753915"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddha-wisdom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddha-wisdom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/buddha-wisdom",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53381,
+                "time": "2017-01-18 15:38:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddha-wisdom.zip?timestamp=1484753915"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddha-wisdom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddha-wisdom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

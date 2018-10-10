@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/xml-import": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/xml-import",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 446533,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xml-import.zip?timestamp=1456869416"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xml-import\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xml-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/xml-import",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 446534,
+                "time": "2016-03-01 21:56:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xml-import.zip?timestamp=1456869416"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xml-import\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xml-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

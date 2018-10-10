@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-notification": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 390679,
+                "time": "2018-07-13 02:36:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-notification.zip?timestamp=1531449378"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

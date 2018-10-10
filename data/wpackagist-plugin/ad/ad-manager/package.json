@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ad-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ad-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 6477,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-manager.zip?timestamp=1493191960"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ad-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6478,
+                "time": "2017-04-26 07:32:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-manager.zip?timestamp=1493191960"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

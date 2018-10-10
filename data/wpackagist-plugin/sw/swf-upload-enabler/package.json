@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/swf-upload-enabler": {
+            "1.0": {
+                "name": "wpackagist-plugin\/swf-upload-enabler",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 343422,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swf-upload-enabler.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swf-upload-enabler\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swf-upload-enabler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/swf-upload-enabler",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 343423,
+                "time": "2016-03-24 10:16:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swf-upload-enabler.zip?timestamp=1458814578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swf-upload-enabler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swf-upload-enabler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

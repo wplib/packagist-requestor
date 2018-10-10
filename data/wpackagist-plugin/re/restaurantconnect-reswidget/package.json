@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restaurantconnect-reswidget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/restaurantconnect-reswidget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 290655,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restaurantconnect-reswidget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restaurantconnect-reswidget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restaurantconnect-reswidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restaurantconnect-reswidget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290656,
+                "time": "2016-12-14 09:47:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restaurantconnect-reswidget.zip?timestamp=1481708829"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restaurantconnect-reswidget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restaurantconnect-reswidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

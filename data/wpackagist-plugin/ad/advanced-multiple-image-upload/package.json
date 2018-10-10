@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advanced-multiple-image-upload": {
+            "1.0": {
+                "name": "wpackagist-plugin\/advanced-multiple-image-upload",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 12629,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-multiple-image-upload.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-multiple-image-upload\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-multiple-image-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advanced-multiple-image-upload",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 12630,
+                "time": "2017-07-04 06:32:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-multiple-image-upload.zip?timestamp=1499149921"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-multiple-image-upload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-multiple-image-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

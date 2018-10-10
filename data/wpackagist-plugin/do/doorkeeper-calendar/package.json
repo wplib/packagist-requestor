@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/doorkeeper-calendar": {
+            "0.2": {
+                "name": "wpackagist-plugin\/doorkeeper-calendar",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 103700,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doorkeeper-calendar.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doorkeeper-calendar\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doorkeeper-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/doorkeeper-calendar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103701,
+                "time": "2015-05-21 17:00:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/doorkeeper-calendar.zip?timestamp=1432227643"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/doorkeeper-calendar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/doorkeeper-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

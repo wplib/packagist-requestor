@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-shuffle": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/image-shuffle",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 173452,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-shuffle.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-shuffle\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-shuffle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-shuffle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173453,
+                "time": "2018-02-01 06:55:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-shuffle.zip?timestamp=1517468157"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-shuffle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-shuffle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-shop-manager-admin-bar": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woo-shop-manager-admin-bar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 392648,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-shop-manager-admin-bar.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-shop-manager-admin-bar\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-shop-manager-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-shop-manager-admin-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 392649,
+                "time": "2018-09-26 13:42:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-shop-manager-admin-bar.zip?timestamp=1537969350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-shop-manager-admin-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-shop-manager-admin-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

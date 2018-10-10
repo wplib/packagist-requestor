@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-meta-management": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/user-meta-management",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 371164,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-meta-management.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-meta-management\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-meta-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-meta-management",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371165,
+                "time": "2017-11-14 12:39:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-meta-management.zip?timestamp=1510663174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-meta-management\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-meta-management\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

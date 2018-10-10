@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auto-form-fill": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/auto-form-fill",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 30272,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-form-fill.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-form-fill\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-form-fill\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auto-form-fill",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 30273,
+                "time": "2017-10-25 13:56:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auto-form-fill.zip?timestamp=1508939791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auto-form-fill\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auto-form-fill\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/group-comments-for-learndash": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/group-comments-for-learndash",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 160528,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/group-comments-for-learndash.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/group-comments-for-learndash\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/group-comments-for-learndash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/group-comments-for-learndash",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160529,
+                "time": "2018-07-26 20:01:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/group-comments-for-learndash.zip?timestamp=1532635309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/group-comments-for-learndash\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/group-comments-for-learndash\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

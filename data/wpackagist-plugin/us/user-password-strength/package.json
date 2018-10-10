@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-password-strength": {
+            "1.0": {
+                "name": "wpackagist-plugin\/user-password-strength",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 371273,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-password-strength.zip?timestamp=1516618350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-password-strength\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-password-strength\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-password-strength",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371274,
+                "time": "2018-01-22 10:52:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-password-strength.zip?timestamp=1516618350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-password-strength\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-password-strength\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

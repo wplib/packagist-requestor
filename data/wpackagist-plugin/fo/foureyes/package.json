@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/foureyes": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/foureyes",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 141528,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foureyes.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foureyes\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foureyes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/foureyes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141529,
+                "time": "2016-12-09 18:21:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foureyes.zip?timestamp=1481307685"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foureyes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foureyes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

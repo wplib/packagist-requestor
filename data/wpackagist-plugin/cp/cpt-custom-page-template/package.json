@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cpt-custom-page-template": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cpt-custom-page-template",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 85132,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpt-custom-page-template.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpt-custom-page-template\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpt-custom-page-template\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cpt-custom-page-template",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85133,
+                "time": "2018-02-06 06:30:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpt-custom-page-template.zip?timestamp=1517898645"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpt-custom-page-template\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpt-custom-page-template\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

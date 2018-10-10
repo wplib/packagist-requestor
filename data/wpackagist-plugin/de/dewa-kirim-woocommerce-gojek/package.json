@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dewa-kirim-woocommerce-gojek": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dewa-kirim-woocommerce-gojek",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 98522,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dewa-kirim-woocommerce-gojek.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dewa-kirim-woocommerce-gojek\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dewa-kirim-woocommerce-gojek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dewa-kirim-woocommerce-gojek",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98523,
+                "time": "2018-09-28 04:26:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dewa-kirim-woocommerce-gojek.zip?timestamp=1538108769"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dewa-kirim-woocommerce-gojek\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dewa-kirim-woocommerce-gojek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

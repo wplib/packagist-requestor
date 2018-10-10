@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-overcast-payments-to-seriously-simple-podcasting": {
+            "0.5.0": {
+                "name": "wpackagist-plugin\/add-overcast-payments-to-seriously-simple-podcasting",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "uid": 7308,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-overcast-payments-to-seriously-simple-podcasting.0.5.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-overcast-payments-to-seriously-simple-podcasting\/",
+                    "reference": "tags\/0.5.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-overcast-payments-to-seriously-simple-podcasting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-overcast-payments-to-seriously-simple-podcasting",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 7309,
+                "time": "2018-08-28 16:41:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-overcast-payments-to-seriously-simple-podcasting.zip?timestamp=1535474511"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-overcast-payments-to-seriously-simple-podcasting\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-overcast-payments-to-seriously-simple-podcasting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

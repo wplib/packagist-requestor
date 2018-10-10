@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/control-wp-core-emails": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/control-wp-core-emails",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 81752,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/control-wp-core-emails.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/control-wp-core-emails\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/control-wp-core-emails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/control-wp-core-emails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 81753,
+                "time": "2017-01-13 19:08:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/control-wp-core-emails.zip?timestamp=1484334498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/control-wp-core-emails\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/control-wp-core-emails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mango-ssl": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mango-ssl",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 208491,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mango-ssl.zip?timestamp=1523924476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mango-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mango-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mango-ssl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208492,
+                "time": "2018-04-17 00:21:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mango-ssl.zip?timestamp=1523924476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mango-ssl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mango-ssl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

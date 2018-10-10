@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ff-posts-pages-and-cpt-field-type": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ff-posts-pages-and-cpt-field-type",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 132691,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ff-posts-pages-and-cpt-field-type.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ff-posts-pages-and-cpt-field-type\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ff-posts-pages-and-cpt-field-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ff-posts-pages-and-cpt-field-type",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 132692,
+                "time": "2018-08-13 17:21:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ff-posts-pages-and-cpt-field-type.zip?timestamp=1534180862"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ff-posts-pages-and-cpt-field-type\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ff-posts-pages-and-cpt-field-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

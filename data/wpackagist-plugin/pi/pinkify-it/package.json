@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pinkify-it": {
+            "2.2": {
+                "name": "wpackagist-plugin\/pinkify-it",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 256545,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pinkify-it.zip?timestamp=1470875364"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pinkify-it\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pinkify-it\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pinkify-it",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 256546,
+                "time": "2016-08-11 00:29:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pinkify-it.zip?timestamp=1470875364"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pinkify-it\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pinkify-it\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

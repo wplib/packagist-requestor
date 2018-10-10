@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/track-kickstarter-project": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/track-kickstarter-project",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 358199,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/track-kickstarter-project.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/track-kickstarter-project\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/track-kickstarter-project\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/track-kickstarter-project",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 358200,
+                "time": "2016-02-06 10:10:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/track-kickstarter-project.zip?timestamp=1454753456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/track-kickstarter-project\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/track-kickstarter-project\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

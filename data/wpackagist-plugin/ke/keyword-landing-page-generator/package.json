@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/keyword-landing-page-generator": {
+            "1.01": {
+                "name": "wpackagist-plugin\/keyword-landing-page-generator",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 189233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/keyword-landing-page-generator.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/keyword-landing-page-generator\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/keyword-landing-page-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/keyword-landing-page-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 189234,
+                "time": "2016-03-29 21:56:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/keyword-landing-page-generator.zip?timestamp=1459288565"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/keyword-landing-page-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/keyword-landing-page-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

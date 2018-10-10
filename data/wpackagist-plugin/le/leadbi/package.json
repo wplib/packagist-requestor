@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/leadbi": {
+            "1.4": {
+                "name": "wpackagist-plugin\/leadbi",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 194524,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leadbi.zip?timestamp=1535435694"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leadbi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leadbi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/leadbi",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194525,
+                "time": "2018-08-28 05:54:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leadbi.zip?timestamp=1535435694"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leadbi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leadbi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

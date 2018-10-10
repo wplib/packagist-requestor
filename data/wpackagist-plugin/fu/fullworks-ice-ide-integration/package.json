@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fullworks-ice-ide-integration": {
+            "1.4": {
+                "name": "wpackagist-plugin\/fullworks-ice-ide-integration",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 144545,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullworks-ice-ide-integration.1.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullworks-ice-ide-integration\/",
+                    "reference": "tags\/1.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullworks-ice-ide-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fullworks-ice-ide-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144546,
+                "time": "2018-06-04 18:28:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullworks-ice-ide-integration.zip?timestamp=1528136935"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullworks-ice-ide-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullworks-ice-ide-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bp-group-members-data": {
+            "1.3": {
+                "name": "wpackagist-plugin\/bp-group-members-data",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 50420,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-group-members-data.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-group-members-data\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-group-members-data\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bp-group-members-data",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 50421,
+                "time": "2018-06-20 18:25:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bp-group-members-data.zip?timestamp=1529519157"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bp-group-members-data\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bp-group-members-data\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-or-page-hide-title": {
+            "1.0": {
+                "name": "wpackagist-plugin\/post-or-page-hide-title",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 263972,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-or-page-hide-title.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-or-page-hide-title\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-or-page-hide-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-or-page-hide-title",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 263973,
+                "time": "2017-05-27 12:44:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-or-page-hide-title.zip?timestamp=1495889051"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-or-page-hide-title\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-or-page-hide-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

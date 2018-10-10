@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/assign-widgets": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/assign-widgets",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 27749,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/assign-widgets.1.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/assign-widgets\/",
+                    "reference": "tags\/1.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/assign-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/assign-widgets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27750,
+                "time": "2018-06-21 17:12:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/assign-widgets.zip?timestamp=1529601146"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/assign-widgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/assign-widgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gwent-cards": {
+            "1.1.2": {
+                "name": "wpackagist-plugin\/gwent-cards",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "uid": 161689,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gwent-cards.zip?timestamp=1498251288"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gwent-cards\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gwent-cards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gwent-cards",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161690,
+                "time": "2017-06-23 20:54:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gwent-cards.zip?timestamp=1498251288"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gwent-cards\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gwent-cards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

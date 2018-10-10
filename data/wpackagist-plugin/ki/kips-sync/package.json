@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kips-sync": {
+            "1.0": {
+                "name": "wpackagist-plugin\/kips-sync",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 189979,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kips-sync.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kips-sync\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kips-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.6": {
+                "name": "wpackagist-plugin\/kips-sync",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 189980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kips-sync.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kips-sync\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kips-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kips-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 189981,
+                "time": "2018-09-23 21:19:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kips-sync.zip?timestamp=1537737582"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kips-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kips-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

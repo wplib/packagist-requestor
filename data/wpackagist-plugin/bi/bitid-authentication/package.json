@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bitid-authentication": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bitid-authentication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 42218,
+                "time": "2018-05-05 19:29:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bitid-authentication.zip?timestamp=1525548598"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bitid-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bitid-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/yt-api-avoid-conflicts": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/yt-api-avoid-conflicts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 451200,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yt-api-avoid-conflicts.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yt-api-avoid-conflicts\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yt-api-avoid-conflicts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/yt-api-avoid-conflicts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 451201,
+                "time": "2018-06-12 02:46:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yt-api-avoid-conflicts.zip?timestamp=1528771598"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yt-api-avoid-conflicts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yt-api-avoid-conflicts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

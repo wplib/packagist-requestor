@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oxygen-visual-site-builder": {
+            "1.0": {
+                "name": "wpackagist-plugin\/oxygen-visual-site-builder",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 246350,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oxygen-visual-site-builder.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oxygen-visual-site-builder\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oxygen-visual-site-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oxygen-visual-site-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246351,
+                "time": "2017-07-25 09:38:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oxygen-visual-site-builder.zip?timestamp=1500975524"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oxygen-visual-site-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oxygen-visual-site-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

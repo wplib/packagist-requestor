@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-tables": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/my-tables",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 227428,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-tables.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-tables\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-tables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-tables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227429,
+                "time": "2016-06-10 09:24:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-tables.zip?timestamp=1465550693"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-tables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-tables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

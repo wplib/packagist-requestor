@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/biz-things": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/biz-things",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 42402,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/biz-things.zip?timestamp=1459560104"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/biz-things\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/biz-things\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/biz-things",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 42403,
+                "time": "2016-04-02 01:21:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/biz-things.zip?timestamp=1459560104"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/biz-things\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/biz-things\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

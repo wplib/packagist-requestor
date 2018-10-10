@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coditor": {
+            "1.1": {
+                "name": "wpackagist-plugin\/coditor",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 73344,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coditor.zip?timestamp=1492948775"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coditor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 73345,
+                "time": "2017-04-23 11:59:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coditor.zip?timestamp=1492948775"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

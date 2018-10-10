@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ih-sliders-showcases": {
+            "0.9": {
+                "name": "wpackagist-plugin\/ih-sliders-showcases",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 172459,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ih-sliders-showcases.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ih-sliders-showcases\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ih-sliders-showcases\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ih-sliders-showcases",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172460,
+                "time": "2017-09-21 06:40:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ih-sliders-showcases.zip?timestamp=1505976031"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ih-sliders-showcases\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ih-sliders-showcases\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

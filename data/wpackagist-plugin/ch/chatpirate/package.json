@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatpirate": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/chatpirate",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 66495,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatpirate.zip?timestamp=1475051075"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatpirate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatpirate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatpirate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66496,
+                "time": "2016-09-28 08:24:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatpirate.zip?timestamp=1475051075"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatpirate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatpirate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

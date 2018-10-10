@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/credly-pro-custom-assertion": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/credly-pro-custom-assertion",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 85896,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/credly-pro-custom-assertion.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/credly-pro-custom-assertion\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/credly-pro-custom-assertion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/credly-pro-custom-assertion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85897,
+                "time": "2016-05-19 17:25:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/credly-pro-custom-assertion.zip?timestamp=1463678723"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/credly-pro-custom-assertion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/credly-pro-custom-assertion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

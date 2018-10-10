@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-puzzle": {
+            "1.01": {
+                "name": "wpackagist-plugin\/image-puzzle",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 173404,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-puzzle.zip?timestamp=1510911061"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-puzzle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-puzzle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-puzzle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173405,
+                "time": "2017-11-17 09:31:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-puzzle.zip?timestamp=1510911061"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-puzzle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-puzzle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

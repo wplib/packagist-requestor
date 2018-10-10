@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minimal-search-term-highlight": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/minimal-search-term-highlight",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 218051,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimal-search-term-highlight.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimal-search-term-highlight\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimal-search-term-highlight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minimal-search-term-highlight",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218052,
+                "time": "2018-08-10 07:35:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimal-search-term-highlight.zip?timestamp=1533886550"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimal-search-term-highlight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimal-search-term-highlight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

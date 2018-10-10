@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/malicious-checker": {
+            "1.2.7": {
+                "name": "wpackagist-plugin\/malicious-checker",
+                "version": "1.2.7",
+                "version_normalized": "1.2.7.0",
+                "uid": 208104,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/malicious-checker.zip?timestamp=1479387901"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/malicious-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/malicious-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/malicious-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208105,
+                "time": "2016-11-17 13:05:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/malicious-checker.zip?timestamp=1479387901"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/malicious-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/malicious-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

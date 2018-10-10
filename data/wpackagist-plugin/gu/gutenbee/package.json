@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gutenbee": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gutenbee",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161565,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenbee.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenbee\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenbee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gutenbee",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161566,
+                "time": "2018-01-29 18:06:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenbee.zip?timestamp=1517249181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenbee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenbee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

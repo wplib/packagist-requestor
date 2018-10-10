@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin10x": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/admin10x",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 9978,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin10x.zip?timestamp=1499876402"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin10x\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin10x\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin10x",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 9979,
+                "time": "2017-07-12 16:20:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin10x.zip?timestamp=1499876402"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin10x\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin10x\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/teamacle": {
+            "1.0": {
+                "name": "wpackagist-plugin\/teamacle",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 347612,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/teamacle.zip?timestamp=1525137658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/teamacle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/teamacle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/teamacle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347613,
+                "time": "2018-05-01 01:20:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/teamacle.zip?timestamp=1525137658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/teamacle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/teamacle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

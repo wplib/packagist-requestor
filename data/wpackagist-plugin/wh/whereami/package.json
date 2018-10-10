@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whereami": {
+            "1.0": {
+                "name": "wpackagist-plugin\/whereami",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 385263,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whereami.zip?timestamp=1497025487"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whereami\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whereami\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whereami",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385264,
+                "time": "2017-06-09 16:24:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whereami.zip?timestamp=1497025487"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whereami\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whereami\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

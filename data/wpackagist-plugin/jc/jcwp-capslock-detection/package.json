@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jcwp-capslock-detection": {
+            "1.09": {
+                "name": "wpackagist-plugin\/jcwp-capslock-detection",
+                "version": "1.09",
+                "version_normalized": "1.09.0.0",
+                "uid": 183047,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-capslock-detection.1.09.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-capslock-detection\/",
+                    "reference": "tags\/1.09"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-capslock-detection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jcwp-capslock-detection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183048,
+                "time": "2015-04-15 02:21:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-capslock-detection.zip?timestamp=1429064466"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-capslock-detection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-capslock-detection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

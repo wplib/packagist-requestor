@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/single-testimonial": {
+            "1.0": {
+                "name": "wpackagist-plugin\/single-testimonial",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 319972,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/single-testimonial.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/single-testimonial\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/single-testimonial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/single-testimonial",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 319973,
+                "time": "2018-02-14 05:52:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/single-testimonial.zip?timestamp=1518587526"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/single-testimonial\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/single-testimonial\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

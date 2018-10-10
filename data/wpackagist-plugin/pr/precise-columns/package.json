@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/precise-columns": {
+            "1.0": {
+                "name": "wpackagist-plugin\/precise-columns",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 267267,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/precise-columns.zip?timestamp=1462210537"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/precise-columns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/precise-columns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/precise-columns",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267268,
+                "time": "2016-05-02 17:35:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/precise-columns.zip?timestamp=1462210537"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/precise-columns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/precise-columns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

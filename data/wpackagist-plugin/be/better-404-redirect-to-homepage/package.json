@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-404-redirect-to-homepage": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/better-404-redirect-to-homepage",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 39948,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-404-redirect-to-homepage.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-404-redirect-to-homepage\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-404-redirect-to-homepage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-404-redirect-to-homepage",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39949,
+                "time": "2018-06-25 03:36:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-404-redirect-to-homepage.zip?timestamp=1529897760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-404-redirect-to-homepage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-404-redirect-to-homepage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

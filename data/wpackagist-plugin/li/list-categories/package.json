@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/list-categories": {
+            "0.1": {
+                "name": "wpackagist-plugin\/list-categories",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 199640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-categories.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-categories\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2": {
+                "name": "wpackagist-plugin\/list-categories",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 199641,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-categories.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-categories\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/list-categories",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199642,
+                "time": "2018-01-02 22:35:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-categories.zip?timestamp=1514932554"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-categories\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/firepress": {
+            "1.0": {
+                "name": "wpackagist-plugin\/firepress",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 134540,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/firepress.zip?timestamp=1469721000"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/firepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/firepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/firepress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 134541,
+                "time": "2016-07-28 15:50:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/firepress.zip?timestamp=1469721000"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/firepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/firepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

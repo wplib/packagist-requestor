@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/net-pay-for-woocommerce": {
+            "2.4": {
+                "name": "wpackagist-plugin\/net-pay-for-woocommerce",
+                "version": "2.4",
+                "version_normalized": "2.4.0.0",
+                "uid": 230511,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/net-pay-for-woocommerce.2.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/net-pay-for-woocommerce\/",
+                    "reference": "tags\/2.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/net-pay-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/net-pay-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230512,
+                "time": "2018-03-06 13:55:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/net-pay-for-woocommerce.zip?timestamp=1520344553"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/net-pay-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/net-pay-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

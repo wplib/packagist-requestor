@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jcwp-simple-table-of-contents": {
+            "1.01": {
+                "name": "wpackagist-plugin\/jcwp-simple-table-of-contents",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 183070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-simple-table-of-contents.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-simple-table-of-contents\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-simple-table-of-contents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jcwp-simple-table-of-contents",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183071,
+                "time": "2015-04-16 02:06:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-simple-table-of-contents.zip?timestamp=1429149967"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-simple-table-of-contents\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-simple-table-of-contents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/contagen-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/contagen-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 80349,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contagen-widget.zip?timestamp=1474722360"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contagen-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contagen-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/contagen-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 80350,
+                "time": "2016-09-24 13:06:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contagen-widget.zip?timestamp=1474722360"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contagen-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contagen-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

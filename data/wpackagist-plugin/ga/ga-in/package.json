@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ga-in": {
+            "5.4.1": {
+                "name": "wpackagist-plugin\/ga-in",
+                "version": "5.4.1",
+                "version_normalized": "5.4.1.0",
+                "uid": 145628,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ga-in.5.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ga-in\/",
+                    "reference": "tags\/5.4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ga-in\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ga-in",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 145629,
+                "time": "2018-07-06 02:55:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ga-in.zip?timestamp=1530845725"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ga-in\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ga-in\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

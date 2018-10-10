@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scm-gateway": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/scm-gateway",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 300553,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scm-gateway.zip?timestamp=1519096404"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scm-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scm-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scm-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300554,
+                "time": "2018-02-20 03:13:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scm-gateway.zip?timestamp=1519096404"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scm-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scm-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

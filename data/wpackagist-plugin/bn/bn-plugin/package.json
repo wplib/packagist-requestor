@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bn-plugin": {
+            "0.4": {
+                "name": "wpackagist-plugin\/bn-plugin",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 46643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bn-plugin.zip?timestamp=1430520033"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bn-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bn-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.1": {
+                "name": "wpackagist-plugin\/bn-plugin",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 46644,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bn-plugin.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bn-plugin\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bn-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bn-plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46645,
+                "time": "2015-05-01 22:40:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bn-plugin.zip?timestamp=1430520033"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bn-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bn-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

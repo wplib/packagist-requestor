@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/syntaxhighlighter-to-pastacode": {
+            "1.0": {
+                "name": "wpackagist-plugin\/syntaxhighlighter-to-pastacode",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 344541,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntaxhighlighter-to-pastacode.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntaxhighlighter-to-pastacode\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntaxhighlighter-to-pastacode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/syntaxhighlighter-to-pastacode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344542,
+                "time": "2016-09-01 07:45:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntaxhighlighter-to-pastacode.zip?timestamp=1472715949"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntaxhighlighter-to-pastacode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntaxhighlighter-to-pastacode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ips-auth-bridge": {
+            "0.9.0": {
+                "name": "wpackagist-plugin\/ips-auth-bridge",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "uid": 180625,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ips-auth-bridge.0.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ips-auth-bridge\/",
+                    "reference": "tags\/0.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ips-auth-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ips-auth-bridge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180626,
+                "time": "2018-08-01 00:56:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ips-auth-bridge.zip?timestamp=1533084985"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ips-auth-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ips-auth-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

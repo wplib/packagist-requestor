@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/outbound-links-monetization": {
+            "1.0": {
+                "name": "wpackagist-plugin\/outbound-links-monetization",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 246011,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/outbound-links-monetization.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/outbound-links-monetization\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/outbound-links-monetization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/outbound-links-monetization",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246012,
+                "time": "2016-09-21 09:09:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/outbound-links-monetization.zip?timestamp=1474448996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/outbound-links-monetization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/outbound-links-monetization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

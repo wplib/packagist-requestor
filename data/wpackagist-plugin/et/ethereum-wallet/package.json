@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ethereum-wallet": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/ethereum-wallet",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 122338,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ethereum-wallet.1.4.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ethereum-wallet\/",
+                    "reference": "tags\/1.4.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ethereum-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ethereum-wallet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122339,
+                "time": "2018-09-22 09:05:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ethereum-wallet.zip?timestamp=1537607127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ethereum-wallet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ethereum-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

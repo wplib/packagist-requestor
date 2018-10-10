@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tournament-bracket-generator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tournament-bracket-generator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 357967,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tournament-bracket-generator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tournament-bracket-generator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tournament-bracket-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tournament-bracket-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 357968,
+                "time": "2017-01-20 20:48:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tournament-bracket-generator.zip?timestamp=1484945283"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tournament-bracket-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tournament-bracket-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/json-importer": {
+            "0.1": {
+                "name": "wpackagist-plugin\/json-importer",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 186522,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-importer.zip?timestamp=1442071214"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/json-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186523,
+                "time": "2015-09-12 15:20:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-importer.zip?timestamp=1442071214"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

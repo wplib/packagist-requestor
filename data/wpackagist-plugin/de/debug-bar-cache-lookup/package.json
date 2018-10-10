@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debug-bar-cache-lookup": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/debug-bar-cache-lookup",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 95959,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-bar-cache-lookup.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-bar-cache-lookup\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-bar-cache-lookup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debug-bar-cache-lookup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95960,
+                "time": "2016-04-19 20:28:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-bar-cache-lookup.zip?timestamp=1461097715"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-bar-cache-lookup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-bar-cache-lookup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

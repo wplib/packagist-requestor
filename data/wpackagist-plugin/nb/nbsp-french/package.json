@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nbsp-french": {
+            "1.9.0": {
+                "name": "wpackagist-plugin\/nbsp-french",
+                "version": "1.9.0",
+                "version_normalized": "1.9.0.0",
+                "uid": 229675,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nbsp-french.1.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nbsp-french\/",
+                    "reference": "tags\/1.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nbsp-french\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nbsp-french",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229676,
+                "time": "2018-09-26 16:06:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nbsp-french.zip?timestamp=1537977988"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nbsp-french\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nbsp-french\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/florahome": {
+            "1.0.8": {
+                "name": "wpackagist-plugin\/florahome",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "uid": 137618,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/florahome.1.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/florahome\/",
+                    "reference": "tags\/1.0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/florahome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/florahome",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 137619,
+                "time": "2018-10-02 13:19:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/florahome.zip?timestamp=1538486390"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/florahome\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/florahome\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

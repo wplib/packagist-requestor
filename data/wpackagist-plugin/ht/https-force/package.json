@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/https-force": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/https-force",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 168880,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/https-force.zip?timestamp=1531833962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/https-force\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/https-force\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/https-force",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168881,
+                "time": "2018-07-17 13:26:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/https-force.zip?timestamp=1531833962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/https-force\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/https-force\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

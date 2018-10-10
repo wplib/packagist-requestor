@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-rest-api-and-require-jwt-oauth-authentication": {
+            "1.0": {
+                "name": "wpackagist-plugin\/disable-rest-api-and-require-jwt-oauth-authentication",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100497,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-rest-api-and-require-jwt-oauth-authentication.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-rest-api-and-require-jwt-oauth-authentication\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-rest-api-and-require-jwt-oauth-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-rest-api-and-require-jwt-oauth-authentication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100498,
+                "time": "2017-09-26 10:25:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-rest-api-and-require-jwt-oauth-authentication.zip?timestamp=1506421523"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-rest-api-and-require-jwt-oauth-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-rest-api-and-require-jwt-oauth-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

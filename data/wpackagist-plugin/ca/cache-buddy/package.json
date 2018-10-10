@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cache-buddy": {
+            "0.2.0": {
+                "name": "wpackagist-plugin\/cache-buddy",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 58494,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cache-buddy.0.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cache-buddy\/",
+                    "reference": "tags\/0.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cache-buddy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cache-buddy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 58495,
+                "time": "2015-03-25 17:07:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cache-buddy.zip?timestamp=1427303276"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cache-buddy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cache-buddy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

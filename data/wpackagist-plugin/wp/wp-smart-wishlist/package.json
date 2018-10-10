@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-smart-wishlist": {
+            "2.0": {
+                "name": "wpackagist-plugin\/wp-smart-wishlist",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 432531,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-smart-wishlist.zip?timestamp=1516689212"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-smart-wishlist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-smart-wishlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-smart-wishlist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 432532,
+                "time": "2018-01-23 06:33:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-smart-wishlist.zip?timestamp=1516689212"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-smart-wishlist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-smart-wishlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/php-year-auto-updater": {
+            "1.0": {
+                "name": "wpackagist-plugin\/php-year-auto-updater",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 255412,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-year-auto-updater.zip?timestamp=1506763897"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-year-auto-updater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-year-auto-updater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/php-year-auto-updater",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255413,
+                "time": "2017-09-30 09:31:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-year-auto-updater.zip?timestamp=1506763897"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-year-auto-updater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-year-auto-updater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/admin-bar-edit-links-for-gravity-forms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/admin-bar-edit-links-for-gravity-forms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8848,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-edit-links-for-gravity-forms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-edit-links-for-gravity-forms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-edit-links-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/admin-bar-edit-links-for-gravity-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8849,
+                "time": "2016-07-27 17:59:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/admin-bar-edit-links-for-gravity-forms.zip?timestamp=1469642343"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/admin-bar-edit-links-for-gravity-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/admin-bar-edit-links-for-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

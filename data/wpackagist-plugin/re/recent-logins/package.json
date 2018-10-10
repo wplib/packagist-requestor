@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recent-logins": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/recent-logins",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 283529,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-logins.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-logins\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-logins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recent-logins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 283530,
+                "time": "2016-04-23 14:27:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recent-logins.zip?timestamp=1461421623"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recent-logins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recent-logins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

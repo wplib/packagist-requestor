@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpchef": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/wpchef",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 440351,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpchef.2.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpchef\/",
+                    "reference": "tags\/2.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpchef\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.1.2": {
+                "name": "wpackagist-plugin\/wpchef",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "uid": 440352,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpchef.2.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpchef\/",
+                    "reference": "tags\/2.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpchef\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpchef",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440353,
+                "time": "2018-04-17 17:15:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpchef.zip?timestamp=1523985327"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpchef\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpchef\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

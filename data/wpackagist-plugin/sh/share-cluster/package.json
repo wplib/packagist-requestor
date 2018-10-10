@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/share-cluster": {
+            "1.02": {
+                "name": "wpackagist-plugin\/share-cluster",
+                "version": "1.02",
+                "version_normalized": "1.02.0.0",
+                "uid": 307544,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/share-cluster.zip?timestamp=1488061859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/share-cluster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/share-cluster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/share-cluster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 307545,
+                "time": "2017-02-25 22:30:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/share-cluster.zip?timestamp=1488061859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/share-cluster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/share-cluster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

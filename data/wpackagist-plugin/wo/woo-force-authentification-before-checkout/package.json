@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-force-authentification-before-checkout": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/woo-force-authentification-before-checkout",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 390123,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-force-authentification-before-checkout.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-force-authentification-before-checkout\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-force-authentification-before-checkout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-force-authentification-before-checkout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 390124,
+                "time": "2018-07-18 17:33:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-force-authentification-before-checkout.zip?timestamp=1531935206"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-force-authentification-before-checkout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-force-authentification-before-checkout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

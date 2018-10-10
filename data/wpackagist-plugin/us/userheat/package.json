@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/userheat": {
+            "1.1.6": {
+                "name": "wpackagist-plugin\/userheat",
+                "version": "1.1.6",
+                "version_normalized": "1.1.6.0",
+                "uid": 371974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/userheat.zip?timestamp=1501499584"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/userheat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/userheat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/userheat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371975,
+                "time": "2017-07-31 11:13:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/userheat.zip?timestamp=1501499584"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/userheat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/userheat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

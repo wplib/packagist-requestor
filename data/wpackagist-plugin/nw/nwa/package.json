@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nwa": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/nwa",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 238715,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nwa.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nwa\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nwa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nwa",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238716,
+                "time": "2017-02-27 16:49:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nwa.zip?timestamp=1488214154"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nwa\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nwa\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

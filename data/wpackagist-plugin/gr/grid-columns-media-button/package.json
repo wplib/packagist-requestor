@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/grid-columns-media-button": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/grid-columns-media-button",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 160121,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grid-columns-media-button.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grid-columns-media-button\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grid-columns-media-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/grid-columns-media-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160122,
+                "time": "2015-12-05 21:34:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grid-columns-media-button.zip?timestamp=1449351259"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grid-columns-media-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grid-columns-media-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

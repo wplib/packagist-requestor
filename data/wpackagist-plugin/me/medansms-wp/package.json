@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/medansms-wp": {
+            "4.0.21": {
+                "name": "wpackagist-plugin\/medansms-wp",
+                "version": "4.0.21",
+                "version_normalized": "4.0.21.0",
+                "uid": 211992,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/medansms-wp.4.0.21.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/medansms-wp\/",
+                    "reference": "tags\/4.0.21"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/medansms-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/medansms-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211993,
+                "time": "2018-07-13 10:23:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/medansms-wp.zip?timestamp=1531477394"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/medansms-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/medansms-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

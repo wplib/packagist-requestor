@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/enable-svg-file-uploads": {
+            "1.0": {
+                "name": "wpackagist-plugin\/enable-svg-file-uploads",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 119340,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enable-svg-file-uploads.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enable-svg-file-uploads\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enable-svg-file-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/enable-svg-file-uploads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 119341,
+                "time": "2018-04-23 08:56:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enable-svg-file-uploads.zip?timestamp=1524473811"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enable-svg-file-uploads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enable-svg-file-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

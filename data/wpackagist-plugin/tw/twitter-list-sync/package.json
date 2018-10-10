@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/twitter-list-sync": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/twitter-list-sync",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 363354,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/twitter-list-sync.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/twitter-list-sync\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/twitter-list-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/twitter-list-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 363355,
+                "time": "2017-11-12 21:35:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/twitter-list-sync.zip?timestamp=1510522504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/twitter-list-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/twitter-list-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/code-analyzer": {
+            "0.1": {
+                "name": "wpackagist-plugin\/code-analyzer",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 72650,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-analyzer.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-analyzer\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-analyzer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2": {
+                "name": "wpackagist-plugin\/code-analyzer",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 72651,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-analyzer.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-analyzer\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-analyzer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/code-analyzer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72652,
+                "time": "2015-08-22 20:03:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-analyzer.zip?timestamp=1440273784"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-analyzer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-analyzer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

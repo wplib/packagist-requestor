@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-checkout-for-chinese": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wc-checkout-for-chinese",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 380307,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-checkout-for-chinese.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-checkout-for-chinese\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-checkout-for-chinese\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-checkout-for-chinese",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 380308,
+                "time": "2018-01-23 10:19:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-checkout-for-chinese.zip?timestamp=1516702779"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-checkout-for-chinese\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-checkout-for-chinese\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

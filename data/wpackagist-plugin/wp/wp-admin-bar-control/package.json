@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-admin-bar-control": {
+            "0.5": {
+                "name": "wpackagist-plugin\/wp-admin-bar-control",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 404970,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-admin-bar-control.zip?timestamp=1512114931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-admin-bar-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-admin-bar-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-admin-bar-control",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 404971,
+                "time": "2017-12-01 07:55:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-admin-bar-control.zip?timestamp=1512114931"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-admin-bar-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-admin-bar-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

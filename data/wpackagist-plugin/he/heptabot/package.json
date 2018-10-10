@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/heptabot": {
+            "0.1": {
+                "name": "wpackagist-plugin\/heptabot",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 164746,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/heptabot.zip?timestamp=1502287536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/heptabot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/heptabot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/heptabot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164747,
+                "time": "2017-08-09 14:05:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/heptabot.zip?timestamp=1502287536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/heptabot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/heptabot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wallsio": {
+            "2.0.3": {
+                "name": "wpackagist-plugin\/wallsio",
+                "version": "2.0.3",
+                "version_normalized": "2.0.3.0",
+                "uid": 379303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wallsio.zip?timestamp=1531752311"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wallsio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wallsio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wallsio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379304,
+                "time": "2018-07-16 14:45:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wallsio.zip?timestamp=1531752311"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wallsio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wallsio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

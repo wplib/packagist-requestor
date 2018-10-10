@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/external-outbonding-links": {
+            "1.0": {
+                "name": "wpackagist-plugin\/external-outbonding-links",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 126331,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/external-outbonding-links.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/external-outbonding-links\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/external-outbonding-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/external-outbonding-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126332,
+                "time": "2018-02-06 06:24:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/external-outbonding-links.zip?timestamp=1517898295"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/external-outbonding-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/external-outbonding-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/yieldkit": {
+            "1.8": {
+                "name": "wpackagist-plugin\/yieldkit",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 448219,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yieldkit.zip?timestamp=1498200692"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yieldkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yieldkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/yieldkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 448220,
+                "time": "2017-06-23 06:51:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yieldkit.zip?timestamp=1498200692"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yieldkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yieldkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

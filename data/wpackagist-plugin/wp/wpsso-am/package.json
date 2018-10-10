@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-am": {
+            "1.9.2": {
+                "name": "wpackagist-plugin\/wpsso-am",
+                "version": "1.9.2",
+                "version_normalized": "1.9.2.0",
+                "uid": 443744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-am.1.9.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-am\/",
+                    "reference": "tags\/1.9.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-am\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-am",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443745,
+                "time": "2018-10-08 14:05:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-am.zip?timestamp=1539007542"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-am\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-am\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

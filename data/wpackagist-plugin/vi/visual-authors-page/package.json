@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/visual-authors-page": {
+            "1.0": {
+                "name": "wpackagist-plugin\/visual-authors-page",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 376990,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visual-authors-page.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visual-authors-page\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visual-authors-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/visual-authors-page",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376991,
+                "time": "2016-10-10 19:04:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visual-authors-page.zip?timestamp=1476126297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visual-authors-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visual-authors-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

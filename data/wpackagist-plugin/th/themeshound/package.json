@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/themeshound": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/themeshound",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 352855,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themeshound.zip?timestamp=1502103664"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themeshound\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themeshound\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/themeshound",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352856,
+                "time": "2017-08-07 11:01:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themeshound.zip?timestamp=1502103664"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themeshound\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themeshound\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

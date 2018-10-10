@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autostock": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/autostock",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 31759,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autostock.zip?timestamp=1431559904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autostock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autostock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autostock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31760,
+                "time": "2015-05-13 23:31:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autostock.zip?timestamp=1431559904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autostock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autostock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

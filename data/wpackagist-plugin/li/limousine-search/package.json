@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/limousine-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/limousine-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 198222,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limousine-search.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limousine-search\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limousine-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/limousine-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198223,
+                "time": "2017-08-29 18:22:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limousine-search.zip?timestamp=1504030969"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limousine-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limousine-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

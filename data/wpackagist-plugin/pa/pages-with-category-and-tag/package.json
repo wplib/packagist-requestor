@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pages-with-category-and-tag": {
+            "0.9.0": {
+                "name": "wpackagist-plugin\/pages-with-category-and-tag",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "uid": 248084,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pages-with-category-and-tag.0.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pages-with-category-and-tag\/",
+                    "reference": "tags\/0.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pages-with-category-and-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pages-with-category-and-tag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 248085,
+                "time": "2018-08-25 21:38:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pages-with-category-and-tag.zip?timestamp=1535233094"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pages-with-category-and-tag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pages-with-category-and-tag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

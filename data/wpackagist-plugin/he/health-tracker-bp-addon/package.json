@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/health-tracker-bp-addon": {
+            "1.6": {
+                "name": "wpackagist-plugin\/health-tracker-bp-addon",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 163833,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/health-tracker-bp-addon.zip?timestamp=1442051177"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/health-tracker-bp-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/health-tracker-bp-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/health-tracker-bp-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 163834,
+                "time": "2015-09-12 09:46:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/health-tracker-bp-addon.zip?timestamp=1442051177"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/health-tracker-bp-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/health-tracker-bp-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

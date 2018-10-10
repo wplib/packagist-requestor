@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/botsplash-chat": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/botsplash-chat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 49767,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/botsplash-chat.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/botsplash-chat\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/botsplash-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/botsplash-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49768,
+                "time": "2017-09-20 16:39:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/botsplash-chat.zip?timestamp=1505925599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/botsplash-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/botsplash-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

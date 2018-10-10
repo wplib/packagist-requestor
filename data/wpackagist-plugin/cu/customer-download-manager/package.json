@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customer-download-manager": {
+            "0.1": {
+                "name": "wpackagist-plugin\/customer-download-manager",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 91926,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customer-download-manager.zip?timestamp=1484833922"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customer-download-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customer-download-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customer-download-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 91927,
+                "time": "2017-01-19 13:52:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customer-download-manager.zip?timestamp=1484833922"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customer-download-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customer-download-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

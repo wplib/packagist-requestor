@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/siteimprove": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/siteimprove",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 320757,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/siteimprove.zip?timestamp=1491553039"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/siteimprove\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/siteimprove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/siteimprove",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 320758,
+                "time": "2017-04-07 08:17:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/siteimprove.zip?timestamp=1491553039"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/siteimprove\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/siteimprove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

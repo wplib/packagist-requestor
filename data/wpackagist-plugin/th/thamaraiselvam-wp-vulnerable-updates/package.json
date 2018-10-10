@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/thamaraiselvam-wp-vulnerable-updates": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/thamaraiselvam-wp-vulnerable-updates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349883,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thamaraiselvam-wp-vulnerable-updates.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thamaraiselvam-wp-vulnerable-updates\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thamaraiselvam-wp-vulnerable-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/thamaraiselvam-wp-vulnerable-updates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349884,
+                "time": "2018-04-21 20:28:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thamaraiselvam-wp-vulnerable-updates.zip?timestamp=1524342502"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thamaraiselvam-wp-vulnerable-updates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thamaraiselvam-wp-vulnerable-updates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

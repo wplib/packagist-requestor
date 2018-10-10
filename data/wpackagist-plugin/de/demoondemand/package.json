@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/demoondemand": {
+            "1.0": {
+                "name": "wpackagist-plugin\/demoondemand",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 97640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/demoondemand.zip?timestamp=1523900172"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/demoondemand\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/demoondemand\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/demoondemand",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97641,
+                "time": "2018-04-16 17:36:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/demoondemand.zip?timestamp=1523900172"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/demoondemand\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/demoondemand\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

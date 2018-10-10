@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webisonline": {
+            "2.4": {
+                "name": "wpackagist-plugin\/webisonline",
+                "version": "2.4",
+                "version_normalized": "2.4.0.0",
+                "uid": 383116,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webisonline.zip?timestamp=1464614774"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webisonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webisonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webisonline",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383117,
+                "time": "2016-05-30 13:26:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webisonline.zip?timestamp=1464614774"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webisonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webisonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fathom-analytics": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/fathom-analytics",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130042,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fathom-analytics.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fathom-analytics\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fathom-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fathom-analytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130043,
+                "time": "2018-09-18 08:56:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fathom-analytics.zip?timestamp=1537261002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fathom-analytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fathom-analytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

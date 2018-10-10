@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/saan-world-clock": {
+            "1.1": {
+                "name": "wpackagist-plugin\/saan-world-clock",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 297855,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/saan-world-clock.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/saan-world-clock\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/saan-world-clock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/saan-world-clock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297856,
+                "time": "2018-02-03 12:45:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/saan-world-clock.zip?timestamp=1517661930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/saan-world-clock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/saan-world-clock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

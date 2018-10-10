@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/light-saber": {
+            "1.0": {
+                "name": "wpackagist-plugin\/light-saber",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 196822,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/light-saber.zip?timestamp=1443364509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/light-saber\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/light-saber\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/light-saber",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196823,
+                "time": "2015-09-27 14:35:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/light-saber.zip?timestamp=1443364509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/light-saber\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/light-saber\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

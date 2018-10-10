@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/afiliados-de-amazon-lite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/afiliados-de-amazon-lite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 14785,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/afiliados-de-amazon-lite.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/afiliados-de-amazon-lite\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/afiliados-de-amazon-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/afiliados-de-amazon-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 14786,
+                "time": "2018-10-05 15:59:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/afiliados-de-amazon-lite.zip?timestamp=1538755197"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/afiliados-de-amazon-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/afiliados-de-amazon-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

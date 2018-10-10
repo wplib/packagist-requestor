@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lead-generation-website-analyzer-tool": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lead-generation-website-analyzer-tool",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 194496,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lead-generation-website-analyzer-tool.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lead-generation-website-analyzer-tool\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lead-generation-website-analyzer-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lead-generation-website-analyzer-tool",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194497,
+                "time": "2018-09-22 01:11:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lead-generation-website-analyzer-tool.zip?timestamp=1537578685"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lead-generation-website-analyzer-tool\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lead-generation-website-analyzer-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

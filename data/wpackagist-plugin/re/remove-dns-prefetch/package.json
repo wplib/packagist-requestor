@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/remove-dns-prefetch": {
+            "1.1": {
+                "name": "wpackagist-plugin\/remove-dns-prefetch",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 286856,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-dns-prefetch.zip?timestamp=1532429532"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-dns-prefetch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-dns-prefetch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/remove-dns-prefetch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286857,
+                "time": "2018-07-24 10:52:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/remove-dns-prefetch.zip?timestamp=1532429532"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/remove-dns-prefetch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/remove-dns-prefetch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

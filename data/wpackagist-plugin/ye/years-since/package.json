@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/years-since": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/years-since",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 447595,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/years-since.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/years-since\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/years-since\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/years-since",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 447596,
+                "time": "2018-08-14 22:07:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/years-since.zip?timestamp=1534284437"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/years-since\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/years-since\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

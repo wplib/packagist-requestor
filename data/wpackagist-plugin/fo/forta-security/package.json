@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forta-security": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/forta-security",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 141014,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forta-security.zip?timestamp=1484035923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forta-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forta-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forta-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141015,
+                "time": "2017-01-10 08:12:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forta-security.zip?timestamp=1484035923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forta-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forta-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

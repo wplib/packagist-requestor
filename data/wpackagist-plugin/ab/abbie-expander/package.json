@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/abbie-expander": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/abbie-expander",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 2550,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/abbie-expander.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/abbie-expander\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/abbie-expander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/abbie-expander",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 2551,
+                "time": "2015-07-27 21:36:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/abbie-expander.zip?timestamp=1438032996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/abbie-expander\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/abbie-expander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

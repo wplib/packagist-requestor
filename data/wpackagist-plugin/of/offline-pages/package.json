@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/offline-pages": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/offline-pages",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 240144,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offline-pages.zip?timestamp=1453925327"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offline-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offline-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/offline-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 240145,
+                "time": "2016-01-27 20:08:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offline-pages.zip?timestamp=1453925327"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offline-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offline-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

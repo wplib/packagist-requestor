@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-privacy-addon": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/gf-privacy-addon",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 151234,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-privacy-addon.zip?timestamp=1527181040"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-privacy-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-privacy-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-privacy-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151235,
+                "time": "2018-05-24 16:57:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-privacy-addon.zip?timestamp=1527181040"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-privacy-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-privacy-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

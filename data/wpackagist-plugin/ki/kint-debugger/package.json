@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kint-debugger": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/kint-debugger",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 189936,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kint-debugger.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kint-debugger\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kint-debugger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2": {
+                "name": "wpackagist-plugin\/kint-debugger",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 189937,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kint-debugger.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kint-debugger\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kint-debugger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kint-debugger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 189938,
+                "time": "2017-11-17 06:31:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kint-debugger.zip?timestamp=1510900282"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kint-debugger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kint-debugger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

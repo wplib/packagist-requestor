@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-sheet-editor-autofill": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-sheet-editor-autofill",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 431338,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-sheet-editor-autofill.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-sheet-editor-autofill\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-sheet-editor-autofill\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-sheet-editor-autofill",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 431339,
+                "time": "2017-05-05 23:36:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-sheet-editor-autofill.zip?timestamp=1494027388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-sheet-editor-autofill\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-sheet-editor-autofill\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

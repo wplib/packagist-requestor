@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daily-image": {
+            "1.0": {
+                "name": "wpackagist-plugin\/daily-image",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93534,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-image.zip?timestamp=1489635943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-image\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daily-image",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93535,
+                "time": "2017-03-16 03:45:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-image.zip?timestamp=1489635943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-image\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

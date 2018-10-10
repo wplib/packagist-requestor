@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/parcel2go-shipping": {
+            "1.0": {
+                "name": "wpackagist-plugin\/parcel2go-shipping",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 249446,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/parcel2go-shipping.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/parcel2go-shipping\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/parcel2go-shipping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/parcel2go-shipping",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249447,
+                "time": "2018-08-14 12:19:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/parcel2go-shipping.zip?timestamp=1534249149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/parcel2go-shipping\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/parcel2go-shipping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

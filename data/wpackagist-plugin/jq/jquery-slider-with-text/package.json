@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jquery-slider-with-text": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jquery-slider-with-text",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 185762,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jquery-slider-with-text.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jquery-slider-with-text\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jquery-slider-with-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jquery-slider-with-text",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 185763,
+                "time": "2015-12-01 14:50:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jquery-slider-with-text.zip?timestamp=1448981425"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jquery-slider-with-text\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jquery-slider-with-text\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

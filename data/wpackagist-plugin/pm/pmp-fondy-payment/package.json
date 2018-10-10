@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pmp-fondy-payment": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/pmp-fondy-payment",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 259718,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmp-fondy-payment.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmp-fondy-payment\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmp-fondy-payment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pmp-fondy-payment",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259719,
+                "time": "2018-05-17 08:26:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmp-fondy-payment.zip?timestamp=1526545605"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmp-fondy-payment\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmp-fondy-payment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

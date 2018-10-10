@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/d-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/d-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93259,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/d-slider.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/d-slider\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/d-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/d-slider",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 93260,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/d-slider.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/d-slider\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/d-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/d-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93261,
+                "time": "2015-12-30 23:39:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/d-slider.zip?timestamp=1451518770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/d-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/d-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

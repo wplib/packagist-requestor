@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/xnbot": {
+            "1.0": {
+                "name": "wpackagist-plugin\/xnbot",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 446668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xnbot.zip?timestamp=1520934320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xnbot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xnbot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/xnbot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 446669,
+                "time": "2018-03-13 09:45:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xnbot.zip?timestamp=1520934320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xnbot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xnbot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

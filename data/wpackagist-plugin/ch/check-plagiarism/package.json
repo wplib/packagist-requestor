@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/check-plagiarism": {
+            "1.0": {
+                "name": "wpackagist-plugin\/check-plagiarism",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 66756,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/check-plagiarism.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/check-plagiarism\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/check-plagiarism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/check-plagiarism",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66757,
+                "time": "2016-12-18 18:25:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/check-plagiarism.zip?timestamp=1482085544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/check-plagiarism\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/check-plagiarism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

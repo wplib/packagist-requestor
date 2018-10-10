@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fullworks-slack": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fullworks-slack",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 144568,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullworks-slack.zip?timestamp=1443977498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullworks-slack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullworks-slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fullworks-slack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144569,
+                "time": "2015-10-04 16:51:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullworks-slack.zip?timestamp=1443977498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullworks-slack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullworks-slack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

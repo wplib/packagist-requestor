@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-rest-api-post-type-taxonomies": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-rest-api-post-type-taxonomies",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 429580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-rest-api-post-type-taxonomies.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-rest-api-post-type-taxonomies\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-rest-api-post-type-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-rest-api-post-type-taxonomies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 429581,
+                "time": "2016-03-01 08:14:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-rest-api-post-type-taxonomies.zip?timestamp=1456820090"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-rest-api-post-type-taxonomies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-rest-api-post-type-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

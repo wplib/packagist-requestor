@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nicho": {
+            "0.0.2": {
+                "name": "wpackagist-plugin\/nicho",
+                "version": "0.0.2",
+                "version_normalized": "0.0.2.0",
+                "uid": 234706,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nicho.zip?timestamp=1505227158"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nicho\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nicho\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nicho",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234707,
+                "time": "2017-09-12 14:39:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nicho.zip?timestamp=1505227158"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nicho\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nicho\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

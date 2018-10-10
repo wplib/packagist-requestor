@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/escape-rooms": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/escape-rooms",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 121663,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/escape-rooms.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/escape-rooms\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/escape-rooms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/escape-rooms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121664,
+                "time": "2015-04-07 21:56:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/escape-rooms.zip?timestamp=1428443812"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/escape-rooms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/escape-rooms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

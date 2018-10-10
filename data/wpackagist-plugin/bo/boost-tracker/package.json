@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/boost-tracker": {
+            "0.1": {
+                "name": "wpackagist-plugin\/boost-tracker",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 48893,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boost-tracker.zip?timestamp=1455135409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boost-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boost-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/boost-tracker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 48894,
+                "time": "2016-02-10 20:16:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boost-tracker.zip?timestamp=1455135409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boost-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boost-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

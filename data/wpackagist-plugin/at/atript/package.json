@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/atript": {
+            "1.0": {
+                "name": "wpackagist-plugin\/atript",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 28621,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/atript.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/atript\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/atript\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/atript",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 28622,
+                "time": "2017-02-16 09:07:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/atript.zip?timestamp=1487236021"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/atript\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/atript\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

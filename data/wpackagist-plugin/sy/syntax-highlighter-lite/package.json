@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/syntax-highlighter-lite": {
+            "3.2.2": {
+                "name": "wpackagist-plugin\/syntax-highlighter-lite",
+                "version": "3.2.2",
+                "version_normalized": "3.2.2.0",
+                "uid": 344374,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntax-highlighter-lite.3.2.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntax-highlighter-lite\/",
+                    "reference": "tags\/3.2.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntax-highlighter-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/syntax-highlighter-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344375,
+                "time": "2016-08-19 23:44:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntax-highlighter-lite.zip?timestamp=1471650254"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntax-highlighter-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntax-highlighter-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

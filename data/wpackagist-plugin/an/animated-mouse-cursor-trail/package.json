@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/animated-mouse-cursor-trail": {
+            "1.0": {
+                "name": "wpackagist-plugin\/animated-mouse-cursor-trail",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 22456,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/animated-mouse-cursor-trail.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/animated-mouse-cursor-trail\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/animated-mouse-cursor-trail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/animated-mouse-cursor-trail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22457,
+                "time": "2018-08-03 09:31:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/animated-mouse-cursor-trail.zip?timestamp=1533288693"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/animated-mouse-cursor-trail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/animated-mouse-cursor-trail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

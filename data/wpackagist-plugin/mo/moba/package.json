@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/moba": {
+            "0.1": {
+                "name": "wpackagist-plugin\/moba",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 219688,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moba.zip?timestamp=1509809264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/moba",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 219689,
+                "time": "2017-11-04 15:27:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moba.zip?timestamp=1509809264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

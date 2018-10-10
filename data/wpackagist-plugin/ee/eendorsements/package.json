@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/eendorsements": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/eendorsements",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 114708,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eendorsements.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eendorsements\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eendorsements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/eendorsements",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114709,
+                "time": "2018-03-10 12:39:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eendorsements.zip?timestamp=1520685571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eendorsements\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eendorsements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

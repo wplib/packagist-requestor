@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-total-amount-shortcode": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gf-total-amount-shortcode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151247,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-total-amount-shortcode.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-total-amount-shortcode\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-total-amount-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-total-amount-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151248,
+                "time": "2017-09-18 04:38:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-total-amount-shortcode.zip?timestamp=1505709514"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-total-amount-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-total-amount-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/helpr-agent": {
+            "1.0": {
+                "name": "wpackagist-plugin\/helpr-agent",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 164644,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helpr-agent.zip?timestamp=1535642552"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helpr-agent\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helpr-agent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/helpr-agent",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164645,
+                "time": "2018-08-30 15:22:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helpr-agent.zip?timestamp=1535642552"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helpr-agent\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helpr-agent\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

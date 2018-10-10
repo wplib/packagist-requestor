@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/postamp": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/postamp",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 265399,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postamp.zip?timestamp=1517499904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postamp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postamp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/postamp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 265400,
+                "time": "2018-02-01 15:45:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postamp.zip?timestamp=1517499904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postamp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postamp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

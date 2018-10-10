@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-to-menus-lite": {
+            "0.1": {
+                "name": "wpackagist-plugin\/add-to-menus-lite",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 7757,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-to-menus-lite.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-to-menus-lite\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-to-menus-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-to-menus-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 7758,
+                "time": "2016-05-21 14:26:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-to-menus-lite.zip?timestamp=1463840797"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-to-menus-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-to-menus-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

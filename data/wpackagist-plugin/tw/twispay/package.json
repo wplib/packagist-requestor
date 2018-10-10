@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/twispay": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/twispay",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 362641,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/twispay.zip?timestamp=1509055968"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/twispay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/twispay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/twispay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 362642,
+                "time": "2017-10-26 22:12:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/twispay.zip?timestamp=1509055968"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/twispay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/twispay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

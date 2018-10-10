@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dpabadbotwp": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dpabadbotwp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 104196,
+                "time": "2018-07-25 02:44:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dpabadbotwp.zip?timestamp=1532486676"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dpabadbotwp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dpabadbotwp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

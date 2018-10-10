@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/moderdonizer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/moderdonizer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 220681,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moderdonizer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moderdonizer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moderdonizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/moderdonizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 220682,
+                "time": "2017-11-02 20:15:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moderdonizer.zip?timestamp=1509653754"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moderdonizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moderdonizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

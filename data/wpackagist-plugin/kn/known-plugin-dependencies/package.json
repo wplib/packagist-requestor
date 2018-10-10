@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/known-plugin-dependencies": {
+            "0.1": {
+                "name": "wpackagist-plugin\/known-plugin-dependencies",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 190857,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/known-plugin-dependencies.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/known-plugin-dependencies\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/known-plugin-dependencies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/known-plugin-dependencies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190858,
+                "time": "2016-04-14 05:55:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/known-plugin-dependencies.zip?timestamp=1460613347"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/known-plugin-dependencies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/known-plugin-dependencies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

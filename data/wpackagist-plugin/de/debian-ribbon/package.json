@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debian-ribbon": {
+            "0.1": {
+                "name": "wpackagist-plugin\/debian-ribbon",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 95875,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debian-ribbon.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debian-ribbon\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debian-ribbon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debian-ribbon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95876,
+                "time": "2015-01-30 09:04:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debian-ribbon.zip?timestamp=1422608682"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debian-ribbon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debian-ribbon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

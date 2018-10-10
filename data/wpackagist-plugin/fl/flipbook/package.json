@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flipbook": {
+            "1.0": {
+                "name": "wpackagist-plugin\/flipbook",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 137194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flipbook.zip?timestamp=1435078194"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flipbook\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flipbook\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flipbook",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 137195,
+                "time": "2015-06-23 16:49:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flipbook.zip?timestamp=1435078194"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flipbook\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flipbook\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

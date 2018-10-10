@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-useful": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/post-useful",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 265132,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-useful.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-useful\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-useful\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-useful",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 265133,
+                "time": "2016-08-01 15:37:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-useful.zip?timestamp=1470065821"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-useful\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-useful\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

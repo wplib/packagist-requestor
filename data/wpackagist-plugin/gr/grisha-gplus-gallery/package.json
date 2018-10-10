@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/grisha-gplus-gallery": {
+            "4.3.1.2": {
+                "name": "wpackagist-plugin\/grisha-gplus-gallery",
+                "version": "4.3.1.2",
+                "version_normalized": "4.3.1.2",
+                "uid": 160474,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grisha-gplus-gallery.4.3.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grisha-gplus-gallery\/",
+                    "reference": "tags\/4.3.1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grisha-gplus-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/grisha-gplus-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160475,
+                "time": "2015-12-12 00:09:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grisha-gplus-gallery.zip?timestamp=1449878942"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grisha-gplus-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grisha-gplus-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

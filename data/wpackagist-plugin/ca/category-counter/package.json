@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/category-counter": {
+            "0.2": {
+                "name": "wpackagist-plugin\/category-counter",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 62585,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/category-counter.zip?timestamp=1427120608"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/category-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/category-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/category-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 62586,
+                "time": "2015-03-23 14:23:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/category-counter.zip?timestamp=1427120608"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/category-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/category-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

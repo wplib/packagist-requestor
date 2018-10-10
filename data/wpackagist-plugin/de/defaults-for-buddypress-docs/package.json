@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/defaults-for-buddypress-docs": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/defaults-for-buddypress-docs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 96656,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/defaults-for-buddypress-docs.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/defaults-for-buddypress-docs\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/defaults-for-buddypress-docs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/defaults-for-buddypress-docs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96657,
+                "time": "2018-02-04 19:55:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/defaults-for-buddypress-docs.zip?timestamp=1517774155"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/defaults-for-buddypress-docs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/defaults-for-buddypress-docs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

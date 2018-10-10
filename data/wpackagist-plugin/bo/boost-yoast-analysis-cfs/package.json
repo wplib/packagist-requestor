@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/boost-yoast-analysis-cfs": {
+            "1.0": {
+                "name": "wpackagist-plugin\/boost-yoast-analysis-cfs",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 48891,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boost-yoast-analysis-cfs.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boost-yoast-analysis-cfs\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boost-yoast-analysis-cfs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/boost-yoast-analysis-cfs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 48892,
+                "time": "2018-05-19 07:58:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boost-yoast-analysis-cfs.zip?timestamp=1526716716"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boost-yoast-analysis-cfs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boost-yoast-analysis-cfs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

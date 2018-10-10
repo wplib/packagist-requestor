@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comunas-de-chile-para-woocommerce": {
+            "0.1": {
+                "name": "wpackagist-plugin\/comunas-de-chile-para-woocommerce",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 77059,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comunas-de-chile-para-woocommerce.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comunas-de-chile-para-woocommerce\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comunas-de-chile-para-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comunas-de-chile-para-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77060,
+                "time": "2015-11-11 21:23:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comunas-de-chile-para-woocommerce.zip?timestamp=1447276991"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comunas-de-chile-para-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comunas-de-chile-para-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

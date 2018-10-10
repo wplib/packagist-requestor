@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hebrew-username": {
+            "1": {
+                "name": "wpackagist-plugin\/hebrew-username",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 164075,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hebrew-username.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hebrew-username\/",
+                    "reference": "tags\/1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hebrew-username\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hebrew-username",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164076,
+                "time": "2016-01-04 01:53:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hebrew-username.zip?timestamp=1451872396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hebrew-username\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hebrew-username\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

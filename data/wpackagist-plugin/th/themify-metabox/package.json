@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/themify-metabox": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/themify-metabox",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 352951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themify-metabox.zip?timestamp=1476745743"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themify-metabox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themify-metabox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/themify-metabox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352952,
+                "time": "2016-10-17 23:09:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themify-metabox.zip?timestamp=1476745743"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themify-metabox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themify-metabox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

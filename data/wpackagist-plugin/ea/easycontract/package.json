@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easycontract": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easycontract",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 111464,
+                "time": "2016-08-16 08:03:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easycontract.zip?timestamp=1471334618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easycontract\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easycontract\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

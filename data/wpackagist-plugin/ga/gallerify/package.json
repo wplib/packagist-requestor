@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gallerify": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gallerify",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 145888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gallerify.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gallerify\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gallerify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gallerify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 145889,
+                "time": "2015-07-13 19:08:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gallerify.zip?timestamp=1436814518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gallerify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gallerify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

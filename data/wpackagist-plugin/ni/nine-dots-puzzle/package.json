@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nine-dots-puzzle": {
+            "1.0": {
+                "name": "wpackagist-plugin\/nine-dots-puzzle",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 234980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nine-dots-puzzle.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nine-dots-puzzle\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nine-dots-puzzle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nine-dots-puzzle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234981,
+                "time": "2017-10-18 13:09:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nine-dots-puzzle.zip?timestamp=1508332174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nine-dots-puzzle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nine-dots-puzzle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

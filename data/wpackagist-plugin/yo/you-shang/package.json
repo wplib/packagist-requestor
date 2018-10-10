@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/you-shang": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/you-shang",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 449997,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/you-shang.zip?timestamp=1535878906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/you-shang\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/you-shang\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/you-shang",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 449998,
+                "time": "2018-09-02 09:01:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/you-shang.zip?timestamp=1535878906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/you-shang\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/you-shang\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facebook-conversion-pixel": {
+            "2.4.0": {
+                "name": "wpackagist-plugin\/facebook-conversion-pixel",
+                "version": "2.4.0",
+                "version_normalized": "2.4.0.0",
+                "uid": 127474,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-conversion-pixel.2.4.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-conversion-pixel\/",
+                    "reference": "tags\/2.4.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-conversion-pixel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facebook-conversion-pixel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 127475,
+                "time": "2018-03-19 07:29:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-conversion-pixel.zip?timestamp=1521444592"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-conversion-pixel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-conversion-pixel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cp-image-store": {
+            "1.0.35": {
+                "name": "wpackagist-plugin\/cp-image-store",
+                "version": "1.0.35",
+                "version_normalized": "1.0.35.0",
+                "uid": 84826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-image-store.1.0.35.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-image-store\/",
+                    "reference": "tags\/1.0.35"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-image-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cp-image-store",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84827,
+                "time": "2018-09-10 15:55:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-image-store.zip?timestamp=1536594907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-image-store\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-image-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/negotiabl-woocommerce-extension": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/negotiabl-woocommerce-extension",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 229981,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/negotiabl-woocommerce-extension.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/negotiabl-woocommerce-extension\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/negotiabl-woocommerce-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/negotiabl-woocommerce-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229982,
+                "time": "2018-04-29 08:03:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/negotiabl-woocommerce-extension.zip?timestamp=1524989015"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/negotiabl-woocommerce-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/negotiabl-woocommerce-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/brand-demo-import": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/brand-demo-import",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 51443,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brand-demo-import.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brand-demo-import\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brand-demo-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/brand-demo-import",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51444,
+                "time": "2017-11-15 10:14:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brand-demo-import.zip?timestamp=1510740870"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brand-demo-import\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brand-demo-import\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

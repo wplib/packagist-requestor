@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wc-easycredit": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/wc-easycredit",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 380363,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-easycredit.1.4.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-easycredit\/",
+                    "reference": "tags\/1.4.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-easycredit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wc-easycredit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 380364,
+                "time": "2018-08-29 16:23:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wc-easycredit.zip?timestamp=1535559790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wc-easycredit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wc-easycredit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

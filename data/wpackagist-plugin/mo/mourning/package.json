@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mourning": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/mourning",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 222621,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mourning.zip?timestamp=1507213791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mourning\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mourning\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mourning",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222622,
+                "time": "2017-10-05 14:29:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mourning.zip?timestamp=1507213791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mourning\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mourning\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

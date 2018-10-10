@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/music-store": {
+            "1.0.111": {
+                "name": "wpackagist-plugin\/music-store",
+                "version": "1.0.111",
+                "version_normalized": "1.0.111.0",
+                "uid": 225904,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/music-store.1.0.111.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/music-store\/",
+                    "reference": "tags\/1.0.111"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/music-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/music-store",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225905,
+                "time": "2018-10-04 21:57:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/music-store.zip?timestamp=1538690226"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/music-store\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/music-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

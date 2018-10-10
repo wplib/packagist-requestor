@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shopgate-connector": {
+            "2.9.0": {
+                "name": "wpackagist-plugin\/shopgate-connector",
+                "version": "2.9.0",
+                "version_normalized": "2.9.0.0",
+                "uid": 309250,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopgate-connector.2.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopgate-connector\/",
+                    "reference": "tags\/2.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopgate-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shopgate-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 309251,
+                "time": "2016-04-27 11:01:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopgate-connector.zip?timestamp=1461754879"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopgate-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopgate-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

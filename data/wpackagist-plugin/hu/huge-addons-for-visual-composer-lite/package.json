@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/huge-addons-for-visual-composer-lite": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/huge-addons-for-visual-composer-lite",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 169145,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/huge-addons-for-visual-composer-lite.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/huge-addons-for-visual-composer-lite\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/huge-addons-for-visual-composer-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/huge-addons-for-visual-composer-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169146,
+                "time": "2018-01-10 04:00:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/huge-addons-for-visual-composer-lite.zip?timestamp=1515556827"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/huge-addons-for-visual-composer-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/huge-addons-for-visual-composer-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

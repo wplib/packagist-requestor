@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nzymes": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/nzymes",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 238772,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nzymes.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nzymes\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nzymes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nzymes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238773,
+                "time": "2017-05-29 14:51:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nzymes.zip?timestamp=1496069512"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nzymes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nzymes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

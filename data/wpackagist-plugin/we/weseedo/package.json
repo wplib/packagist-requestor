@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weseedo": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/weseedo",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 384764,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weseedo.zip?timestamp=1505218509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weseedo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weseedo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weseedo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384765,
+                "time": "2017-09-12 12:15:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weseedo.zip?timestamp=1505218509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weseedo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weseedo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

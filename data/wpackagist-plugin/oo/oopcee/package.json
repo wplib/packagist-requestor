@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oopcee": {
+            "1.02": {
+                "name": "wpackagist-plugin\/oopcee",
+                "version": "1.02",
+                "version_normalized": "1.02.0.0",
+                "uid": 242707,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oopcee.zip?timestamp=1487250572"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oopcee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oopcee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oopcee",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242708,
+                "time": "2017-02-16 13:09:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oopcee.zip?timestamp=1487250572"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oopcee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oopcee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

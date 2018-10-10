@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daskal": {
+            "0.6.6": {
+                "name": "wpackagist-plugin\/daskal",
+                "version": "0.6.6",
+                "version_normalized": "0.6.6.0",
+                "uid": 94612,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daskal.zip?timestamp=1453209344"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daskal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daskal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daskal",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94613,
+                "time": "2016-01-19 13:15:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daskal.zip?timestamp=1453209344"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daskal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daskal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debug-media": {
+            "0.3.0": {
+                "name": "wpackagist-plugin\/debug-media",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "uid": 96117,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-media.zip?timestamp=1481168315"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-media\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-media\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debug-media",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96118,
+                "time": "2016-12-08 03:38:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-media.zip?timestamp=1481168315"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-media\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-media\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

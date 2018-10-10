@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crypto2bgn": {
+            "0.8": {
+                "name": "wpackagist-plugin\/crypto2bgn",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 86783,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crypto2bgn.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crypto2bgn\/",
+                    "reference": "tags\/0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crypto2bgn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crypto2bgn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86784,
+                "time": "2018-05-01 11:20:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crypto2bgn.zip?timestamp=1525173648"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crypto2bgn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crypto2bgn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

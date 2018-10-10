@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/control-xml-rpc-publishing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/control-xml-rpc-publishing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 81764,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/control-xml-rpc-publishing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/control-xml-rpc-publishing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/control-xml-rpc-publishing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/control-xml-rpc-publishing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 81765,
+                "time": "2015-12-04 05:51:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/control-xml-rpc-publishing.zip?timestamp=1449208293"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/control-xml-rpc-publishing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/control-xml-rpc-publishing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

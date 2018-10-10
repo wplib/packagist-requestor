@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forminator": {
+            "1.5.1": {
+                "name": "wpackagist-plugin\/forminator",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "uid": 140721,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forminator.1.5.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forminator\/",
+                    "reference": "tags\/1.5.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forminator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.5.2": {
+                "name": "wpackagist-plugin\/forminator",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "uid": 140722,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forminator.1.5.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forminator\/",
+                    "reference": "tags\/1.5.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forminator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forminator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140723,
+                "time": "2018-09-25 17:45:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forminator.zip?timestamp=1537897502"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forminator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forminator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

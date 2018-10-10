@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cedar-map": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/cedar-map",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 64291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cedar-map.zip?timestamp=1535393472"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cedar-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cedar-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cedar-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 64292,
+                "time": "2018-08-27 18:11:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cedar-map.zip?timestamp=1535393472"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cedar-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cedar-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

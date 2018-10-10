@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-gutenberg-blocks": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ultimate-gutenberg-blocks",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 365930,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-gutenberg-blocks.zip?timestamp=1535451275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-gutenberg-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-gutenberg-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-gutenberg-blocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 365931,
+                "time": "2018-08-28 10:14:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-gutenberg-blocks.zip?timestamp=1535451275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-gutenberg-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-gutenberg-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

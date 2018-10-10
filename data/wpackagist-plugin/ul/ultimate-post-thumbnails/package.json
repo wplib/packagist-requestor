@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-post-thumbnails": {
+            "2.1": {
+                "name": "wpackagist-plugin\/ultimate-post-thumbnails",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 366410,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-post-thumbnails.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-post-thumbnails\/",
+                    "reference": "tags\/2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-post-thumbnails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-post-thumbnails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 366411,
+                "time": "2017-01-15 05:53:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-post-thumbnails.zip?timestamp=1484459582"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-post-thumbnails\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-post-thumbnails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

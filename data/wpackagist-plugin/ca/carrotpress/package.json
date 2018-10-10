@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/carrotpress": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/carrotpress",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 60961,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrotpress.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrotpress\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrotpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/carrotpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 60962,
+                "time": "2018-05-31 14:58:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrotpress.zip?timestamp=1527778719"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrotpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrotpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

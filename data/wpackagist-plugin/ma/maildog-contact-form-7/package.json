@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/maildog-contact-form-7": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/maildog-contact-form-7",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206885,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maildog-contact-form-7.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maildog-contact-form-7\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maildog-contact-form-7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/maildog-contact-form-7",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206886,
+                "time": "2018-06-14 22:52:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maildog-contact-form-7.zip?timestamp=1529016735"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maildog-contact-form-7\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maildog-contact-form-7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

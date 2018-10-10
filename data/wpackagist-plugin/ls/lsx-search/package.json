@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lsx-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/lsx-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204404,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lsx-search.zip?timestamp=1524737683"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lsx-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lsx-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lsx-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204405,
+                "time": "2018-04-26 10:14:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lsx-search.zip?timestamp=1524737683"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lsx-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lsx-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-headers": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/add-headers",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 7104,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-headers.2.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-headers\/",
+                    "reference": "tags\/2.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-headers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-headers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 7105,
+                "time": "2016-10-16 18:36:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-headers.zip?timestamp=1476642978"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-headers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-headers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

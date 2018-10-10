@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bvalidator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bvalidator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 57905,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bvalidator.zip?timestamp=1483286636"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bvalidator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bvalidator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bvalidator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 57906,
+                "time": "2017-01-01 16:03:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bvalidator.zip?timestamp=1483286636"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bvalidator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bvalidator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

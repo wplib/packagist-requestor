@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/real-user-monitoring": {
+            "1.0": {
+                "name": "wpackagist-plugin\/real-user-monitoring",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 282643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-user-monitoring.zip?timestamp=1457511325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-user-monitoring\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-user-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/real-user-monitoring",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 282644,
+                "time": "2016-03-09 08:15:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-user-monitoring.zip?timestamp=1457511325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-user-monitoring\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-user-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

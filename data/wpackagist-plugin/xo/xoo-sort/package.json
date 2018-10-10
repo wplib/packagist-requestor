@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/xoo-sort": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/xoo-sort",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 446739,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xoo-sort.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xoo-sort\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xoo-sort\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/xoo-sort",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 446740,
+                "time": "2018-01-09 19:56:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xoo-sort.zip?timestamp=1515527764"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xoo-sort\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xoo-sort\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ads-after-first-paragraph": {
+            "1.1": {
+                "name": "wpackagist-plugin\/ads-after-first-paragraph",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 10548,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ads-after-first-paragraph.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ads-after-first-paragraph\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ads-after-first-paragraph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ads-after-first-paragraph",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 10549,
+                "time": "2017-09-12 08:04:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ads-after-first-paragraph.zip?timestamp=1505203485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ads-after-first-paragraph\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ads-after-first-paragraph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

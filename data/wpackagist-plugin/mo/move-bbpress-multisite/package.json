@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/move-bbpress-multisite": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/move-bbpress-multisite",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 222716,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/move-bbpress-multisite.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/move-bbpress-multisite\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/move-bbpress-multisite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/move-bbpress-multisite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222717,
+                "time": "2017-02-24 18:21:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/move-bbpress-multisite.zip?timestamp=1487960468"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/move-bbpress-multisite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/move-bbpress-multisite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

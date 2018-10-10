@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hindsight": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/hindsight",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 166012,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hindsight.zip?timestamp=1468963943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hindsight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hindsight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hindsight",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166013,
+                "time": "2016-07-19 21:32:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hindsight.zip?timestamp=1468963943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hindsight\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hindsight\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

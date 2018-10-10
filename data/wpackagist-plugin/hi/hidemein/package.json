@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hidemein": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/hidemein",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 165600,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hidemein.zip?timestamp=1510660042"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hidemein\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hidemein\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hidemein",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165601,
+                "time": "2017-11-14 11:47:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hidemein.zip?timestamp=1510660042"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hidemein\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hidemein\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

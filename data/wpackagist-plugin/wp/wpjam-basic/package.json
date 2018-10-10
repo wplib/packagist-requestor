@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpjam-basic": {
+            "3.3": {
+                "name": "wpackagist-plugin\/wpjam-basic",
+                "version": "3.3",
+                "version_normalized": "3.3.0.0",
+                "uid": 441845,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpjam-basic.zip?timestamp=1539095222"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpjam-basic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpjam-basic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpjam-basic",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441846,
+                "time": "2018-10-09 14:27:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpjam-basic.zip?timestamp=1539095222"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpjam-basic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpjam-basic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

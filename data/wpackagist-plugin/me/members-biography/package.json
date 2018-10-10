@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/members-biography": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/members-biography",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 214108,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-biography.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-biography\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-biography\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/members-biography",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214109,
+                "time": "2016-01-09 10:43:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-biography.zip?timestamp=1452336197"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-biography\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-biography\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

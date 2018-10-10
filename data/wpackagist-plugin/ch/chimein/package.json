@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chimein": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/chimein",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 67559,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chimein.zip?timestamp=1478537498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chimein\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chimein\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chimein",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 67560,
+                "time": "2016-11-07 16:51:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chimein.zip?timestamp=1478537498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chimein\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chimein\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

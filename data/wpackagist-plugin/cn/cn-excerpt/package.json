@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cn-excerpt": {
+            "4.4.1": {
+                "name": "wpackagist-plugin\/cn-excerpt",
+                "version": "4.4.1",
+                "version_normalized": "4.4.1.0",
+                "uid": 72382,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cn-excerpt.zip?timestamp=1453445541"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cn-excerpt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cn-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cn-excerpt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72383,
+                "time": "2016-01-22 06:52:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cn-excerpt.zip?timestamp=1453445541"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cn-excerpt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cn-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

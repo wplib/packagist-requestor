@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bluestem-authentication": {
+            "0.6.1": {
+                "name": "wpackagist-plugin\/bluestem-authentication",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "uid": 46251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bluestem-authentication.zip?timestamp=1510611687"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bluestem-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bluestem-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bluestem-authentication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 46252,
+                "time": "2017-11-13 22:21:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bluestem-authentication.zip?timestamp=1510611687"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bluestem-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bluestem-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

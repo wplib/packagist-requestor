@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clicker-counter": {
+            "2.2.4": {
+                "name": "wpackagist-plugin\/clicker-counter",
+                "version": "2.2.4",
+                "version_normalized": "2.2.4.0",
+                "uid": 70966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clicker-counter.zip?timestamp=1471427581"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clicker-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clicker-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clicker-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70967,
+                "time": "2016-08-17 09:53:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clicker-counter.zip?timestamp=1471427581"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clicker-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clicker-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

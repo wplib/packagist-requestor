@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ha-banners": {
+            "1.1": {
+                "name": "wpackagist-plugin\/ha-banners",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 161862,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ha-banners.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ha-banners\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ha-banners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ha-banners",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161863,
+                "time": "2016-08-04 09:44:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ha-banners.zip?timestamp=1470303849"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ha-banners\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ha-banners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

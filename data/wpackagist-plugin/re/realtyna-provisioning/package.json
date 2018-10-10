@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/realtyna-provisioning": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/realtyna-provisioning",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 283166,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/realtyna-provisioning.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/realtyna-provisioning\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/realtyna-provisioning\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/realtyna-provisioning",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 283167,
+                "time": "2018-08-02 15:31:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/realtyna-provisioning.zip?timestamp=1533223885"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/realtyna-provisioning\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/realtyna-provisioning\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

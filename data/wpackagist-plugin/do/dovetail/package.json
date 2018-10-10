@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dovetail": {
+            "1.2.13": {
+                "name": "wpackagist-plugin\/dovetail",
+                "version": "1.2.13",
+                "version_normalized": "1.2.13.0",
+                "uid": 103892,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dovetail.zip?timestamp=1502728291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dovetail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dovetail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dovetail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103893,
+                "time": "2017-08-14 16:31:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dovetail.zip?timestamp=1502728291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dovetail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dovetail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

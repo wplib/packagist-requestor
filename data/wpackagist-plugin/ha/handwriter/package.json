@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/handwriter": {
+            "1.01": {
+                "name": "wpackagist-plugin\/handwriter",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 162454,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/handwriter.zip?timestamp=1510911032"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/handwriter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/handwriter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/handwriter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 162455,
+                "time": "2017-11-17 09:30:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/handwriter.zip?timestamp=1510911032"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/handwriter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/handwriter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

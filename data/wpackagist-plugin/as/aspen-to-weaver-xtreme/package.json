@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aspen-to-weaver-xtreme": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aspen-to-weaver-xtreme",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aspen-to-weaver-xtreme.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aspen-to-weaver-xtreme\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aspen-to-weaver-xtreme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aspen-to-weaver-xtreme",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27621,
+                "time": "2015-02-26 22:43:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aspen-to-weaver-xtreme.zip?timestamp=1424990630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aspen-to-weaver-xtreme\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aspen-to-weaver-xtreme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

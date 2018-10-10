@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-reports": {
+            "1.0.8": {
+                "name": "wpackagist-plugin\/wp-reports",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "uid": 429247,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-reports.1.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-reports\/",
+                    "reference": "tags\/1.0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-reports",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 429248,
+                "time": "2017-11-07 06:56:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-reports.zip?timestamp=1510037813"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-reports\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

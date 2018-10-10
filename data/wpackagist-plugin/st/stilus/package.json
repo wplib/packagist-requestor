@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stilus": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/stilus",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337181,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stilus.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stilus\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stilus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stilus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337182,
+                "time": "2018-02-22 13:00:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stilus.zip?timestamp=1519304445"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stilus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stilus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

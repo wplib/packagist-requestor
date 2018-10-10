@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hide-jetpack-promotions": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/hide-jetpack-promotions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 165375,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-jetpack-promotions.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-jetpack-promotions\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-jetpack-promotions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hide-jetpack-promotions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165376,
+                "time": "2017-11-13 21:25:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-jetpack-promotions.zip?timestamp=1510608344"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-jetpack-promotions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-jetpack-promotions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

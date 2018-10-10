@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-dalek": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hello-dalek",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 164307,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-dalek.zip?timestamp=1427486289"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-dalek\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-dalek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-dalek",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164308,
+                "time": "2015-03-27 19:58:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-dalek.zip?timestamp=1427486289"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-dalek\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-dalek\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

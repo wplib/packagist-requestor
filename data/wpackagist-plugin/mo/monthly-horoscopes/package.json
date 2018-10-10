@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monthly-horoscopes": {
+            "1.0": {
+                "name": "wpackagist-plugin\/monthly-horoscopes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 221721,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monthly-horoscopes.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monthly-horoscopes\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monthly-horoscopes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monthly-horoscopes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221722,
+                "time": "2018-08-18 05:45:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monthly-horoscopes.zip?timestamp=1534571146"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monthly-horoscopes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monthly-horoscopes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

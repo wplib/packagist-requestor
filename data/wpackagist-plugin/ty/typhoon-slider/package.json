@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/typhoon-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/typhoon-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 364496,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/typhoon-slider.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/typhoon-slider\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/typhoon-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/typhoon-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364497,
+                "time": "2016-03-28 14:28:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/typhoon-slider.zip?timestamp=1459175293"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/typhoon-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/typhoon-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/author-profiles": {
+            "1.5": {
+                "name": "wpackagist-plugin\/author-profiles",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 29853,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/author-profiles.zip?timestamp=1535644467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/author-profiles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/author-profiles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/author-profiles",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29854,
+                "time": "2018-08-30 15:54:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/author-profiles.zip?timestamp=1535644467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/author-profiles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/author-profiles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

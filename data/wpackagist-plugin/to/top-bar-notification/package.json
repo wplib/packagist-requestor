@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/top-bar-notification": {
+            "1.11": {
+                "name": "wpackagist-plugin\/top-bar-notification",
+                "version": "1.11",
+                "version_normalized": "1.11.0.0",
+                "uid": 357205,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/top-bar-notification.1.11.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/top-bar-notification\/",
+                    "reference": "tags\/1.11"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/top-bar-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/top-bar-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 357206,
+                "time": "2018-09-03 18:25:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/top-bar-notification.zip?timestamp=1535999152"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/top-bar-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/top-bar-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

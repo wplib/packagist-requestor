@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/event-creator": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/event-creator",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 122936,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/event-creator.zip?timestamp=1511266097"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/event-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/event-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/event-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122937,
+                "time": "2017-11-21 12:08:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/event-creator.zip?timestamp=1511266097"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/event-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/event-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

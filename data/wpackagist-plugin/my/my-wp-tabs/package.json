@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-wp-tabs": {
+            "1.0": {
+                "name": "wpackagist-plugin\/my-wp-tabs",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 227708,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-tabs.zip?timestamp=1481559102"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-tabs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-wp-tabs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227709,
+                "time": "2016-12-12 16:11:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-tabs.zip?timestamp=1481559102"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-tabs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

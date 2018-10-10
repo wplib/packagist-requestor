@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quatriceps": {
+            "1.1.3": {
+                "name": "wpackagist-plugin\/quatriceps",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "uid": 275888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quatriceps.zip?timestamp=1469377710"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quatriceps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quatriceps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quatriceps",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 275889,
+                "time": "2016-07-24 16:28:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quatriceps.zip?timestamp=1469377710"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quatriceps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quatriceps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

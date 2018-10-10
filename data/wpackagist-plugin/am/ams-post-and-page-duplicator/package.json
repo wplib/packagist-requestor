@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ams-post-and-page-duplicator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ams-post-and-page-duplicator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 21491,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ams-post-and-page-duplicator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ams-post-and-page-duplicator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ams-post-and-page-duplicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ams-post-and-page-duplicator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21492,
+                "time": "2016-12-20 13:22:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ams-post-and-page-duplicator.zip?timestamp=1482240140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ams-post-and-page-duplicator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ams-post-and-page-duplicator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

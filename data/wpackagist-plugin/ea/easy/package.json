@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy": {
+            "0.9.9.3": {
+                "name": "wpackagist-plugin\/easy",
+                "version": "0.9.9.3",
+                "version_normalized": "0.9.9.3",
+                "uid": 107644,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy.zip?timestamp=1468448751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107645,
+                "time": "2016-07-13 22:25:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy.zip?timestamp=1468448751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/print-api": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/print-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 268921,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/print-api.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/print-api\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/print-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/print-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268922,
+                "time": "2016-09-20 12:58:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/print-api.zip?timestamp=1474376303"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/print-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/print-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

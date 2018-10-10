@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/passive-indexation-check": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/passive-indexation-check",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 249938,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passive-indexation-check.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passive-indexation-check\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passive-indexation-check\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/passive-indexation-check",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249939,
+                "time": "2016-02-09 16:15:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passive-indexation-check.zip?timestamp=1455034505"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passive-indexation-check\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passive-indexation-check\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

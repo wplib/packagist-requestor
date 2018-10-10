@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-checkout-message": {
+            "1.0.7": {
+                "name": "wpackagist-plugin\/edd-checkout-message",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "uid": 113300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-checkout-message.1.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-checkout-message\/",
+                    "reference": "tags\/1.0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-checkout-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-checkout-message",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113301,
+                "time": "2017-09-15 15:40:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-checkout-message.zip?timestamp=1505490037"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-checkout-message\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-checkout-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

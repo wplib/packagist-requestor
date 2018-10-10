@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sms-notification": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sms-notification",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 326217,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sms-notification.zip?timestamp=1530353843"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sms-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sms-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sms-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 326218,
+                "time": "2018-06-30 10:17:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sms-notification.zip?timestamp=1530353843"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sms-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sms-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-book-chapter-tab": {
+            "3.0.0": {
+                "name": "wpackagist-plugin\/woo-book-chapter-tab",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 388938,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-book-chapter-tab.3.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-book-chapter-tab\/",
+                    "reference": "tags\/3.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-book-chapter-tab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-book-chapter-tab",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 388939,
+                "time": "2018-06-15 05:03:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-book-chapter-tab.zip?timestamp=1529039010"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-book-chapter-tab\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-book-chapter-tab\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

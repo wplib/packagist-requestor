@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aliprice": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aliprice",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 17631,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aliprice.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aliprice\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aliprice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aliprice",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 17632,
+                "time": "2017-08-09 01:34:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aliprice.zip?timestamp=1502242490"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aliprice\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aliprice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

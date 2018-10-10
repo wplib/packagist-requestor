@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pray-in-life": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pray-in-life",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 267155,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pray-in-life.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pray-in-life\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pray-in-life\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pray-in-life",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267156,
+                "time": "2017-09-27 08:08:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pray-in-life.zip?timestamp=1506499732"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pray-in-life\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pray-in-life\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

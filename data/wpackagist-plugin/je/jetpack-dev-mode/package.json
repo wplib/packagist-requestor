@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jetpack-dev-mode": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/jetpack-dev-mode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 183373,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-dev-mode.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-dev-mode\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-dev-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.1": {
+                "name": "wpackagist-plugin\/jetpack-dev-mode",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 183374,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-dev-mode.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-dev-mode\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-dev-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jetpack-dev-mode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183375,
+                "time": "2016-01-26 01:15:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetpack-dev-mode.zip?timestamp=1453770929"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetpack-dev-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetpack-dev-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

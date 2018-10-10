@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/strong-authentication": {
+            "1.2": {
+                "name": "wpackagist-plugin\/strong-authentication",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 338944,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/strong-authentication.zip?timestamp=1472668280"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/strong-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/strong-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/strong-authentication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338945,
+                "time": "2016-08-31 18:31:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/strong-authentication.zip?timestamp=1472668280"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/strong-authentication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/strong-authentication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

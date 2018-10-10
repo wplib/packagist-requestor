@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpmerchant": {
+            "2.0.5": {
+                "name": "wpackagist-plugin\/wpmerchant",
+                "version": "2.0.5",
+                "version_normalized": "2.0.5.0",
+                "uid": 442318,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmerchant.zip?timestamp=1512628202"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmerchant\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmerchant\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpmerchant",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442319,
+                "time": "2017-12-07 06:30:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmerchant.zip?timestamp=1512628202"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmerchant\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmerchant\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

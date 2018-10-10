@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bliptv-admin-menu": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bliptv-admin-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43777,
+                "time": "2015-05-27 15:30:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bliptv-admin-menu.zip?timestamp=1432740625"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bliptv-admin-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bliptv-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

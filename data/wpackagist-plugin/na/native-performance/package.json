@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/native-performance": {
+            "1.0": {
+                "name": "wpackagist-plugin\/native-performance",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 229324,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-performance.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-performance\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-performance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/native-performance",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229325,
+                "time": "2017-11-03 03:09:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-performance.zip?timestamp=1509678589"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-performance\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-performance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

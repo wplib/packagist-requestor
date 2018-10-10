@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pw-advanced-woo-reporting-free-version": {
+            "2.1": {
+                "name": "wpackagist-plugin\/pw-advanced-woo-reporting-free-version",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 274415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pw-advanced-woo-reporting-free-version.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pw-advanced-woo-reporting-free-version\/",
+                    "reference": "tags\/2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pw-advanced-woo-reporting-free-version\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pw-advanced-woo-reporting-free-version",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274416,
+                "time": "2017-07-04 14:19:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pw-advanced-woo-reporting-free-version.zip?timestamp=1499177996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pw-advanced-woo-reporting-free-version\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pw-advanced-woo-reporting-free-version\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

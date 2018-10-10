@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/storerocket-store-locator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/storerocket-store-locator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 338154,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/storerocket-store-locator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/storerocket-store-locator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/storerocket-store-locator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/storerocket-store-locator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338155,
+                "time": "2018-07-09 02:11:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/storerocket-store-locator.zip?timestamp=1531102266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/storerocket-store-locator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/storerocket-store-locator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/protect-login-page": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/protect-login-page",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 272432,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/protect-login-page.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/protect-login-page\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/protect-login-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/protect-login-page",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 272433,
+                "time": "2018-06-14 18:25:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/protect-login-page.zip?timestamp=1529000734"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/protect-login-page\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/protect-login-page\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

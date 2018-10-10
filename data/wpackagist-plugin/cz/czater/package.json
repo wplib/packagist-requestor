@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/czater": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/czater",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 93232,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/czater.zip?timestamp=1519042675"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/czater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/czater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/czater",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93233,
+                "time": "2018-02-19 12:17:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/czater.zip?timestamp=1519042675"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/czater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/czater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

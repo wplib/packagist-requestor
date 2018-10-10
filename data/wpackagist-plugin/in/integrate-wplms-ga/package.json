@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/integrate-wplms-ga": {
+            "1.0": {
+                "name": "wpackagist-plugin\/integrate-wplms-ga",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 178962,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrate-wplms-ga.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrate-wplms-ga\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrate-wplms-ga\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/integrate-wplms-ga",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178963,
+                "time": "2017-04-21 06:59:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrate-wplms-ga.zip?timestamp=1492757984"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrate-wplms-ga\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrate-wplms-ga\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

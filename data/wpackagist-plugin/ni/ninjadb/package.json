@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ninjadb": {
+            "0.8": {
+                "name": "wpackagist-plugin\/ninjadb",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 235232,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ninjadb.zip?timestamp=1506490592"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ninjadb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ninjadb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ninjadb",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 235233,
+                "time": "2017-09-27 05:36:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ninjadb.zip?timestamp=1506490592"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ninjadb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ninjadb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

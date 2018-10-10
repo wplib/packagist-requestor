@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/what-the-wp": {
+            "0.5": {
+                "name": "wpackagist-plugin\/what-the-wp",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 384981,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-the-wp.zip?timestamp=1517857520"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-the-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-the-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/what-the-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384982,
+                "time": "2018-02-05 19:05:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-the-wp.zip?timestamp=1517857520"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-the-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-the-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

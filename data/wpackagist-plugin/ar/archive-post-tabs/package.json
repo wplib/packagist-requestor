@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/archive-post-tabs": {
+            "1.0": {
+                "name": "wpackagist-plugin\/archive-post-tabs",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 25707,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/archive-post-tabs.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/archive-post-tabs\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/archive-post-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/archive-post-tabs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25708,
+                "time": "2018-01-20 19:04:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/archive-post-tabs.zip?timestamp=1516475059"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/archive-post-tabs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/archive-post-tabs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

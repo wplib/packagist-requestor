@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flex-e-panel": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/flex-e-panel",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 135973,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flex-e-panel.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flex-e-panel\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flex-e-panel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flex-e-panel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 135974,
+                "time": "2018-02-17 02:47:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flex-e-panel.zip?timestamp=1518835677"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flex-e-panel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flex-e-panel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

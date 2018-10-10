@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/moonify": {
+            "0.2": {
+                "name": "wpackagist-plugin\/moonify",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 221945,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moonify.zip?timestamp=1516802653"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moonify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moonify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/moonify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221946,
+                "time": "2018-01-24 14:04:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moonify.zip?timestamp=1516802653"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moonify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moonify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bukazu-search-widget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/bukazu-search-widget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 55608,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bukazu-search-widget.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bukazu-search-widget\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bukazu-search-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bukazu-search-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55609,
+                "time": "2018-08-17 07:26:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bukazu-search-widget.zip?timestamp=1534490765"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bukazu-search-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bukazu-search-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

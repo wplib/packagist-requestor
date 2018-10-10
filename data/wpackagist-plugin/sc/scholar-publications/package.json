@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scholar-publications": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/scholar-publications",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 300339,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scholar-publications.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scholar-publications\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scholar-publications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scholar-publications",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300340,
+                "time": "2016-07-03 14:22:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scholar-publications.zip?timestamp=1467555756"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scholar-publications\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scholar-publications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

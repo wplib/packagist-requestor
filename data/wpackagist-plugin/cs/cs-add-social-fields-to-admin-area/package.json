@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cs-add-social-fields-to-admin-area": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cs-add-social-fields-to-admin-area",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 86984,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-add-social-fields-to-admin-area.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-add-social-fields-to-admin-area\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-add-social-fields-to-admin-area\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cs-add-social-fields-to-admin-area",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86985,
+                "time": "2017-07-31 05:25:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-add-social-fields-to-admin-area.zip?timestamp=1501478731"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-add-social-fields-to-admin-area\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-add-social-fields-to-admin-area\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/thorium-extension": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/thorium-extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 353517,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thorium-extension.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thorium-extension\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thorium-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/thorium-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 353518,
+                "time": "2017-11-07 12:03:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thorium-extension.zip?timestamp=1510056228"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thorium-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thorium-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

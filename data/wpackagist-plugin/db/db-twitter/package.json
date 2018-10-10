@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/db-twitter": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/db-twitter",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 95401,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/db-twitter.zip?timestamp=1462830239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/db-twitter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/db-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/db-twitter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95402,
+                "time": "2016-05-09 21:43:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/db-twitter.zip?timestamp=1462830239"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/db-twitter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/db-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

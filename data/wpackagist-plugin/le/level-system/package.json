@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/level-system": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/level-system",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 195943,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/level-system.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/level-system\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/level-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/level-system",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195944,
+                "time": "2018-08-30 21:35:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/level-system.zip?timestamp=1535664953"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/level-system\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/level-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

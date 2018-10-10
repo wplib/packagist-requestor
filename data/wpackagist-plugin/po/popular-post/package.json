@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/popular-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/popular-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 261351,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popular-post.zip?timestamp=1464107300"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popular-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popular-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/popular-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 261352,
+                "time": "2016-05-24 16:28:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popular-post.zip?timestamp=1464107300"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popular-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popular-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

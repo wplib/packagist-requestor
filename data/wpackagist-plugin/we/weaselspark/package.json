@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weaselspark": {
+            "1.0": {
+                "name": "wpackagist-plugin\/weaselspark",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 382110,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weaselspark.zip?timestamp=1483613518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weaselspark\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weaselspark\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weaselspark",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382111,
+                "time": "2017-01-05 10:51:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weaselspark.zip?timestamp=1483613518"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weaselspark\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weaselspark\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

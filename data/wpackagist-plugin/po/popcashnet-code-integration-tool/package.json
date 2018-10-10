@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/popcashnet-code-integration-tool": {
+            "1.1": {
+                "name": "wpackagist-plugin\/popcashnet-code-integration-tool",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 261201,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popcashnet-code-integration-tool.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popcashnet-code-integration-tool\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popcashnet-code-integration-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/popcashnet-code-integration-tool",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 261202,
+                "time": "2017-10-16 08:11:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/popcashnet-code-integration-tool.zip?timestamp=1508141519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/popcashnet-code-integration-tool\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/popcashnet-code-integration-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

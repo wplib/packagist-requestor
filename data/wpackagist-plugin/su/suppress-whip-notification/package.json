@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/suppress-whip-notification": {
+            "1.0": {
+                "name": "wpackagist-plugin\/suppress-whip-notification",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 342429,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/suppress-whip-notification.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/suppress-whip-notification\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/suppress-whip-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/suppress-whip-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342430,
+                "time": "2018-02-06 16:50:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/suppress-whip-notification.zip?timestamp=1517935842"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/suppress-whip-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/suppress-whip-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

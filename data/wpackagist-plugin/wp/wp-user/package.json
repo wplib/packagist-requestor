@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-user": {
+            "4.3": {
+                "name": "wpackagist-plugin\/wp-user",
+                "version": "4.3",
+                "version_normalized": "4.3.0.0",
+                "uid": 437647,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-user.zip?timestamp=1518514665"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-user\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-user\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.9.7": {
+                "name": "wpackagist-plugin\/wp-user",
+                "version": "2.9.7",
+                "version_normalized": "2.9.7.0",
+                "uid": 437648,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-user.2.9.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-user\/",
+                    "reference": "tags\/2.9.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-user\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-user",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437649,
+                "time": "2018-02-13 09:37:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-user.zip?timestamp=1518514665"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-user\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-user\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

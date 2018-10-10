@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/grid-slider-carousel-for-woocommerce": {
+            "1.0": {
+                "name": "wpackagist-plugin\/grid-slider-carousel-for-woocommerce",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 160180,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grid-slider-carousel-for-woocommerce.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grid-slider-carousel-for-woocommerce\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grid-slider-carousel-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/grid-slider-carousel-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160181,
+                "time": "2016-05-11 03:17:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grid-slider-carousel-for-woocommerce.zip?timestamp=1462936634"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grid-slider-carousel-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grid-slider-carousel-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

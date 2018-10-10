@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/content-analytics-by-verlico": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/content-analytics-by-verlico",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 80433,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-analytics-by-verlico.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-analytics-by-verlico\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-analytics-by-verlico\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/content-analytics-by-verlico",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 80434,
+                "time": "2015-04-20 22:22:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-analytics-by-verlico.zip?timestamp=1429568555"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-analytics-by-verlico\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-analytics-by-verlico\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

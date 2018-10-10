@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpads": {
+            "0.3": {
+                "name": "wpackagist-plugin\/wpads",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 439673,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpads.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpads\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.3.1": {
+                "name": "wpackagist-plugin\/wpads",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "uid": 439674,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpads.0.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpads\/",
+                    "reference": "tags\/0.3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439675,
+                "time": "2018-04-26 16:36:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpads.zip?timestamp=1524760570"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

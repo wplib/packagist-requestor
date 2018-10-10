@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webing-whatsapp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/webing-whatsapp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383082,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webing-whatsapp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webing-whatsapp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webing-whatsapp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webing-whatsapp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383083,
+                "time": "2018-04-02 11:20:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webing-whatsapp.zip?timestamp=1522668004"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webing-whatsapp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webing-whatsapp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

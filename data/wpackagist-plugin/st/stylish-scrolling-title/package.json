@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stylish-scrolling-title": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stylish-scrolling-title",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339558,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylish-scrolling-title.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylish-scrolling-title\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylish-scrolling-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stylish-scrolling-title",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339559,
+                "time": "2018-07-23 19:06:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylish-scrolling-title.zip?timestamp=1532372790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylish-scrolling-title\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylish-scrolling-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

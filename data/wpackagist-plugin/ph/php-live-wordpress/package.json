@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/php-live-wordpress": {
+            "2.8": {
+                "name": "wpackagist-plugin\/php-live-wordpress",
+                "version": "2.8",
+                "version_normalized": "2.8.0.0",
+                "uid": 255348,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-live-wordpress.zip?timestamp=1531195713"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-live-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-live-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/php-live-wordpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255349,
+                "time": "2018-07-10 04:08:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-live-wordpress.zip?timestamp=1531195713"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-live-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-live-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

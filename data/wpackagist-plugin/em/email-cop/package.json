@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/email-cop": {
+            "0.1": {
+                "name": "wpackagist-plugin\/email-cop",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 116970,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-cop.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-cop\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-cop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.1.1": {
+                "name": "wpackagist-plugin\/email-cop",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 116971,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-cop.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-cop\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-cop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/email-cop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116972,
+                "time": "2017-01-12 21:47:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/email-cop.zip?timestamp=1484257676"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/email-cop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/email-cop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

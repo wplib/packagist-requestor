@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tz-zoomifywp-free": {
+            "1.1": {
+                "name": "wpackagist-plugin\/tz-zoomifywp-free",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 364631,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tz-zoomifywp-free.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tz-zoomifywp-free\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tz-zoomifywp-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tz-zoomifywp-free",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 364632,
+                "time": "2017-06-07 04:07:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tz-zoomifywp-free.zip?timestamp=1496808443"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tz-zoomifywp-free\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tz-zoomifywp-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

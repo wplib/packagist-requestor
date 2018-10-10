@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debug-this": {
+            "0.6": {
+                "name": "wpackagist-plugin\/debug-this",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 96189,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-this.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-this\/",
+                    "reference": "tags\/0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-this\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.6.1": {
+                "name": "wpackagist-plugin\/debug-this",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "uid": 96190,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-this.0.6.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-this\/",
+                    "reference": "tags\/0.6.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-this\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debug-this",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96191,
+                "time": "2018-06-19 08:19:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-this.zip?timestamp=1529396391"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-this\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-this\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/migrate-wufoo-to-gravity-forms": {
+            "1.0": {
+                "name": "wpackagist-plugin\/migrate-wufoo-to-gravity-forms",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 217211,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-wufoo-to-gravity-forms.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-wufoo-to-gravity-forms\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-wufoo-to-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/migrate-wufoo-to-gravity-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217212,
+                "time": "2016-01-19 11:34:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/migrate-wufoo-to-gravity-forms.zip?timestamp=1453203287"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/migrate-wufoo-to-gravity-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/migrate-wufoo-to-gravity-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

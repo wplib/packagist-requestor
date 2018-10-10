@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/team-members-for-elementor": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/team-members-for-elementor",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 347559,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/team-members-for-elementor.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/team-members-for-elementor\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/team-members-for-elementor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/team-members-for-elementor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347560,
+                "time": "2018-03-13 17:49:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/team-members-for-elementor.zip?timestamp=1520963378"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/team-members-for-elementor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/team-members-for-elementor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

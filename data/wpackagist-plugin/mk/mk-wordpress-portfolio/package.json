@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mk-wordpress-portfolio": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mk-wordpress-portfolio",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 219195,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mk-wordpress-portfolio.zip?timestamp=1492138944"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mk-wordpress-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mk-wordpress-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mk-wordpress-portfolio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 219196,
+                "time": "2017-04-14 03:02:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mk-wordpress-portfolio.zip?timestamp=1492138944"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mk-wordpress-portfolio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mk-wordpress-portfolio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

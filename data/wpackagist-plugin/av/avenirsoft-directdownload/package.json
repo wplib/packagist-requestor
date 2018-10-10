@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/avenirsoft-directdownload": {
+            "1.0": {
+                "name": "wpackagist-plugin\/avenirsoft-directdownload",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 32264,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avenirsoft-directdownload.zip?timestamp=1420729841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avenirsoft-directdownload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avenirsoft-directdownload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/avenirsoft-directdownload",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32265,
+                "time": "2015-01-08 15:10:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avenirsoft-directdownload.zip?timestamp=1420729841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avenirsoft-directdownload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avenirsoft-directdownload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

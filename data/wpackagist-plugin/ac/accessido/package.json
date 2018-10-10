@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/accessido": {
+            "1.0": {
+                "name": "wpackagist-plugin\/accessido",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 3503,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/accessido.zip?timestamp=1458557947"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/accessido\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/accessido\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/accessido",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 3504,
+                "time": "2016-03-21 10:59:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/accessido.zip?timestamp=1458557947"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/accessido\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/accessido\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

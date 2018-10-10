@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/das-wetter-von-wettercom": {
+            "1.1": {
+                "name": "wpackagist-plugin\/das-wetter-von-wettercom",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 94262,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/das-wetter-von-wettercom.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/das-wetter-von-wettercom\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/das-wetter-von-wettercom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/das-wetter-von-wettercom",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94263,
+                "time": "2017-05-03 08:17:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/das-wetter-von-wettercom.zip?timestamp=1493799432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/das-wetter-von-wettercom\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/das-wetter-von-wettercom\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

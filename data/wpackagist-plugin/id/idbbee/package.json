@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/idbbee": {
+            "1.0": {
+                "name": "wpackagist-plugin\/idbbee",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 171216,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idbbee.zip?timestamp=1525773292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idbbee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idbbee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/idbbee",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171217,
+                "time": "2018-05-08 09:54:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idbbee.zip?timestamp=1525773292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idbbee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idbbee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

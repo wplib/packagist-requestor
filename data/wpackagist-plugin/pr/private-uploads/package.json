@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/private-uploads": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/private-uploads",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 269446,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/private-uploads.zip?timestamp=1512662601"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/private-uploads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/private-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/private-uploads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 269447,
+                "time": "2017-12-07 16:03:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/private-uploads.zip?timestamp=1512662601"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/private-uploads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/private-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

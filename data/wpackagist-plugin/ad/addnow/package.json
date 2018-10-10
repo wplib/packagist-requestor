@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/addnow": {
+            "1.0": {
+                "name": "wpackagist-plugin\/addnow",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8058,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addnow.zip?timestamp=1507799810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addnow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addnow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/addnow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8059,
+                "time": "2017-10-12 09:16:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addnow.zip?timestamp=1507799810"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addnow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addnow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

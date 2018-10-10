@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comments-to-activecampaign": {
+            "1.0": {
+                "name": "wpackagist-plugin\/comments-to-activecampaign",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 76301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-to-activecampaign.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-to-activecampaign\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-to-activecampaign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comments-to-activecampaign",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76302,
+                "time": "2017-11-18 04:27:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-to-activecampaign.zip?timestamp=1510979224"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-to-activecampaign\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-to-activecampaign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

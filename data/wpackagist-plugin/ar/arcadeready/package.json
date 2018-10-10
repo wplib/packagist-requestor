@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/arcadeready": {
+            "1.1": {
+                "name": "wpackagist-plugin\/arcadeready",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 25665,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arcadeready.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arcadeready\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arcadeready\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/arcadeready",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25666,
+                "time": "2017-06-14 14:22:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arcadeready.zip?timestamp=1497450161"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arcadeready\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arcadeready\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

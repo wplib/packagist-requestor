@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customize-plus": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/customize-plus",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 92223,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-plus.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-plus\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customize-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92224,
+                "time": "2018-02-24 21:56:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customize-plus.zip?timestamp=1519509376"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customize-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customize-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debug-bar-plugin-activation": {
+            "1.0": {
+                "name": "wpackagist-plugin\/debug-bar-plugin-activation",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 96015,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-bar-plugin-activation.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-bar-plugin-activation\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-bar-plugin-activation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debug-bar-plugin-activation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96016,
+                "time": "2016-07-02 00:31:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debug-bar-plugin-activation.zip?timestamp=1467419499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debug-bar-plugin-activation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debug-bar-plugin-activation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

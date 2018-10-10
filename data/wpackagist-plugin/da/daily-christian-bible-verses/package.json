@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daily-christian-bible-verses": {
+            "1.0": {
+                "name": "wpackagist-plugin\/daily-christian-bible-verses",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-christian-bible-verses.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-christian-bible-verses\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-christian-bible-verses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daily-christian-bible-verses",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93513,
+                "time": "2015-03-23 02:14:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-christian-bible-verses.zip?timestamp=1427076854"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-christian-bible-verses\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-christian-bible-verses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

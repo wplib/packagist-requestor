@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip-blocker-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ip-blocker-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 180321,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-blocker-wp.zip?timestamp=1466251568"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-blocker-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-blocker-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip-blocker-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180322,
+                "time": "2016-06-18 12:06:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-blocker-wp.zip?timestamp=1466251568"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-blocker-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-blocker-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

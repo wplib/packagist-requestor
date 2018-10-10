@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bolt-media-wp-integration": {
+            "1.5": {
+                "name": "wpackagist-plugin\/bolt-media-wp-integration",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 47580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bolt-media-wp-integration.zip?timestamp=1493105440"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bolt-media-wp-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bolt-media-wp-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bolt-media-wp-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47581,
+                "time": "2017-04-25 07:30:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bolt-media-wp-integration.zip?timestamp=1493105440"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bolt-media-wp-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bolt-media-wp-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

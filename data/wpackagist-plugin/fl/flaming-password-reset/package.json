@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flaming-password-reset": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/flaming-password-reset",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 135182,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flaming-password-reset.zip?timestamp=1502805233"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flaming-password-reset\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flaming-password-reset\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flaming-password-reset",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 135183,
+                "time": "2017-08-15 13:53:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flaming-password-reset.zip?timestamp=1502805233"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flaming-password-reset\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flaming-password-reset\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

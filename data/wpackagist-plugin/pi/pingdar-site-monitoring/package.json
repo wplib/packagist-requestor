@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pingdar-site-monitoring": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/pingdar-site-monitoring",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 256407,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pingdar-site-monitoring.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pingdar-site-monitoring\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pingdar-site-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pingdar-site-monitoring",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 256408,
+                "time": "2018-04-18 14:00:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pingdar-site-monitoring.zip?timestamp=1524060053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pingdar-site-monitoring\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pingdar-site-monitoring\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

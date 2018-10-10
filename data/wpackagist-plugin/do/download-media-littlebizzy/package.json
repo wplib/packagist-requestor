@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/download-media-littlebizzy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/download-media-littlebizzy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 104039,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/download-media-littlebizzy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/download-media-littlebizzy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/download-media-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/download-media-littlebizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 104040,
+                "time": "2018-07-01 08:58:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/download-media-littlebizzy.zip?timestamp=1530435538"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/download-media-littlebizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/download-media-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

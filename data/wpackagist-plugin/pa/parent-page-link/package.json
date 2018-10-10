@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/parent-page-link": {
+            "0.9.0": {
+                "name": "wpackagist-plugin\/parent-page-link",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "uid": 249528,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/parent-page-link.0.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/parent-page-link\/",
+                    "reference": "tags\/0.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/parent-page-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/parent-page-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249529,
+                "time": "2017-11-19 18:32:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/parent-page-link.zip?timestamp=1511116325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/parent-page-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/parent-page-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

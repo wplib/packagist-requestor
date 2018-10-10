@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/geoplatform-maps": {
+            "1.0.9": {
+                "name": "wpackagist-plugin\/geoplatform-maps",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "uid": 150046,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geoplatform-maps.1.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geoplatform-maps\/",
+                    "reference": "tags\/1.0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geoplatform-maps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/geoplatform-maps",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150047,
+                "time": "2018-07-02 18:33:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geoplatform-maps.zip?timestamp=1530556382"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geoplatform-maps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geoplatform-maps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

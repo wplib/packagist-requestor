@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stormia-live-weather-radar-map": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/stormia-live-weather-radar-map",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 338259,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stormia-live-weather-radar-map.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stormia-live-weather-radar-map\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stormia-live-weather-radar-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stormia-live-weather-radar-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338260,
+                "time": "2016-06-21 00:28:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stormia-live-weather-radar-map.zip?timestamp=1466468934"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stormia-live-weather-radar-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stormia-live-weather-radar-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

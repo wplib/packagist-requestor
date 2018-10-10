@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-custom-overlays": {
+            "1.0": {
+                "name": "wpackagist-plugin\/woo-custom-overlays",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 389501,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-custom-overlays.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-custom-overlays\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-custom-overlays\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/woo-custom-overlays",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 389502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-custom-overlays.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-custom-overlays\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-custom-overlays\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-custom-overlays",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 389503,
+                "time": "2017-05-02 10:17:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-custom-overlays.zip?timestamp=1493720231"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-custom-overlays\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-custom-overlays\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ajax-admin": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ajax-admin",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 15829,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajax-admin.zip?timestamp=1518309069"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajax-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajax-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ajax-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15830,
+                "time": "2018-02-11 00:31:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ajax-admin.zip?timestamp=1518309069"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ajax-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ajax-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

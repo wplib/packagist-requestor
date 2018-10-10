@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-domain-coupons": {
+            "1.00.00": {
+                "name": "wpackagist-plugin\/woo-domain-coupons",
+                "version": "1.00.00",
+                "version_normalized": "1.00.00.0",
+                "uid": 389759,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-domain-coupons.1.00.00.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-domain-coupons\/",
+                    "reference": "tags\/1.00.00"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-domain-coupons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-domain-coupons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 389760,
+                "time": "2017-07-19 01:18:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-domain-coupons.zip?timestamp=1500427082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-domain-coupons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-domain-coupons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

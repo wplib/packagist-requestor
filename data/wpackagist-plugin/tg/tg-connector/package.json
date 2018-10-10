@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tg-connector": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tg-connector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349754,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tg-connector.zip?timestamp=1535713409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tg-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tg-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tg-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349755,
+                "time": "2018-08-31 11:03:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tg-connector.zip?timestamp=1535713409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tg-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tg-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

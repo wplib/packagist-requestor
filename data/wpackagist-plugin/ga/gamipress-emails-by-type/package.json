@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gamipress-emails-by-type": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gamipress-emails-by-type",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 147131,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-emails-by-type.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-emails-by-type\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-emails-by-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gamipress-emails-by-type",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147132,
+                "time": "2017-12-29 09:48:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-emails-by-type.zip?timestamp=1514540926"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-emails-by-type\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-emails-by-type\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

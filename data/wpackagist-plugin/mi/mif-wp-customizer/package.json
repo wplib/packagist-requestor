@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mif-wp-customizer": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mif-wp-customizer",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 217137,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mif-wp-customizer.zip?timestamp=1522084504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mif-wp-customizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mif-wp-customizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mif-wp-customizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217138,
+                "time": "2018-03-26 17:15:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mif-wp-customizer.zip?timestamp=1522084504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mif-wp-customizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mif-wp-customizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

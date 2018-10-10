@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/divi-socials": {
+            "1.0": {
+                "name": "wpackagist-plugin\/divi-socials",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 101996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/divi-socials.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/divi-socials\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/divi-socials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/divi-socials",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101997,
+                "time": "2016-12-23 22:38:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/divi-socials.zip?timestamp=1482532726"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/divi-socials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/divi-socials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

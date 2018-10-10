@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpp-customization": {
+            "2.1": {
+                "name": "wpackagist-plugin\/wpp-customization",
+                "version": "2.1",
+                "version_normalized": "2.1.0.0",
+                "uid": 442781,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpp-customization.zip?timestamp=1483791912"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpp-customization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpp-customization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpp-customization",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442782,
+                "time": "2017-01-07 12:25:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpp-customization.zip?timestamp=1483791912"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpp-customization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpp-customization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

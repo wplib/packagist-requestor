@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/knapsack": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/knapsack",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 190629,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/knapsack.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/knapsack\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/knapsack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/knapsack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190630,
+                "time": "2015-12-09 06:13:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/knapsack.zip?timestamp=1449641590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/knapsack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/knapsack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

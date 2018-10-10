@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/location-picker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/location-picker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-picker.zip?timestamp=1451673165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/location-picker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202252,
+                "time": "2016-01-01 18:32:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-picker.zip?timestamp=1451673165"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

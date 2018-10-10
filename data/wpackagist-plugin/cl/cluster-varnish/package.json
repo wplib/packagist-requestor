@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cluster-varnish": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/cluster-varnish",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 71866,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cluster-varnish.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cluster-varnish\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cluster-varnish\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.4.4": {
+                "name": "wpackagist-plugin\/cluster-varnish",
+                "version": "1.4.4",
+                "version_normalized": "1.4.4.0",
+                "uid": 71867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cluster-varnish.1.4.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cluster-varnish\/",
+                    "reference": "tags\/1.4.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cluster-varnish\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cluster-varnish",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71868,
+                "time": "2017-08-29 13:24:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cluster-varnish.zip?timestamp=1504013095"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cluster-varnish\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cluster-varnish\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

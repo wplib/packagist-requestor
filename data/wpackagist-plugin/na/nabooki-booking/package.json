@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nabooki-booking": {
+            "0.1": {
+                "name": "wpackagist-plugin\/nabooki-booking",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 228910,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nabooki-booking.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nabooki-booking\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nabooki-booking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nabooki-booking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 228911,
+                "time": "2018-05-08 00:21:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nabooki-booking.zip?timestamp=1525738909"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nabooki-booking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nabooki-booking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/postpone": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/postpone",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 265960,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postpone.zip?timestamp=1475002879"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postpone\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postpone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/postpone",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 265961,
+                "time": "2016-09-27 19:01:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postpone.zip?timestamp=1475002879"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postpone\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postpone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

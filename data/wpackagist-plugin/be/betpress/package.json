@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/betpress": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/betpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39936,
+                "time": "2016-01-26 15:57:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/betpress.zip?timestamp=1453823874"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/betpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/betpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

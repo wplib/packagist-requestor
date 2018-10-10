@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/curatorio": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/curatorio",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87865,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/curatorio.zip?timestamp=1528757896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/curatorio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/curatorio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/curatorio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87866,
+                "time": "2018-06-11 22:58:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/curatorio.zip?timestamp=1528757896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/curatorio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/curatorio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

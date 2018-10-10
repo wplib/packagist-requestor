@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/goldstar": {
+            "1.5.4": {
+                "name": "wpackagist-plugin\/goldstar",
+                "version": "1.5.4",
+                "version_normalized": "1.5.4.0",
+                "uid": 153827,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goldstar.zip?timestamp=1522219727"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goldstar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goldstar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/goldstar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153828,
+                "time": "2018-03-28 06:48:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goldstar.zip?timestamp=1522219727"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goldstar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goldstar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

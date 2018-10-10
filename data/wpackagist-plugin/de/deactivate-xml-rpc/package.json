@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/deactivate-xml-rpc": {
+            "1.0": {
+                "name": "wpackagist-plugin\/deactivate-xml-rpc",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95754,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deactivate-xml-rpc.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deactivate-xml-rpc\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deactivate-xml-rpc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/deactivate-xml-rpc",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95755,
+                "time": "2015-05-13 02:01:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deactivate-xml-rpc.zip?timestamp=1431482463"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deactivate-xml-rpc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deactivate-xml-rpc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

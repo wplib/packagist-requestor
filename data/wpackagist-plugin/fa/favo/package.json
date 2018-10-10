@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/favo": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/favo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130157,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/favo.zip?timestamp=1525169884"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/favo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/favo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/favo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130158,
+                "time": "2018-05-01 10:18:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/favo.zip?timestamp=1525169884"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/favo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/favo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

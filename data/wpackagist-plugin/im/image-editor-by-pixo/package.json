@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-editor-by-pixo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/image-editor-by-pixo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 173065,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-editor-by-pixo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-editor-by-pixo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-editor-by-pixo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-editor-by-pixo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173066,
+                "time": "2018-10-07 19:49:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-editor-by-pixo.zip?timestamp=1538941799"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-editor-by-pixo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-editor-by-pixo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

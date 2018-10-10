@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cpt-list": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/cpt-list",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 85150,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpt-list.zip?timestamp=1520081467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpt-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpt-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cpt-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85151,
+                "time": "2018-03-03 12:51:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cpt-list.zip?timestamp=1520081467"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cpt-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cpt-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

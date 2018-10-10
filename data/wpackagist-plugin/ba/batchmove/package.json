@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/batchmove": {
+            "1.5": {
+                "name": "wpackagist-plugin\/batchmove",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 36487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/batchmove.zip?timestamp=1534755615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/batchmove\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/batchmove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/batchmove",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36488,
+                "time": "2018-08-20 09:00:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/batchmove.zip?timestamp=1534755615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/batchmove\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/batchmove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

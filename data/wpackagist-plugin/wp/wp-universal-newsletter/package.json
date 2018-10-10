@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-universal-newsletter": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/wp-universal-newsletter",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 437527,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-universal-newsletter.zip?timestamp=1519334401"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-universal-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-universal-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-universal-newsletter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437528,
+                "time": "2018-02-22 21:20:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-universal-newsletter.zip?timestamp=1519334401"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-universal-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-universal-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

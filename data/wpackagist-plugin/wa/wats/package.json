@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wats": {
+            "1.0.62": {
+                "name": "wpackagist-plugin\/wats",
+                "version": "1.0.62",
+                "version_normalized": "1.0.62.0",
+                "uid": 379897,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wats.1.0.62.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wats\/",
+                    "reference": "tags\/1.0.62"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wats",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379898,
+                "time": "2017-11-09 15:00:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wats.zip?timestamp=1510239630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wats\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

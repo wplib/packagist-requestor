@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-json-export": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gf-json-export",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151221,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-json-export.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-json-export\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-json-export\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-json-export",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151222,
+                "time": "2016-10-25 16:56:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-json-export.zip?timestamp=1477414577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-json-export\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-json-export\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

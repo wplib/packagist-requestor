@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/inlocation": {
+            "1.8": {
+                "name": "wpackagist-plugin\/inlocation",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 177218,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inlocation.zip?timestamp=1509398488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inlocation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inlocation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/inlocation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177219,
+                "time": "2017-10-30 21:21:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inlocation.zip?timestamp=1509398488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inlocation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inlocation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

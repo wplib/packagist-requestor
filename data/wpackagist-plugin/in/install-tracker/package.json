@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/install-tracker": {
+            "1.7": {
+                "name": "wpackagist-plugin\/install-tracker",
+                "version": "1.7",
+                "version_normalized": "1.7.0.0",
+                "uid": 178225,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/install-tracker.1.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/install-tracker\/",
+                    "reference": "tags\/1.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/install-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/install-tracker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178226,
+                "time": "2015-10-23 18:24:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/install-tracker.zip?timestamp=1445624658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/install-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/install-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

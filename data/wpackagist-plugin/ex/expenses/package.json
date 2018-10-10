@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/expenses": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/expenses",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 125127,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expenses.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expenses\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expenses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/expenses",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 125128,
+                "time": "2018-09-14 17:08:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expenses.zip?timestamp=1536944906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expenses\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expenses\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/unmask": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/unmask",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 368701,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unmask.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unmask\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unmask\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/unmask",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368702,
+                "time": "2018-01-31 04:33:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unmask.zip?timestamp=1517373193"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unmask\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unmask\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

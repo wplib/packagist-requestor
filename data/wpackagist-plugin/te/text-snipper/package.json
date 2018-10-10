@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/text-snipper": {
+            "1.0": {
+                "name": "wpackagist-plugin\/text-snipper",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349548,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-snipper.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-snipper\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-snipper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/text-snipper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349549,
+                "time": "2016-12-18 21:36:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/text-snipper.zip?timestamp=1482096994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/text-snipper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/text-snipper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatme-sharing-jetpack": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatme-sharing-jetpack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66395,
+                "time": "2016-02-12 10:15:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatme-sharing-jetpack.zip?timestamp=1455272139"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatme-sharing-jetpack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatme-sharing-jetpack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

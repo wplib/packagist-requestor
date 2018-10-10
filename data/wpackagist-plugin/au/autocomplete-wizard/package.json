@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autocomplete-wizard": {
+            "2.2": {
+                "name": "wpackagist-plugin\/autocomplete-wizard",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 31022,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete-wizard.zip?timestamp=1471427516"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autocomplete-wizard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autocomplete-wizard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autocomplete-wizard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31023,
+                "time": "2016-08-17 09:51:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete-wizard.zip?timestamp=1471427516"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autocomplete-wizard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autocomplete-wizard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

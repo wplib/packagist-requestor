@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip-tools": {
+            "0.1.4": {
+                "name": "wpackagist-plugin\/ip-tools",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "uid": 180364,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-tools.zip?timestamp=1512662416"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180365,
+                "time": "2017-12-07 16:00:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-tools.zip?timestamp=1512662416"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

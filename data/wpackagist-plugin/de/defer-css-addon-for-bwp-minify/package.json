@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/defer-css-addon-for-bwp-minify": {
+            "1.0": {
+                "name": "wpackagist-plugin\/defer-css-addon-for-bwp-minify",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 96721,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/defer-css-addon-for-bwp-minify.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/defer-css-addon-for-bwp-minify\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/defer-css-addon-for-bwp-minify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/defer-css-addon-for-bwp-minify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96722,
+                "time": "2015-08-31 12:17:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/defer-css-addon-for-bwp-minify.zip?timestamp=1441023423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/defer-css-addon-for-bwp-minify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/defer-css-addon-for-bwp-minify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elu-hide-admin-menu": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/elu-hide-admin-menu",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 116726,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elu-hide-admin-menu.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elu-hide-admin-menu\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elu-hide-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elu-hide-admin-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116727,
+                "time": "2018-10-08 01:59:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elu-hide-admin-menu.zip?timestamp=1538963954"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elu-hide-admin-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elu-hide-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

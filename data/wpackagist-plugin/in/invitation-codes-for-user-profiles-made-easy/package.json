@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invitation-codes-for-user-profiles-made-easy": {
+            "1.2": {
+                "name": "wpackagist-plugin\/invitation-codes-for-user-profiles-made-easy",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 179976,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invitation-codes-for-user-profiles-made-easy.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invitation-codes-for-user-profiles-made-easy\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invitation-codes-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invitation-codes-for-user-profiles-made-easy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179977,
+                "time": "2016-10-11 11:35:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invitation-codes-for-user-profiles-made-easy.zip?timestamp=1476185731"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invitation-codes-for-user-profiles-made-easy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invitation-codes-for-user-profiles-made-easy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

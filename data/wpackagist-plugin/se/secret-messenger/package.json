@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secret-messenger": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/secret-messenger",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 302465,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secret-messenger.zip?timestamp=1520081542"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secret-messenger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secret-messenger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secret-messenger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302466,
+                "time": "2018-03-03 12:52:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secret-messenger.zip?timestamp=1520081542"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secret-messenger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secret-messenger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

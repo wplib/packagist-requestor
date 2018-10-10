@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/esms-gui-tin-nhan-sms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/esms-gui-tin-nhan-sms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121833,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/esms-gui-tin-nhan-sms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/esms-gui-tin-nhan-sms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/esms-gui-tin-nhan-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/esms-gui-tin-nhan-sms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121834,
+                "time": "2018-07-14 04:50:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/esms-gui-tin-nhan-sms.zip?timestamp=1531543829"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/esms-gui-tin-nhan-sms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/esms-gui-tin-nhan-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

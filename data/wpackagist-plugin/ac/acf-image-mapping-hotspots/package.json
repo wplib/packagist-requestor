@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-image-mapping-hotspots": {
+            "0.1": {
+                "name": "wpackagist-plugin\/acf-image-mapping-hotspots",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 5096,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-image-mapping-hotspots.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-image-mapping-hotspots\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-image-mapping-hotspots\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-image-mapping-hotspots",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5097,
+                "time": "2017-02-26 18:38:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-image-mapping-hotspots.zip?timestamp=1488134304"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-image-mapping-hotspots\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-image-mapping-hotspots\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

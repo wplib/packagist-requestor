@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/page-creator": {
+            "1.1": {
+                "name": "wpackagist-plugin\/page-creator",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 247042,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-creator.zip?timestamp=1523144426"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/page-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 247043,
+                "time": "2018-04-07 23:40:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-creator.zip?timestamp=1523144426"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

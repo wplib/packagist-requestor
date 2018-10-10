@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/welcome-mobile": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/welcome-mobile",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 384432,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/welcome-mobile.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/welcome-mobile\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/welcome-mobile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/welcome-mobile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384433,
+                "time": "2016-07-28 07:21:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/welcome-mobile.zip?timestamp=1469690515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/welcome-mobile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/welcome-mobile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

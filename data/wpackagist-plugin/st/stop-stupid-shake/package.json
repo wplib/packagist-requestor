@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stop-stupid-shake": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stop-stupid-shake",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337585,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stop-stupid-shake.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stop-stupid-shake\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stop-stupid-shake\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stop-stupid-shake",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337586,
+                "time": "2016-04-06 23:46:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stop-stupid-shake.zip?timestamp=1459986408"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stop-stupid-shake\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stop-stupid-shake\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

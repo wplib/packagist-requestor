@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/centinel-api": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/centinel-api",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 64432,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/centinel-api.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/centinel-api\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/centinel-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/centinel-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 64433,
+                "time": "2018-04-17 11:57:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/centinel-api.zip?timestamp=1523966265"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/centinel-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/centinel-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

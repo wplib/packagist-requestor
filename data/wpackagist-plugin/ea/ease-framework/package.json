@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ease-framework": {
+            "0.1.7": {
+                "name": "wpackagist-plugin\/ease-framework",
+                "version": "0.1.7",
+                "version_normalized": "0.1.7.0",
+                "uid": 107487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ease-framework.zip?timestamp=1422341423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ease-framework\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ease-framework\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ease-framework",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107488,
+                "time": "2015-01-27 06:50:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ease-framework.zip?timestamp=1422341423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ease-framework\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ease-framework\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

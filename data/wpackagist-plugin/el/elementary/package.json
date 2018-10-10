@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elementary": {
+            "1.2": {
+                "name": "wpackagist-plugin\/elementary",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 116150,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elementary.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elementary\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elementary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elementary",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116151,
+                "time": "2016-11-16 03:01:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elementary.zip?timestamp=1479265303"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elementary\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elementary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/orphan-word": {
+            "1.0": {
+                "name": "wpackagist-plugin\/orphan-word",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 245397,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/orphan-word.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/orphan-word\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/orphan-word\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/orphan-word",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245398,
+                "time": "2018-08-21 17:02:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/orphan-word.zip?timestamp=1534870949"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/orphan-word\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/orphan-word\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

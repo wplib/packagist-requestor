@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-category-to-pages": {
+            "1.1": {
+                "name": "wpackagist-plugin\/add-category-to-pages",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 6917,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-category-to-pages.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-category-to-pages\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-category-to-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-category-to-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6918,
+                "time": "2018-08-13 07:46:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-category-to-pages.zip?timestamp=1534146365"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-category-to-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-category-to-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

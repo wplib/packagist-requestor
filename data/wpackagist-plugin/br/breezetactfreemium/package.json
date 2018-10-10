@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/breezetactfreemium": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/breezetactfreemium",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 51879,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/breezetactfreemium.2.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/breezetactfreemium\/",
+                    "reference": "tags\/2.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/breezetactfreemium\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/breezetactfreemium",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51880,
+                "time": "2018-05-15 22:08:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/breezetactfreemium.zip?timestamp=1526422096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/breezetactfreemium\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/breezetactfreemium\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

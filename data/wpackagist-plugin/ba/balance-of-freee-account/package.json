@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/balance-of-freee-account": {
+            "0.1": {
+                "name": "wpackagist-plugin\/balance-of-freee-account",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 35294,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/balance-of-freee-account.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/balance-of-freee-account\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/balance-of-freee-account\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/balance-of-freee-account",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35295,
+                "time": "2018-07-19 01:54:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/balance-of-freee-account.zip?timestamp=1531965285"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/balance-of-freee-account\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/balance-of-freee-account\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

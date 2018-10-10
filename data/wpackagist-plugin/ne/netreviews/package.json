@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/netreviews": {
+            "1.8.1": {
+                "name": "wpackagist-plugin\/netreviews",
+                "version": "1.8.1",
+                "version_normalized": "1.8.1.0",
+                "uid": 230668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netreviews.zip?timestamp=1538056871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netreviews\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netreviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/netreviews",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230669,
+                "time": "2018-09-27 14:01:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netreviews.zip?timestamp=1538056871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netreviews\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netreviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

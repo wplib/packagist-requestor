@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cosmica-advance-sections": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cosmica-advance-sections",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 83846,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cosmica-advance-sections.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cosmica-advance-sections\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cosmica-advance-sections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cosmica-advance-sections",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83847,
+                "time": "2017-03-23 04:19:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cosmica-advance-sections.zip?timestamp=1490242790"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cosmica-advance-sections\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cosmica-advance-sections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

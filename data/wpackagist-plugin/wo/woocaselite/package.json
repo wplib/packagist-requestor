@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocaselite": {
+            "0.1": {
+                "name": "wpackagist-plugin\/woocaselite",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 393593,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocaselite.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocaselite\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocaselite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocaselite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 393594,
+                "time": "2017-05-06 09:05:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocaselite.zip?timestamp=1494061514"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocaselite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocaselite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

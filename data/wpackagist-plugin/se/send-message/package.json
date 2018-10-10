@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/send-message": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/send-message",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 303995,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/send-message.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/send-message\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/send-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/send-message",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 303996,
+                "time": "2017-01-26 22:45:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/send-message.zip?timestamp=1485470720"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/send-message\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/send-message\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

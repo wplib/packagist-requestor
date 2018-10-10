@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jsm-show-user-meta": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/jsm-show-user-meta",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 186346,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-show-user-meta.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-show-user-meta\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-show-user-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jsm-show-user-meta",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186347,
+                "time": "2018-07-31 13:17:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jsm-show-user-meta.zip?timestamp=1533043034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jsm-show-user-meta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jsm-show-user-meta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

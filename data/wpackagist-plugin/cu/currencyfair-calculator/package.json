@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/currencyfair-calculator": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/currencyfair-calculator",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 88004,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/currencyfair-calculator.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/currencyfair-calculator\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/currencyfair-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/currencyfair-calculator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 88005,
+                "time": "2016-03-02 18:13:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/currencyfair-calculator.zip?timestamp=1456942388"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/currencyfair-calculator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/currencyfair-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

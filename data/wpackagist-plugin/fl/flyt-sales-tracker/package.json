@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flyt-sales-tracker": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/flyt-sales-tracker",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 138176,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flyt-sales-tracker.1.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flyt-sales-tracker\/",
+                    "reference": "tags\/1.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flyt-sales-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flyt-sales-tracker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138177,
+                "time": "2017-01-27 09:11:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flyt-sales-tracker.zip?timestamp=1485508292"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flyt-sales-tracker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flyt-sales-tracker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

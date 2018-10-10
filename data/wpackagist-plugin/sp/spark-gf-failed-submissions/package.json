@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/spark-gf-failed-submissions": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/spark-gf-failed-submissions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 332366,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spark-gf-failed-submissions.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spark-gf-failed-submissions\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spark-gf-failed-submissions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/spark-gf-failed-submissions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 332367,
+                "time": "2018-09-07 04:23:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/spark-gf-failed-submissions.zip?timestamp=1536294184"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/spark-gf-failed-submissions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/spark-gf-failed-submissions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

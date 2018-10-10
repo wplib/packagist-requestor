@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/native-wp-excerpt": {
+            "1.0": {
+                "name": "wpackagist-plugin\/native-wp-excerpt",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 229334,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-wp-excerpt.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-wp-excerpt\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-wp-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/native-wp-excerpt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229335,
+                "time": "2017-06-11 08:20:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/native-wp-excerpt.zip?timestamp=1497169254"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/native-wp-excerpt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/native-wp-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/import-csv-files": {
+            "1.0": {
+                "name": "wpackagist-plugin\/import-csv-files",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 174524,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-csv-files.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-csv-files\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-csv-files\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/import-csv-files",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174525,
+                "time": "2017-12-25 18:45:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-csv-files.zip?timestamp=1514227546"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-csv-files\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-csv-files\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

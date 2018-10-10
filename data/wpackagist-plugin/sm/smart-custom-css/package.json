@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smart-custom-css": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/smart-custom-css",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 324532,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-custom-css.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-custom-css\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-custom-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smart-custom-css",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 324533,
+                "time": "2016-10-09 10:39:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smart-custom-css.zip?timestamp=1476009544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smart-custom-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smart-custom-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

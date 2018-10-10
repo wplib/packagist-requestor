@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/signups": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/signups",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 312194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/signups.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/signups\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/signups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/signups",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312195,
+                "time": "2018-05-25 19:44:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/signups.zip?timestamp=1527277497"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/signups\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/signups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

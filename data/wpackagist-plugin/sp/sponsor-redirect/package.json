@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sponsor-redirect": {
+            "0.0.5": {
+                "name": "wpackagist-plugin\/sponsor-redirect",
+                "version": "0.0.5",
+                "version_normalized": "0.0.5.0",
+                "uid": 333902,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sponsor-redirect.0.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sponsor-redirect\/",
+                    "reference": "tags\/0.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sponsor-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sponsor-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 333903,
+                "time": "2016-01-14 11:32:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sponsor-redirect.zip?timestamp=1452771127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sponsor-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sponsor-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

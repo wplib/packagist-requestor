@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/react": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/react",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281756,
+                "time": "2016-03-29 02:37:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/react.zip?timestamp=1459219055"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/react\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/react\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

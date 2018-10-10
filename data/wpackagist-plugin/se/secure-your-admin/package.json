@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secure-your-admin": {
+            "1.0": {
+                "name": "wpackagist-plugin\/secure-your-admin",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 302708,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-your-admin.zip?timestamp=1474406110"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-your-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-your-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secure-your-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302709,
+                "time": "2016-09-20 21:15:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secure-your-admin.zip?timestamp=1474406110"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secure-your-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secure-your-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wadmwidget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/wadmwidget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 379045,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wadmwidget.zip?timestamp=1528212085"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wadmwidget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wadmwidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wadmwidget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379046,
+                "time": "2018-06-05 15:21:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wadmwidget.zip?timestamp=1528212085"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wadmwidget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wadmwidget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

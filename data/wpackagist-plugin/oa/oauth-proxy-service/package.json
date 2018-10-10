@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oauth-proxy-service": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/oauth-proxy-service",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 238925,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oauth-proxy-service.zip?timestamp=1522173106"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oauth-proxy-service\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oauth-proxy-service\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oauth-proxy-service",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238926,
+                "time": "2018-03-27 17:51:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oauth-proxy-service.zip?timestamp=1522173106"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oauth-proxy-service\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oauth-proxy-service\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

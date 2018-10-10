@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/powerkit": {
+            "1.2.9": {
+                "name": "wpackagist-plugin\/powerkit",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "uid": 266685,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/powerkit.zip?timestamp=1538663841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/powerkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/powerkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/powerkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 266686,
+                "time": "2018-10-04 14:37:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/powerkit.zip?timestamp=1538663841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/powerkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/powerkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

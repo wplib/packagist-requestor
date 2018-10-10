@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lomadee": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/lomadee",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 203621,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lomadee.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lomadee\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lomadee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lomadee",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203622,
+                "time": "2016-10-11 22:34:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lomadee.zip?timestamp=1476225279"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lomadee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lomadee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

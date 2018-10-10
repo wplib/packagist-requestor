@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/try-everything": {
+            "1.1": {
+                "name": "wpackagist-plugin\/try-everything",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 360490,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/try-everything.zip?timestamp=1472103887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/try-everything\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/try-everything\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/try-everything",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 360491,
+                "time": "2016-08-25 05:44:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/try-everything.zip?timestamp=1472103887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/try-everything\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/try-everything\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

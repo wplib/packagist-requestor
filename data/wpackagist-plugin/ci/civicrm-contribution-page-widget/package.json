@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/civicrm-contribution-page-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/civicrm-contribution-page-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 69027,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/civicrm-contribution-page-widget.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/civicrm-contribution-page-widget\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/civicrm-contribution-page-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/civicrm-contribution-page-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 69028,
+                "time": "2015-09-10 17:50:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/civicrm-contribution-page-widget.zip?timestamp=1441907456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/civicrm-contribution-page-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/civicrm-contribution-page-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

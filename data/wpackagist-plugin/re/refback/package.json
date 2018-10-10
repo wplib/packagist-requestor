@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/refback": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/refback",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 285177,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/refback.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/refback\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/refback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/refback",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285178,
+                "time": "2018-08-13 22:59:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/refback.zip?timestamp=1534201162"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/refback\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/refback\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

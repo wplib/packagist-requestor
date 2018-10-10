@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/luckywp-glossary": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/luckywp-glossary",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-glossary.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-glossary\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-glossary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/luckywp-glossary",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204581,
+                "time": "2018-07-09 06:03:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-glossary.zip?timestamp=1531116181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-glossary\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-glossary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

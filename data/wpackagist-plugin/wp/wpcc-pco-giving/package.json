@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpcc-pco-giving": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpcc-pco-giving",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 440346,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcc-pco-giving.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcc-pco-giving\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcc-pco-giving\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpcc-pco-giving",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440347,
+                "time": "2017-11-17 03:31:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcc-pco-giving.zip?timestamp=1510889470"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcc-pco-giving\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcc-pco-giving\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

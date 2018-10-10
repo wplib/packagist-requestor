@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/identity-plus": {
+            "1.6.2": {
+                "name": "wpackagist-plugin\/identity-plus",
+                "version": "1.6.2",
+                "version_normalized": "1.6.2.0",
+                "uid": 171331,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/identity-plus.zip?timestamp=1535646885"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/identity-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/identity-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/identity-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171332,
+                "time": "2018-08-30 16:34:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/identity-plus.zip?timestamp=1535646885"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/identity-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/identity-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

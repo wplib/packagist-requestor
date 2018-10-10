@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amazon-custom-thumbnail": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amazon-custom-thumbnail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19968,
+                "time": "2015-08-18 06:07:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amazon-custom-thumbnail.zip?timestamp=1439878056"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amazon-custom-thumbnail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amazon-custom-thumbnail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

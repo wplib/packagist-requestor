@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shortcode-tumblr-gallery": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/shortcode-tumblr-gallery",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 310128,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shortcode-tumblr-gallery.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shortcode-tumblr-gallery\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shortcode-tumblr-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shortcode-tumblr-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 310129,
+                "time": "2018-08-08 17:19:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shortcode-tumblr-gallery.zip?timestamp=1533748747"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shortcode-tumblr-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shortcode-tumblr-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

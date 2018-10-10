@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mortgage-calculator-app": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mortgage-calculator-app",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 222323,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mortgage-calculator-app.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mortgage-calculator-app\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mortgage-calculator-app\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mortgage-calculator-app",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222324,
+                "time": "2016-06-20 14:19:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mortgage-calculator-app.zip?timestamp=1466432379"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mortgage-calculator-app\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mortgage-calculator-app\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

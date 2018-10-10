@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fonts": {
+            "2.3": {
+                "name": "wpackagist-plugin\/fonts",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "uid": 138880,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fonts.zip?timestamp=1533311814"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fonts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fonts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fonts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138881,
+                "time": "2018-08-03 15:56:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fonts.zip?timestamp=1533311814"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fonts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fonts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

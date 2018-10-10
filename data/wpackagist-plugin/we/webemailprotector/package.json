@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webemailprotector": {
+            "2.3.1": {
+                "name": "wpackagist-plugin\/webemailprotector",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "uid": 382998,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webemailprotector.zip?timestamp=1534253920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webemailprotector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webemailprotector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webemailprotector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382999,
+                "time": "2018-08-14 13:38:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webemailprotector.zip?timestamp=1534253920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webemailprotector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webemailprotector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

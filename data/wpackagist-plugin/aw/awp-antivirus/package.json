@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/awp-antivirus": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/awp-antivirus",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 33401,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awp-antivirus.zip?timestamp=1486626673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awp-antivirus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awp-antivirus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/awp-antivirus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 33402,
+                "time": "2017-02-09 07:51:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/awp-antivirus.zip?timestamp=1486626673"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/awp-antivirus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/awp-antivirus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

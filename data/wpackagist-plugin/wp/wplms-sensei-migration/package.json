@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplms-sensei-migration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wplms-sensei-migration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442068,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-sensei-migration.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-sensei-migration\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-sensei-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplms-sensei-migration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442069,
+                "time": "2017-06-12 08:41:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-sensei-migration.zip?timestamp=1497256878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-sensei-migration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-sensei-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

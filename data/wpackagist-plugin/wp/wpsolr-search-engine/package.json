@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsolr-search-engine": {
+            "20.0": {
+                "name": "wpackagist-plugin\/wpsolr-search-engine",
+                "version": "20.0",
+                "version_normalized": "20.0.0.0",
+                "uid": 443704,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsolr-search-engine.20.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsolr-search-engine\/",
+                    "reference": "tags\/20.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsolr-search-engine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsolr-search-engine",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443705,
+                "time": "2018-06-13 13:29:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsolr-search-engine.zip?timestamp=1528896595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsolr-search-engine\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsolr-search-engine\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

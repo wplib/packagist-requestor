@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forms-creator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/forms-creator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 140882,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-creator.zip?timestamp=1528727798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forms-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140883,
+                "time": "2018-06-11 14:36:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-creator.zip?timestamp=1528727798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

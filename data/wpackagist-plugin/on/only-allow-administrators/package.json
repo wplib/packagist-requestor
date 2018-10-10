@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/only-allow-administrators": {
+            "1.0": {
+                "name": "wpackagist-plugin\/only-allow-administrators",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 242486,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/only-allow-administrators.zip?timestamp=1485249982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/only-allow-administrators\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/only-allow-administrators\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/only-allow-administrators",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242487,
+                "time": "2017-01-24 09:26:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/only-allow-administrators.zip?timestamp=1485249982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/only-allow-administrators\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/only-allow-administrators\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

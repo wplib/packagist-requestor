@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/launches-from-spacex": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/launches-from-spacex",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 193488,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/launches-from-spacex.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/launches-from-spacex\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/launches-from-spacex\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/launches-from-spacex",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 193489,
+                "time": "2018-09-05 06:55:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/launches-from-spacex.zip?timestamp=1536130516"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/launches-from-spacex\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/launches-from-spacex\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/filesystem-unlocker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/filesystem-unlocker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 133904,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/filesystem-unlocker.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/filesystem-unlocker\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/filesystem-unlocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/filesystem-unlocker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 133905,
+                "time": "2016-03-09 15:15:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/filesystem-unlocker.zip?timestamp=1457536547"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/filesystem-unlocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/filesystem-unlocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

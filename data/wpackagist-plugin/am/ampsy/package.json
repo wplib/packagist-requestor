@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ampsy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ampsy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 21435,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ampsy.zip?timestamp=1454685990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ampsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ampsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ampsy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21436,
+                "time": "2016-02-05 15:26:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ampsy.zip?timestamp=1454685990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ampsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ampsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

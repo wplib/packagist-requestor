@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-imagelightbox": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-imagelightbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 420136,
+                "time": "2017-06-01 14:00:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-imagelightbox.zip?timestamp=1496325632"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-imagelightbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-imagelightbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

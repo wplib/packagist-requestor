@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lessify-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lessify-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 195792,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lessify-wp.zip?timestamp=1534489748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lessify-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lessify-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lessify-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195793,
+                "time": "2018-08-17 07:09:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lessify-wp.zip?timestamp=1534489748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lessify-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lessify-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

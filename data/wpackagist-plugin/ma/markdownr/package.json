@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/markdownr": {
+            "1.1": {
+                "name": "wpackagist-plugin\/markdownr",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 209609,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/markdownr.zip?timestamp=1485199593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/markdownr\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/markdownr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/markdownr",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209610,
+                "time": "2017-01-23 19:26:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/markdownr.zip?timestamp=1485199593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/markdownr\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/markdownr\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

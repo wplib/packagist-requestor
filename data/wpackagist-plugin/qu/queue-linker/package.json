@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/queue-linker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/queue-linker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 276245,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/queue-linker.zip?timestamp=1483569704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/queue-linker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/queue-linker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/queue-linker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 276246,
+                "time": "2017-01-04 22:41:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/queue-linker.zip?timestamp=1483569704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/queue-linker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/queue-linker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

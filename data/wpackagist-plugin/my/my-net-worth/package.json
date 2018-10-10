@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-net-worth": {
+            "1.5": {
+                "name": "wpackagist-plugin\/my-net-worth",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 227070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-net-worth.zip?timestamp=1533146172"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-net-worth\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-net-worth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-net-worth",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227071,
+                "time": "2018-08-01 17:56:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-net-worth.zip?timestamp=1533146172"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-net-worth\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-net-worth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

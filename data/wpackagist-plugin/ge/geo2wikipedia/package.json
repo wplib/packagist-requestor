@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/geo2wikipedia": {
+            "1.1": {
+                "name": "wpackagist-plugin\/geo2wikipedia",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 149780,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geo2wikipedia.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geo2wikipedia\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geo2wikipedia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/geo2wikipedia",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 149781,
+                "time": "2018-07-01 21:10:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/geo2wikipedia.zip?timestamp=1530479446"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/geo2wikipedia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/geo2wikipedia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

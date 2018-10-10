@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subpagelister": {
+            "1.0": {
+                "name": "wpackagist-plugin\/subpagelister",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339831,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subpagelister.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subpagelister\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subpagelister\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subpagelister",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339832,
+                "time": "2017-02-13 01:14:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subpagelister.zip?timestamp=1486948471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subpagelister\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subpagelister\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

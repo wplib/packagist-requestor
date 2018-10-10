@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-roles": {
+            "1.0": {
+                "name": "wpackagist-plugin\/user-roles",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 371651,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-roles.zip?timestamp=1493095242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-roles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-roles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-roles",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 371652,
+                "time": "2017-04-25 04:40:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-roles.zip?timestamp=1493095242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-roles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-roles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/titul": {
+            "2.2": {
+                "name": "wpackagist-plugin\/titul",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 356153,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/titul.zip?timestamp=1516269489"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/titul\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/titul\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/titul",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356154,
+                "time": "2018-01-18 09:58:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/titul.zip?timestamp=1516269489"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/titul\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/titul\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

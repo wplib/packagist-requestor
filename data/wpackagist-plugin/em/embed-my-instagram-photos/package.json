@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/embed-my-instagram-photos": {
+            "1.1": {
+                "name": "wpackagist-plugin\/embed-my-instagram-photos",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 118319,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-my-instagram-photos.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-my-instagram-photos\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-my-instagram-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/embed-my-instagram-photos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118320,
+                "time": "2015-06-06 14:37:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-my-instagram-photos.zip?timestamp=1433601439"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-my-instagram-photos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-my-instagram-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

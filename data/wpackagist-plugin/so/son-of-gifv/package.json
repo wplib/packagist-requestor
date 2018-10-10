@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/son-of-gifv": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/son-of-gifv",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 330829,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/son-of-gifv.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/son-of-gifv\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/son-of-gifv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/son-of-gifv",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 330830,
+                "time": "2016-12-13 03:14:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/son-of-gifv.zip?timestamp=1481598888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/son-of-gifv\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/son-of-gifv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

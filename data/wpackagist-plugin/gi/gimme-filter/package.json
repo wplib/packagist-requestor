@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gimme-filter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gimme-filter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151876,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gimme-filter.zip?timestamp=1493151543"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gimme-filter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gimme-filter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gimme-filter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151877,
+                "time": "2017-04-25 20:19:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gimme-filter.zip?timestamp=1493151543"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gimme-filter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gimme-filter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

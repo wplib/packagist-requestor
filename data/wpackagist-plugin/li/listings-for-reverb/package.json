@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/listings-for-reverb": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/listings-for-reverb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 200164,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/listings-for-reverb.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/listings-for-reverb\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/listings-for-reverb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/listings-for-reverb",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200165,
+                "time": "2016-11-24 08:30:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/listings-for-reverb.zip?timestamp=1479976243"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/listings-for-reverb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/listings-for-reverb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

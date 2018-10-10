@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backtracks": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/backtracks",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 34549,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backtracks.zip?timestamp=1522423149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backtracks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backtracks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backtracks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34550,
+                "time": "2018-03-30 15:19:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backtracks.zip?timestamp=1522423149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backtracks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backtracks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

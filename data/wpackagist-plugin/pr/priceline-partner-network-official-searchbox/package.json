@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/priceline-partner-network-official-searchbox": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/priceline-partner-network-official-searchbox",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 268597,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/priceline-partner-network-official-searchbox.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/priceline-partner-network-official-searchbox\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/priceline-partner-network-official-searchbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/priceline-partner-network-official-searchbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268598,
+                "time": "2016-02-10 22:15:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/priceline-partner-network-official-searchbox.zip?timestamp=1455142530"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/priceline-partner-network-official-searchbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/priceline-partner-network-official-searchbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loomup": {
+            "0.1": {
+                "name": "wpackagist-plugin\/loomup",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 203852,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loomup.zip?timestamp=1488193768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loomup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loomup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loomup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203853,
+                "time": "2017-02-27 11:09:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loomup.zip?timestamp=1488193768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loomup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loomup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

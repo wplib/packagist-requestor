@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/btcp-pay": {
+            "1.0": {
+                "name": "wpackagist-plugin\/btcp-pay",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 53222,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/btcp-pay.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/btcp-pay\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/btcp-pay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/btcp-pay",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53223,
+                "time": "2018-08-01 10:49:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/btcp-pay.zip?timestamp=1533120540"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/btcp-pay\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/btcp-pay\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

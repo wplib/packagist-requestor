@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acme-fix-images": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/acme-fix-images",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5563,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acme-fix-images.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acme-fix-images\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acme-fix-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acme-fix-images",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5564,
+                "time": "2016-01-15 14:38:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acme-fix-images.zip?timestamp=1452868726"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acme-fix-images\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acme-fix-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

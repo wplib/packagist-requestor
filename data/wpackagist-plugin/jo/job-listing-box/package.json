@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/job-listing-box": {
+            "1.0": {
+                "name": "wpackagist-plugin\/job-listing-box",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 184379,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listing-box.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listing-box\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listing-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/job-listing-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184380,
+                "time": "2017-03-31 22:17:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listing-box.zip?timestamp=1490998648"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listing-box\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listing-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

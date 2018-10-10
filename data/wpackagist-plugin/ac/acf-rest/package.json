@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-rest": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/acf-rest",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 5310,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-rest.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-rest\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-rest\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-rest",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5311,
+                "time": "2017-10-05 16:18:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-rest.zip?timestamp=1507220311"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-rest\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-rest\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autologin-links": {
+            "1.07": {
+                "name": "wpackagist-plugin\/autologin-links",
+                "version": "1.07",
+                "version_normalized": "1.07.0.0",
+                "uid": 31109,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autologin-links.zip?timestamp=1537019047"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autologin-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autologin-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autologin-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31110,
+                "time": "2018-09-15 13:44:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autologin-links.zip?timestamp=1537019047"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autologin-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autologin-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

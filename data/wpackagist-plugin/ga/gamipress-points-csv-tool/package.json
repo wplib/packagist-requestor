@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gamipress-points-csv-tool": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gamipress-points-csv-tool",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 147223,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-points-csv-tool.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-points-csv-tool\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-points-csv-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gamipress-points-csv-tool",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147224,
+                "time": "2018-06-28 06:38:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gamipress-points-csv-tool.zip?timestamp=1530167884"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gamipress-points-csv-tool\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gamipress-points-csv-tool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

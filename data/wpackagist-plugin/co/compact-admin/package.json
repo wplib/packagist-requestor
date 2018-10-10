@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/compact-admin": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/compact-admin",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 76521,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/compact-admin.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/compact-admin\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/compact-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/compact-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76522,
+                "time": "2016-11-16 13:18:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/compact-admin.zip?timestamp=1479302320"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/compact-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/compact-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

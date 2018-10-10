@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/responsive-youtube-video": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/responsive-youtube-video",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 290202,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-youtube-video.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-youtube-video\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-youtube-video\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/responsive-youtube-video",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290203,
+                "time": "2018-07-18 22:37:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-youtube-video.zip?timestamp=1531953433"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-youtube-video\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-youtube-video\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

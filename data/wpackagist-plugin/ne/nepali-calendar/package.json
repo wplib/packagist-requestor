@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nepali-calendar": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/nepali-calendar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 230382,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nepali-calendar.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nepali-calendar\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nepali-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nepali-calendar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230383,
+                "time": "2017-08-12 08:09:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nepali-calendar.zip?timestamp=1502525376"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nepali-calendar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nepali-calendar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

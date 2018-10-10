@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cool-popular-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cool-popular-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 82792,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cool-popular-post.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cool-popular-post\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cool-popular-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cool-popular-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82793,
+                "time": "2015-01-18 03:33:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cool-popular-post.zip?timestamp=1421552005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cool-popular-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cool-popular-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

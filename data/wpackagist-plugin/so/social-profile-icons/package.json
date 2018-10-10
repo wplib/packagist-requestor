@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/social-profile-icons": {
+            "1.2": {
+                "name": "wpackagist-plugin\/social-profile-icons",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 329225,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-profile-icons.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-profile-icons\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-profile-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/social-profile-icons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 329226,
+                "time": "2016-09-10 11:38:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-profile-icons.zip?timestamp=1473507522"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-profile-icons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-profile-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/genius": {
+            "0.0.6": {
+                "name": "wpackagist-plugin\/genius",
+                "version": "0.0.6",
+                "version_normalized": "0.0.6.0",
+                "uid": 149502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/genius.0.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/genius\/",
+                    "reference": "tags\/0.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/genius\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/genius",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 149503,
+                "time": "2016-09-19 18:38:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/genius.zip?timestamp=1474310310"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/genius\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/genius\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

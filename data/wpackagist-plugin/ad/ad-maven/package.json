@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ad-maven": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ad-maven",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 6500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-maven.zip?timestamp=1520426924"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-maven\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-maven\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ad-maven",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6501,
+                "time": "2018-03-07 12:48:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ad-maven.zip?timestamp=1520426924"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ad-maven\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ad-maven\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

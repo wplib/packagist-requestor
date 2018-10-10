@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/json-structuring-markup": {
+            "0.1": {
+                "name": "wpackagist-plugin\/json-structuring-markup",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 186558,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-structuring-markup.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-structuring-markup\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-structuring-markup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/json-structuring-markup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186559,
+                "time": "2018-01-02 16:01:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-structuring-markup.zip?timestamp=1514908908"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-structuring-markup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-structuring-markup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

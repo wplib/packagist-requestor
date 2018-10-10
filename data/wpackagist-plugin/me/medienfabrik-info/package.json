@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/medienfabrik-info": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/medienfabrik-info",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 213193,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/medienfabrik-info.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/medienfabrik-info\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/medienfabrik-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/medienfabrik-info",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 213194,
+                "time": "2017-10-19 07:31:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/medienfabrik-info.zip?timestamp=1508398272"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/medienfabrik-info\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/medienfabrik-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

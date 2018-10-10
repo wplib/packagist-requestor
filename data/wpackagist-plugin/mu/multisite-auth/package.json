@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/multisite-auth": {
+            "0.1.4": {
+                "name": "wpackagist-plugin\/multisite-auth",
+                "version": "0.1.4",
+                "version_normalized": "0.1.4.0",
+                "uid": 225298,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-auth.0.1.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-auth\/",
+                    "reference": "tags\/0.1.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-auth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/multisite-auth",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 225299,
+                "time": "2017-02-09 19:41:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/multisite-auth.zip?timestamp=1486669298"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/multisite-auth\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/multisite-auth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

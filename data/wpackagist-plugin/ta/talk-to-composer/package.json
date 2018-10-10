@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/talk-to-composer": {
+            "1.1.2": {
+                "name": "wpackagist-plugin\/talk-to-composer",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "uid": 345919,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talk-to-composer.zip?timestamp=1461738988"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talk-to-composer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talk-to-composer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/talk-to-composer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345920,
+                "time": "2016-04-27 06:36:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/talk-to-composer.zip?timestamp=1461738988"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/talk-to-composer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/talk-to-composer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

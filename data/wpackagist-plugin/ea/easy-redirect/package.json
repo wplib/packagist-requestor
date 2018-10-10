@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-redirect": {
+            "1.5": {
+                "name": "wpackagist-plugin\/easy-redirect",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 110396,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-redirect.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-redirect\/",
+                    "reference": "tags\/1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/easy-redirect",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 110397,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-redirect.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-redirect\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 110398,
+                "time": "2016-03-25 06:42:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-redirect.zip?timestamp=1458888174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

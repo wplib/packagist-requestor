@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rw-super-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rw-super-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 297448,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rw-super-slider.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rw-super-slider\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rw-super-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rw-super-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297449,
+                "time": "2017-05-15 07:16:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rw-super-slider.zip?timestamp=1494832614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rw-super-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rw-super-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

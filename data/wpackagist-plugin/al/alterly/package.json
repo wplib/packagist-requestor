@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/alterly": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/alterly",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 19418,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alterly.1.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alterly\/",
+                    "reference": "tags\/1.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alterly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/alterly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19419,
+                "time": "2016-11-15 22:21:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/alterly.zip?timestamp=1479248503"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/alterly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/alterly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

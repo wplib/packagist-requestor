@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/i9-idxpress": {
+            "1.0": {
+                "name": "wpackagist-plugin\/i9-idxpress",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 170192,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i9-idxpress.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i9-idxpress\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i9-idxpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/i9-idxpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 170193,
+                "time": "2017-09-11 09:47:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i9-idxpress.zip?timestamp=1505123256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i9-idxpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i9-idxpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

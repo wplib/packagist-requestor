@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nurkochen": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/nurkochen",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 238620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nurkochen.zip?timestamp=1472724865"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nurkochen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nurkochen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nurkochen",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238621,
+                "time": "2016-09-01 10:14:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nurkochen.zip?timestamp=1472724865"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nurkochen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nurkochen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

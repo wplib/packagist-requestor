@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/slidercat": {
+            "1.0": {
+                "name": "wpackagist-plugin\/slidercat",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 323495,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slidercat.zip?timestamp=1497679072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slidercat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slidercat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/slidercat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 323496,
+                "time": "2017-06-17 05:57:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slidercat.zip?timestamp=1497679072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slidercat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slidercat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

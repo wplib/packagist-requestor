@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oriel-lite": {
+            "1.1": {
+                "name": "wpackagist-plugin\/oriel-lite",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 245219,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oriel-lite.zip?timestamp=1503917848"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oriel-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oriel-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oriel-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245220,
+                "time": "2017-08-28 10:57:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oriel-lite.zip?timestamp=1503917848"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oriel-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oriel-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

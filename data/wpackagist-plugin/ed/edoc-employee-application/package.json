@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edoc-employee-application": {
+            "1.11": {
+                "name": "wpackagist-plugin\/edoc-employee-application",
+                "version": "1.11",
+                "version_normalized": "1.11.0.0",
+                "uid": 114366,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edoc-employee-application.1.11.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edoc-employee-application\/",
+                    "reference": "tags\/1.11"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edoc-employee-application\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edoc-employee-application",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114367,
+                "time": "2017-09-11 18:43:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edoc-employee-application.zip?timestamp=1505155408"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edoc-employee-application\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edoc-employee-application\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

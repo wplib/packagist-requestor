@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/code-cleaner": {
+            "1.1.8": {
+                "name": "wpackagist-plugin\/code-cleaner",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "uid": 72647,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-cleaner.zip?timestamp=1523540199"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/code-cleaner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72648,
+                "time": "2018-04-12 13:36:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-cleaner.zip?timestamp=1523540199"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

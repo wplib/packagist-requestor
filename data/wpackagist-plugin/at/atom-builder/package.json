@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/atom-builder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/atom-builder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 28419,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/atom-builder.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/atom-builder\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/atom-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/atom-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 28420,
+                "time": "2017-12-01 10:07:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/atom-builder.zip?timestamp=1512122845"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/atom-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/atom-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

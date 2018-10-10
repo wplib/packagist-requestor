@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/airim": {
+            "1.0": {
+                "name": "wpackagist-plugin\/airim",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 15712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/airim.zip?timestamp=1516001351"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/airim\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/airim\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/airim",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15713,
+                "time": "2018-01-15 07:29:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/airim.zip?timestamp=1516001351"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/airim\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/airim\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

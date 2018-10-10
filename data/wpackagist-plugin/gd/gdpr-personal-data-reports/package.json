@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gdpr-personal-data-reports": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/gdpr-personal-data-reports",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 148161,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-personal-data-reports.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-personal-data-reports\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-personal-data-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gdpr-personal-data-reports",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148162,
+                "time": "2018-06-11 11:23:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-personal-data-reports.zip?timestamp=1528716205"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-personal-data-reports\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-personal-data-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

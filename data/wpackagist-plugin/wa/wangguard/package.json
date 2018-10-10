@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wangguard": {
+            "1.7.2": {
+                "name": "wpackagist-plugin\/wangguard",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "uid": 379486,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wangguard.1.7.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wangguard\/",
+                    "reference": "tags\/1.7.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wangguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.7.3": {
+                "name": "wpackagist-plugin\/wangguard",
+                "version": "1.7.3",
+                "version_normalized": "1.7.3.0",
+                "uid": 379487,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wangguard.1.7.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wangguard\/",
+                    "reference": "tags\/1.7.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wangguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wangguard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379488,
+                "time": "2017-02-20 12:39:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wangguard.zip?timestamp=1487594371"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wangguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wangguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

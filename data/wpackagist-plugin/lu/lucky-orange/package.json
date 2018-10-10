@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lucky-orange": {
+            "1.98": {
+                "name": "wpackagist-plugin\/lucky-orange",
+                "version": "1.98",
+                "version_normalized": "1.98.0.0",
+                "uid": 204576,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lucky-orange.zip?timestamp=1531245332"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lucky-orange\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lucky-orange\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lucky-orange",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204577,
+                "time": "2018-07-10 17:55:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lucky-orange.zip?timestamp=1531245332"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lucky-orange\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lucky-orange\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

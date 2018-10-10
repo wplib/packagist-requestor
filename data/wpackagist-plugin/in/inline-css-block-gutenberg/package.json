@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/inline-css-block-gutenberg": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/inline-css-block-gutenberg",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 176927,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inline-css-block-gutenberg.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inline-css-block-gutenberg\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inline-css-block-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/inline-css-block-gutenberg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 176928,
+                "time": "2018-01-20 19:08:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inline-css-block-gutenberg.zip?timestamp=1516475333"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inline-css-block-gutenberg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inline-css-block-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

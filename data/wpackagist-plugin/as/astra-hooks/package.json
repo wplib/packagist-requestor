@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/astra-hooks": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/astra-hooks",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 27950,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/astra-hooks.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/astra-hooks\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/astra-hooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/astra-hooks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27951,
+                "time": "2018-02-06 13:06:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/astra-hooks.zip?timestamp=1517922398"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/astra-hooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/astra-hooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

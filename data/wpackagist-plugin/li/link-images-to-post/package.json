@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/link-images-to-post": {
+            "0.1": {
+                "name": "wpackagist-plugin\/link-images-to-post",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 198563,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-images-to-post.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-images-to-post\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-images-to-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/link-images-to-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198564,
+                "time": "2016-12-10 17:40:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-images-to-post.zip?timestamp=1481391646"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-images-to-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-images-to-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

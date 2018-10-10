@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elevator": {
+            "1.0.5.3": {
+                "name": "wpackagist-plugin\/elevator",
+                "version": "1.0.5.3",
+                "version_normalized": "1.0.5.3",
+                "uid": 116472,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elevator.zip?timestamp=1505595633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elevator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elevator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elevator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116473,
+                "time": "2017-09-16 21:00:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elevator.zip?timestamp=1505595633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elevator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elevator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

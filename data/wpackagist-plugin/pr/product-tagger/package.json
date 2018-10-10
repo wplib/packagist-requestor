@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/product-tagger": {
+            "1.2": {
+                "name": "wpackagist-plugin\/product-tagger",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 270238,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/product-tagger.zip?timestamp=1530529840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/product-tagger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/product-tagger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/product-tagger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270239,
+                "time": "2018-07-02 11:10:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/product-tagger.zip?timestamp=1530529840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/product-tagger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/product-tagger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

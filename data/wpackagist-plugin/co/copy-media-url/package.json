@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/copy-media-url": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/copy-media-url",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 82951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copy-media-url.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copy-media-url\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copy-media-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/copy-media-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82952,
+                "time": "2018-03-06 09:04:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copy-media-url.zip?timestamp=1520327087"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copy-media-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copy-media-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

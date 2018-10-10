@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpcontactus": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/wpcontactus",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 440477,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcontactus.zip?timestamp=1523889253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcontactus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcontactus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpcontactus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440478,
+                "time": "2018-04-16 14:34:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpcontactus.zip?timestamp=1523889253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpcontactus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpcontactus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

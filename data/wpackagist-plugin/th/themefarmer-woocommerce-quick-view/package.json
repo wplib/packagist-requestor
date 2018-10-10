@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/themefarmer-woocommerce-quick-view": {
+            "1.0": {
+                "name": "wpackagist-plugin\/themefarmer-woocommerce-quick-view",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 352657,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themefarmer-woocommerce-quick-view.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themefarmer-woocommerce-quick-view\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themefarmer-woocommerce-quick-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/themefarmer-woocommerce-quick-view",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352658,
+                "time": "2016-12-10 04:31:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themefarmer-woocommerce-quick-view.zip?timestamp=1481344314"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themefarmer-woocommerce-quick-view\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themefarmer-woocommerce-quick-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

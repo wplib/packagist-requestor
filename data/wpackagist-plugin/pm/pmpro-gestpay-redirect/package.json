@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pmpro-gestpay-redirect": {
+            "20180225": {
+                "name": "wpackagist-plugin\/pmpro-gestpay-redirect",
+                "version": 20180225,
+                "version_normalized": "20180225",
+                "uid": 259777,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-gestpay-redirect.20180225.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-gestpay-redirect\/",
+                    "reference": "tags\/20180225"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-gestpay-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pmpro-gestpay-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259778,
+                "time": "2018-02-25 15:19:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-gestpay-redirect.zip?timestamp=1519571976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-gestpay-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-gestpay-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

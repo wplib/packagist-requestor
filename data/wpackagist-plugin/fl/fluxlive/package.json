@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fluxlive": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/fluxlive",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 138099,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fluxlive.zip?timestamp=1538746600"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fluxlive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fluxlive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fluxlive",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138100,
+                "time": "2018-10-05 13:36:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fluxlive.zip?timestamp=1538746600"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fluxlive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fluxlive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

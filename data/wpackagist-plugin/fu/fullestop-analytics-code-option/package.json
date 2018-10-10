@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fullestop-analytics-code-option": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fullestop-analytics-code-option",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 144424,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullestop-analytics-code-option.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullestop-analytics-code-option\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullestop-analytics-code-option\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fullestop-analytics-code-option",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144425,
+                "time": "2016-11-03 13:20:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fullestop-analytics-code-option.zip?timestamp=1478179228"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fullestop-analytics-code-option\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fullestop-analytics-code-option\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

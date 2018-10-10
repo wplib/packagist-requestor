@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/interactive-svg-map": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/interactive-svg-map",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179373,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/interactive-svg-map.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/interactive-svg-map\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/interactive-svg-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/interactive-svg-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179374,
+                "time": "2018-09-25 10:44:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/interactive-svg-map.zip?timestamp=1537872289"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/interactive-svg-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/interactive-svg-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/list-custom-post-with-featured-image": {
+            "1.0": {
+                "name": "wpackagist-plugin\/list-custom-post-with-featured-image",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 199809,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-custom-post-with-featured-image.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-custom-post-with-featured-image\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-custom-post-with-featured-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/list-custom-post-with-featured-image",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199810,
+                "time": "2017-07-20 17:07:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/list-custom-post-with-featured-image.zip?timestamp=1500570422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/list-custom-post-with-featured-image\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/list-custom-post-with-featured-image\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

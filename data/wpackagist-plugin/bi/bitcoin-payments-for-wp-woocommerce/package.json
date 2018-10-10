@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bitcoin-payments-for-wp-woocommerce": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bitcoin-payments-for-wp-woocommerce",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 42188,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bitcoin-payments-for-wp-woocommerce.zip?timestamp=1425374370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bitcoin-payments-for-wp-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bitcoin-payments-for-wp-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bitcoin-payments-for-wp-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 42189,
+                "time": "2015-03-03 09:19:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bitcoin-payments-for-wp-woocommerce.zip?timestamp=1425374370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bitcoin-payments-for-wp-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bitcoin-payments-for-wp-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

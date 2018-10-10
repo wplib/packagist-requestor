@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/denglu": {
+            "1.7.3": {
+                "name": "wpackagist-plugin\/denglu",
+                "version": "1.7.3",
+                "version_normalized": "1.7.3.0",
+                "uid": 97644,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/denglu.zip?timestamp=1522830248"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/denglu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/denglu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/denglu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97645,
+                "time": "2018-04-04 08:24:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/denglu.zip?timestamp=1522830248"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/denglu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/denglu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

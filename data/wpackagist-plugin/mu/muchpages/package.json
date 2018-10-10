@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/muchpages": {
+            "1.0": {
+                "name": "wpackagist-plugin\/muchpages",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 223798,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/muchpages.zip?timestamp=1500685638"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/muchpages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/muchpages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/muchpages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 223799,
+                "time": "2017-07-22 01:07:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/muchpages.zip?timestamp=1500685638"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/muchpages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/muchpages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

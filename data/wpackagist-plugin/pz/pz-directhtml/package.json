@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pz-directhtml": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pz-directhtml",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 274785,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pz-directhtml.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pz-directhtml\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pz-directhtml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pz-directhtml",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274786,
+                "time": "2017-07-09 11:06:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pz-directhtml.zip?timestamp=1499598377"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pz-directhtml\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pz-directhtml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

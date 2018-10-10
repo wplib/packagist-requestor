@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/video-backgrounds-for-siteorigin-page-builder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/video-backgrounds-for-siteorigin-page-builder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 374659,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/video-backgrounds-for-siteorigin-page-builder.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/video-backgrounds-for-siteorigin-page-builder\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/video-backgrounds-for-siteorigin-page-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/video-backgrounds-for-siteorigin-page-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 374660,
+                "time": "2017-03-25 06:15:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/video-backgrounds-for-siteorigin-page-builder.zip?timestamp=1490422530"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/video-backgrounds-for-siteorigin-page-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/video-backgrounds-for-siteorigin-page-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

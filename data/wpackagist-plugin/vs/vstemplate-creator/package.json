@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vstemplate-creator": {
+            "2.0.2": {
+                "name": "wpackagist-plugin\/vstemplate-creator",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "uid": 378554,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vstemplate-creator.zip?timestamp=1474127952"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vstemplate-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vstemplate-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vstemplate-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 378555,
+                "time": "2016-09-17 15:59:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vstemplate-creator.zip?timestamp=1474127952"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vstemplate-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vstemplate-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

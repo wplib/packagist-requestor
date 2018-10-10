@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miwowidgets": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/miwowidgets",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 218988,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwowidgets.zip?timestamp=1512651579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwowidgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwowidgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miwowidgets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218989,
+                "time": "2017-12-07 12:59:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwowidgets.zip?timestamp=1512651579"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwowidgets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwowidgets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/eddards-post-attachments": {
+            "1.0": {
+                "name": "wpackagist-plugin\/eddards-post-attachments",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113875,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eddards-post-attachments.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eddards-post-attachments\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eddards-post-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/eddards-post-attachments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113876,
+                "time": "2015-06-19 07:57:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eddards-post-attachments.zip?timestamp=1434700679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eddards-post-attachments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eddards-post-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

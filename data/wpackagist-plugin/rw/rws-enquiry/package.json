@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rws-enquiry": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rws-enquiry",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 297431,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rws-enquiry.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rws-enquiry\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rws-enquiry\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rws-enquiry",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297432,
+                "time": "2018-06-28 12:47:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rws-enquiry.zip?timestamp=1530190032"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rws-enquiry\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rws-enquiry\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

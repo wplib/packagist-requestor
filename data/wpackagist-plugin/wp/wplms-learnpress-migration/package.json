@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplms-learnpress-migration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wplms-learnpress-migration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442055,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-learnpress-migration.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-learnpress-migration\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-learnpress-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplms-learnpress-migration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442056,
+                "time": "2017-06-12 08:41:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplms-learnpress-migration.zip?timestamp=1497256901"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplms-learnpress-migration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplms-learnpress-migration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

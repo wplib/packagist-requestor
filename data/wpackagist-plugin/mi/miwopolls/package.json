@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miwopolls": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/miwopolls",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 218980,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwopolls.zip?timestamp=1512651546"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwopolls\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwopolls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miwopolls",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218981,
+                "time": "2017-12-07 12:59:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwopolls.zip?timestamp=1512651546"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwopolls\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwopolls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

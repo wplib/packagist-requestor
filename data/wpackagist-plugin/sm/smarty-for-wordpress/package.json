@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smarty-for-wordpress": {
+            "3.1.32": {
+                "name": "wpackagist-plugin\/smarty-for-wordpress",
+                "version": "3.1.32",
+                "version_normalized": "3.1.32.0",
+                "uid": 325785,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smarty-for-wordpress.zip?timestamp=1535627007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smarty-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smarty-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smarty-for-wordpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325786,
+                "time": "2018-08-30 11:03:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smarty-for-wordpress.zip?timestamp=1535627007"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smarty-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smarty-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

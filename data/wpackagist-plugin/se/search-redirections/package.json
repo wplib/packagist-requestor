@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/search-redirections": {
+            "0.1": {
+                "name": "wpackagist-plugin\/search-redirections",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 302146,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-redirections.zip?timestamp=1533324570"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-redirections\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-redirections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/search-redirections",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302147,
+                "time": "2018-08-03 19:29:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-redirections.zip?timestamp=1533324570"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-redirections\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-redirections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/thirteen-colors": {
+            "1.0": {
+                "name": "wpackagist-plugin\/thirteen-colors",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 353406,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thirteen-colors.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thirteen-colors\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thirteen-colors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/thirteen-colors",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 353407,
+                "time": "2016-12-10 00:22:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thirteen-colors.zip?timestamp=1481329370"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thirteen-colors\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thirteen-colors\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

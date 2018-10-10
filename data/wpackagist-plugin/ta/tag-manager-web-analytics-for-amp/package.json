@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tag-manager-web-analytics-for-amp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tag-manager-web-analytics-for-amp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345457,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-manager-web-analytics-for-amp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-manager-web-analytics-for-amp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-manager-web-analytics-for-amp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tag-manager-web-analytics-for-amp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345458,
+                "time": "2017-03-01 19:28:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-manager-web-analytics-for-amp.zip?timestamp=1488396511"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-manager-web-analytics-for-amp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-manager-web-analytics-for-amp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

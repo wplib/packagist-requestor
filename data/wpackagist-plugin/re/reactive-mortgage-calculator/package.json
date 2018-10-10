@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reactive-mortgage-calculator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/reactive-mortgage-calculator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 281837,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reactive-mortgage-calculator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reactive-mortgage-calculator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reactive-mortgage-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reactive-mortgage-calculator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281838,
+                "time": "2017-10-05 07:44:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reactive-mortgage-calculator.zip?timestamp=1507189463"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reactive-mortgage-calculator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reactive-mortgage-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

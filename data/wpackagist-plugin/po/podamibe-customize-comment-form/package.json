@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/podamibe-customize-comment-form": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/podamibe-customize-comment-form",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 259998,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/podamibe-customize-comment-form.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/podamibe-customize-comment-form\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/podamibe-customize-comment-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/podamibe-customize-comment-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259999,
+                "time": "2017-09-08 06:47:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/podamibe-customize-comment-form.zip?timestamp=1504853265"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/podamibe-customize-comment-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/podamibe-customize-comment-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

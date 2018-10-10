@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/free-woocommerce-wishlist": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/free-woocommerce-wishlist",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142580,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-woocommerce-wishlist.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-woocommerce-wishlist\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-woocommerce-wishlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/free-woocommerce-wishlist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142581,
+                "time": "2015-08-03 05:22:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-woocommerce-wishlist.zip?timestamp=1438579353"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-woocommerce-wishlist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-woocommerce-wishlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

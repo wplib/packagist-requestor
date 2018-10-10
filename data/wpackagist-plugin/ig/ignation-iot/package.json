@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ignation-iot": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ignation-iot",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 172237,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ignation-iot.zip?timestamp=1484605571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ignation-iot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ignation-iot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ignation-iot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172238,
+                "time": "2017-01-16 22:26:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ignation-iot.zip?timestamp=1484605571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ignation-iot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ignation-iot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mastercurrency-wp": {
+            "1.1.61": {
+                "name": "wpackagist-plugin\/mastercurrency-wp",
+                "version": "1.1.61",
+                "version_normalized": "1.1.61.0",
+                "uid": 210502,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mastercurrency-wp.zip?timestamp=1499275297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mastercurrency-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mastercurrency-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mastercurrency-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 210503,
+                "time": "2017-07-05 17:21:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mastercurrency-wp.zip?timestamp=1499275297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mastercurrency-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mastercurrency-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

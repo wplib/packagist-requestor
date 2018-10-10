@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/behavior-flow": {
+            "1.0": {
+                "name": "wpackagist-plugin\/behavior-flow",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 39021,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/behavior-flow.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/behavior-flow\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/behavior-flow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/behavior-flow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39022,
+                "time": "2015-09-11 13:29:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/behavior-flow.zip?timestamp=1441978184"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/behavior-flow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/behavior-flow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

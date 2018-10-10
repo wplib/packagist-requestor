@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pagamastarde": {
+            "6.2.3": {
+                "name": "wpackagist-plugin\/pagamastarde",
+                "version": "6.2.3",
+                "version_normalized": "6.2.3.0",
+                "uid": 246783,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagamastarde.zip?timestamp=1531836459"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagamastarde\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagamastarde\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pagamastarde",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 246784,
+                "time": "2018-07-17 14:07:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagamastarde.zip?timestamp=1531836459"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagamastarde\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagamastarde\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

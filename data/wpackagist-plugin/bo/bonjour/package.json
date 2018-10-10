@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bonjour": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bonjour",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 47640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bonjour.zip?timestamp=1457465062"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bonjour\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bonjour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bonjour",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47641,
+                "time": "2016-03-08 19:24:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bonjour.zip?timestamp=1457465062"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bonjour\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bonjour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

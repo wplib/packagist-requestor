@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wikify-lite": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/wikify-lite",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 387025,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wikify-lite.zip?timestamp=1506018233"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wikify-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wikify-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wikify-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387026,
+                "time": "2017-09-21 18:23:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wikify-lite.zip?timestamp=1506018233"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wikify-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wikify-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

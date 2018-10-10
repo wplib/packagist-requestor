@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/riden": {
+            "0.1": {
+                "name": "wpackagist-plugin\/riden",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 292795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/riden.zip?timestamp=1524252780"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/riden\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/riden\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/riden",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292796,
+                "time": "2018-04-20 19:33:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/riden.zip?timestamp=1524252780"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/riden\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/riden\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

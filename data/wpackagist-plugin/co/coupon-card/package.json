@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coupon-card": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/coupon-card",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 84379,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coupon-card.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coupon-card\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coupon-card\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coupon-card",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84380,
+                "time": "2017-05-20 10:33:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coupon-card.zip?timestamp=1495276427"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coupon-card\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coupon-card\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

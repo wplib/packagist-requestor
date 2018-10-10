@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailsignmanager": {
+            "0.81": {
+                "name": "wpackagist-plugin\/mailsignmanager",
+                "version": "0.81",
+                "version_normalized": "0.81.0.0",
+                "uid": 207375,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailsignmanager.0.81.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailsignmanager\/",
+                    "reference": "tags\/0.81"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailsignmanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailsignmanager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207376,
+                "time": "2016-09-29 13:22:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailsignmanager.zip?timestamp=1475155351"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailsignmanager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailsignmanager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

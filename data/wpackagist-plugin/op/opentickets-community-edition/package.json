@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/opentickets-community-edition": {
+            "2.8.7": {
+                "name": "wpackagist-plugin\/opentickets-community-edition",
+                "version": "2.8.7",
+                "version_normalized": "2.8.7.0",
+                "uid": 243284,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/opentickets-community-edition.zip?timestamp=1512658923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/opentickets-community-edition\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/opentickets-community-edition\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/opentickets-community-edition",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243285,
+                "time": "2017-12-07 15:02:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/opentickets-community-edition.zip?timestamp=1512658923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/opentickets-community-edition\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/opentickets-community-edition\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

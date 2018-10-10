@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/luckywp-scripts-control": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/luckywp-scripts-control",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204598,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-scripts-control.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-scripts-control\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-scripts-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/luckywp-scripts-control",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204599,
+                "time": "2018-10-10 05:21:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luckywp-scripts-control.zip?timestamp=1539148867"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luckywp-scripts-control\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luckywp-scripts-control\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-mashsocial-wigdet": {
+            "1.8.6": {
+                "name": "wpackagist-plugin\/wp-mashsocial-wigdet",
+                "version": "1.8.6",
+                "version_normalized": "1.8.6.0",
+                "uid": 423414,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-mashsocial-wigdet.1.8.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-mashsocial-wigdet\/",
+                    "reference": "tags\/1.8.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-mashsocial-wigdet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-mashsocial-wigdet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 423415,
+                "time": "2017-11-14 11:28:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-mashsocial-wigdet.zip?timestamp=1510658880"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-mashsocial-wigdet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-mashsocial-wigdet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

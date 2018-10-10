@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mage-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mage-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 205724,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-slider.zip?timestamp=1498116383"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mage-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 205725,
+                "time": "2017-06-22 07:26:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mage-slider.zip?timestamp=1498116383"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mage-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mage-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

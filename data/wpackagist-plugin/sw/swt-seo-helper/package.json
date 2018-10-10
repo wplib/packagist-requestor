@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/swt-seo-helper": {
+            "1.0": {
+                "name": "wpackagist-plugin\/swt-seo-helper",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 343934,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swt-seo-helper.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swt-seo-helper\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swt-seo-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/swt-seo-helper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 343935,
+                "time": "2017-01-16 12:23:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swt-seo-helper.zip?timestamp=1484569420"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swt-seo-helper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swt-seo-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

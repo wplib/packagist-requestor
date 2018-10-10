@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elog": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/elog",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 116687,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elog.zip?timestamp=1534629769"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116688,
+                "time": "2018-08-18 22:02:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elog.zip?timestamp=1534629769"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

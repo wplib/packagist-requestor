@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/intent-box": {
+            "1.0": {
+                "name": "wpackagist-plugin\/intent-box",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 179288,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intent-box.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intent-box\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intent-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/intent-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179289,
+                "time": "2017-10-14 14:08:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/intent-box.zip?timestamp=1507990130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/intent-box\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/intent-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

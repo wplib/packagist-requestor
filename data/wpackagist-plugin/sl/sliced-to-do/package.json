@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sliced-to-do": {
+            "0.0.5": {
+                "name": "wpackagist-plugin\/sliced-to-do",
+                "version": "0.0.5",
+                "version_normalized": "0.0.5.0",
+                "uid": 322603,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sliced-to-do.zip?timestamp=1518285841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sliced-to-do\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sliced-to-do\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sliced-to-do",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 322604,
+                "time": "2018-02-10 18:04:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sliced-to-do.zip?timestamp=1518285841"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sliced-to-do\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sliced-to-do\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

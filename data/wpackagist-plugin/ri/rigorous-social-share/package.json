@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rigorous-social-share": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/rigorous-social-share",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 292951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rigorous-social-share.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rigorous-social-share\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rigorous-social-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rigorous-social-share",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292952,
+                "time": "2017-02-26 15:19:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rigorous-social-share.zip?timestamp=1488122393"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rigorous-social-share\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rigorous-social-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

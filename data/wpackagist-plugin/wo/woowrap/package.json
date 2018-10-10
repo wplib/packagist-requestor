@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woowrap": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/woowrap",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 400449,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woowrap.zip?timestamp=1457102554"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woowrap\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woowrap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woowrap",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400450,
+                "time": "2016-03-04 14:42:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woowrap.zip?timestamp=1457102554"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woowrap\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woowrap\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

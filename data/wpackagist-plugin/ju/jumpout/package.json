@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jumpout": {
+            "3.2.0": {
+                "name": "wpackagist-plugin\/jumpout",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "uid": 186931,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumpout.zip?timestamp=1519054034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumpout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumpout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jumpout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186932,
+                "time": "2018-02-19 15:27:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumpout.zip?timestamp=1519054034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumpout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumpout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

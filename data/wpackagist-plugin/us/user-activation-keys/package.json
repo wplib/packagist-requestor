@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/user-activation-keys": {
+            "4.6": {
+                "name": "wpackagist-plugin\/user-activation-keys",
+                "version": "4.6",
+                "version_normalized": "4.6.0.0",
+                "uid": 370657,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-activation-keys.zip?timestamp=1470698976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-activation-keys\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-activation-keys\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/user-activation-keys",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370658,
+                "time": "2016-08-08 23:29:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/user-activation-keys.zip?timestamp=1470698976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/user-activation-keys\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/user-activation-keys\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

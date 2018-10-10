@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/surbma-revisions-for-custom-css": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/surbma-revisions-for-custom-css",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 342783,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-revisions-for-custom-css.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-revisions-for-custom-css\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-revisions-for-custom-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/surbma-revisions-for-custom-css",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342784,
+                "time": "2016-11-12 06:01:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/surbma-revisions-for-custom-css.zip?timestamp=1478930481"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/surbma-revisions-for-custom-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/surbma-revisions-for-custom-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

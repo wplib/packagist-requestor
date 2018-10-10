@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bspb-progressbar": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bspb-progressbar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 53094,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bspb-progressbar.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bspb-progressbar\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bspb-progressbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bspb-progressbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53095,
+                "time": "2016-04-02 10:11:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bspb-progressbar.zip?timestamp=1459591907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bspb-progressbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bspb-progressbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

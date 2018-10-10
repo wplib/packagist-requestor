@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/purge-cloud-flare": {
+            "1.6": {
+                "name": "wpackagist-plugin\/purge-cloud-flare",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 273633,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purge-cloud-flare.zip?timestamp=1487772136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purge-cloud-flare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purge-cloud-flare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/purge-cloud-flare",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273634,
+                "time": "2017-02-22 14:02:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purge-cloud-flare.zip?timestamp=1487772136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purge-cloud-flare\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purge-cloud-flare\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

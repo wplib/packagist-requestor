@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/of-cards": {
+            "1.0": {
+                "name": "wpackagist-plugin\/of-cards",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 239905,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/of-cards.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/of-cards\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/of-cards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/of-cards",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239906,
+                "time": "2016-08-27 19:13:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/of-cards.zip?timestamp=1472325211"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/of-cards\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/of-cards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

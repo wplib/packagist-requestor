@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dsgvo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dsgvo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 105259,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dsgvo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dsgvo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dsgvo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.6.1": {
+                "name": "wpackagist-plugin\/dsgvo",
+                "version": "1.0.6.1",
+                "version_normalized": "1.0.6.1",
+                "uid": 105260,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dsgvo.1.0.6.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dsgvo\/",
+                    "reference": "tags\/1.0.6.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dsgvo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dsgvo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105261,
+                "time": "2018-06-07 11:56:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dsgvo.zip?timestamp=1528372601"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dsgvo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dsgvo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

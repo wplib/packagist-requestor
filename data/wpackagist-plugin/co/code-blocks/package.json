@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/code-blocks": {
+            "0.2": {
+                "name": "wpackagist-plugin\/code-blocks",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 72656,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-blocks.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-blocks\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.3": {
+                "name": "wpackagist-plugin\/code-blocks",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 72657,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-blocks.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-blocks\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/code-blocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72658,
+                "time": "2015-04-24 05:44:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/code-blocks.zip?timestamp=1429854266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/code-blocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/code-blocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

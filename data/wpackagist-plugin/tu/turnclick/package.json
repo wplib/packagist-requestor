@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/turnclick": {
+            "1.0": {
+                "name": "wpackagist-plugin\/turnclick",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 361175,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/turnclick.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/turnclick\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/turnclick\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/turnclick",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 361176,
+                "time": "2017-04-29 17:07:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/turnclick.zip?timestamp=1493485665"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/turnclick\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/turnclick\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

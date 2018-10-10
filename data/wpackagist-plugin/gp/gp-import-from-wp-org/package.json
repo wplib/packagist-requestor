@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-import-from-wp-org": {
+            "0.5": {
+                "name": "wpackagist-plugin\/gp-import-from-wp-org",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 157170,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-import-from-wp-org.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-import-from-wp-org\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-import-from-wp-org\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-import-from-wp-org",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157171,
+                "time": "2017-06-08 22:26:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-import-from-wp-org.zip?timestamp=1496960791"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-import-from-wp-org\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-import-from-wp-org\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

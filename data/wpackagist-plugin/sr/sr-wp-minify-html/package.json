@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sr-wp-minify-html": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sr-wp-minify-html",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 334961,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sr-wp-minify-html.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sr-wp-minify-html\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sr-wp-minify-html\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sr-wp-minify-html",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 334962,
+                "time": "2018-09-26 09:26:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sr-wp-minify-html.zip?timestamp=1537953979"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sr-wp-minify-html\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sr-wp-minify-html\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

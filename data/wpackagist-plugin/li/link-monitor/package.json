@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/link-monitor": {
+            "1.0": {
+                "name": "wpackagist-plugin\/link-monitor",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 198634,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-monitor.zip?timestamp=1477668834"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-monitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-monitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/link-monitor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198635,
+                "time": "2016-10-28 15:33:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-monitor.zip?timestamp=1477668834"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-monitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-monitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

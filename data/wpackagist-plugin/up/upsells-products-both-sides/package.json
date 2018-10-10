@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/upsells-products-both-sides": {
+            "1.1": {
+                "name": "wpackagist-plugin\/upsells-products-both-sides",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 369834,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/upsells-products-both-sides.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/upsells-products-both-sides\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/upsells-products-both-sides\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/upsells-products-both-sides",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 369835,
+                "time": "2017-04-13 10:55:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/upsells-products-both-sides.zip?timestamp=1492080942"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/upsells-products-both-sides\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/upsells-products-both-sides\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/qr-code-creator": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/qr-code-creator",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 275369,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-code-creator.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-code-creator\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-code-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/qr-code-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 275370,
+                "time": "2018-04-09 11:41:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-code-creator.zip?timestamp=1523274112"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-code-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-code-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

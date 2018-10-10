@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/localize-time": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/localize-time",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202207,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/localize-time.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/localize-time\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/localize-time\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/localize-time",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202208,
+                "time": "2016-06-10 20:27:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/localize-time.zip?timestamp=1465590421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/localize-time\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/localize-time\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lw-contact-form": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/lw-contact-form",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 204779,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lw-contact-form.zip?timestamp=1537458956"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lw-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lw-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lw-contact-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204780,
+                "time": "2018-09-20 15:55:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lw-contact-form.zip?timestamp=1537458956"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lw-contact-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lw-contact-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

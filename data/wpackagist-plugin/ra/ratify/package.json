@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ratify": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ratify",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 280872,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ratify.zip?timestamp=1519082423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ratify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ratify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ratify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 280873,
+                "time": "2018-02-19 23:20:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ratify.zip?timestamp=1519082423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ratify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ratify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

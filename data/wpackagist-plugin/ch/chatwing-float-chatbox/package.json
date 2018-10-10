@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatwing-float-chatbox": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/chatwing-float-chatbox",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 66637,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatwing-float-chatbox.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatwing-float-chatbox\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatwing-float-chatbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatwing-float-chatbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66638,
+                "time": "2018-09-17 09:45:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatwing-float-chatbox.zip?timestamp=1537177520"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatwing-float-chatbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatwing-float-chatbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

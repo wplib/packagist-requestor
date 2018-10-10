@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adgoals-tracking": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/adgoals-tracking",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adgoals-tracking.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adgoals-tracking\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adgoals-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adgoals-tracking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8562,
+                "time": "2018-01-16 09:21:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adgoals-tracking.zip?timestamp=1516094501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adgoals-tracking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adgoals-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

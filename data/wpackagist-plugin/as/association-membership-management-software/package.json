@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/association-membership-management-software": {
+            "1.0": {
+                "name": "wpackagist-plugin\/association-membership-management-software",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27760,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/association-membership-management-software.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/association-membership-management-software\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/association-membership-management-software\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/association-membership-management-software",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27761,
+                "time": "2016-03-25 09:20:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/association-membership-management-software.zip?timestamp=1458897653"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/association-membership-management-software\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/association-membership-management-software\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

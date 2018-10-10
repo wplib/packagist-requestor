@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kt-dashicons": {
+            "1.0": {
+                "name": "wpackagist-plugin\/kt-dashicons",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 191615,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kt-dashicons.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kt-dashicons\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kt-dashicons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kt-dashicons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191616,
+                "time": "2017-08-21 07:30:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kt-dashicons.zip?timestamp=1503300657"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kt-dashicons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kt-dashicons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

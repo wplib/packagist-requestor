@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bootstrap-mce-css": {
+            "0.2": {
+                "name": "wpackagist-plugin\/bootstrap-mce-css",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 49279,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-mce-css.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-mce-css\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-mce-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bootstrap-mce-css",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49280,
+                "time": "2018-05-13 01:06:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bootstrap-mce-css.zip?timestamp=1526173577"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bootstrap-mce-css\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bootstrap-mce-css\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

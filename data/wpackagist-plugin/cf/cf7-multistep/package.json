@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-multistep": {
+            "1.1": {
+                "name": "wpackagist-plugin\/cf7-multistep",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 65032,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-multistep.zip?timestamp=1497510506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-multistep\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-multistep\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-multistep",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65033,
+                "time": "2017-06-15 07:08:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-multistep.zip?timestamp=1497510506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-multistep\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-multistep\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

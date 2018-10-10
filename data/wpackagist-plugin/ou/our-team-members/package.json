@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/our-team-members": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/our-team-members",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 245965,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/our-team-members.zip?timestamp=1526831494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/our-team-members\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/our-team-members\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/our-team-members",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245966,
+                "time": "2018-05-20 15:51:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/our-team-members.zip?timestamp=1526831494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/our-team-members\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/our-team-members\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

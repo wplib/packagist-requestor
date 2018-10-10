@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monei": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/monei",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 221467,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monei.zip?timestamp=1517919071"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monei\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monei\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monei",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221468,
+                "time": "2018-02-06 12:11:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monei.zip?timestamp=1517919071"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monei\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monei\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

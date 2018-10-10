@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/limit-wp-admin-access": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/limit-wp-admin-access",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 198235,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limit-wp-admin-access.zip?timestamp=1426334430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limit-wp-admin-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limit-wp-admin-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/limit-wp-admin-access",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198236,
+                "time": "2015-03-14 12:00:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limit-wp-admin-access.zip?timestamp=1426334430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limit-wp-admin-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limit-wp-admin-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

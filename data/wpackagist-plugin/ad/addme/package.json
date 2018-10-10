@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/addme": {
+            "0.1": {
+                "name": "wpackagist-plugin\/addme",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 8057,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addme.zip?timestamp=1422145909"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addme\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/addme",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8058,
+                "time": "2015-01-25 00:31:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addme.zip?timestamp=1422145909"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addme\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

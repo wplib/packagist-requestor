@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/justuno": {
+            "1.3": {
+                "name": "wpackagist-plugin\/justuno",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 187363,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/justuno.zip?timestamp=1503433445"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/justuno\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/justuno\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/justuno",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 187364,
+                "time": "2017-08-22 20:24:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/justuno.zip?timestamp=1503433445"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/justuno\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/justuno\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

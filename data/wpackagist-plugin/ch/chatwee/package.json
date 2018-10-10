@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatwee": {
+            "2.1.2": {
+                "name": "wpackagist-plugin\/chatwee",
+                "version": "2.1.2",
+                "version_normalized": "2.1.2.0",
+                "uid": 66577,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatwee.zip?timestamp=1527114540"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatwee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatwee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatwee",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66578,
+                "time": "2018-05-23 22:29:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatwee.zip?timestamp=1527114540"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatwee\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatwee\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

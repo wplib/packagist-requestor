@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/angularjs-for-wp": {
+            "3.0.0": {
+                "name": "wpackagist-plugin\/angularjs-for-wp",
+                "version": "3.0.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 22303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/angularjs-for-wp.zip?timestamp=1440632476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/angularjs-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/angularjs-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/angularjs-for-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22304,
+                "time": "2015-08-26 23:41:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/angularjs-for-wp.zip?timestamp=1440632476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/angularjs-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/angularjs-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

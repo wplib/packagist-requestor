@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ispring-learn-jwt": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ispring-learn-jwt",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 181324,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ispring-learn-jwt.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ispring-learn-jwt\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ispring-learn-jwt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ispring-learn-jwt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181325,
+                "time": "2017-08-08 14:39:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ispring-learn-jwt.zip?timestamp=1502203151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ispring-learn-jwt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ispring-learn-jwt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

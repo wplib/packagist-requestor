@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/color-and-label-variations-for-woocommerce": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/color-and-label-variations-for-woocommerce",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 74101,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-and-label-variations-for-woocommerce.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-and-label-variations-for-woocommerce\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-and-label-variations-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/color-and-label-variations-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74102,
+                "time": "2017-06-12 06:49:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-and-label-variations-for-woocommerce.zip?timestamp=1497250153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-and-label-variations-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-and-label-variations-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smartaccounts": {
+            "1.4": {
+                "name": "wpackagist-plugin\/smartaccounts",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 325358,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smartaccounts.zip?timestamp=1535009623"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smartaccounts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smartaccounts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smartaccounts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325359,
+                "time": "2018-08-23 07:33:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smartaccounts.zip?timestamp=1535009623"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smartaccounts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smartaccounts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

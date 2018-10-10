@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/waypoint": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/waypoint",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 380090,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/waypoint.zip?timestamp=1538353751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/waypoint\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/waypoint\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/waypoint",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 380091,
+                "time": "2018-10-01 00:29:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/waypoint.zip?timestamp=1538353751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/waypoint\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/waypoint\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

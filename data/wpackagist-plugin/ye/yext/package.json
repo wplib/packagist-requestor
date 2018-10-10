@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/yext": {
+            "1.0.8": {
+                "name": "wpackagist-plugin\/yext",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "uid": 448180,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yext.zip?timestamp=1516818053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/yext",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 448181,
+                "time": "2018-01-24 18:20:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yext.zip?timestamp=1516818053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

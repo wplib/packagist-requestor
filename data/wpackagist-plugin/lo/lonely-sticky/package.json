@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lonely-sticky": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/lonely-sticky",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 203648,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lonely-sticky.zip?timestamp=1469739983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lonely-sticky\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lonely-sticky\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lonely-sticky",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203649,
+                "time": "2016-07-28 21:06:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lonely-sticky.zip?timestamp=1469739983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lonely-sticky\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lonely-sticky\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

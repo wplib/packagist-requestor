@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/isv-connect": {
+            "1.4": {
+                "name": "wpackagist-plugin\/isv-connect",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 181490,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/isv-connect.zip?timestamp=1527860396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/isv-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/isv-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/isv-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181491,
+                "time": "2018-06-01 13:39:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/isv-connect.zip?timestamp=1527860396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/isv-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/isv-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

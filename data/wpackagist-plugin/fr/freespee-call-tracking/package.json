@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/freespee-call-tracking": {
+            "1.0": {
+                "name": "wpackagist-plugin\/freespee-call-tracking",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142737,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freespee-call-tracking.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freespee-call-tracking\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freespee-call-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/freespee-call-tracking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142738,
+                "time": "2015-04-21 13:44:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freespee-call-tracking.zip?timestamp=1429623862"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freespee-call-tracking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freespee-call-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

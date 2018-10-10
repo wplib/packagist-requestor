@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordoftravel": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/wordoftravel",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 401102,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordoftravel.zip?timestamp=1530149390"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordoftravel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordoftravel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordoftravel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 401103,
+                "time": "2018-06-28 01:29:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordoftravel.zip?timestamp=1530149390"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordoftravel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordoftravel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

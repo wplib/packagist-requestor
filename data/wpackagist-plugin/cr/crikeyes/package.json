@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crikeyes": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/crikeyes",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 86082,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crikeyes.zip?timestamp=1424326816"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crikeyes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crikeyes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crikeyes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86083,
+                "time": "2015-02-19 06:20:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crikeyes.zip?timestamp=1424326816"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crikeyes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crikeyes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

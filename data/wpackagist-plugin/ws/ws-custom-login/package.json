@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ws-custom-login": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ws-custom-login",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 444984,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-custom-login.zip?timestamp=1473660671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-custom-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-custom-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ws-custom-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 444985,
+                "time": "2016-09-12 06:11:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-custom-login.zip?timestamp=1473660671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-custom-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-custom-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

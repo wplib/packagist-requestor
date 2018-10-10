@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-require-login": {
+            "0.5": {
+                "name": "wpackagist-plugin\/gp-require-login",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 157216,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-require-login.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-require-login\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-require-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.6": {
+                "name": "wpackagist-plugin\/gp-require-login",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 157217,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-require-login.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-require-login\/",
+                    "reference": "tags\/0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-require-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-require-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157218,
+                "time": "2017-06-08 22:30:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-require-login.zip?timestamp=1496961014"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-require-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-require-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

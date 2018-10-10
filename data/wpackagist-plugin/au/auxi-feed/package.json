@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auxi-feed": {
+            "1.0": {
+                "name": "wpackagist-plugin\/auxi-feed",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31834,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auxi-feed.zip?timestamp=1464732433"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auxi-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auxi-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auxi-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31835,
+                "time": "2016-05-31 22:07:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auxi-feed.zip?timestamp=1464732433"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auxi-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auxi-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

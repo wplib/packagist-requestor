@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/purge-o2switch-xtremcache": {
+            "1.0": {
+                "name": "wpackagist-plugin\/purge-o2switch-xtremcache",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 273618,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purge-o2switch-xtremcache.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purge-o2switch-xtremcache\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purge-o2switch-xtremcache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/purge-o2switch-xtremcache",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273619,
+                "time": "2018-07-30 09:13:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/purge-o2switch-xtremcache.zip?timestamp=1532942034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/purge-o2switch-xtremcache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/purge-o2switch-xtremcache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

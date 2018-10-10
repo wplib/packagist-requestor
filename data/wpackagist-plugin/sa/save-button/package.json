@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/save-button": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/save-button",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 299494,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/save-button.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/save-button\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/save-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/save-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299495,
+                "time": "2017-11-14 20:28:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/save-button.zip?timestamp=1510691331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/save-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/save-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

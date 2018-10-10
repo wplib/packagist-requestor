@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pagli-companion": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pagli-companion",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 248189,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagli-companion.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagli-companion\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagli-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pagli-companion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 248190,
+                "time": "2018-01-02 10:47:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pagli-companion.zip?timestamp=1514890050"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pagli-companion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pagli-companion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

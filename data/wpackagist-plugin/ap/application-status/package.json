@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/application-status": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/application-status",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 24593,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-status.zip?timestamp=1519643869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-status\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-status\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/application-status",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24594,
+                "time": "2018-02-26 11:17:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-status.zip?timestamp=1519643869"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-status\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-status\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

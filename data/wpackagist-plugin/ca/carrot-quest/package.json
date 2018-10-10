@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/carrot-quest": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/carrot-quest",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 60963,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrot-quest.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrot-quest\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrot-quest\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/carrot-quest",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 60964,
+                "time": "2016-07-11 05:22:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/carrot-quest.zip?timestamp=1468214558"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/carrot-quest\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/carrot-quest\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

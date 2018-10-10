@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ishop-toolbox": {
+            "1.03": {
+                "name": "wpackagist-plugin\/ishop-toolbox",
+                "version": "1.03",
+                "version_normalized": "1.03.0.0",
+                "uid": 181078,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ishop-toolbox.zip?timestamp=1534790712"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ishop-toolbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ishop-toolbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ishop-toolbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181079,
+                "time": "2018-08-20 18:45:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ishop-toolbox.zip?timestamp=1534790712"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ishop-toolbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ishop-toolbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

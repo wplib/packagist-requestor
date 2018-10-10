@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wander": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wander",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 379433,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wander.zip?timestamp=1520619861"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wander\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wander",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379434,
+                "time": "2018-03-09 18:24:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wander.zip?timestamp=1520619861"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wander\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wander\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

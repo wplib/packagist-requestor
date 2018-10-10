@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restful-syndication": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/restful-syndication",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 290703,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restful-syndication.zip?timestamp=1536644751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restful-syndication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restful-syndication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restful-syndication",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290704,
+                "time": "2018-09-11 05:45:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restful-syndication.zip?timestamp=1536644751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restful-syndication\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restful-syndication\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

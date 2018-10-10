@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/preview-everywhere": {
+            "3.0.2": {
+                "name": "wpackagist-plugin\/preview-everywhere",
+                "version": "3.0.2",
+                "version_normalized": "3.0.2.0",
+                "uid": 268491,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/preview-everywhere.zip?timestamp=1510667533"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/preview-everywhere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/preview-everywhere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/preview-everywhere",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 268492,
+                "time": "2017-11-14 13:52:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/preview-everywhere.zip?timestamp=1510667533"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/preview-everywhere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/preview-everywhere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ninjawpass": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/ninjawpass",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 235267,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ninjawpass.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ninjawpass\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ninjawpass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ninjawpass",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 235268,
+                "time": "2017-09-16 18:50:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ninjawpass.zip?timestamp=1505587849"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ninjawpass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ninjawpass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

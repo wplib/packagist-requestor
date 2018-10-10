@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-404-pages-redirect-to-homepage": {
+            "1.0": {
+                "name": "wpackagist-plugin\/all-404-pages-redirect-to-homepage",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 17700,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-404-pages-redirect-to-homepage.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-404-pages-redirect-to-homepage\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-404-pages-redirect-to-homepage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-404-pages-redirect-to-homepage",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 17701,
+                "time": "2018-08-31 07:09:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-404-pages-redirect-to-homepage.zip?timestamp=1535699358"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-404-pages-redirect-to-homepage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-404-pages-redirect-to-homepage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

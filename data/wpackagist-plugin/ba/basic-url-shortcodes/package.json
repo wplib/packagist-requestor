@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/basic-url-shortcodes": {
+            "4.0": {
+                "name": "wpackagist-plugin\/basic-url-shortcodes",
+                "version": "4.0",
+                "version_normalized": "4.0.0.0",
+                "uid": 36385,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/basic-url-shortcodes.4.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/basic-url-shortcodes\/",
+                    "reference": "tags\/4.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/basic-url-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/basic-url-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36386,
+                "time": "2018-02-27 16:56:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/basic-url-shortcodes.zip?timestamp=1519750610"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/basic-url-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/basic-url-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

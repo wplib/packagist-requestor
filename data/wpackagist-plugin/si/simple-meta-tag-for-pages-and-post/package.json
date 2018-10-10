@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-meta-tag-for-pages-and-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/simple-meta-tag-for-pages-and-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 316071,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-meta-tag-for-pages-and-post.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-meta-tag-for-pages-and-post\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-meta-tag-for-pages-and-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-meta-tag-for-pages-and-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 316072,
+                "time": "2017-10-20 15:31:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-meta-tag-for-pages-and-post.zip?timestamp=1508513482"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-meta-tag-for-pages-and-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-meta-tag-for-pages-and-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wplogin-captcha": {
+            "1": {
+                "name": "wpackagist-plugin\/wplogin-captcha",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 442050,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplogin-captcha.zip?timestamp=1533266593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplogin-captcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplogin-captcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wplogin-captcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442051,
+                "time": "2018-08-03 03:23:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wplogin-captcha.zip?timestamp=1533266593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wplogin-captcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wplogin-captcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

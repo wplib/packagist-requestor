@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oepl-cf7-to-database": {
+            "1.0": {
+                "name": "wpackagist-plugin\/oepl-cf7-to-database",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 239858,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oepl-cf7-to-database.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oepl-cf7-to-database\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oepl-cf7-to-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oepl-cf7-to-database",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239859,
+                "time": "2018-08-04 05:31:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oepl-cf7-to-database.zip?timestamp=1533360665"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oepl-cf7-to-database\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oepl-cf7-to-database\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/i-am-human": {
+            "1.2": {
+                "name": "wpackagist-plugin\/i-am-human",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 169804,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am-human.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am-human\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am-human\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/i-am-human",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169805,
+                "time": "2016-01-12 11:28:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/i-am-human.zip?timestamp=1452598126"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/i-am-human\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/i-am-human\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

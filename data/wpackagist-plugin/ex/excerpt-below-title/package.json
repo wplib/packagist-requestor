@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/excerpt-below-title": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/excerpt-below-title",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 124448,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/excerpt-below-title.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/excerpt-below-title\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/excerpt-below-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/excerpt-below-title",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124449,
+                "time": "2018-02-23 11:34:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/excerpt-below-title.zip?timestamp=1519385641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/excerpt-below-title\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/excerpt-below-title\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

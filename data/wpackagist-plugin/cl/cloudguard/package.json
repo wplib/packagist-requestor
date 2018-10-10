@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cloudguard": {
+            "1.4.0": {
+                "name": "wpackagist-plugin\/cloudguard",
+                "version": "1.4.0",
+                "version_normalized": "1.4.0.0",
+                "uid": 71695,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cloudguard.zip?timestamp=1510433974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cloudguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cloudguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cloudguard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71696,
+                "time": "2017-11-11 20:59:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cloudguard.zip?timestamp=1510433974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cloudguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cloudguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/search-for-ipboard": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/search-for-ipboard",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 302036,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-for-ipboard.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-for-ipboard\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-for-ipboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/search-for-ipboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302037,
+                "time": "2017-11-14 20:33:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/search-for-ipboard.zip?timestamp=1510691627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/search-for-ipboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/search-for-ipboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

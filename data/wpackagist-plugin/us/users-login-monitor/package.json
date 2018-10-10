@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/users-login-monitor": {
+            "1.1": {
+                "name": "wpackagist-plugin\/users-login-monitor",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 372122,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/users-login-monitor.zip?timestamp=1537390846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/users-login-monitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/users-login-monitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/users-login-monitor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372123,
+                "time": "2018-09-19 21:00:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/users-login-monitor.zip?timestamp=1537390846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/users-login-monitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/users-login-monitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/netease-music": {
+            "3.1.1": {
+                "name": "wpackagist-plugin\/netease-music",
+                "version": "3.1.1",
+                "version_normalized": "3.1.1.0",
+                "uid": 230604,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netease-music.zip?timestamp=1532008426"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netease-music\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netease-music\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/netease-music",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230605,
+                "time": "2018-07-19 13:53:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netease-music.zip?timestamp=1532008426"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netease-music\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netease-music\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

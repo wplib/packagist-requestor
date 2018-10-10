@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stopwatch-matching-any-theme": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stopwatch-matching-any-theme",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337754,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stopwatch-matching-any-theme.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stopwatch-matching-any-theme\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stopwatch-matching-any-theme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stopwatch-matching-any-theme",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337755,
+                "time": "2018-07-26 16:08:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stopwatch-matching-any-theme.zip?timestamp=1532621325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stopwatch-matching-any-theme\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stopwatch-matching-any-theme\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

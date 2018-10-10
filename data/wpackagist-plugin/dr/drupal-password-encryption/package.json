@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/drupal-password-encryption": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/drupal-password-encryption",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105226,
+                "time": "2015-03-26 04:05:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/drupal-password-encryption.zip?timestamp=1427342757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/drupal-password-encryption\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/drupal-password-encryption\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

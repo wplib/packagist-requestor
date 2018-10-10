@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/konora-paypal": {
+            "1.6": {
+                "name": "wpackagist-plugin\/konora-paypal",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 191207,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora-paypal.zip?timestamp=1428439352"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora-paypal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora-paypal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/konora-paypal",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191208,
+                "time": "2015-04-07 20:42:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora-paypal.zip?timestamp=1428439352"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora-paypal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora-paypal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stomp": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/stomp",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 337407,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stomp.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stomp\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stomp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stomp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337408,
+                "time": "2017-12-08 13:41:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stomp.zip?timestamp=1512740490"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stomp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stomp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

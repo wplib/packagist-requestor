@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vw-property-listing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/vw-property-listing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 378777,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vw-property-listing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vw-property-listing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vw-property-listing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vw-property-listing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 378778,
+                "time": "2018-05-02 02:53:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vw-property-listing.zip?timestamp=1525229608"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vw-property-listing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vw-property-listing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

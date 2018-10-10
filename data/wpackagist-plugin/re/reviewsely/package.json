@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reviewsely": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/reviewsely",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291999,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reviewsely.zip?timestamp=1465655079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reviewsely\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reviewsely\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reviewsely",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292000,
+                "time": "2016-06-11 14:24:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reviewsely.zip?timestamp=1465655079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reviewsely\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reviewsely\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

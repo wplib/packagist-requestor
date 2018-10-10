@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/akm-feedback-form": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/akm-feedback-form",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 16855,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/akm-feedback-form.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/akm-feedback-form\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/akm-feedback-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/akm-feedback-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 16856,
+                "time": "2015-08-06 13:50:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/akm-feedback-form.zip?timestamp=1438869029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/akm-feedback-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/akm-feedback-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/connected-web": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/connected-web",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 77478,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/connected-web.zip?timestamp=1517754274"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/connected-web\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/connected-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/connected-web",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77479,
+                "time": "2018-02-04 14:24:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/connected-web.zip?timestamp=1517754274"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/connected-web\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/connected-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

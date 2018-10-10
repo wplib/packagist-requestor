@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rcp-edd-wallet": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rcp-edd-wallet",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 281459,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rcp-edd-wallet.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rcp-edd-wallet\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rcp-edd-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rcp-edd-wallet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281460,
+                "time": "2017-01-11 17:23:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rcp-edd-wallet.zip?timestamp=1484155422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rcp-edd-wallet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rcp-edd-wallet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

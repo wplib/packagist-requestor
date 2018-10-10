@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/guarantee-box": {
+            "1.0": {
+                "name": "wpackagist-plugin\/guarantee-box",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161207,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guarantee-box.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guarantee-box\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guarantee-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/guarantee-box",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161208,
+                "time": "2015-09-29 08:18:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/guarantee-box.zip?timestamp=1443514728"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/guarantee-box\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/guarantee-box\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

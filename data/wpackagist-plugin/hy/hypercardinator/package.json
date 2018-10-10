@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hypercardinator": {
+            "0.1": {
+                "name": "wpackagist-plugin\/hypercardinator",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 169621,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hypercardinator.zip?timestamp=1523209944"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hypercardinator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hypercardinator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hypercardinator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169622,
+                "time": "2018-04-08 17:52:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hypercardinator.zip?timestamp=1523209944"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hypercardinator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hypercardinator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

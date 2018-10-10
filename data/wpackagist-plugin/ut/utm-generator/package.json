@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/utm-generator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/utm-generator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 372415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utm-generator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utm-generator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utm-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/utm-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372416,
+                "time": "2017-04-26 20:52:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utm-generator.zip?timestamp=1493239941"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utm-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utm-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

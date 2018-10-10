@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/formilla-edge": {
+            "1.0": {
+                "name": "wpackagist-plugin\/formilla-edge",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 140713,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formilla-edge.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formilla-edge\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formilla-edge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/formilla-edge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140714,
+                "time": "2018-08-26 08:09:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formilla-edge.zip?timestamp=1535270996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formilla-edge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formilla-edge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

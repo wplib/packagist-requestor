@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kitsune-seo": {
+            "0.1": {
+                "name": "wpackagist-plugin\/kitsune-seo",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 190112,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kitsune-seo.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kitsune-seo\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kitsune-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kitsune-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 190113,
+                "time": "2017-01-26 06:54:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kitsune-seo.zip?timestamp=1485413646"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kitsune-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kitsune-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/security-audit": {
+            "1.0": {
+                "name": "wpackagist-plugin\/security-audit",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 302815,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/security-audit.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/security-audit\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/security-audit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/security-audit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302816,
+                "time": "2018-01-29 23:42:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/security-audit.zip?timestamp=1517269334"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/security-audit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/security-audit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secretary": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/secretary",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 302468,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secretary.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secretary\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secretary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secretary",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302469,
+                "time": "2018-09-16 13:55:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secretary.zip?timestamp=1537106113"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secretary\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secretary\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

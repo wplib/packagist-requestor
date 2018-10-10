@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/postscape": {
+            "1.0": {
+                "name": "wpackagist-plugin\/postscape",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 266430,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postscape.zip?timestamp=1494380029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postscape\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postscape\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/postscape",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 266431,
+                "time": "2017-05-10 01:33:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/postscape.zip?timestamp=1494380029"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/postscape\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/postscape\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

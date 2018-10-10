@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/egosession-buchungskalender": {
+            "1.0": {
+                "name": "wpackagist-plugin\/egosession-buchungskalender",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 115047,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/egosession-buchungskalender.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/egosession-buchungskalender\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/egosession-buchungskalender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/egosession-buchungskalender",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115048,
+                "time": "2018-07-30 16:12:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/egosession-buchungskalender.zip?timestamp=1532967136"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/egosession-buchungskalender\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/egosession-buchungskalender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

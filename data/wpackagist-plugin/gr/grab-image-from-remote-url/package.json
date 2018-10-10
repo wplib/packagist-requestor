@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/grab-image-from-remote-url": {
+            "1.0": {
+                "name": "wpackagist-plugin\/grab-image-from-remote-url",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 157524,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grab-image-from-remote-url.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grab-image-from-remote-url\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grab-image-from-remote-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/grab-image-from-remote-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157525,
+                "time": "2018-10-04 06:33:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/grab-image-from-remote-url.zip?timestamp=1538634828"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/grab-image-from-remote-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/grab-image-from-remote-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

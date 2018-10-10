@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatkaizen": {
+            "1.0": {
+                "name": "wpackagist-plugin\/chatkaizen",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 66369,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatkaizen.zip?timestamp=1526677276"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatkaizen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatkaizen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatkaizen",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66370,
+                "time": "2018-05-18 21:01:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatkaizen.zip?timestamp=1526677276"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatkaizen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatkaizen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

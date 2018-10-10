@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/movabletype-importer": {
+            "0.3": {
+                "name": "wpackagist-plugin\/movabletype-importer",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 222701,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/movabletype-importer.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/movabletype-importer\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/movabletype-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.4": {
+                "name": "wpackagist-plugin\/movabletype-importer",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 222702,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/movabletype-importer.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/movabletype-importer\/",
+                    "reference": "tags\/0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/movabletype-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/movabletype-importer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222703,
+                "time": "2018-07-12 17:44:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/movabletype-importer.zip?timestamp=1531417471"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/movabletype-importer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/movabletype-importer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

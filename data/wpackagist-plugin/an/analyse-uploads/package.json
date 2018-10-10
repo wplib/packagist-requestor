@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/analyse-uploads": {
+            "0.5": {
+                "name": "wpackagist-plugin\/analyse-uploads",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 21648,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analyse-uploads.zip?timestamp=1497011113"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analyse-uploads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analyse-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/analyse-uploads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21649,
+                "time": "2017-06-09 12:25:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analyse-uploads.zip?timestamp=1497011113"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analyse-uploads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analyse-uploads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

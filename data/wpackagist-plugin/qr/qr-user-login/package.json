@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/qr-user-login": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/qr-user-login",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 275484,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-user-login.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-user-login\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-user-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/qr-user-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 275485,
+                "time": "2016-11-11 10:18:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-user-login.zip?timestamp=1478859504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-user-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-user-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

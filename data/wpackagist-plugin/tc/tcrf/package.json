@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tcrf": {
+            "2.0": {
+                "name": "wpackagist-plugin\/tcrf",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 347170,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tcrf.zip?timestamp=1479897231"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tcrf\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tcrf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tcrf",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347171,
+                "time": "2016-11-23 10:33:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tcrf.zip?timestamp=1479897231"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tcrf\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tcrf\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/urlembed": {
+            "1": {
+                "name": "wpackagist-plugin\/urlembed",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 370253,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/urlembed.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/urlembed\/",
+                    "reference": "tags\/1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/urlembed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/urlembed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370254,
+                "time": "2016-11-02 10:32:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/urlembed.zip?timestamp=1478082747"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/urlembed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/urlembed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

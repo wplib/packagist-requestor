@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scan-wp": {
+            "0.1": {
+                "name": "wpackagist-plugin\/scan-wp",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 299951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scan-wp.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scan-wp\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scan-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scan-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299952,
+                "time": "2016-10-19 14:03:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scan-wp.zip?timestamp=1476885804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scan-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scan-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/duamatik": {
+            "1.0": {
+                "name": "wpackagist-plugin\/duamatik",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 105414,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duamatik.zip?timestamp=1444682745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duamatik\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duamatik\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/duamatik",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105415,
+                "time": "2015-10-12 20:45:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duamatik.zip?timestamp=1444682745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duamatik\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duamatik\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

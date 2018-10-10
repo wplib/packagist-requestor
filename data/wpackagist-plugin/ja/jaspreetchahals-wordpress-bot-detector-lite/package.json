@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jaspreetchahals-wordpress-bot-detector-lite": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jaspreetchahals-wordpress-bot-detector-lite",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 182682,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jaspreetchahals-wordpress-bot-detector-lite.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jaspreetchahals-wordpress-bot-detector-lite\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jaspreetchahals-wordpress-bot-detector-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jaspreetchahals-wordpress-bot-detector-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182683,
+                "time": "2015-04-15 02:22:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jaspreetchahals-wordpress-bot-detector-lite.zip?timestamp=1429064544"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jaspreetchahals-wordpress-bot-detector-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jaspreetchahals-wordpress-bot-detector-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

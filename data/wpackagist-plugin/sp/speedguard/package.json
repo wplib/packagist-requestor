@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/speedguard": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/speedguard",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 333177,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/speedguard.zip?timestamp=1527185066"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/speedguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/speedguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/speedguard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 333178,
+                "time": "2018-05-24 18:04:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/speedguard.zip?timestamp=1527185066"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/speedguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/speedguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

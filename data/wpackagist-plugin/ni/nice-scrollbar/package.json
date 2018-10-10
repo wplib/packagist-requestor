@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nice-scrollbar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/nice-scrollbar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 234615,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nice-scrollbar.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nice-scrollbar\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nice-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.0": {
+                "name": "wpackagist-plugin\/nice-scrollbar",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 234616,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nice-scrollbar.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nice-scrollbar\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nice-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nice-scrollbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234617,
+                "time": "2017-03-30 07:46:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nice-scrollbar.zip?timestamp=1490859980"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nice-scrollbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nice-scrollbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/passwords-suck": {
+            "1.0": {
+                "name": "wpackagist-plugin\/passwords-suck",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 250041,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passwords-suck.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passwords-suck\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passwords-suck\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/passwords-suck",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250042,
+                "time": "2018-07-09 18:26:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/passwords-suck.zip?timestamp=1531160784"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/passwords-suck\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/passwords-suck\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

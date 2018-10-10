@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/import-excel": {
+            "1.0": {
+                "name": "wpackagist-plugin\/import-excel",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 174552,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-excel.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-excel\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-excel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/import-excel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174553,
+                "time": "2016-12-02 12:18:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/import-excel.zip?timestamp=1480681134"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/import-excel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/import-excel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-quote": {
+            "0.9": {
+                "name": "wpackagist-plugin\/easy-quote",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 110351,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-quote.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-quote\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-quote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-quote",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 110352,
+                "time": "2018-09-22 05:03:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-quote.zip?timestamp=1537592593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-quote\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-quote\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

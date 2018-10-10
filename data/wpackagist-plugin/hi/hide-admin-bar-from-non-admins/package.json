@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hide-admin-bar-from-non-admins": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hide-admin-bar-from-non-admins",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 165247,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-admin-bar-from-non-admins.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-admin-bar-from-non-admins\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-admin-bar-from-non-admins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hide-admin-bar-from-non-admins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165248,
+                "time": "2017-08-31 16:47:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hide-admin-bar-from-non-admins.zip?timestamp=1504198061"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hide-admin-bar-from-non-admins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hide-admin-bar-from-non-admins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

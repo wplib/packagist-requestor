@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-ucl-iris-embed": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-ucl-iris-embed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 437265,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-ucl-iris-embed.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-ucl-iris-embed\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-ucl-iris-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-ucl-iris-embed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437266,
+                "time": "2016-01-25 15:17:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-ucl-iris-embed.zip?timestamp=1453735035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-ucl-iris-embed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-ucl-iris-embed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

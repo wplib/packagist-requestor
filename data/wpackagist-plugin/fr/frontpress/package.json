@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontpress": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/frontpress",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 143909,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontpress.zip?timestamp=1457388021"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143910,
+                "time": "2016-03-07 22:00:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontpress.zip?timestamp=1457388021"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

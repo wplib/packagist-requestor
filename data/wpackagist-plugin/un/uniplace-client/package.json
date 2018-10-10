@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/uniplace-client": {
+            "1.0.23": {
+                "name": "wpackagist-plugin\/uniplace-client",
+                "version": "1.0.23",
+                "version_normalized": "1.0.23.0",
+                "uid": 368261,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uniplace-client.zip?timestamp=1526378188"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uniplace-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uniplace-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/uniplace-client",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368262,
+                "time": "2018-05-15 09:56:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uniplace-client.zip?timestamp=1526378188"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uniplace-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uniplace-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

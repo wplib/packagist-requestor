@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/small-wp-security": {
+            "1.2": {
+                "name": "wpackagist-plugin\/small-wp-security",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 324272,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/small-wp-security.zip?timestamp=1534833379"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/small-wp-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/small-wp-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/small-wp-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 324273,
+                "time": "2018-08-21 06:36:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/small-wp-security.zip?timestamp=1534833379"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/small-wp-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/small-wp-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

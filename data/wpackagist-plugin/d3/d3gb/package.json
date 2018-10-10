@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/d3gb": {
+            "1.2": {
+                "name": "wpackagist-plugin\/d3gb",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 93275,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/d3gb.zip?timestamp=1496420941"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/d3gb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/d3gb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/d3gb",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93276,
+                "time": "2017-06-02 16:29:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/d3gb.zip?timestamp=1496420941"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/d3gb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/d3gb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

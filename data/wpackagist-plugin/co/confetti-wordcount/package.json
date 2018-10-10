@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/confetti-wordcount": {
+            "0.1": {
+                "name": "wpackagist-plugin\/confetti-wordcount",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 77194,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/confetti-wordcount.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/confetti-wordcount\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/confetti-wordcount\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/confetti-wordcount",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 77195,
+                "time": "2018-06-17 18:31:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/confetti-wordcount.zip?timestamp=1529260309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/confetti-wordcount\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/confetti-wordcount\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

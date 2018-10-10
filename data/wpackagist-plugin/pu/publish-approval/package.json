@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/publish-approval": {
+            "1.1": {
+                "name": "wpackagist-plugin\/publish-approval",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 273086,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/publish-approval.zip?timestamp=1533276131"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/publish-approval\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/publish-approval\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/publish-approval",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273087,
+                "time": "2018-08-03 06:02:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/publish-approval.zip?timestamp=1533276131"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/publish-approval\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/publish-approval\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

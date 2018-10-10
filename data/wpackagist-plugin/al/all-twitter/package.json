@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-twitter": {
+            "1.1": {
+                "name": "wpackagist-plugin\/all-twitter",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 18635,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-twitter.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-twitter\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-twitter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18636,
+                "time": "2017-06-09 08:49:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-twitter.zip?timestamp=1496998143"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-twitter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-twitter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

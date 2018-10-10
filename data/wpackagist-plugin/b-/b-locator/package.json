@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/b-locator": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/b-locator",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 34136,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/b-locator.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/b-locator\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/b-locator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/b-locator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34137,
+                "time": "2017-10-11 07:39:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/b-locator.zip?timestamp=1507707595"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/b-locator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/b-locator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

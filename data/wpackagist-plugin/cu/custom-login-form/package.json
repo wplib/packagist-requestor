@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-login-form": {
+            "2.5": {
+                "name": "wpackagist-plugin\/custom-login-form",
+                "version": "2.5",
+                "version_normalized": "2.5.0.0",
+                "uid": 90025,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-login-form.2.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-login-form\/",
+                    "reference": "tags\/2.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-login-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-login-form",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 90026,
+                "time": "2018-06-30 13:58:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-login-form.zip?timestamp=1530367103"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-login-form\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-login-form\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

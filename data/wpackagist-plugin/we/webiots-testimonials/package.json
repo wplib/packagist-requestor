@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webiots-testimonials": {
+            "1.0": {
+                "name": "wpackagist-plugin\/webiots-testimonials",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383104,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webiots-testimonials.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webiots-testimonials\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webiots-testimonials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webiots-testimonials",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383105,
+                "time": "2017-10-23 21:58:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webiots-testimonials.zip?timestamp=1508795905"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webiots-testimonials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webiots-testimonials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

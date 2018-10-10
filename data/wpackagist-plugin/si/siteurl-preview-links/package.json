@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/siteurl-preview-links": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/siteurl-preview-links",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 321069,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/siteurl-preview-links.1.0.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/siteurl-preview-links\/",
+                    "reference": "tags\/1.0.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/siteurl-preview-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/siteurl-preview-links",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 321070,
+                "time": "2018-03-06 23:06:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/siteurl-preview-links.zip?timestamp=1520377565"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/siteurl-preview-links\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/siteurl-preview-links\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

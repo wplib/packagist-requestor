@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cookbook-hook-guide": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cookbook-hook-guide",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 82411,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookbook-hook-guide.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookbook-hook-guide\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookbook-hook-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cookbook-hook-guide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82412,
+                "time": "2017-02-18 18:17:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cookbook-hook-guide.zip?timestamp=1487441836"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cookbook-hook-guide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cookbook-hook-guide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

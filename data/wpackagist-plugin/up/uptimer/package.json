@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/uptimer": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/uptimer",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 370036,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uptimer.zip?timestamp=1459410096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uptimer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uptimer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/uptimer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370037,
+                "time": "2016-03-31 07:41:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/uptimer.zip?timestamp=1459410096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/uptimer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/uptimer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

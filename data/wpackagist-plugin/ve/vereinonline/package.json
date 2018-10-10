@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vereinonline": {
+            "2.2.0": {
+                "name": "wpackagist-plugin\/vereinonline",
+                "version": "2.2.0",
+                "version_normalized": "2.2.0.0",
+                "uid": 373935,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vereinonline.zip?timestamp=1538634655"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vereinonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vereinonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vereinonline",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 373936,
+                "time": "2018-10-04 06:30:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vereinonline.zip?timestamp=1538634655"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vereinonline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vereinonline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

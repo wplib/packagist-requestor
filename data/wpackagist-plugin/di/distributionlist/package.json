@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/distributionlist": {
+            "0.3": {
+                "name": "wpackagist-plugin\/distributionlist",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 101872,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/distributionlist.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/distributionlist\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/distributionlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/distributionlist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101873,
+                "time": "2016-02-07 16:13:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/distributionlist.zip?timestamp=1454861621"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/distributionlist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/distributionlist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

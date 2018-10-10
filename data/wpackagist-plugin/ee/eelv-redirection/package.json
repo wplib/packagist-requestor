@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/eelv-redirection": {
+            "1.2": {
+                "name": "wpackagist-plugin\/eelv-redirection",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 114706,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eelv-redirection.zip?timestamp=1507536460"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eelv-redirection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eelv-redirection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/eelv-redirection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 114707,
+                "time": "2017-10-09 08:07:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eelv-redirection.zip?timestamp=1507536460"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eelv-redirection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eelv-redirection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

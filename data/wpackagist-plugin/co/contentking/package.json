@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/contentking": {
+            "1.5.8": {
+                "name": "wpackagist-plugin\/contentking",
+                "version": "1.5.8",
+                "version_normalized": "1.5.8.0",
+                "uid": 81284,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contentking.zip?timestamp=1516793310"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contentking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contentking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/contentking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 81285,
+                "time": "2018-01-24 11:28:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/contentking.zip?timestamp=1516793310"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/contentking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/contentking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

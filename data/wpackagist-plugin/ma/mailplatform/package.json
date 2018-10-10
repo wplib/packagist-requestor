@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailplatform": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailplatform",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207189,
+                "time": "2015-11-09 09:44:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailplatform.zip?timestamp=1447062261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailplatform\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailplatform\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

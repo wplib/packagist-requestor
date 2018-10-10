@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/placeholder-it-widget": {
+            "0.9": {
+                "name": "wpackagist-plugin\/placeholder-it-widget",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 257821,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/placeholder-it-widget.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/placeholder-it-widget\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/placeholder-it-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/placeholder-it-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 257822,
+                "time": "2016-06-10 11:39:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/placeholder-it-widget.zip?timestamp=1465558744"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/placeholder-it-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/placeholder-it-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

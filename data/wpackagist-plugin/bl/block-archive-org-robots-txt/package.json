@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/block-archive-org-robots-txt": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/block-archive-org-robots-txt",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 43881,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/block-archive-org-robots-txt.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/block-archive-org-robots-txt\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/block-archive-org-robots-txt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/block-archive-org-robots-txt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43882,
+                "time": "2018-08-09 09:14:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/block-archive-org-robots-txt.zip?timestamp=1533806072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/block-archive-org-robots-txt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/block-archive-org-robots-txt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

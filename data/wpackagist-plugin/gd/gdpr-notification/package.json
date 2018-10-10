@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gdpr-notification": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gdpr-notification",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 148159,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-notification.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-notification\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gdpr-notification",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148160,
+                "time": "2018-06-11 05:56:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-notification.zip?timestamp=1528696572"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-notification\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-notification\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

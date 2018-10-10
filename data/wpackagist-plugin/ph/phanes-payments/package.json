@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/phanes-payments": {
+            "2.3": {
+                "name": "wpackagist-plugin\/phanes-payments",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "uid": 253814,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/phanes-payments.zip?timestamp=1533891434"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/phanes-payments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/phanes-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/phanes-payments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 253815,
+                "time": "2018-08-10 08:57:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/phanes-payments.zip?timestamp=1533891434"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/phanes-payments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/phanes-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

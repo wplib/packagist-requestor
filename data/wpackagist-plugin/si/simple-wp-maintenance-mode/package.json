@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-wp-maintenance-mode": {
+            "1.0": {
+                "name": "wpackagist-plugin\/simple-wp-maintenance-mode",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 318374,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-wp-maintenance-mode.zip?timestamp=1461070719"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-wp-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-wp-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-wp-maintenance-mode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 318375,
+                "time": "2016-04-19 12:58:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-wp-maintenance-mode.zip?timestamp=1461070719"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-wp-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-wp-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

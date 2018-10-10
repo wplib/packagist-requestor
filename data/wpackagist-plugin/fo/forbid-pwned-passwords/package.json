@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forbid-pwned-passwords": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/forbid-pwned-passwords",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 139524,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forbid-pwned-passwords.zip?timestamp=1522770393"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forbid-pwned-passwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forbid-pwned-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forbid-pwned-passwords",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139525,
+                "time": "2018-04-03 15:46:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forbid-pwned-passwords.zip?timestamp=1522770393"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forbid-pwned-passwords\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forbid-pwned-passwords\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

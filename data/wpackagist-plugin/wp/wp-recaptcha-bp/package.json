@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-recaptcha-bp": {
+            "4.1": {
+                "name": "wpackagist-plugin\/wp-recaptcha-bp",
+                "version": "4.1",
+                "version_normalized": "4.1.0.0",
+                "uid": 428863,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-recaptcha-bp.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-recaptcha-bp\/",
+                    "reference": "tags\/4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-recaptcha-bp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-recaptcha-bp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 428864,
+                "time": "2017-11-15 21:15:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-recaptcha-bp.zip?timestamp=1510780508"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-recaptcha-bp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-recaptcha-bp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

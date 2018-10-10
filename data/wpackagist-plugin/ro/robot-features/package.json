@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/robot-features": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/robot-features",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 293561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/robot-features.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/robot-features\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/robot-features\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/robot-features",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293562,
+                "time": "2016-09-16 07:40:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/robot-features.zip?timestamp=1474011641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/robot-features\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/robot-features\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

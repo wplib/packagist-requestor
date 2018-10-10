@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/notifyfox": {
+            "1.0": {
+                "name": "wpackagist-plugin\/notifyfox",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 237604,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/notifyfox.zip?timestamp=1506420964"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/notifyfox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/notifyfox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/notifyfox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 237605,
+                "time": "2017-09-26 10:16:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/notifyfox.zip?timestamp=1506420964"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/notifyfox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/notifyfox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/friday-news-lite-toolkit": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/friday-news-lite-toolkit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 143012,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/friday-news-lite-toolkit.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/friday-news-lite-toolkit\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/friday-news-lite-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/friday-news-lite-toolkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143013,
+                "time": "2016-04-06 04:19:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/friday-news-lite-toolkit.zip?timestamp=1459916397"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/friday-news-lite-toolkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/friday-news-lite-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

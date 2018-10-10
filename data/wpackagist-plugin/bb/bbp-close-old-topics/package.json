@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bbp-close-old-topics": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bbp-close-old-topics",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 36937,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbp-close-old-topics.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbp-close-old-topics\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbp-close-old-topics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bbp-close-old-topics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36938,
+                "time": "2017-10-09 12:59:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbp-close-old-topics.zip?timestamp=1507553955"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbp-close-old-topics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbp-close-old-topics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

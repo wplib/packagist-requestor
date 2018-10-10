@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/deepmarkit-gamify": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/deepmarkit-gamify",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 96497,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deepmarkit-gamify.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deepmarkit-gamify\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deepmarkit-gamify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/deepmarkit-gamify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 96498,
+                "time": "2018-08-28 16:07:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/deepmarkit-gamify.zip?timestamp=1535472423"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/deepmarkit-gamify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/deepmarkit-gamify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

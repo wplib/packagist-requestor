@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hiweb-core": {
+            "1.4.4.3": {
+                "name": "wpackagist-plugin\/hiweb-core",
+                "version": "1.4.4.3",
+                "version_normalized": "1.4.4.3",
+                "uid": 166620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hiweb-core.zip?timestamp=1462444867"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hiweb-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hiweb-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hiweb-core",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166621,
+                "time": "2016-05-05 10:41:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hiweb-core.zip?timestamp=1462444867"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hiweb-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hiweb-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miwosql": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/miwosql",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 218984,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwosql.zip?timestamp=1512651714"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwosql\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwosql\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miwosql",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218985,
+                "time": "2017-12-07 13:01:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwosql.zip?timestamp=1512651714"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwosql\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwosql\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

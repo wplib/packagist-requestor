@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordpress-customer-manager": {
+            "0.3": {
+                "name": "wpackagist-plugin\/wordpress-customer-manager",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 401740,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-customer-manager.zip?timestamp=1484835286"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-customer-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-customer-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordpress-customer-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 401741,
+                "time": "2017-01-19 14:14:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-customer-manager.zip?timestamp=1484835286"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-customer-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-customer-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

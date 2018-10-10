@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/offadblock-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/offadblock-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 239931,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offadblock-wp.zip?timestamp=1499424907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offadblock-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offadblock-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/offadblock-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 239932,
+                "time": "2017-07-07 10:55:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/offadblock-wp.zip?timestamp=1499424907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/offadblock-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/offadblock-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

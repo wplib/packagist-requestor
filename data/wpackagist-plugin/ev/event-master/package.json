@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/event-master": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/event-master",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 123028,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/event-master.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/event-master\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/event-master\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/event-master",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 123029,
+                "time": "2018-04-07 00:56:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/event-master.zip?timestamp=1523062574"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/event-master\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/event-master\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cron-task-viewer-redux": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cron-task-viewer-redux",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 86269,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cron-task-viewer-redux.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cron-task-viewer-redux\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cron-task-viewer-redux\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cron-task-viewer-redux",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86270,
+                "time": "2018-05-07 00:46:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cron-task-viewer-redux.zip?timestamp=1525654005"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cron-task-viewer-redux\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cron-task-viewer-redux\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

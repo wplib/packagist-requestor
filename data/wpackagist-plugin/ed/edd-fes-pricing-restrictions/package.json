@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-fes-pricing-restrictions": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-fes-pricing-restrictions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113442,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-fes-pricing-restrictions.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-fes-pricing-restrictions\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-fes-pricing-restrictions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-fes-pricing-restrictions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113443,
+                "time": "2018-02-21 10:04:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-fes-pricing-restrictions.zip?timestamp=1519207490"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-fes-pricing-restrictions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-fes-pricing-restrictions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

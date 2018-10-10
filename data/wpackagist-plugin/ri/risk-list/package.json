@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/risk-list": {
+            "1.0": {
+                "name": "wpackagist-plugin\/risk-list",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 293114,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/risk-list.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/risk-list\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/risk-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/risk-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293115,
+                "time": "2017-01-13 03:03:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/risk-list.zip?timestamp=1484276627"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/risk-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/risk-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

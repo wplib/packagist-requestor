@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatup": {
+            "1.1": {
+                "name": "wpackagist-plugin\/chatup",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 66581,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatup.zip?timestamp=1430169856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66582,
+                "time": "2015-04-27 21:24:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatup.zip?timestamp=1430169856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

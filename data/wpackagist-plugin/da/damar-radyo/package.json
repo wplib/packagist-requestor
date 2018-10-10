@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/damar-radyo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/damar-radyo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93802,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/damar-radyo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/damar-radyo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/damar-radyo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/damar-radyo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93803,
+                "time": "2016-07-28 05:18:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/damar-radyo.zip?timestamp=1469683080"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/damar-radyo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/damar-radyo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

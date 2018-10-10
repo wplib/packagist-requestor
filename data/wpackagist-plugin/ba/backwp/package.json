@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backwp": {
+            "2.0.2": {
+                "name": "wpackagist-plugin\/backwp",
+                "version": "2.0.2",
+                "version_normalized": "2.0.2.0",
+                "uid": 34774,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backwp.zip?timestamp=1490610768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backwp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backwp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backwp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34775,
+                "time": "2017-03-27 10:32:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backwp.zip?timestamp=1490610768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backwp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backwp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

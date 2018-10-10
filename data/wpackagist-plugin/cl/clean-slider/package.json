@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clean-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/clean-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 69747,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-slider.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-slider\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clean-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 69748,
+                "time": "2015-08-20 09:47:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-slider.zip?timestamp=1440064039"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

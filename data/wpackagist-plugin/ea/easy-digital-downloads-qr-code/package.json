@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-digital-downloads-qr-code": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/easy-digital-downloads-qr-code",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 108715,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-digital-downloads-qr-code.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-digital-downloads-qr-code\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-digital-downloads-qr-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-digital-downloads-qr-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 108716,
+                "time": "2015-04-20 18:13:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-digital-downloads-qr-code.zip?timestamp=1429553613"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-digital-downloads-qr-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-digital-downloads-qr-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-wp-pricing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/my-wp-pricing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 227702,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-pricing.zip?timestamp=1481558365"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-pricing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-pricing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-wp-pricing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227703,
+                "time": "2016-12-12 15:59:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-pricing.zip?timestamp=1481558365"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-pricing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-pricing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/steady-wp": {
+            "1.0.9": {
+                "name": "wpackagist-plugin\/steady-wp",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "uid": 336721,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/steady-wp.zip?timestamp=1536844622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/steady-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/steady-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/steady-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336722,
+                "time": "2018-09-13 13:17:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/steady-wp.zip?timestamp=1536844622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/steady-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/steady-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

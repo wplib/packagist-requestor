@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/emailshroud": {
+            "2.2.1": {
+                "name": "wpackagist-plugin\/emailshroud",
+                "version": "2.2.1",
+                "version_normalized": "2.2.1.0",
+                "uid": 118011,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emailshroud.zip?timestamp=1434776967"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emailshroud\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emailshroud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/emailshroud",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118012,
+                "time": "2015-06-20 05:09:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/emailshroud.zip?timestamp=1434776967"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/emailshroud\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/emailshroud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

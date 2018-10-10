@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/freecall": {
+            "1.0.0.1": {
+                "name": "wpackagist-plugin\/freecall",
+                "version": "1.0.0.1",
+                "version_normalized": "1.0.0.1",
+                "uid": 142588,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freecall.zip?timestamp=1476681498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freecall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freecall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/freecall",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142589,
+                "time": "2016-10-17 05:18:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freecall.zip?timestamp=1476681498"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freecall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freecall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

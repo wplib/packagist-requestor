@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/oppia-integration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/oppia-integration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 243356,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oppia-integration.zip?timestamp=1507182630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oppia-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oppia-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/oppia-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243357,
+                "time": "2017-10-05 05:50:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/oppia-integration.zip?timestamp=1507182630"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/oppia-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/oppia-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lm-gd-scoreboard": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/lm-gd-scoreboard",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 201805,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lm-gd-scoreboard.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lm-gd-scoreboard\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lm-gd-scoreboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lm-gd-scoreboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201806,
+                "time": "2016-02-17 21:59:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lm-gd-scoreboard.zip?timestamp=1455746358"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lm-gd-scoreboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lm-gd-scoreboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

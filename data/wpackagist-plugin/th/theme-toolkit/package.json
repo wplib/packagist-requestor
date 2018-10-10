@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/theme-toolkit": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/theme-toolkit",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 352534,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/theme-toolkit.zip?timestamp=1522075337"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/theme-toolkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/theme-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/theme-toolkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352535,
+                "time": "2018-03-26 14:42:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/theme-toolkit.zip?timestamp=1522075337"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/theme-toolkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/theme-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

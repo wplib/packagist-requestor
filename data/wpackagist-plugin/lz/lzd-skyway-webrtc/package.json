@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lzd-skyway-webrtc": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/lzd-skyway-webrtc",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 204870,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lzd-skyway-webrtc.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lzd-skyway-webrtc\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lzd-skyway-webrtc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lzd-skyway-webrtc",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204871,
+                "time": "2018-03-29 15:50:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lzd-skyway-webrtc.zip?timestamp=1522338615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lzd-skyway-webrtc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lzd-skyway-webrtc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

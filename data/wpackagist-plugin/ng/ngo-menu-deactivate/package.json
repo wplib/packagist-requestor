@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ngo-menu-deactivate": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/ngo-menu-deactivate",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 234415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ngo-menu-deactivate.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ngo-menu-deactivate\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ngo-menu-deactivate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ngo-menu-deactivate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234416,
+                "time": "2016-12-15 14:27:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ngo-menu-deactivate.zip?timestamp=1481812042"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ngo-menu-deactivate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ngo-menu-deactivate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

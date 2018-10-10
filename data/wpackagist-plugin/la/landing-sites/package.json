@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/landing-sites": {
+            "1.5.2": {
+                "name": "wpackagist-plugin\/landing-sites",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "uid": 192547,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/landing-sites.zip?timestamp=1446828451"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/landing-sites\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/landing-sites\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/landing-sites",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192548,
+                "time": "2015-11-06 16:47:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/landing-sites.zip?timestamp=1446828451"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/landing-sites\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/landing-sites\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

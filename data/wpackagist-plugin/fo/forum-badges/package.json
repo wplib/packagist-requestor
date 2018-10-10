@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forum-badges": {
+            "1.0": {
+                "name": "wpackagist-plugin\/forum-badges",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 141180,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forum-badges.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forum-badges\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forum-badges\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forum-badges",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141181,
+                "time": "2016-11-03 21:03:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forum-badges.zip?timestamp=1478207026"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forum-badges\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forum-badges\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

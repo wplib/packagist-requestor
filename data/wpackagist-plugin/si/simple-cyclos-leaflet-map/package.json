@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-cyclos-leaflet-map": {
+            "1.0": {
+                "name": "wpackagist-plugin\/simple-cyclos-leaflet-map",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 313851,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-cyclos-leaflet-map.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-cyclos-leaflet-map\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-cyclos-leaflet-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-cyclos-leaflet-map",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 313852,
+                "time": "2018-01-03 12:21:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-cyclos-leaflet-map.zip?timestamp=1514982064"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-cyclos-leaflet-map\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-cyclos-leaflet-map\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

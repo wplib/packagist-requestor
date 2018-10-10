@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rockon-owl-slider": {
+            "2.0": {
+                "name": "wpackagist-plugin\/rockon-owl-slider",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 293922,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rockon-owl-slider.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rockon-owl-slider\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rockon-owl-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rockon-owl-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293923,
+                "time": "2017-07-20 17:09:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rockon-owl-slider.zip?timestamp=1500570559"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rockon-owl-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rockon-owl-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

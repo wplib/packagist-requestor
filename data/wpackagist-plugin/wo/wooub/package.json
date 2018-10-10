@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wooub": {
+            "0.1": {
+                "name": "wpackagist-plugin\/wooub",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 400374,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wooub.zip?timestamp=1504265372"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wooub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wooub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wooub",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400375,
+                "time": "2017-09-01 11:29:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wooub.zip?timestamp=1504265372"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wooub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wooub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

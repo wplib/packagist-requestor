@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rafflepress": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/rafflepress",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 279291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rafflepress.zip?timestamp=1536504356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rafflepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rafflepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rafflepress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 279292,
+                "time": "2018-09-09 14:45:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rafflepress.zip?timestamp=1536504356"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rafflepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rafflepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

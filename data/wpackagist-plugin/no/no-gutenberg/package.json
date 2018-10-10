@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/no-gutenberg": {
+            "0.9.1": {
+                "name": "wpackagist-plugin\/no-gutenberg",
+                "version": "0.9.1",
+                "version_normalized": "0.9.1.0",
+                "uid": 236067,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/no-gutenberg.zip?timestamp=1533365854"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/no-gutenberg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/no-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/no-gutenberg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 236068,
+                "time": "2018-08-04 06:57:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/no-gutenberg.zip?timestamp=1533365854"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/no-gutenberg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/no-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

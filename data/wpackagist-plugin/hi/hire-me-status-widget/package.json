@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hire-me-status-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/hire-me-status-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 166062,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hire-me-status-widget.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hire-me-status-widget\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hire-me-status-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hire-me-status-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166063,
+                "time": "2017-01-09 21:10:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hire-me-status-widget.zip?timestamp=1483996244"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hire-me-status-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hire-me-status-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

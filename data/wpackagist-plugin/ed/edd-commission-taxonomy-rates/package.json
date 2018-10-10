@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-commission-taxonomy-rates": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-commission-taxonomy-rates",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113320,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-commission-taxonomy-rates.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-commission-taxonomy-rates\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-commission-taxonomy-rates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-commission-taxonomy-rates",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113321,
+                "time": "2018-01-15 20:10:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-commission-taxonomy-rates.zip?timestamp=1516047019"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-commission-taxonomy-rates\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-commission-taxonomy-rates\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

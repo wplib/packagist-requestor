@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cybersyn": {
+            "5.44": {
+                "name": "wpackagist-plugin\/cybersyn",
+                "version": "5.44",
+                "version_normalized": "5.44.0.0",
+                "uid": 92978,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cybersyn.zip?timestamp=1534062722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cybersyn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cybersyn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cybersyn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92979,
+                "time": "2018-08-12 08:32:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cybersyn.zip?timestamp=1534062722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cybersyn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cybersyn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

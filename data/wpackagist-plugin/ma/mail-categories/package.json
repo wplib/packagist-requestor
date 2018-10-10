@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mail-categories": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mail-categories",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206315,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-categories.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-categories\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mail-categories",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206316,
+                "time": "2016-05-12 14:52:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-categories.zip?timestamp=1463064740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-categories\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-categories\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

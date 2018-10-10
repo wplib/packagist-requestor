@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/banana-faq": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/banana-faq",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 35517,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/banana-faq.zip?timestamp=1456733529"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/banana-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/banana-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/banana-faq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35518,
+                "time": "2016-02-29 08:12:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/banana-faq.zip?timestamp=1456733529"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/banana-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/banana-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

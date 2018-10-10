@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-exclude-from-search-result": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/edd-exclude-from-search-result",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113423,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-exclude-from-search-result.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-exclude-from-search-result\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-exclude-from-search-result\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-exclude-from-search-result",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113424,
+                "time": "2015-07-30 18:00:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-exclude-from-search-result.zip?timestamp=1438279215"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-exclude-from-search-result\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-exclude-from-search-result\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

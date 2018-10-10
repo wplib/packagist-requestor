@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bring-back-the-get-shortlink-button": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/bring-back-the-get-shortlink-button",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 52287,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bring-back-the-get-shortlink-button.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bring-back-the-get-shortlink-button\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bring-back-the-get-shortlink-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bring-back-the-get-shortlink-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 52288,
+                "time": "2015-12-14 07:24:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bring-back-the-get-shortlink-button.zip?timestamp=1450077887"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bring-back-the-get-shortlink-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bring-back-the-get-shortlink-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpfilesearch": {
+            "1.2": {
+                "name": "wpackagist-plugin\/wpfilesearch",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 441247,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfilesearch.zip?timestamp=1460662054"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfilesearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfilesearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpfilesearch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441248,
+                "time": "2016-04-14 19:27:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfilesearch.zip?timestamp=1460662054"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfilesearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfilesearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

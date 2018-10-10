@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lrf-speed-converter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lrf-speed-converter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204276,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lrf-speed-converter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lrf-speed-converter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lrf-speed-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lrf-speed-converter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204277,
+                "time": "2017-05-19 07:21:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lrf-speed-converter.zip?timestamp=1495178461"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lrf-speed-converter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lrf-speed-converter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

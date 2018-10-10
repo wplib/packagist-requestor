@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rocketbolt": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/rocketbolt",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 293911,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rocketbolt.zip?timestamp=1481563127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rocketbolt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rocketbolt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rocketbolt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293912,
+                "time": "2016-12-12 17:18:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rocketbolt.zip?timestamp=1481563127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rocketbolt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rocketbolt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

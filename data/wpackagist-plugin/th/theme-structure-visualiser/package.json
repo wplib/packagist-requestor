@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/theme-structure-visualiser": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/theme-structure-visualiser",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 352497,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/theme-structure-visualiser.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/theme-structure-visualiser\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/theme-structure-visualiser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/theme-structure-visualiser",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352498,
+                "time": "2017-12-15 12:27:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/theme-structure-visualiser.zip?timestamp=1513340872"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/theme-structure-visualiser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/theme-structure-visualiser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

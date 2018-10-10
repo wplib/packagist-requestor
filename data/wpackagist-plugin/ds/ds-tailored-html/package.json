@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ds-tailored-html": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ds-tailored-html",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 105247,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ds-tailored-html.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ds-tailored-html\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ds-tailored-html\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ds-tailored-html",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105248,
+                "time": "2015-04-28 16:06:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ds-tailored-html.zip?timestamp=1430237183"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ds-tailored-html\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ds-tailored-html\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

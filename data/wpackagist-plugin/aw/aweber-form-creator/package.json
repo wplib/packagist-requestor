@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aweber-form-creator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aweber-form-creator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 32721,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aweber-form-creator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aweber-form-creator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aweber-form-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aweber-form-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32722,
+                "time": "2016-05-17 14:37:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aweber-form-creator.zip?timestamp=1463495871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aweber-form-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aweber-form-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

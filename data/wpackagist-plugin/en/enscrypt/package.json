@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/enscrypt": {
+            "1.0": {
+                "name": "wpackagist-plugin\/enscrypt",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 120507,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enscrypt.zip?timestamp=1432686671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enscrypt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enscrypt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/enscrypt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 120508,
+                "time": "2015-05-27 00:31:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enscrypt.zip?timestamp=1432686671"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enscrypt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enscrypt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

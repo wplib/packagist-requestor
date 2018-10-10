@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/feedplus": {
+            "3.0.8": {
+                "name": "wpackagist-plugin\/feedplus",
+                "version": "3.0.8",
+                "version_normalized": "3.0.8.0",
+                "uid": 132144,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feedplus.zip?timestamp=1511206527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feedplus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feedplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/feedplus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 132145,
+                "time": "2017-11-20 19:35:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feedplus.zip?timestamp=1511206527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feedplus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feedplus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

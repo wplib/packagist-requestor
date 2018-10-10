@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hdcommerce": {
+            "0.3": {
+                "name": "wpackagist-plugin\/hdcommerce",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 163308,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hdcommerce.zip?timestamp=1525287987"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hdcommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hdcommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hdcommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 163309,
+                "time": "2018-05-02 19:06:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hdcommerce.zip?timestamp=1525287987"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hdcommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hdcommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sidebar-content-clone": {
+            "1.1": {
+                "name": "wpackagist-plugin\/sidebar-content-clone",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 311771,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidebar-content-clone.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidebar-content-clone\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidebar-content-clone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sidebar-content-clone",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 311772,
+                "time": "2018-04-10 17:02:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidebar-content-clone.zip?timestamp=1523379773"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidebar-content-clone\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidebar-content-clone\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

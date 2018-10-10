@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autocomplete": {
+            "1.0": {
+                "name": "wpackagist-plugin\/autocomplete",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 31011,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete.zip?timestamp=1488616082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autocomplete\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autocomplete\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autocomplete",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31012,
+                "time": "2017-03-04 08:28:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autocomplete.zip?timestamp=1488616082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autocomplete\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autocomplete\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

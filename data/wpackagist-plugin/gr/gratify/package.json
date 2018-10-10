@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gratify": {
+            "0.7.3": {
+                "name": "wpackagist-plugin\/gratify",
+                "version": "0.7.3",
+                "version_normalized": "0.7.3.0",
+                "uid": 157965,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gratify.zip?timestamp=1497851214"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gratify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gratify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gratify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157966,
+                "time": "2017-06-19 05:46:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gratify.zip?timestamp=1497851214"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gratify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gratify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

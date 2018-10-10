@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ab-simple-feeds": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ab-simple-feeds",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 2443,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ab-simple-feeds.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ab-simple-feeds\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ab-simple-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ab-simple-feeds",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 2444,
+                "time": "2018-01-23 06:49:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ab-simple-feeds.zip?timestamp=1516690159"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ab-simple-feeds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ab-simple-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/curiosity-elements": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/curiosity-elements",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87874,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/curiosity-elements.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/curiosity-elements\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/curiosity-elements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/curiosity-elements",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87875,
+                "time": "2016-08-23 06:33:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/curiosity-elements.zip?timestamp=1471934008"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/curiosity-elements\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/curiosity-elements\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

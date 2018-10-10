@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/diver": {
+            "1.0": {
+                "name": "wpackagist-plugin\/diver",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 101983,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diver.zip?timestamp=1454600126"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diver\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diver\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/diver",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101984,
+                "time": "2016-02-04 15:35:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/diver.zip?timestamp=1454600126"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/diver\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/diver\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

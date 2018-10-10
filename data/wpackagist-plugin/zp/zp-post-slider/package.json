@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zp-post-slider": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/zp-post-slider",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 454393,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zp-post-slider.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zp-post-slider\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zp-post-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zp-post-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 454394,
+                "time": "2016-09-15 01:45:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zp-post-slider.zip?timestamp=1473903927"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zp-post-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zp-post-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

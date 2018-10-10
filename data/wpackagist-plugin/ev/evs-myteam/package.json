@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/evs-myteam": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/evs-myteam",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 124277,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/evs-myteam.zip?timestamp=1464463362"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/evs-myteam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/evs-myteam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/evs-myteam",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124278,
+                "time": "2016-05-28 19:22:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/evs-myteam.zip?timestamp=1464463362"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/evs-myteam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/evs-myteam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

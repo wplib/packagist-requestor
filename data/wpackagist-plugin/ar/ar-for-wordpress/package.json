@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ar-for-wordpress": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/ar-for-wordpress",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 25555,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ar-for-wordpress.zip?timestamp=1520939485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ar-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ar-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ar-for-wordpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25556,
+                "time": "2018-03-13 11:11:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ar-for-wordpress.zip?timestamp=1520939485"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ar-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ar-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

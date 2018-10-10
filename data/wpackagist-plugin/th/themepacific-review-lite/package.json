@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/themepacific-review-lite": {
+            "1.1": {
+                "name": "wpackagist-plugin\/themepacific-review-lite",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 352795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themepacific-review-lite.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themepacific-review-lite\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themepacific-review-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/themepacific-review-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 352796,
+                "time": "2018-03-13 15:20:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/themepacific-review-lite.zip?timestamp=1520954442"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/themepacific-review-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/themepacific-review-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

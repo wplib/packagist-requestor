@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/appendad": {
+            "1.3.1": {
+                "name": "wpackagist-plugin\/appendad",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "uid": 24442,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appendad.zip?timestamp=1437408801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appendad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appendad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/appendad",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24443,
+                "time": "2015-07-20 16:13:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appendad.zip?timestamp=1437408801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appendad\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appendad\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

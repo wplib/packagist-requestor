@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-local-emoji": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/wp-local-emoji",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 422466,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-local-emoji.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-local-emoji\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-local-emoji\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.2.0": {
+                "name": "wpackagist-plugin\/wp-local-emoji",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 422467,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-local-emoji.0.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-local-emoji\/",
+                    "reference": "tags\/0.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-local-emoji\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-local-emoji",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 422468,
+                "time": "2016-03-18 03:29:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-local-emoji.zip?timestamp=1458271763"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-local-emoji\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-local-emoji\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

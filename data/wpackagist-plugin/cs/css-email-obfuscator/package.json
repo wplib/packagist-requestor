@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/css-email-obfuscator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/css-email-obfuscator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87159,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-email-obfuscator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-email-obfuscator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-email-obfuscator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/css-email-obfuscator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87160,
+                "time": "2016-05-25 11:04:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-email-obfuscator.zip?timestamp=1464174268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-email-obfuscator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-email-obfuscator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

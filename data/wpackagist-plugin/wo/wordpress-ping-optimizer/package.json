@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordpress-ping-optimizer": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordpress-ping-optimizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 402640,
+                "time": "2018-01-24 05:39:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-ping-optimizer.zip?timestamp=1516772345"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-ping-optimizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-ping-optimizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

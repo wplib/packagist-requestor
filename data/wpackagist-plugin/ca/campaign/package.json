@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/campaign": {
+            "1.1": {
+                "name": "wpackagist-plugin\/campaign",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 59447,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/campaign.zip?timestamp=1504534800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/campaign\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/campaign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/campaign",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59448,
+                "time": "2017-09-04 14:20:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/campaign.zip?timestamp=1504534800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/campaign\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/campaign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

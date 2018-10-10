@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ousecurity": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ousecurity",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 245995,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ousecurity.zip?timestamp=1476478857"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ousecurity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ousecurity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ousecurity",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245996,
+                "time": "2016-10-14 21:00:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ousecurity.zip?timestamp=1476478857"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ousecurity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ousecurity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

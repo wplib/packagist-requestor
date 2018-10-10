@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nf-submission-limit-cookie": {
+            "3.0": {
+                "name": "wpackagist-plugin\/nf-submission-limit-cookie",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 234114,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nf-submission-limit-cookie.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nf-submission-limit-cookie\/",
+                    "reference": "tags\/3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nf-submission-limit-cookie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nf-submission-limit-cookie",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234115,
+                "time": "2017-08-10 15:37:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nf-submission-limit-cookie.zip?timestamp=1502379434"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nf-submission-limit-cookie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nf-submission-limit-cookie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

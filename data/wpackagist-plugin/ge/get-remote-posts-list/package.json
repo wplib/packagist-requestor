@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/get-remote-posts-list": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/get-remote-posts-list",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 150733,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-remote-posts-list.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-remote-posts-list\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-remote-posts-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/get-remote-posts-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150734,
+                "time": "2018-03-14 08:29:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-remote-posts-list.zip?timestamp=1521016144"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-remote-posts-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-remote-posts-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

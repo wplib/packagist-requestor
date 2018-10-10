@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fury-core": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/fury-core",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 144825,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fury-core.zip?timestamp=1530905686"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fury-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fury-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fury-core",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144826,
+                "time": "2018-07-06 19:34:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fury-core.zip?timestamp=1530905686"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fury-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fury-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

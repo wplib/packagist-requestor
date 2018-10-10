@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/danixland-wporg-stats": {
+            "0.1": {
+                "name": "wpackagist-plugin\/danixland-wporg-stats",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 93903,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/danixland-wporg-stats.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/danixland-wporg-stats\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/danixland-wporg-stats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/danixland-wporg-stats",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93904,
+                "time": "2018-10-01 11:29:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/danixland-wporg-stats.zip?timestamp=1538393395"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/danixland-wporg-stats\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/danixland-wporg-stats\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/frontpage-title-meta-description": {
+            "1.0": {
+                "name": "wpackagist-plugin\/frontpage-title-meta-description",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 143910,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontpage-title-meta-description.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontpage-title-meta-description\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontpage-title-meta-description\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/frontpage-title-meta-description",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 143911,
+                "time": "2015-04-25 21:22:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/frontpage-title-meta-description.zip?timestamp=1429996962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/frontpage-title-meta-description\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/frontpage-title-meta-description\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-mycarousel": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-mycarousel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 424625,
+                "time": "2016-12-07 21:55:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-mycarousel.zip?timestamp=1481147705"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-mycarousel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-mycarousel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

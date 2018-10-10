@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/annoying-hello-world": {
+            "1.0": {
+                "name": "wpackagist-plugin\/annoying-hello-world",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 22737,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/annoying-hello-world.zip?timestamp=1435895729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/annoying-hello-world\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/annoying-hello-world\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/annoying-hello-world",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22738,
+                "time": "2015-07-03 03:55:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/annoying-hello-world.zip?timestamp=1435895729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/annoying-hello-world\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/annoying-hello-world\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

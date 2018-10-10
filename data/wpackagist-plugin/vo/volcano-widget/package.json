@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/volcano-widget": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/volcano-widget",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 378178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/volcano-widget.zip?timestamp=1464890268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/volcano-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/volcano-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/volcano-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 378179,
+                "time": "2016-06-02 17:57:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/volcano-widget.zip?timestamp=1464890268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/volcano-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/volcano-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/be-share": {
+            "2.1.0": {
+                "name": "wpackagist-plugin\/be-share",
+                "version": "2.1.0",
+                "version_normalized": "2.1.0.0",
+                "uid": 38184,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/be-share.zip?timestamp=1478845906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/be-share\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/be-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/be-share",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38185,
+                "time": "2016-11-11 06:31:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/be-share.zip?timestamp=1478845906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/be-share\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/be-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

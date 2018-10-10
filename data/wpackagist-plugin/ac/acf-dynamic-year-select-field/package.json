@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-dynamic-year-select-field": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/acf-dynamic-year-select-field",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 4924,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-dynamic-year-select-field.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-dynamic-year-select-field\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-dynamic-year-select-field\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-dynamic-year-select-field",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 4925,
+                "time": "2016-11-01 15:09:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-dynamic-year-select-field.zip?timestamp=1478012945"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-dynamic-year-select-field\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-dynamic-year-select-field\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cf7-custom-spinner": {
+            "1": {
+                "name": "wpackagist-plugin\/cf7-custom-spinner",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 64819,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-custom-spinner.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-custom-spinner\/",
+                    "reference": "tags\/1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-custom-spinner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cf7-custom-spinner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 64820,
+                "time": "2018-08-20 11:28:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cf7-custom-spinner.zip?timestamp=1534764503"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cf7-custom-spinner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cf7-custom-spinner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gp-disable-api": {
+            "0.5": {
+                "name": "wpackagist-plugin\/gp-disable-api",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 157151,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-disable-api.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-disable-api\/",
+                    "reference": "tags\/0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-disable-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gp-disable-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157152,
+                "time": "2017-06-08 22:26:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gp-disable-api.zip?timestamp=1496960767"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gp-disable-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gp-disable-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

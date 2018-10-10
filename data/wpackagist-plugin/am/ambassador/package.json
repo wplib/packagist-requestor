@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ambassador": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ambassador",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 20440,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ambassador.zip?timestamp=1439955020"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ambassador\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ambassador\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ambassador",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 20441,
+                "time": "2015-08-19 03:30:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ambassador.zip?timestamp=1439955020"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ambassador\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ambassador\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

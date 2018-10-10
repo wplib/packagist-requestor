@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/team-view": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/team-view",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 347625,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/team-view.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/team-view\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/team-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/team-view",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 347626,
+                "time": "2017-03-02 06:23:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/team-view.zip?timestamp=1488435798"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/team-view\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/team-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

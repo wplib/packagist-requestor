@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/password-generator": {
+            "1.6": {
+                "name": "wpackagist-plugin\/password-generator",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 249968,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/password-generator.zip?timestamp=1510851759"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/password-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/password-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/password-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249969,
+                "time": "2017-11-16 17:02:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/password-generator.zip?timestamp=1510851759"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/password-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/password-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

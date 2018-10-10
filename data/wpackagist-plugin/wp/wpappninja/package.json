@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpappninja": {
+            "8.5.5": {
+                "name": "wpackagist-plugin\/wpappninja",
+                "version": "8.5.5",
+                "version_normalized": "8.5.5.0",
+                "uid": 439726,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpappninja.zip?timestamp=1539105725"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpappninja\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpappninja\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpappninja",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439727,
+                "time": "2018-10-09 17:22:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpappninja.zip?timestamp=1539105725"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpappninja\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpappninja\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

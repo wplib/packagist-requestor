@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ganohrs-toggle-shortcode": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/ganohrs-toggle-shortcode",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 147301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ganohrs-toggle-shortcode.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ganohrs-toggle-shortcode\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ganohrs-toggle-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ganohrs-toggle-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 147302,
+                "time": "2018-06-08 03:10:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ganohrs-toggle-shortcode.zip?timestamp=1528427433"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ganohrs-toggle-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ganohrs-toggle-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

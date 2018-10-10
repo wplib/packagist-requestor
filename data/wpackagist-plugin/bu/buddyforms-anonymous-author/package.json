@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/buddyforms-anonymous-author": {
+            "1.0-beta-1": {
+                "name": "wpackagist-plugin\/buddyforms-anonymous-author",
+                "version": "1.0-beta-1",
+                "version_normalized": "1.0.0.0-beta1",
+                "uid": 53512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddyforms-anonymous-author.1.0-beta-1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddyforms-anonymous-author\/",
+                    "reference": "tags\/1.0-beta-1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddyforms-anonymous-author\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/buddyforms-anonymous-author",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53513,
+                "time": "2017-06-07 12:45:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buddyforms-anonymous-author.zip?timestamp=1496839538"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buddyforms-anonymous-author\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buddyforms-anonymous-author\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/not-safe-for-work": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/not-safe-for-work",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 237149,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/not-safe-for-work.zip?timestamp=1514061122"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/not-safe-for-work\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/not-safe-for-work\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/not-safe-for-work",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 237150,
+                "time": "2017-12-23 20:32:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/not-safe-for-work.zip?timestamp=1514061122"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/not-safe-for-work\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/not-safe-for-work\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

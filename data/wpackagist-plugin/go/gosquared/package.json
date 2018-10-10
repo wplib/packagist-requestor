@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gosquared": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gosquared",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 156898,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gosquared.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gosquared\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gosquared\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gosquared",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 156899,
+                "time": "2016-03-15 15:06:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gosquared.zip?timestamp=1458054413"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gosquared\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gosquared\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

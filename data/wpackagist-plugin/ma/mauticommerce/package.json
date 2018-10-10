@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mauticommerce": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/mauticommerce",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 211006,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mauticommerce.zip?timestamp=1479350907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mauticommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mauticommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mauticommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211007,
+                "time": "2016-11-17 02:48:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mauticommerce.zip?timestamp=1479350907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mauticommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mauticommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

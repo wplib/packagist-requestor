@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/brand-center-connector": {
+            "1.0": {
+                "name": "wpackagist-plugin\/brand-center-connector",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 51437,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brand-center-connector.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brand-center-connector\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brand-center-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/brand-center-connector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 51438,
+                "time": "2018-08-01 10:42:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/brand-center-connector.zip?timestamp=1533120131"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/brand-center-connector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/brand-center-connector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

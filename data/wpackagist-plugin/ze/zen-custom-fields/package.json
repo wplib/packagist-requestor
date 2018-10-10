@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zen-custom-fields": {
+            "1.15": {
+                "name": "wpackagist-plugin\/zen-custom-fields",
+                "version": "1.15",
+                "version_normalized": "1.15.0.0",
+                "uid": 452341,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zen-custom-fields.zip?timestamp=1499769245"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zen-custom-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zen-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zen-custom-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 452342,
+                "time": "2017-07-11 10:34:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zen-custom-fields.zip?timestamp=1499769245"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zen-custom-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zen-custom-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

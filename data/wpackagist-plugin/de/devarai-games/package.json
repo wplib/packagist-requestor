@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/devarai-games": {
+            "2.0": {
+                "name": "wpackagist-plugin\/devarai-games",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 98140,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devarai-games.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devarai-games\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devarai-games\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/devarai-games",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98141,
+                "time": "2018-07-09 11:12:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devarai-games.zip?timestamp=1531134754"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devarai-games\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devarai-games\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

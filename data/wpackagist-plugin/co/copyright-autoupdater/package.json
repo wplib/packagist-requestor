@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/copyright-autoupdater": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/copyright-autoupdater",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 83052,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copyright-autoupdater.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copyright-autoupdater\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copyright-autoupdater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/copyright-autoupdater",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83053,
+                "time": "2017-01-05 04:11:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/copyright-autoupdater.zip?timestamp=1483589484"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/copyright-autoupdater\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/copyright-autoupdater\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

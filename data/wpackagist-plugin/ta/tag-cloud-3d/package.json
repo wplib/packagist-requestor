@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tag-cloud-3d": {
+            "1.0": {
+                "name": "wpackagist-plugin\/tag-cloud-3d",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345274,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-cloud-3d.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-cloud-3d\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-cloud-3d\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tag-cloud-3d",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345275,
+                "time": "2017-12-08 22:24:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tag-cloud-3d.zip?timestamp=1512771890"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tag-cloud-3d\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tag-cloud-3d\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

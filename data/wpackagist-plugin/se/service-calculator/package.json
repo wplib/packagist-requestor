@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/service-calculator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/service-calculator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 306454,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/service-calculator.zip?timestamp=1497086217"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/service-calculator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/service-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/service-calculator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306455,
+                "time": "2017-06-10 09:16:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/service-calculator.zip?timestamp=1497086217"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/service-calculator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/service-calculator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

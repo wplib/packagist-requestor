@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-drafts": {
+            "3.0.4": {
+                "name": "wpackagist-plugin\/live-drafts",
+                "version": "3.0.4",
+                "version_normalized": "3.0.4.0",
+                "uid": 200928,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-drafts.zip?timestamp=1447690101"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-drafts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-drafts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-drafts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200929,
+                "time": "2015-11-16 16:08:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-drafts.zip?timestamp=1447690101"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-drafts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-drafts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/humindo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/humindo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 169266,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/humindo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/humindo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/humindo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/humindo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169267,
+                "time": "2017-08-16 16:13:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/humindo.zip?timestamp=1502899996"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/humindo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/humindo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

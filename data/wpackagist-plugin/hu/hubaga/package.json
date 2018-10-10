@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hubaga": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/hubaga",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 168938,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hubaga.zip?timestamp=1510996261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hubaga\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hubaga\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hubaga",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168939,
+                "time": "2017-11-18 09:11:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hubaga.zip?timestamp=1510996261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hubaga\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hubaga\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

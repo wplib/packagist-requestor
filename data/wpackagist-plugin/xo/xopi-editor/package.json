@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/xopi-editor": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/xopi-editor",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 446775,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xopi-editor.1.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xopi-editor\/",
+                    "reference": "tags\/1.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xopi-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/xopi-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 446776,
+                "time": "2016-01-30 01:35:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/xopi-editor.zip?timestamp=1454117741"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/xopi-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/xopi-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

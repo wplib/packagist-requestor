@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reverse-proxy-comment-ip-fix": {
+            "0.2.0": {
+                "name": "wpackagist-plugin\/reverse-proxy-comment-ip-fix",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "uid": 291794,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reverse-proxy-comment-ip-fix.0.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reverse-proxy-comment-ip-fix\/",
+                    "reference": "tags\/0.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reverse-proxy-comment-ip-fix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reverse-proxy-comment-ip-fix",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291795,
+                "time": "2016-10-15 15:27:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reverse-proxy-comment-ip-fix.zip?timestamp=1476545271"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reverse-proxy-comment-ip-fix\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reverse-proxy-comment-ip-fix\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

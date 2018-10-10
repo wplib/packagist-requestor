@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/payment-gateway-easy-digital-downloads-shmart": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/payment-gateway-easy-digital-downloads-shmart",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 250668,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payment-gateway-easy-digital-downloads-shmart.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payment-gateway-easy-digital-downloads-shmart\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payment-gateway-easy-digital-downloads-shmart\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/payment-gateway-easy-digital-downloads-shmart",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 250669,
+                "time": "2017-06-21 11:20:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/payment-gateway-easy-digital-downloads-shmart.zip?timestamp=1498044031"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/payment-gateway-easy-digital-downloads-shmart\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/payment-gateway-easy-digital-downloads-shmart\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/html5-simple-video-gallery": {
+            "0.1": {
+                "name": "wpackagist-plugin\/html5-simple-video-gallery",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 168653,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/html5-simple-video-gallery.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/html5-simple-video-gallery\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/html5-simple-video-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/html5-simple-video-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168654,
+                "time": "2015-01-14 02:53:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/html5-simple-video-gallery.zip?timestamp=1421204024"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/html5-simple-video-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/html5-simple-video-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

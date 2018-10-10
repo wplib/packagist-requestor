@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facetwp-manipulator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/facetwp-manipulator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 128686,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facetwp-manipulator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facetwp-manipulator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facetwp-manipulator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facetwp-manipulator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 128687,
+                "time": "2017-01-19 09:50:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facetwp-manipulator.zip?timestamp=1484819420"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facetwp-manipulator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facetwp-manipulator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

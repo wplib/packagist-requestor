@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kayako-messenger-live-chat": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/kayako-messenger-live-chat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 188431,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kayako-messenger-live-chat.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kayako-messenger-live-chat\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kayako-messenger-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kayako-messenger-live-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 188432,
+                "time": "2017-09-26 17:23:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kayako-messenger-live-chat.zip?timestamp=1506446624"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kayako-messenger-live-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kayako-messenger-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

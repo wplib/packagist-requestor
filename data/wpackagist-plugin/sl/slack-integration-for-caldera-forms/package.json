@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/slack-integration-for-caldera-forms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/slack-integration-for-caldera-forms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 322397,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slack-integration-for-caldera-forms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slack-integration-for-caldera-forms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slack-integration-for-caldera-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/slack-integration-for-caldera-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 322398,
+                "time": "2017-01-28 00:13:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/slack-integration-for-caldera-forms.zip?timestamp=1485562432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/slack-integration-for-caldera-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/slack-integration-for-caldera-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

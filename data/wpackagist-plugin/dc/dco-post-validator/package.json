@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dco-post-validator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dco-post-validator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95557,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dco-post-validator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dco-post-validator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dco-post-validator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dco-post-validator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95558,
+                "time": "2018-01-20 03:17:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dco-post-validator.zip?timestamp=1516418272"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dco-post-validator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dco-post-validator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

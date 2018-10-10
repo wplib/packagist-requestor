@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-metrics": {
+            "0.7": {
+                "name": "wpackagist-plugin\/edd-metrics",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 113540,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-metrics.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-metrics\/",
+                    "reference": "tags\/0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-metrics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-metrics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113541,
+                "time": "2018-01-25 18:27:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-metrics.zip?timestamp=1516904872"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-metrics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-metrics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

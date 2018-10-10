@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/leafly-reviews": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/leafly-reviews",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 194901,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leafly-reviews.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leafly-reviews\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leafly-reviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/leafly-reviews",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194902,
+                "time": "2016-12-08 20:08:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leafly-reviews.zip?timestamp=1481227687"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leafly-reviews\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leafly-reviews\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

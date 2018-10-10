@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/make-clickable-wp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/make-clickable-wp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 207915,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/make-clickable-wp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/make-clickable-wp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/make-clickable-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/make-clickable-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 207916,
+                "time": "2015-04-11 18:24:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/make-clickable-wp.zip?timestamp=1428776690"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/make-clickable-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/make-clickable-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

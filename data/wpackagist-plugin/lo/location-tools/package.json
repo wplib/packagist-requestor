@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/location-tools": {
+            "4.5-RC-02": {
+                "name": "wpackagist-plugin\/location-tools",
+                "version": "4.5-RC-02",
+                "version_normalized": "4.5.0.0-RC02",
+                "uid": 202265,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-tools.4.5-RC-02.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-tools\/",
+                    "reference": "tags\/4.5-RC-02"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/location-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202266,
+                "time": "2016-06-01 18:54:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/location-tools.zip?timestamp=1464807253"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/location-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/location-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

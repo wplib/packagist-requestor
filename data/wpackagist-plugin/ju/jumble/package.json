@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jumble": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/jumble",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 186838,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumble.zip?timestamp=1523377026"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumble\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumble\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jumble",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186839,
+                "time": "2018-04-10 16:17:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumble.zip?timestamp=1523377026"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumble\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumble\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

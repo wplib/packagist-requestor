@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rockon-woo-variations-table": {
+            "6.0": {
+                "name": "wpackagist-plugin\/rockon-woo-variations-table",
+                "version": "6.0",
+                "version_normalized": "6.0.0.0",
+                "uid": 293909,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rockon-woo-variations-table.6.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rockon-woo-variations-table\/",
+                    "reference": "tags\/6.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rockon-woo-variations-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rockon-woo-variations-table",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293910,
+                "time": "2018-03-04 15:45:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rockon-woo-variations-table.zip?timestamp=1520178329"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rockon-woo-variations-table\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rockon-woo-variations-table\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-to-infusionsoft": {
+            "1.0": {
+                "name": "wpackagist-plugin\/post-to-infusionsoft",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 264874,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-to-infusionsoft.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-to-infusionsoft\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-to-infusionsoft\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-to-infusionsoft",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 264875,
+                "time": "2018-08-17 19:01:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-to-infusionsoft.zip?timestamp=1534532507"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-to-infusionsoft\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-to-infusionsoft\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

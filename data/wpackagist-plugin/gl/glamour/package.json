@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/glamour": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/glamour",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 152504,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/glamour.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/glamour\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/glamour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/glamour",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 152505,
+                "time": "2018-03-19 10:00:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/glamour.zip?timestamp=1521453602"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/glamour\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/glamour\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

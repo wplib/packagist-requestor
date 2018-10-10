@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ageverify": {
+            "2.5.2": {
+                "name": "wpackagist-plugin\/ageverify",
+                "version": "2.5.2",
+                "version_normalized": "2.5.2.0",
+                "uid": 15341,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ageverify.zip?timestamp=1528150641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ageverify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ageverify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ageverify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15342,
+                "time": "2018-06-04 22:17:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ageverify.zip?timestamp=1528150641"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ageverify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ageverify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

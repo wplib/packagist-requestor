@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elasticsearch-indexer": {
+            "1.6.1": {
+                "name": "wpackagist-plugin\/elasticsearch-indexer",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "uid": 115726,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elasticsearch-indexer.zip?timestamp=1439531930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elasticsearch-indexer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elasticsearch-indexer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elasticsearch-indexer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 115727,
+                "time": "2015-08-14 05:58:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elasticsearch-indexer.zip?timestamp=1439531930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elasticsearch-indexer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elasticsearch-indexer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

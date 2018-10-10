@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ngg-image-search": {
+            "0.01": {
+                "name": "wpackagist-plugin\/ngg-image-search",
+                "version": "0.01",
+                "version_normalized": "0.01.0.0",
+                "uid": 234160,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ngg-image-search.0.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ngg-image-search\/",
+                    "reference": "tags\/0.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ngg-image-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ngg-image-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234161,
+                "time": "2018-07-10 21:42:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ngg-image-search.zip?timestamp=1531258943"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ngg-image-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ngg-image-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

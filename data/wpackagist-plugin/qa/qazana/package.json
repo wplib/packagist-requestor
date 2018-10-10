@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/qazana": {
+            "1.2.0": {
+                "name": "wpackagist-plugin\/qazana",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "uid": 274989,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qazana.1.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qazana\/",
+                    "reference": "tags\/1.2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qazana\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.3.0": {
+                "name": "wpackagist-plugin\/qazana",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "uid": 274990,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qazana.1.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qazana\/",
+                    "reference": "tags\/1.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qazana\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/qazana",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274991,
+                "time": "2018-03-18 16:48:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qazana.zip?timestamp=1521391719"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qazana\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qazana\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

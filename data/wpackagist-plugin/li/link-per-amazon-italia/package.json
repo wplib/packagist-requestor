@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/link-per-amazon-italia": {
+            "1.2": {
+                "name": "wpackagist-plugin\/link-per-amazon-italia",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 198635,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-per-amazon-italia.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-per-amazon-italia\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-per-amazon-italia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/link-per-amazon-italia",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198636,
+                "time": "2017-04-08 10:00:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/link-per-amazon-italia.zip?timestamp=1491645622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/link-per-amazon-italia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/link-per-amazon-italia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

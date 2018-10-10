@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aria-wp-author-info": {
+            "1.0": {
+                "name": "wpackagist-plugin\/aria-wp-author-info",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 26246,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aria-wp-author-info.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aria-wp-author-info\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aria-wp-author-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aria-wp-author-info",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 26247,
+                "time": "2018-09-13 11:01:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aria-wp-author-info.zip?timestamp=1536836506"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aria-wp-author-info\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aria-wp-author-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

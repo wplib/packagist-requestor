@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/notely": {
+            "1.4": {
+                "name": "wpackagist-plugin\/notely",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 237251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/notely.zip?timestamp=1519975983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/notely\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/notely\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/notely",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 237252,
+                "time": "2018-03-02 07:33:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/notely.zip?timestamp=1519975983"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/notely\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/notely\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insta-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/insta-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 177833,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insta-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insta-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insta-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insta-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177834,
+                "time": "2016-08-13 04:26:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insta-widget.zip?timestamp=1471062416"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insta-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insta-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

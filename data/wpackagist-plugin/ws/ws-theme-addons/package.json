@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ws-theme-addons": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/ws-theme-addons",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 445024,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-theme-addons.zip?timestamp=1526028836"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-theme-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-theme-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ws-theme-addons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445025,
+                "time": "2018-05-11 08:53:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ws-theme-addons.zip?timestamp=1526028836"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ws-theme-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ws-theme-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

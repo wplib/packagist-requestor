@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bulk-comment-remove": {
+            "2": {
+                "name": "wpackagist-plugin\/bulk-comment-remove",
+                "version": 2,
+                "version_normalized": "2.0.0.0",
+                "uid": 55705,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-comment-remove.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-comment-remove\/",
+                    "reference": "tags\/2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-comment-remove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bulk-comment-remove",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55706,
+                "time": "2015-12-16 17:04:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-comment-remove.zip?timestamp=1450285442"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-comment-remove\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-comment-remove\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

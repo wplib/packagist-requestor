@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mm-search": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mm-search",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 219455,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mm-search.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mm-search\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mm-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mm-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 219456,
+                "time": "2017-11-23 04:57:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mm-search.zip?timestamp=1511413074"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mm-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mm-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

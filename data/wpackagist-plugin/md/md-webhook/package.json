@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/md-webhook": {
+            "1.1": {
+                "name": "wpackagist-plugin\/md-webhook",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 211719,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/md-webhook.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/md-webhook\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/md-webhook\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/md-webhook",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211720,
+                "time": "2017-09-30 03:12:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/md-webhook.zip?timestamp=1506741150"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/md-webhook\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/md-webhook\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

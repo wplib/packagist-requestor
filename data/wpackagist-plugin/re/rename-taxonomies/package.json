@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rename-taxonomies": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/rename-taxonomies",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 287342,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rename-taxonomies.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rename-taxonomies\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rename-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rename-taxonomies",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 287343,
+                "time": "2017-11-09 09:40:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rename-taxonomies.zip?timestamp=1510220415"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rename-taxonomies\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rename-taxonomies\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

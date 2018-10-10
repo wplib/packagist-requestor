@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocommerce-zaakpay-payment-gateway": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woocommerce-zaakpay-payment-gateway",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 399700,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-zaakpay-payment-gateway.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-zaakpay-payment-gateway\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-zaakpay-payment-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocommerce-zaakpay-payment-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399701,
+                "time": "2017-02-09 10:58:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-zaakpay-payment-gateway.zip?timestamp=1486637903"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-zaakpay-payment-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-zaakpay-payment-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

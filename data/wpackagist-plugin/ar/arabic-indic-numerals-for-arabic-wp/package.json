@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/arabic-indic-numerals-for-arabic-wp": {
+            "0.16": {
+                "name": "wpackagist-plugin\/arabic-indic-numerals-for-arabic-wp",
+                "version": "0.16",
+                "version_normalized": "0.16.0.0",
+                "uid": 25582,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arabic-indic-numerals-for-arabic-wp.0.16.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arabic-indic-numerals-for-arabic-wp\/",
+                    "reference": "tags\/0.16"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arabic-indic-numerals-for-arabic-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/arabic-indic-numerals-for-arabic-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25583,
+                "time": "2018-02-05 07:15:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/arabic-indic-numerals-for-arabic-wp.zip?timestamp=1517814950"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/arabic-indic-numerals-for-arabic-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/arabic-indic-numerals-for-arabic-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

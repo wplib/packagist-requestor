@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/focus-videos": {
+            "1.1": {
+                "name": "wpackagist-plugin\/focus-videos",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 138438,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/focus-videos.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/focus-videos\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/focus-videos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/focus-videos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138439,
+                "time": "2016-10-04 06:58:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/focus-videos.zip?timestamp=1475564290"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/focus-videos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/focus-videos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

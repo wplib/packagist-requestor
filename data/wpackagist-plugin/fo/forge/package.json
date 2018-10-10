@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forge": {
+            "1.4.5": {
+                "name": "wpackagist-plugin\/forge",
+                "version": "1.4.5",
+                "version_normalized": "1.4.5.0",
+                "uid": 139891,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forge.zip?timestamp=1482302614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139892,
+                "time": "2016-12-21 06:43:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forge.zip?timestamp=1482302614"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

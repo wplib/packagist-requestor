@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stop-naughty-words": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stop-naughty-words",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stop-naughty-words.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stop-naughty-words\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stop-naughty-words\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stop-naughty-words",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337513,
+                "time": "2017-03-14 14:32:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stop-naughty-words.zip?timestamp=1489501948"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stop-naughty-words\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stop-naughty-words\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

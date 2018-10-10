@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easy-digital-downloads-lock-downloads-to-ip": {
+            "1.0": {
+                "name": "wpackagist-plugin\/easy-digital-downloads-lock-downloads-to-ip",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 108675,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-digital-downloads-lock-downloads-to-ip.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-digital-downloads-lock-downloads-to-ip\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-digital-downloads-lock-downloads-to-ip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easy-digital-downloads-lock-downloads-to-ip",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 108676,
+                "time": "2015-08-21 15:47:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easy-digital-downloads-lock-downloads-to-ip.zip?timestamp=1440172068"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easy-digital-downloads-lock-downloads-to-ip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easy-digital-downloads-lock-downloads-to-ip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

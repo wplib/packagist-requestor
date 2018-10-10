@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dmarcian": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dmarcian",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102408,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dmarcian.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dmarcian\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dmarcian\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dmarcian",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102409,
+                "time": "2017-11-21 15:42:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dmarcian.zip?timestamp=1511278962"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dmarcian\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dmarcian\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

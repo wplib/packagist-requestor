@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/instant-articles-filter": {
+            "0.1": {
+                "name": "wpackagist-plugin\/instant-articles-filter",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 178251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-articles-filter.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-articles-filter\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-articles-filter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/instant-articles-filter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178252,
+                "time": "2016-05-03 17:23:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-articles-filter.zip?timestamp=1462296201"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-articles-filter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-articles-filter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

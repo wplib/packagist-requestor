@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/moovly": {
+            "1.0.111": {
+                "name": "wpackagist-plugin\/moovly",
+                "version": "1.0.111",
+                "version_normalized": "1.0.111.0",
+                "uid": 222079,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moovly.zip?timestamp=1538065596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moovly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moovly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/moovly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222080,
+                "time": "2018-09-27 16:26:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/moovly.zip?timestamp=1538065596"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/moovly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/moovly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

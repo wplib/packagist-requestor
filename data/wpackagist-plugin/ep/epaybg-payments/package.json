@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/epaybg-payments": {
+            "0.1": {
+                "name": "wpackagist-plugin\/epaybg-payments",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 121102,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epaybg-payments.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epaybg-payments\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epaybg-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/epaybg-payments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121103,
+                "time": "2015-02-03 21:13:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epaybg-payments.zip?timestamp=1422997986"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epaybg-payments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epaybg-payments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

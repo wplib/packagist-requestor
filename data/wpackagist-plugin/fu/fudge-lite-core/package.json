@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fudge-lite-core": {
+            "1.0": {
+                "name": "wpackagist-plugin\/fudge-lite-core",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 144208,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fudge-lite-core.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fudge-lite-core\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fudge-lite-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fudge-lite-core",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 144209,
+                "time": "2017-04-04 10:25:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fudge-lite-core.zip?timestamp=1491301539"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fudge-lite-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fudge-lite-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

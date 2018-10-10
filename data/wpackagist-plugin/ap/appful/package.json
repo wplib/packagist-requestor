@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/appful": {
+            "1.0.108": {
+                "name": "wpackagist-plugin\/appful",
+                "version": "1.0.108",
+                "version_normalized": "1.0.108.0",
+                "uid": 24454,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appful.zip?timestamp=1533057108"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appful\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appful\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/appful",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24455,
+                "time": "2018-07-31 17:11:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appful.zip?timestamp=1533057108"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appful\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appful\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

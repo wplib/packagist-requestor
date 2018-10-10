@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/readefined-com-embedded-code": {
+            "1.01": {
+                "name": "wpackagist-plugin\/readefined-com-embedded-code",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 282079,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/readefined-com-embedded-code.1.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/readefined-com-embedded-code\/",
+                    "reference": "tags\/1.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/readefined-com-embedded-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/readefined-com-embedded-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 282080,
+                "time": "2017-06-28 10:38:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/readefined-com-embedded-code.zip?timestamp=1498646313"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/readefined-com-embedded-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/readefined-com-embedded-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

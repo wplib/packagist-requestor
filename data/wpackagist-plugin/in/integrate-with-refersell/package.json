@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/integrate-with-refersell": {
+            "0.1": {
+                "name": "wpackagist-plugin\/integrate-with-refersell",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 178966,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrate-with-refersell.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrate-with-refersell\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrate-with-refersell\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/integrate-with-refersell",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178967,
+                "time": "2016-03-16 00:45:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrate-with-refersell.zip?timestamp=1458089120"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrate-with-refersell\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrate-with-refersell\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

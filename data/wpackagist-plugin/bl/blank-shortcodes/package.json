@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blank-shortcodes": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blank-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43454,
+                "time": "2017-08-14 07:29:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blank-shortcodes.zip?timestamp=1502695740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blank-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blank-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

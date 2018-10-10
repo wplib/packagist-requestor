@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minutemailer-subscribe": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/minutemailer-subscribe",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 218684,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minutemailer-subscribe.1.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minutemailer-subscribe\/",
+                    "reference": "tags\/1.0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minutemailer-subscribe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minutemailer-subscribe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218685,
+                "time": "2018-02-21 18:42:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minutemailer-subscribe.zip?timestamp=1519238526"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minutemailer-subscribe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minutemailer-subscribe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/only-admins": {
+            "1.0": {
+                "name": "wpackagist-plugin\/only-admins",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 242484,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/only-admins.zip?timestamp=1484756291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/only-admins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/only-admins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/only-admins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242485,
+                "time": "2017-01-18 16:18:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/only-admins.zip?timestamp=1484756291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/only-admins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/only-admins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sortable-lite": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sortable-lite",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 331019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sortable-lite.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sortable-lite\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sortable-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sortable-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 331020,
+                "time": "2017-08-16 04:03:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sortable-lite.zip?timestamp=1502856225"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sortable-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sortable-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

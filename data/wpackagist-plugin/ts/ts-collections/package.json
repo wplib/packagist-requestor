@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ts-collections": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ts-collections",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 360510,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ts-collections.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ts-collections\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ts-collections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ts-collections",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 360511,
+                "time": "2016-05-18 09:33:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ts-collections.zip?timestamp=1463564002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ts-collections\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ts-collections\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

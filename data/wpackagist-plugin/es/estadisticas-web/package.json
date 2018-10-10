@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/estadisticas-web": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/estadisticas-web",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 122094,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/estadisticas-web.0.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/estadisticas-web\/",
+                    "reference": "tags\/0.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/estadisticas-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/estadisticas-web",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122095,
+                "time": "2015-12-14 20:46:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/estadisticas-web.zip?timestamp=1450125976"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/estadisticas-web\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/estadisticas-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

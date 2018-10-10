@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-functions-littlebizzy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/custom-functions-littlebizzy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 89860,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-functions-littlebizzy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-functions-littlebizzy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-functions-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-functions-littlebizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 89861,
+                "time": "2018-08-19 06:12:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-functions-littlebizzy.zip?timestamp=1534659123"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-functions-littlebizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-functions-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

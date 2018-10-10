@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gna-custom-admin-login": {
+            "0.9.3": {
+                "name": "wpackagist-plugin\/gna-custom-admin-login",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "uid": 153240,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gna-custom-admin-login.0.9.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gna-custom-admin-login\/",
+                    "reference": "tags\/0.9.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gna-custom-admin-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gna-custom-admin-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153241,
+                "time": "2016-12-14 00:42:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gna-custom-admin-login.zip?timestamp=1481676151"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gna-custom-admin-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gna-custom-admin-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

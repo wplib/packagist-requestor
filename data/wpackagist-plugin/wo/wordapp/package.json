@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordapp": {
+            "1.2.9": {
+                "name": "wpackagist-plugin\/wordapp",
+                "version": "1.2.9",
+                "version_normalized": "1.2.9.0",
+                "uid": 400599,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordapp.zip?timestamp=1521632519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordapp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordapp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordapp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 400600,
+                "time": "2018-03-21 11:41:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordapp.zip?timestamp=1521632519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordapp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordapp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

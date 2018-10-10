@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/inject-header-and-footer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/inject-header-and-footer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 176730,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inject-header-and-footer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inject-header-and-footer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inject-header-and-footer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/inject-header-and-footer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 176731,
+                "time": "2017-06-02 11:45:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inject-header-and-footer.zip?timestamp=1496403924"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inject-header-and-footer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inject-header-and-footer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

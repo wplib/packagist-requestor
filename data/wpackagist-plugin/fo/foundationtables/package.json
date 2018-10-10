@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/foundationtables": {
+            "0.25": {
+                "name": "wpackagist-plugin\/foundationtables",
+                "version": "0.25",
+                "version_normalized": "0.25.0.0",
+                "uid": 141459,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foundationtables.zip?timestamp=1440271186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foundationtables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foundationtables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/foundationtables",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141460,
+                "time": "2015-08-22 19:19:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/foundationtables.zip?timestamp=1440271186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/foundationtables\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/foundationtables\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

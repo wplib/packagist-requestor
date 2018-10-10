@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/urlug": {
+            "2.2": {
+                "name": "wpackagist-plugin\/urlug",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 370236,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/urlug.zip?timestamp=1516258291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/urlug\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/urlug\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/urlug",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370237,
+                "time": "2018-01-18 06:51:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/urlug.zip?timestamp=1516258291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/urlug\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/urlug\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

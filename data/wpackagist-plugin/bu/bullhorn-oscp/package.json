@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bullhorn-oscp": {
+            "0.1.2": {
+                "name": "wpackagist-plugin\/bullhorn-oscp",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "uid": 56178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bullhorn-oscp.zip?timestamp=1535142929"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bullhorn-oscp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bullhorn-oscp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bullhorn-oscp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 56179,
+                "time": "2018-08-24 20:35:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bullhorn-oscp.zip?timestamp=1535142929"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bullhorn-oscp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bullhorn-oscp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

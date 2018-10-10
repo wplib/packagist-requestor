@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/iboard": {
+            "0.8.5.6": {
+                "name": "wpackagist-plugin\/iboard",
+                "version": "0.8.5.6",
+                "version_normalized": "0.8.5.6",
+                "uid": 170533,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iboard.zip?timestamp=1422860060"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/iboard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 170534,
+                "time": "2015-02-02 06:54:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iboard.zip?timestamp=1422860060"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iboard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iboard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

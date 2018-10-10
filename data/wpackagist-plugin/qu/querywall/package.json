@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/querywall": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/querywall",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 276067,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/querywall.zip?timestamp=1510219412"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/querywall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/querywall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/querywall",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 276068,
+                "time": "2017-11-09 09:23:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/querywall.zip?timestamp=1510219412"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/querywall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/querywall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

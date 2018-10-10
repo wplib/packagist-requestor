@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nowon": {
+            "2.2": {
+                "name": "wpackagist-plugin\/nowon",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 237882,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nowon.zip?timestamp=1516258421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nowon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nowon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nowon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 237883,
+                "time": "2018-01-18 06:53:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nowon.zip?timestamp=1516258421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nowon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nowon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/large-csv-import-handler": {
+            "0.9": {
+                "name": "wpackagist-plugin\/large-csv-import-handler",
+                "version": "0.9",
+                "version_normalized": "0.9.0.0",
+                "uid": 192726,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/large-csv-import-handler.0.9.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/large-csv-import-handler\/",
+                    "reference": "tags\/0.9"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/large-csv-import-handler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/large-csv-import-handler",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192727,
+                "time": "2016-08-06 21:02:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/large-csv-import-handler.zip?timestamp=1470517334"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/large-csv-import-handler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/large-csv-import-handler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

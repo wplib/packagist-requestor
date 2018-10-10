@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ipag-woocommerce": {
+            "1.9.5": {
+                "name": "wpackagist-plugin\/ipag-woocommerce",
+                "version": "1.9.5",
+                "version_normalized": "1.9.5.0",
+                "uid": 180441,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ipag-woocommerce.1.9.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ipag-woocommerce\/",
+                    "reference": "tags\/1.9.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ipag-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ipag-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180442,
+                "time": "2018-06-29 19:06:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ipag-woocommerce.zip?timestamp=1530299208"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ipag-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ipag-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

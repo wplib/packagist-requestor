@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flynax-bridge": {
+            "1.0": {
+                "name": "wpackagist-plugin\/flynax-bridge",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 138179,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flynax-bridge.zip?timestamp=1442979814"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flynax-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flynax-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flynax-bridge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138180,
+                "time": "2015-09-23 03:43:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flynax-bridge.zip?timestamp=1442979814"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flynax-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flynax-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

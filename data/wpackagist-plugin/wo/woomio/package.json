@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woomio": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/woomio",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 399968,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woomio.zip?timestamp=1510230834"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woomio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woomio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woomio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399969,
+                "time": "2017-11-09 12:33:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woomio.zip?timestamp=1510230834"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woomio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woomio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kselax-spoiler": {
+            "1.0": {
+                "name": "wpackagist-plugin\/kselax-spoiler",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 191593,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kselax-spoiler.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kselax-spoiler\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kselax-spoiler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kselax-spoiler",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191594,
+                "time": "2017-05-14 18:26:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kselax-spoiler.zip?timestamp=1494786412"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kselax-spoiler\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kselax-spoiler\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

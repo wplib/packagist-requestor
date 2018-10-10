@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bake-posts": {
+            "2.2": {
+                "name": "wpackagist-plugin\/bake-posts",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 35251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bake-posts.zip?timestamp=1492964012"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bake-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bake-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bake-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35252,
+                "time": "2017-04-23 16:13:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bake-posts.zip?timestamp=1492964012"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bake-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bake-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

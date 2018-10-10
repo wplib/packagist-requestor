@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/exchange-addon-gis-layout": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/exchange-addon-gis-layout",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 124531,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/exchange-addon-gis-layout.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/exchange-addon-gis-layout\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/exchange-addon-gis-layout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/exchange-addon-gis-layout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 124532,
+                "time": "2016-06-30 11:12:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/exchange-addon-gis-layout.zip?timestamp=1467285166"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/exchange-addon-gis-layout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/exchange-addon-gis-layout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

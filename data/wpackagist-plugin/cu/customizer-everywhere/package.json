@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customizer-everywhere": {
+            "0.1.2": {
+                "name": "wpackagist-plugin\/customizer-everywhere",
+                "version": "0.1.2",
+                "version_normalized": "0.1.2.0",
+                "uid": 92362,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customizer-everywhere.zip?timestamp=1424828682"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customizer-everywhere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customizer-everywhere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customizer-everywhere",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92363,
+                "time": "2015-02-25 01:44:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customizer-everywhere.zip?timestamp=1424828682"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customizer-everywhere\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customizer-everywhere\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

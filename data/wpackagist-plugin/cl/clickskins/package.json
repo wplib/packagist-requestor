@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clickskins": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/clickskins",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 71102,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickskins.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickskins\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickskins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clickskins",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71103,
+                "time": "2015-04-13 20:27:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickskins.zip?timestamp=1428956845"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickskins\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickskins\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fast-translate": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/fast-translate",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 129765,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fast-translate.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fast-translate\/",
+                    "reference": "tags\/1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fast-translate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fast-translate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 129766,
+                "time": "2017-08-15 09:53:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fast-translate.zip?timestamp=1502790828"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fast-translate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fast-translate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

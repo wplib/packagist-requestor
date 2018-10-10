@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ikeypass": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/ikeypass",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 172542,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ikeypass.zip?timestamp=1501823556"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ikeypass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ikeypass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ikeypass",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172543,
+                "time": "2017-08-04 05:12:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ikeypass.zip?timestamp=1501823556"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ikeypass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ikeypass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

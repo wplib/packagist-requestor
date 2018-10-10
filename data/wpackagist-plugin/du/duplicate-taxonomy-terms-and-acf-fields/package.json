@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/duplicate-taxonomy-terms-and-acf-fields": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/duplicate-taxonomy-terms-and-acf-fields",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 105838,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duplicate-taxonomy-terms-and-acf-fields.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duplicate-taxonomy-terms-and-acf-fields\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duplicate-taxonomy-terms-and-acf-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/duplicate-taxonomy-terms-and-acf-fields",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105839,
+                "time": "2017-09-02 11:14:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duplicate-taxonomy-terms-and-acf-fields.zip?timestamp=1504350847"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duplicate-taxonomy-terms-and-acf-fields\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duplicate-taxonomy-terms-and-acf-fields\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

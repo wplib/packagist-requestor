@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/inclusive-parents": {
+            "1.1": {
+                "name": "wpackagist-plugin\/inclusive-parents",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 175543,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inclusive-parents.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inclusive-parents\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inclusive-parents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/inclusive-parents",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175544,
+                "time": "2016-10-04 16:02:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/inclusive-parents.zip?timestamp=1475596922"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/inclusive-parents\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/inclusive-parents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

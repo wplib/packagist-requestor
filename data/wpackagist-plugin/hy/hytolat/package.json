@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hytolat": {
+            "0.1": {
+                "name": "wpackagist-plugin\/hytolat",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 169795,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hytolat.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hytolat\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hytolat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hytolat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169796,
+                "time": "2015-08-08 07:55:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hytolat.zip?timestamp=1439020539"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hytolat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hytolat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

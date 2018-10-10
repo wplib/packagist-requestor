@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/luxicar-lite-toolkit": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/luxicar-lite-toolkit",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204775,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luxicar-lite-toolkit.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luxicar-lite-toolkit\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luxicar-lite-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/luxicar-lite-toolkit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204776,
+                "time": "2016-04-27 02:06:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/luxicar-lite-toolkit.zip?timestamp=1461722766"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/luxicar-lite-toolkit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/luxicar-lite-toolkit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

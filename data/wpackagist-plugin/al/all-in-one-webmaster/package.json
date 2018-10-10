@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/all-in-one-webmaster": {
+            "13.1": {
+                "name": "wpackagist-plugin\/all-in-one-webmaster",
+                "version": "13.1",
+                "version_normalized": "13.1.0.0",
+                "uid": 18360,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-webmaster.13.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-in-one-webmaster\/",
+                    "reference": "tags\/13.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-webmaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "14.0": {
+                "name": "wpackagist-plugin\/all-in-one-webmaster",
+                "version": "14.0",
+                "version_normalized": "14.0.0.0",
+                "uid": 18361,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-webmaster.14.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-in-one-webmaster\/",
+                    "reference": "tags\/14.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-webmaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/all-in-one-webmaster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 18362,
+                "time": "2018-05-20 03:33:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/all-in-one-webmaster.zip?timestamp=1526787220"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/all-in-one-webmaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/all-in-one-webmaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

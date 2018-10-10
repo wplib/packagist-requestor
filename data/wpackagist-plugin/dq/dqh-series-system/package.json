@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dqh-series-system": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dqh-series-system",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 104269,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dqh-series-system.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dqh-series-system\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dqh-series-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dqh-series-system",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 104270,
+                "time": "2016-03-08 05:49:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dqh-series-system.zip?timestamp=1457416188"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dqh-series-system\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dqh-series-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

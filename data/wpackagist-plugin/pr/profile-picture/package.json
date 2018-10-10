@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/profile-picture": {
+            "1.0": {
+                "name": "wpackagist-plugin\/profile-picture",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 270800,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-picture.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-picture\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-picture\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/profile-picture",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270801,
+                "time": "2016-06-03 02:30:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/profile-picture.zip?timestamp=1464921059"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/profile-picture\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/profile-picture\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

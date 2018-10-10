@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/structured-data-for-events-manager": {
+            "0.1": {
+                "name": "wpackagist-plugin\/structured-data-for-events-manager",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 339042,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/structured-data-for-events-manager.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/structured-data-for-events-manager\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/structured-data-for-events-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/structured-data-for-events-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339043,
+                "time": "2016-12-26 11:28:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/structured-data-for-events-manager.zip?timestamp=1482751731"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/structured-data-for-events-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/structured-data-for-events-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

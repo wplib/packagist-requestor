@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bbhide": {
+            "1.00": {
+                "name": "wpackagist-plugin\/bbhide",
+                "version": "1.00",
+                "version_normalized": "1.00.0.0",
+                "uid": 36883,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbhide.zip?timestamp=1512020319"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbhide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbhide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bbhide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36884,
+                "time": "2017-11-30 05:38:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bbhide.zip?timestamp=1512020319"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bbhide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bbhide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

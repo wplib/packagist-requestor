@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gravityformscli": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gravityformscli",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 159386,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravityformscli.zip?timestamp=1510077103"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravityformscli\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravityformscli\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gravityformscli",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 159387,
+                "time": "2017-11-07 17:51:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravityformscli.zip?timestamp=1510077103"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravityformscli\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravityformscli\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sqlite-cache": {
+            "0.6.2": {
+                "name": "wpackagist-plugin\/sqlite-cache",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "uid": 334678,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sqlite-cache.zip?timestamp=1467392070"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sqlite-cache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sqlite-cache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sqlite-cache",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 334679,
+                "time": "2016-07-01 16:54:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sqlite-cache.zip?timestamp=1467392070"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sqlite-cache\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sqlite-cache\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

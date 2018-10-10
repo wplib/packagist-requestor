@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/virtuous": {
+            "1.0.0.0": {
+                "name": "wpackagist-plugin\/virtuous",
+                "version": "1.0.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 376701,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/virtuous.zip?timestamp=1475587823"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/virtuous\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/virtuous\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/virtuous",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376702,
+                "time": "2016-10-04 13:30:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/virtuous.zip?timestamp=1475587823"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/virtuous\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/virtuous\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

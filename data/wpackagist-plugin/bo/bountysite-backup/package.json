@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bountysite-backup": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/bountysite-backup",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 49818,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bountysite-backup.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bountysite-backup\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bountysite-backup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bountysite-backup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49819,
+                "time": "2018-08-22 07:44:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bountysite-backup.zip?timestamp=1534923857"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bountysite-backup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bountysite-backup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wds-themes-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wds-themes-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 382049,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wds-themes-manager.zip?timestamp=1517935880"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wds-themes-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wds-themes-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wds-themes-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382050,
+                "time": "2018-02-06 16:51:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wds-themes-manager.zip?timestamp=1517935880"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wds-themes-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wds-themes-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

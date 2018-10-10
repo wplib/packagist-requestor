@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sg-giftcards": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/sg-giftcards",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 306957,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sg-giftcards.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sg-giftcards\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sg-giftcards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sg-giftcards",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306958,
+                "time": "2016-01-25 14:44:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sg-giftcards.zip?timestamp=1453733068"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sg-giftcards\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sg-giftcards\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

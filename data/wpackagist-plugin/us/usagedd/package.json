@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/usagedd": {
+            "1.4.6": {
+                "name": "wpackagist-plugin\/usagedd",
+                "version": "1.4.6",
+                "version_normalized": "1.4.6.0",
+                "uid": 370258,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/usagedd.zip?timestamp=1533936408"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/usagedd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/usagedd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/usagedd",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 370259,
+                "time": "2018-08-10 21:26:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/usagedd.zip?timestamp=1533936408"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/usagedd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/usagedd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/makhlas": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/makhlas",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 208071,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/makhlas.zip?timestamp=1506943695"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/makhlas\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/makhlas\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/makhlas",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208072,
+                "time": "2017-10-02 11:28:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/makhlas.zip?timestamp=1506943695"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/makhlas\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/makhlas\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

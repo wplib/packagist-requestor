@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/php-fatal-error-blocker": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/php-fatal-error-blocker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 255326,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-fatal-error-blocker.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-fatal-error-blocker\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-fatal-error-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/php-fatal-error-blocker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255327,
+                "time": "2017-11-21 17:27:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/php-fatal-error-blocker.zip?timestamp=1511285247"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/php-fatal-error-blocker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/php-fatal-error-blocker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gpano": {
+            "1.2": {
+                "name": "wpackagist-plugin\/gpano",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 157233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gpano.zip?timestamp=1527856770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gpano\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gpano\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gpano",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 157234,
+                "time": "2018-06-01 12:39:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gpano.zip?timestamp=1527856770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gpano\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gpano\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

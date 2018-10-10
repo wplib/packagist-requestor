@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coinbase-commerce": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/coinbase-commerce",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 73573,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coinbase-commerce.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coinbase-commerce\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coinbase-commerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coinbase-commerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 73574,
+                "time": "2018-10-01 15:01:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coinbase-commerce.zip?timestamp=1538406072"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coinbase-commerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coinbase-commerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smarttag-client": {
+            "1.0": {
+                "name": "wpackagist-plugin\/smarttag-client",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 325772,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smarttag-client.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smarttag-client\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smarttag-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smarttag-client",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 325773,
+                "time": "2018-04-06 15:21:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smarttag-client.zip?timestamp=1523028105"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smarttag-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smarttag-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/motiforms": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/motiforms",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 222521,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/motiforms.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/motiforms\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/motiforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/motiforms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 222522,
+                "time": "2017-11-10 15:13:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/motiforms.zip?timestamp=1510326803"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/motiforms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/motiforms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/instant-membership": {
+            "1.1": {
+                "name": "wpackagist-plugin\/instant-membership",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 178342,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-membership.zip?timestamp=1421653736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/instant-membership",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 178343,
+                "time": "2015-01-19 07:48:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/instant-membership.zip?timestamp=1421653736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/instant-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/instant-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

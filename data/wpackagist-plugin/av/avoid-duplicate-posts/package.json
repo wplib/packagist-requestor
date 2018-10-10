@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/avoid-duplicate-posts": {
+            "1.0": {
+                "name": "wpackagist-plugin\/avoid-duplicate-posts",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 32561,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avoid-duplicate-posts.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avoid-duplicate-posts\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avoid-duplicate-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/avoid-duplicate-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 32562,
+                "time": "2017-12-03 09:35:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/avoid-duplicate-posts.zip?timestamp=1512293736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/avoid-duplicate-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/avoid-duplicate-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

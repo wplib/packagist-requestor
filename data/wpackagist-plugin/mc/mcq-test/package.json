@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mcq-test": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/mcq-test",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 211704,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mcq-test.zip?timestamp=1510344077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mcq-test\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mcq-test\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mcq-test",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 211705,
+                "time": "2017-11-10 20:01:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mcq-test.zip?timestamp=1510344077"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mcq-test\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mcq-test\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

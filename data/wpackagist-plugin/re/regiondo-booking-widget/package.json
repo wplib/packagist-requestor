@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/regiondo-booking-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/regiondo-booking-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 285645,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/regiondo-booking-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/regiondo-booking-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/regiondo-booking-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/regiondo-booking-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 285646,
+                "time": "2017-08-11 16:25:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/regiondo-booking-widget.zip?timestamp=1502468736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/regiondo-booking-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/regiondo-booking-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

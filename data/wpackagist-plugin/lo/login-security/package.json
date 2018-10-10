@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-security": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/login-security",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 203082,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-security.zip?timestamp=1429735621"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 203083,
+                "time": "2015-04-22 20:47:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-security.zip?timestamp=1429735621"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

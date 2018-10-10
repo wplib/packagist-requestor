@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coblocks": {
+            "1.1.10": {
+                "name": "wpackagist-plugin\/coblocks",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "uid": 72556,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coblocks.zip?timestamp=1537899278"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coblocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72557,
+                "time": "2018-09-25 18:14:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coblocks.zip?timestamp=1537899278"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

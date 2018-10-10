@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/napoleoncat-chat-widget": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/napoleoncat-chat-widget",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 229134,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/napoleoncat-chat-widget.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/napoleoncat-chat-widget\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/napoleoncat-chat-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/napoleoncat-chat-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229135,
+                "time": "2018-01-23 19:42:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/napoleoncat-chat-widget.zip?timestamp=1516736526"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/napoleoncat-chat-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/napoleoncat-chat-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

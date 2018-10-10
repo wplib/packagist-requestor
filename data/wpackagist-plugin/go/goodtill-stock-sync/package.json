@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/goodtill-stock-sync": {
+            "0.3.6": {
+                "name": "wpackagist-plugin\/goodtill-stock-sync",
+                "version": "0.3.6",
+                "version_normalized": "0.3.6.0",
+                "uid": 154076,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goodtill-stock-sync.0.3.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goodtill-stock-sync\/",
+                    "reference": "tags\/0.3.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goodtill-stock-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/goodtill-stock-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 154077,
+                "time": "2018-10-08 08:50:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goodtill-stock-sync.zip?timestamp=1538988632"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goodtill-stock-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goodtill-stock-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

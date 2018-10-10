@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cp-analytics-pro": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cp-analytics-pro",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 84713,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-analytics-pro.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-analytics-pro\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-analytics-pro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cp-analytics-pro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84714,
+                "time": "2016-05-04 10:39:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cp-analytics-pro.zip?timestamp=1462358385"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cp-analytics-pro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cp-analytics-pro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

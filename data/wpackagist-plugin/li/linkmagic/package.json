@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/linkmagic": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/linkmagic",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 199182,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkmagic.zip?timestamp=1444771130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkmagic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkmagic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/linkmagic",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199183,
+                "time": "2015-10-13 21:18:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/linkmagic.zip?timestamp=1444771130"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/linkmagic\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/linkmagic\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

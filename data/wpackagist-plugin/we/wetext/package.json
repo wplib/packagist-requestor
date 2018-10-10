@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wetext": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wetext",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 384764,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wetext.zip?timestamp=1532775313"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wetext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wetext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wetext",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384765,
+                "time": "2018-07-28 10:55:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wetext.zip?timestamp=1532775313"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wetext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wetext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

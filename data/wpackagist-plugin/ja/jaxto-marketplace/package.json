@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jaxto-marketplace": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/jaxto-marketplace",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 182775,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jaxto-marketplace.zip?timestamp=1499076846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jaxto-marketplace\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jaxto-marketplace\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jaxto-marketplace",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182776,
+                "time": "2017-07-03 10:14:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jaxto-marketplace.zip?timestamp=1499076846"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jaxto-marketplace\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jaxto-marketplace\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/showcaster": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/showcaster",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 311461,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/showcaster.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/showcaster\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/showcaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/showcaster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 311462,
+                "time": "2018-07-19 19:35:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/showcaster.zip?timestamp=1532028944"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/showcaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/showcaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

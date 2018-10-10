@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/outbound-automation-contact-form-7-extension": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/outbound-automation-contact-form-7-extension",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 245991,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/outbound-automation-contact-form-7-extension.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/outbound-automation-contact-form-7-extension\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/outbound-automation-contact-form-7-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/outbound-automation-contact-form-7-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245992,
+                "time": "2017-02-27 20:34:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/outbound-automation-contact-form-7-extension.zip?timestamp=1488227696"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/outbound-automation-contact-form-7-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/outbound-automation-contact-form-7-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

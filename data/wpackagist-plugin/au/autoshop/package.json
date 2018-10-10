@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/autoshop": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/autoshop",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 31750,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autoshop.zip?timestamp=1456887850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autoshop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autoshop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/autoshop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 31751,
+                "time": "2016-03-02 03:04:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/autoshop.zip?timestamp=1456887850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/autoshop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/autoshop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

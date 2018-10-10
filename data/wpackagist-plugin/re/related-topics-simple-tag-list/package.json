@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/related-topics-simple-tag-list": {
+            "1.1": {
+                "name": "wpackagist-plugin\/related-topics-simple-tag-list",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 286209,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/related-topics-simple-tag-list.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/related-topics-simple-tag-list\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/related-topics-simple-tag-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/related-topics-simple-tag-list",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286210,
+                "time": "2018-04-17 02:25:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/related-topics-simple-tag-list.zip?timestamp=1523931902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/related-topics-simple-tag-list\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/related-topics-simple-tag-list\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

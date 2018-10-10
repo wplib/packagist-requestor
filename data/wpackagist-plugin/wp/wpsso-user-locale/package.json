@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpsso-user-locale": {
+            "1.3.2": {
+                "name": "wpackagist-plugin\/wpsso-user-locale",
+                "version": "1.3.2",
+                "version_normalized": "1.3.2.0",
+                "uid": 443770,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-user-locale.1.3.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-user-locale\/",
+                    "reference": "tags\/1.3.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-user-locale\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpsso-user-locale",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443771,
+                "time": "2018-10-04 16:18:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpsso-user-locale.zip?timestamp=1538669882"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpsso-user-locale\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpsso-user-locale\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

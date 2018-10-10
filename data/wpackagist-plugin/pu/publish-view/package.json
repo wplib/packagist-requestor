@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/publish-view": {
+            "2.3.2": {
+                "name": "wpackagist-plugin\/publish-view",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "uid": 273173,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/publish-view.zip?timestamp=1493260615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/publish-view\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/publish-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/publish-view",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 273174,
+                "time": "2017-04-27 02:36:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/publish-view.zip?timestamp=1493260615"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/publish-view\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/publish-view\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

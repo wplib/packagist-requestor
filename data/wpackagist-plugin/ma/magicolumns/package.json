@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/magicolumns": {
+            "1.0": {
+                "name": "wpackagist-plugin\/magicolumns",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206071,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magicolumns.zip?timestamp=1508942456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magicolumns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magicolumns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/magicolumns",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206072,
+                "time": "2017-10-25 14:40:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/magicolumns.zip?timestamp=1508942456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/magicolumns\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/magicolumns\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

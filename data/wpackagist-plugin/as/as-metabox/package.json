@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/as-metabox": {
+            "1.0": {
+                "name": "wpackagist-plugin\/as-metabox",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 27134,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/as-metabox.zip?timestamp=1504647896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/as-metabox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/as-metabox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/as-metabox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27135,
+                "time": "2017-09-05 21:44:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/as-metabox.zip?timestamp=1504647896"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/as-metabox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/as-metabox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/paid-membership": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/paid-membership",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 248308,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paid-membership.zip?timestamp=1537419021"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paid-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paid-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/paid-membership",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 248309,
+                "time": "2018-09-20 04:50:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/paid-membership.zip?timestamp=1537419021"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/paid-membership\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/paid-membership\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

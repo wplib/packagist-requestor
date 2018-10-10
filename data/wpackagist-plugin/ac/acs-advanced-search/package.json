@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acs-advanced-search": {
+            "1.0": {
+                "name": "wpackagist-plugin\/acs-advanced-search",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5659,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acs-advanced-search.zip?timestamp=1505829888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acs-advanced-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acs-advanced-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acs-advanced-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5660,
+                "time": "2017-09-19 14:04:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acs-advanced-search.zip?timestamp=1505829888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acs-advanced-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acs-advanced-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

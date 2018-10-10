@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woohoo": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/woohoo",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 399884,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woohoo.zip?timestamp=1534527799"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woohoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woohoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woohoo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399885,
+                "time": "2018-08-17 17:43:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woohoo.zip?timestamp=1534527799"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woohoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woohoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

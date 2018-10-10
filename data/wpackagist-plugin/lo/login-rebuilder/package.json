@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-rebuilder": {
+            "2.4.4": {
+                "name": "wpackagist-plugin\/login-rebuilder",
+                "version": "2.4.4",
+                "version_normalized": "2.4.4.0",
+                "uid": 202998,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-rebuilder.zip?timestamp=1538372082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-rebuilder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-rebuilder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-rebuilder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202999,
+                "time": "2018-10-01 05:34:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-rebuilder.zip?timestamp=1538372082"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-rebuilder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-rebuilder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

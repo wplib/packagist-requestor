@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/docs-viewer-add-on-for-wp-job-openings": {
+            "1.0": {
+                "name": "wpackagist-plugin\/docs-viewer-add-on-for-wp-job-openings",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102709,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/docs-viewer-add-on-for-wp-job-openings.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/docs-viewer-add-on-for-wp-job-openings\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/docs-viewer-add-on-for-wp-job-openings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/docs-viewer-add-on-for-wp-job-openings",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102710,
+                "time": "2018-08-29 13:43:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/docs-viewer-add-on-for-wp-job-openings.zip?timestamp=1535550221"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/docs-viewer-add-on-for-wp-job-openings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/docs-viewer-add-on-for-wp-job-openings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

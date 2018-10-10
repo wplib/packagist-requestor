@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bizconnector": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bizconnector",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 42455,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bizconnector.zip?timestamp=1464739415"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bizconnector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bizconnector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bizconnector",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 42456,
+                "time": "2016-06-01 00:03:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bizconnector.zip?timestamp=1464739415"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bizconnector\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bizconnector\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

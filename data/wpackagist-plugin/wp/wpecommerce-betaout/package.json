@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpecommerce-betaout": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpecommerce-betaout",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpecommerce-betaout.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpecommerce-betaout\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpecommerce-betaout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpecommerce-betaout",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441020,
+                "time": "2016-09-26 11:13:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpecommerce-betaout.zip?timestamp=1474888396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpecommerce-betaout\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpecommerce-betaout\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

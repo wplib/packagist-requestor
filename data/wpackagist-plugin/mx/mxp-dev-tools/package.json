@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mxp-dev-tools": {
+            "1.2.3": {
+                "name": "wpackagist-plugin\/mxp-dev-tools",
+                "version": "1.2.3",
+                "version_normalized": "1.2.3.0",
+                "uid": 226389,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mxp-dev-tools.1.2.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mxp-dev-tools\/",
+                    "reference": "tags\/1.2.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mxp-dev-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mxp-dev-tools",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 226390,
+                "time": "2017-07-04 08:16:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mxp-dev-tools.zip?timestamp=1499156211"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mxp-dev-tools\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mxp-dev-tools\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

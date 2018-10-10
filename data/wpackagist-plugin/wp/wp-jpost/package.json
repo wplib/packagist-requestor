@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-jpost": {
+            "0.5.1": {
+                "name": "wpackagist-plugin\/wp-jpost",
+                "version": "0.5.1",
+                "version_normalized": "0.5.1.0",
+                "uid": 420973,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-jpost.0.5.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-jpost\/",
+                    "reference": "tags\/0.5.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-jpost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.5.5": {
+                "name": "wpackagist-plugin\/wp-jpost",
+                "version": "0.5.5",
+                "version_normalized": "0.5.5.0",
+                "uid": 420974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-jpost.0.5.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-jpost\/",
+                    "reference": "tags\/0.5.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-jpost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-jpost",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 420975,
+                "time": "2018-10-06 06:31:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-jpost.zip?timestamp=1538807500"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-jpost\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-jpost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

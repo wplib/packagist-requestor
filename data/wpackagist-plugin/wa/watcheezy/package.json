@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/watcheezy": {
+            "1.9": {
+                "name": "wpackagist-plugin\/watcheezy",
+                "version": "1.9",
+                "version_normalized": "1.9.0.0",
+                "uid": 379765,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/watcheezy.zip?timestamp=1489746593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/watcheezy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/watcheezy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/watcheezy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 379766,
+                "time": "2017-03-17 10:29:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/watcheezy.zip?timestamp=1489746593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/watcheezy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/watcheezy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

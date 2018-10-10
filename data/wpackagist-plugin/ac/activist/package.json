@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/activist": {
+            "0.1.1": {
+                "name": "wpackagist-plugin\/activist",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "uid": 5960,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/activist.zip?timestamp=1450737633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/activist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/activist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/activist",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5961,
+                "time": "2015-12-21 22:40:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/activist.zip?timestamp=1450737633"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/activist\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/activist\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

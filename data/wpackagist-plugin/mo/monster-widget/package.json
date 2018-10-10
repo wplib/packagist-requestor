@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monster-widget": {
+            "0.3": {
+                "name": "wpackagist-plugin\/monster-widget",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 221674,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monster-widget.zip?timestamp=1510328829"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monster-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monster-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monster-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221675,
+                "time": "2017-11-10 15:47:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monster-widget.zip?timestamp=1510328829"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monster-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monster-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

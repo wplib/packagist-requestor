@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/if-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/if-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 171665,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/if-widget.zip?timestamp=1535206212"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/if-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/if-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/if-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171666,
+                "time": "2018-08-25 14:10:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/if-widget.zip?timestamp=1535206212"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/if-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/if-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

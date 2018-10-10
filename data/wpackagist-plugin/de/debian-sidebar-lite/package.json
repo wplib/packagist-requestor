@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/debian-sidebar-lite": {
+            "0.1": {
+                "name": "wpackagist-plugin\/debian-sidebar-lite",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 95879,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debian-sidebar-lite.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debian-sidebar-lite\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debian-sidebar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/debian-sidebar-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95880,
+                "time": "2015-01-30 09:06:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/debian-sidebar-lite.zip?timestamp=1422608804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/debian-sidebar-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/debian-sidebar-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

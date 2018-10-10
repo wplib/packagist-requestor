@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/facebook-content-locker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/facebook-content-locker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 127489,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-content-locker.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-content-locker\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-content-locker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/facebook-content-locker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 127490,
+                "time": "2015-05-24 09:19:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/facebook-content-locker.zip?timestamp=1432459159"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/facebook-content-locker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/facebook-content-locker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

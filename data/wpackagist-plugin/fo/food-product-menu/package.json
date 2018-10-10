@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/food-product-menu": {
+            "1.2": {
+                "name": "wpackagist-plugin\/food-product-menu",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 139022,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/food-product-menu.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/food-product-menu\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/food-product-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/food-product-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 139023,
+                "time": "2017-08-02 11:33:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/food-product-menu.zip?timestamp=1501673629"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/food-product-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/food-product-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

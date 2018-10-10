@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/free-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/free-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142513,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-slider.zip?timestamp=1484647277"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/free-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142514,
+                "time": "2017-01-17 10:01:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/free-slider.zip?timestamp=1484647277"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/free-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/free-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

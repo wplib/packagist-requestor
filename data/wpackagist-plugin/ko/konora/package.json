@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/konora": {
+            "0.9.3": {
+                "name": "wpackagist-plugin\/konora",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "uid": 191202,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora.zip?timestamp=1444820915"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.7": {
+                "name": "wpackagist-plugin\/konora",
+                "version": "0.7",
+                "version_normalized": "0.7.0.0",
+                "uid": 191203,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora.0.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora\/",
+                    "reference": "tags\/0.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/konora",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191204,
+                "time": "2015-10-14 11:08:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/konora.zip?timestamp=1444820915"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/konora\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/konora\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

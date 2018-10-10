@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ip-login": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/ip-login",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 180357,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-login.zip?timestamp=1451699927"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ip-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180358,
+                "time": "2016-01-02 01:58:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ip-login.zip?timestamp=1451699927"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ip-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ip-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

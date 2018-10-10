@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fancy-elementor-flipbox": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/fancy-elementor-flipbox",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 129015,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fancy-elementor-flipbox.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fancy-elementor-flipbox\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fancy-elementor-flipbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fancy-elementor-flipbox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 129016,
+                "time": "2018-10-09 15:22:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fancy-elementor-flipbox.zip?timestamp=1539098532"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fancy-elementor-flipbox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fancy-elementor-flipbox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

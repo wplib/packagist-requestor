@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/prolink": {
+            "1.0": {
+                "name": "wpackagist-plugin\/prolink",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 271415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prolink.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prolink\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prolink\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/prolink",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 271416,
+                "time": "2017-02-24 09:24:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prolink.zip?timestamp=1487928275"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prolink\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prolink\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

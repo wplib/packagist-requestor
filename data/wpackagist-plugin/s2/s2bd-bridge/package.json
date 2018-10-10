@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/s2bd-bridge": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/s2bd-bridge",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 297627,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/s2bd-bridge.zip?timestamp=1452749085"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/s2bd-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/s2bd-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/s2bd-bridge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297628,
+                "time": "2016-01-14 05:24:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/s2bd-bridge.zip?timestamp=1452749085"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/s2bd-bridge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/s2bd-bridge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

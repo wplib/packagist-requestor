@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/freecaster": {
+            "1.1.2": {
+                "name": "wpackagist-plugin\/freecaster",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "uid": 142582,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freecaster.zip?timestamp=1505825700"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freecaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freecaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/freecaster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142583,
+                "time": "2017-09-19 12:55:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freecaster.zip?timestamp=1505825700"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freecaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freecaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

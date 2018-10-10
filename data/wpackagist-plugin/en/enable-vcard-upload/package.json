@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/enable-vcard-upload": {
+            "1.0": {
+                "name": "wpackagist-plugin\/enable-vcard-upload",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 119360,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enable-vcard-upload.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enable-vcard-upload\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enable-vcard-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/enable-vcard-upload",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 119361,
+                "time": "2016-11-08 13:28:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enable-vcard-upload.zip?timestamp=1478611712"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enable-vcard-upload\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enable-vcard-upload\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

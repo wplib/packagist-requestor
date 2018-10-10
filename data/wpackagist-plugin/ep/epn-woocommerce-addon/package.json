@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/epn-woocommerce-addon": {
+            "1.0": {
+                "name": "wpackagist-plugin\/epn-woocommerce-addon",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121201,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epn-woocommerce-addon.zip?timestamp=1505150372"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epn-woocommerce-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epn-woocommerce-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/epn-woocommerce-addon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121202,
+                "time": "2017-09-11 17:19:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/epn-woocommerce-addon.zip?timestamp=1505150372"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/epn-woocommerce-addon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/epn-woocommerce-addon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

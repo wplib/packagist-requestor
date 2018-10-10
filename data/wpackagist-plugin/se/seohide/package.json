@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seohide": {
+            "1.3.6": {
+                "name": "wpackagist-plugin\/seohide",
+                "version": "1.3.6",
+                "version_normalized": "1.3.6.0",
+                "uid": 305543,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seohide.zip?timestamp=1507390424"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seohide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seohide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seohide",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 305544,
+                "time": "2017-10-07 15:33:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seohide.zip?timestamp=1507390424"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seohide\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seohide\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

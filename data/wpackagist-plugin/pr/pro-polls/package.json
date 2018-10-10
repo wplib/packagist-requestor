@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pro-polls": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pro-polls",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 269696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pro-polls.zip?timestamp=1510248331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pro-polls\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pro-polls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pro-polls",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 269697,
+                "time": "2017-11-09 17:25:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pro-polls.zip?timestamp=1510248331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pro-polls\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pro-polls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

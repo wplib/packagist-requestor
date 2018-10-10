@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/iminify": {
+            "1.1": {
+                "name": "wpackagist-plugin\/iminify",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 174439,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iminify.zip?timestamp=1476173494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iminify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iminify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/iminify",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 174440,
+                "time": "2016-10-11 08:11:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iminify.zip?timestamp=1476173494"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iminify\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iminify\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

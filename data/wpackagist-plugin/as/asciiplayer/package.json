@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asciiplayer": {
+            "0.3.1": {
+                "name": "wpackagist-plugin\/asciiplayer",
+                "version": "0.3.1",
+                "version_normalized": "0.3.1.0",
+                "uid": 27261,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciiplayer.zip?timestamp=1525037321"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciiplayer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciiplayer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asciiplayer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27262,
+                "time": "2018-04-29 21:28:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciiplayer.zip?timestamp=1525037321"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciiplayer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciiplayer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

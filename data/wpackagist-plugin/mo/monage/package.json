@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/monage": {
+            "1.46": {
+                "name": "wpackagist-plugin\/monage",
+                "version": "1.46",
+                "version_normalized": "1.46.0.0",
+                "uid": 221433,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monage.zip?timestamp=1516658432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/monage",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 221434,
+                "time": "2018-01-22 22:00:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/monage.zip?timestamp=1516658432"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/monage\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/monage\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

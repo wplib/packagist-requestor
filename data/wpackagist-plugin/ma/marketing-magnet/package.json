@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/marketing-magnet": {
+            "1.0": {
+                "name": "wpackagist-plugin\/marketing-magnet",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 209731,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/marketing-magnet.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/marketing-magnet\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/marketing-magnet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/marketing-magnet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209732,
+                "time": "2016-05-29 02:20:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/marketing-magnet.zip?timestamp=1464488430"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/marketing-magnet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/marketing-magnet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

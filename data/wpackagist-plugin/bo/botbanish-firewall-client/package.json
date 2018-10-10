@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/botbanish-firewall-client": {
+            "3.1.00": {
+                "name": "wpackagist-plugin\/botbanish-firewall-client",
+                "version": "3.1.00",
+                "version_normalized": "3.1.00.0",
+                "uid": 49671,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/botbanish-firewall-client.3.1.00.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/botbanish-firewall-client\/",
+                    "reference": "tags\/3.1.00"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/botbanish-firewall-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/botbanish-firewall-client",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 49672,
+                "time": "2018-07-21 04:27:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/botbanish-firewall-client.zip?timestamp=1532147279"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/botbanish-firewall-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/botbanish-firewall-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

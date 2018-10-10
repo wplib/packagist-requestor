@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/topline-sites-for-apartments": {
+            "1.1": {
+                "name": "wpackagist-plugin\/topline-sites-for-apartments",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 357449,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/topline-sites-for-apartments.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/topline-sites-for-apartments\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/topline-sites-for-apartments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/topline-sites-for-apartments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 357450,
+                "time": "2016-01-25 17:35:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/topline-sites-for-apartments.zip?timestamp=1453743314"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/topline-sites-for-apartments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/topline-sites-for-apartments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

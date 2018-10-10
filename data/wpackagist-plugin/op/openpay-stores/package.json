@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/openpay-stores": {
+            "1.3.0": {
+                "name": "wpackagist-plugin\/openpay-stores",
+                "version": "1.3.0",
+                "version_normalized": "1.3.0.0",
+                "uid": 243178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openpay-stores.1.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openpay-stores\/",
+                    "reference": "tags\/1.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openpay-stores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/openpay-stores",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243179,
+                "time": "2018-04-16 22:57:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openpay-stores.zip?timestamp=1523919476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openpay-stores\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openpay-stores\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

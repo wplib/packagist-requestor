@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/matchchat": {
+            "2.3.1": {
+                "name": "wpackagist-plugin\/matchchat",
+                "version": "2.3.1",
+                "version_normalized": "2.3.1.0",
+                "uid": 210605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/matchchat.2.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/matchchat\/",
+                    "reference": "tags\/2.3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/matchchat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "2.3.2": {
+                "name": "wpackagist-plugin\/matchchat",
+                "version": "2.3.2",
+                "version_normalized": "2.3.2.0",
+                "uid": 210606,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/matchchat.2.3.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/matchchat\/",
+                    "reference": "tags\/2.3.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/matchchat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/matchchat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 210607,
+                "time": "2017-03-17 15:48:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/matchchat.zip?timestamp=1489765710"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/matchchat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/matchchat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

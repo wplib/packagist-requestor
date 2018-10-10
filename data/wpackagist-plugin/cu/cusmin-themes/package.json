@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cusmin-themes": {
+            "1.0": {
+                "name": "wpackagist-plugin\/cusmin-themes",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 88209,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cusmin-themes.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cusmin-themes\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cusmin-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cusmin-themes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 88210,
+                "time": "2018-04-15 09:27:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cusmin-themes.zip?timestamp=1523784441"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cusmin-themes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cusmin-themes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

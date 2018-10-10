@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/basepress": {
+            "1.8.10": {
+                "name": "wpackagist-plugin\/basepress",
+                "version": "1.8.10",
+                "version_normalized": "1.8.10.0",
+                "uid": 36172,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/basepress.zip?timestamp=1538135249"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/basepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/basepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/basepress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36173,
+                "time": "2018-09-28 11:47:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/basepress.zip?timestamp=1538135249"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/basepress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/basepress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

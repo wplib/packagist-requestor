@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/canonical-link": {
+            "1.3": {
+                "name": "wpackagist-plugin\/canonical-link",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 59903,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canonical-link.zip?timestamp=1522286910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canonical-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canonical-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/canonical-link",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59904,
+                "time": "2018-03-29 01:28:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/canonical-link.zip?timestamp=1522286910"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/canonical-link\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/canonical-link\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

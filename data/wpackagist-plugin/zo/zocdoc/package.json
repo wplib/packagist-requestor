@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/zocdoc": {
+            "1.0": {
+                "name": "wpackagist-plugin\/zocdoc",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 453826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zocdoc.zip?timestamp=1519849201"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zocdoc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zocdoc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/zocdoc",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 453827,
+                "time": "2018-02-28 20:20:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/zocdoc.zip?timestamp=1519849201"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/zocdoc\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/zocdoc\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

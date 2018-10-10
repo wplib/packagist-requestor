@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gdpr-plugin-checker": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/gdpr-plugin-checker",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 148163,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-plugin-checker.zip?timestamp=1532937736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-plugin-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-plugin-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gdpr-plugin-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 148164,
+                "time": "2018-07-30 08:02:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gdpr-plugin-checker.zip?timestamp=1532937736"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gdpr-plugin-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gdpr-plugin-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

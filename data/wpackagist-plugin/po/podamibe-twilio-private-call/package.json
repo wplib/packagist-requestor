@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/podamibe-twilio-private-call": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/podamibe-twilio-private-call",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 260020,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/podamibe-twilio-private-call.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/podamibe-twilio-private-call\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/podamibe-twilio-private-call\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/podamibe-twilio-private-call",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 260021,
+                "time": "2017-08-03 11:13:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/podamibe-twilio-private-call.zip?timestamp=1501758833"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/podamibe-twilio-private-call\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/podamibe-twilio-private-call\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

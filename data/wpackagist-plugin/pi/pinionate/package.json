@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pinionate": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pinionate",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 256500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pinionate.zip?timestamp=1510210321"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pinionate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pinionate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pinionate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 256501,
+                "time": "2017-11-09 06:52:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pinionate.zip?timestamp=1510210321"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pinionate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pinionate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

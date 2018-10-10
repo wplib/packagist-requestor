@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sticky-notes": {
+            "1.1": {
+                "name": "wpackagist-plugin\/sticky-notes",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 337096,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-notes.zip?timestamp=1464857414"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-notes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sticky-notes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337097,
+                "time": "2016-06-02 08:50:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-notes.zip?timestamp=1464857414"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-notes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-notes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

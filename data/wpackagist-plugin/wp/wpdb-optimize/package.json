@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpdb-optimize": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpdb-optimize",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 440675,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdb-optimize.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdb-optimize\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdb-optimize\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpdb-optimize",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440676,
+                "time": "2018-10-02 19:09:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdb-optimize.zip?timestamp=1538507395"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdb-optimize\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdb-optimize\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

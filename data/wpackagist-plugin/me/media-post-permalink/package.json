@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/media-post-permalink": {
+            "0.1": {
+                "name": "wpackagist-plugin\/media-post-permalink",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 212601,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-post-permalink.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-post-permalink\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-post-permalink\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/media-post-permalink",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 212602,
+                "time": "2018-01-02 16:03:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-post-permalink.zip?timestamp=1514908990"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-post-permalink\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-post-permalink\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

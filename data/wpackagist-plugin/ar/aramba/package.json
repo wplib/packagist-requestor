@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aramba": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/aramba",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 25621,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aramba.zip?timestamp=1523961447"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aramba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aramba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aramba",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25622,
+                "time": "2018-04-17 10:37:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aramba.zip?timestamp=1523961447"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aramba\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aramba\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

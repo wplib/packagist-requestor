@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/air-horn": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/air-horn",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 15681,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/air-horn.zip?timestamp=1422545586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/air-horn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/air-horn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/air-horn",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15682,
+                "time": "2015-01-29 15:33:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/air-horn.zip?timestamp=1422545586"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/air-horn\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/air-horn\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/like-dislike-plus-counter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/like-dislike-plus-counter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 197717,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/like-dislike-plus-counter.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/like-dislike-plus-counter\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/like-dislike-plus-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/like-dislike-plus-counter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 197718,
+                "time": "2018-09-30 07:35:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/like-dislike-plus-counter.zip?timestamp=1538292934"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/like-dislike-plus-counter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/like-dislike-plus-counter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

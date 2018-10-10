@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fb-pixel-littlebizzy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/fb-pixel-littlebizzy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130446,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-pixel-littlebizzy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-pixel-littlebizzy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-pixel-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fb-pixel-littlebizzy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130447,
+                "time": "2018-07-01 09:02:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fb-pixel-littlebizzy.zip?timestamp=1530435764"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fb-pixel-littlebizzy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fb-pixel-littlebizzy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

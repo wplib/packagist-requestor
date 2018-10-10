@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/malcare-security": {
+            "1.74": {
+                "name": "wpackagist-plugin\/malcare-security",
+                "version": "1.74",
+                "version_normalized": "1.74.0.0",
+                "uid": 208084,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/malcare-security.zip?timestamp=1536659234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/malcare-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/malcare-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/malcare-security",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208085,
+                "time": "2018-09-11 09:47:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/malcare-security.zip?timestamp=1536659234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/malcare-security\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/malcare-security\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

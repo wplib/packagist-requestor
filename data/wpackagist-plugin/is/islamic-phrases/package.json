@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/islamic-phrases": {
+            "2.12.2015": {
+                "name": "wpackagist-plugin\/islamic-phrases",
+                "version": "2.12.2015",
+                "version_normalized": "2.12.2015.0",
+                "uid": 181264,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/islamic-phrases.2.12.2015.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/islamic-phrases\/",
+                    "reference": "tags\/2.12.2015"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/islamic-phrases\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/islamic-phrases",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 181265,
+                "time": "2015-02-18 00:34:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/islamic-phrases.zip?timestamp=1424219668"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/islamic-phrases\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/islamic-phrases\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/crankwheel": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/crankwheel",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 85270,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crankwheel.zip?timestamp=1512038632"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crankwheel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crankwheel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/crankwheel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85271,
+                "time": "2017-11-30 10:43:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/crankwheel.zip?timestamp=1512038632"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/crankwheel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/crankwheel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

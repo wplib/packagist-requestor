@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/yds-support-ticket-system": {
+            "1.0": {
+                "name": "wpackagist-plugin\/yds-support-ticket-system",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 447620,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yds-support-ticket-system.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yds-support-ticket-system\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yds-support-ticket-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/yds-support-ticket-system",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 447621,
+                "time": "2016-07-08 12:35:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yds-support-ticket-system.zip?timestamp=1467981318"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yds-support-ticket-system\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yds-support-ticket-system\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

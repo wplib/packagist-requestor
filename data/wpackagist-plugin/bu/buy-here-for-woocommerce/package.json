@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/buy-here-for-woocommerce": {
+            "4.4": {
+                "name": "wpackagist-plugin\/buy-here-for-woocommerce",
+                "version": "4.4",
+                "version_normalized": "4.4.0.0",
+                "uid": 57662,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buy-here-for-woocommerce.4.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buy-here-for-woocommerce\/",
+                    "reference": "tags\/4.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buy-here-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/buy-here-for-woocommerce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 57663,
+                "time": "2016-02-08 21:14:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/buy-here-for-woocommerce.zip?timestamp=1454966092"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/buy-here-for-woocommerce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/buy-here-for-woocommerce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comments-reactions": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/comments-reactions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 76281,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-reactions.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-reactions\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-reactions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comments-reactions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76282,
+                "time": "2018-03-20 23:19:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-reactions.zip?timestamp=1521587985"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-reactions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-reactions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

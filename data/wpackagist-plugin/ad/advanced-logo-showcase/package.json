@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/advanced-logo-showcase": {
+            "1.0": {
+                "name": "wpackagist-plugin\/advanced-logo-showcase",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 12605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-logo-showcase.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-logo-showcase\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-logo-showcase\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/advanced-logo-showcase",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 12606,
+                "time": "2016-12-08 07:31:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/advanced-logo-showcase.zip?timestamp=1481182264"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/advanced-logo-showcase\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/advanced-logo-showcase\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

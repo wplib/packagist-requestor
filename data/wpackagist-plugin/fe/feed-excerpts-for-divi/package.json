@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/feed-excerpts-for-divi": {
+            "1.1": {
+                "name": "wpackagist-plugin\/feed-excerpts-for-divi",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 131680,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feed-excerpts-for-divi.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feed-excerpts-for-divi\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feed-excerpts-for-divi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/feed-excerpts-for-divi",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 131681,
+                "time": "2018-01-15 03:42:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feed-excerpts-for-divi.zip?timestamp=1515987770"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feed-excerpts-for-divi\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feed-excerpts-for-divi\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

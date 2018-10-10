@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/release-listener-for-github": {
+            "1.1": {
+                "name": "wpackagist-plugin\/release-listener-for-github",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 286392,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/release-listener-for-github.zip?timestamp=1491837067"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/release-listener-for-github\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/release-listener-for-github\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/release-listener-for-github",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 286393,
+                "time": "2017-04-10 15:11:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/release-listener-for-github.zip?timestamp=1491837067"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/release-listener-for-github\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/release-listener-for-github\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

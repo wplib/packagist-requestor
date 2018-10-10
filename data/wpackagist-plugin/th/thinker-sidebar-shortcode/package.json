@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/thinker-sidebar-shortcode": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/thinker-sidebar-shortcode",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 353316,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thinker-sidebar-shortcode.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thinker-sidebar-shortcode\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thinker-sidebar-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/thinker-sidebar-shortcode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 353317,
+                "time": "2018-04-11 13:14:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/thinker-sidebar-shortcode.zip?timestamp=1523452476"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/thinker-sidebar-shortcode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/thinker-sidebar-shortcode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

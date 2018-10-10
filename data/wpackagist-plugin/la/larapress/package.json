@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/larapress": {
+            "0.1": {
+                "name": "wpackagist-plugin\/larapress",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 192712,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/larapress.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/larapress\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/larapress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/larapress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192713,
+                "time": "2016-07-30 20:58:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/larapress.zip?timestamp=1469912302"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/larapress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/larapress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

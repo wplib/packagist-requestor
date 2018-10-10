@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/combined-search": {
+            "1.0": {
+                "name": "wpackagist-plugin\/combined-search",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 74740,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/combined-search.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/combined-search\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/combined-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/combined-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74741,
+                "time": "2018-02-14 19:30:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/combined-search.zip?timestamp=1518636600"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/combined-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/combined-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

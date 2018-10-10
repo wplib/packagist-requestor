@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adspirit": {
+            "4.7": {
+                "name": "wpackagist-plugin\/adspirit",
+                "version": "4.7",
+                "version_normalized": "4.7.0.0",
+                "uid": 11066,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adspirit.4.7.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adspirit\/",
+                    "reference": "tags\/4.7"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adspirit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adspirit",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 11067,
+                "time": "2017-06-09 05:44:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adspirit.zip?timestamp=1496987068"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adspirit\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adspirit\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

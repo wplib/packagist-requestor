@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/css-optimizer": {
+            "2.0": {
+                "name": "wpackagist-plugin\/css-optimizer",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 87251,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-optimizer.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-optimizer\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-optimizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "3.0": {
+                "name": "wpackagist-plugin\/css-optimizer",
+                "version": "3.0",
+                "version_normalized": "3.0.0.0",
+                "uid": 87252,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-optimizer.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-optimizer\/",
+                    "reference": "tags\/3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-optimizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/css-optimizer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87253,
+                "time": "2018-01-02 17:51:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-optimizer.zip?timestamp=1514915501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-optimizer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-optimizer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

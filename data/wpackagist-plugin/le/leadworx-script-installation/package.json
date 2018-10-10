@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/leadworx-script-installation": {
+            "0.1": {
+                "name": "wpackagist-plugin\/leadworx-script-installation",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 194813,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leadworx-script-installation.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leadworx-script-installation\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leadworx-script-installation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/leadworx-script-installation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 194814,
+                "time": "2018-05-03 13:02:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/leadworx-script-installation.zip?timestamp=1525352536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/leadworx-script-installation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/leadworx-script-installation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

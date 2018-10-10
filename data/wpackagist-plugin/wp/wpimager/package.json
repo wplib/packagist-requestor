@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpimager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpimager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441793,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpimager.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpimager\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpimager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpimager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441794,
+                "time": "2018-06-19 09:21:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpimager.zip?timestamp=1529400068"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpimager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpimager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

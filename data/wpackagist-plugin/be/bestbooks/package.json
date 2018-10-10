@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bestbooks": {
+            "2.2.2": {
+                "name": "wpackagist-plugin\/bestbooks",
+                "version": "2.2.2",
+                "version_normalized": "2.2.2.0",
+                "uid": 39826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bestbooks.zip?timestamp=1522669651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bestbooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bestbooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bestbooks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39827,
+                "time": "2018-04-02 11:47:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bestbooks.zip?timestamp=1522669651"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bestbooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bestbooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/weldpress": {
+            "4.9": {
+                "name": "wpackagist-plugin\/weldpress",
+                "version": "4.9",
+                "version_normalized": "4.9.0.0",
+                "uid": 384492,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weldpress.zip?timestamp=1499366936"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weldpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weldpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "4.8-beta": {
+                "name": "wpackagist-plugin\/weldpress",
+                "version": "4.8-beta",
+                "version_normalized": "4.8.0.0-beta",
+                "uid": 384493,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weldpress.4.8-beta.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weldpress\/",
+                    "reference": "tags\/4.8-beta"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weldpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/weldpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384494,
+                "time": "2017-07-06 18:48:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/weldpress.zip?timestamp=1499366936"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/weldpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/weldpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/counterfire": {
+            "1.2": {
+                "name": "wpackagist-plugin\/counterfire",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 84221,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counterfire.zip?timestamp=1482582796"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counterfire\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counterfire\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/counterfire",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 84222,
+                "time": "2016-12-24 12:33:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/counterfire.zip?timestamp=1482582796"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/counterfire\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/counterfire\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

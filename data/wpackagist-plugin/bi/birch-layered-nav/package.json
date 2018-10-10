@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/birch-layered-nav": {
+            "1.0": {
+                "name": "wpackagist-plugin\/birch-layered-nav",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 41927,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/birch-layered-nav.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/birch-layered-nav\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/birch-layered-nav\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/birch-layered-nav",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 41928,
+                "time": "2017-05-04 06:14:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/birch-layered-nav.zip?timestamp=1493878492"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/birch-layered-nav\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/birch-layered-nav\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

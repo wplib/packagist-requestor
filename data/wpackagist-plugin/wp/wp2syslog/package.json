@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp2syslog": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/wp2syslog",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 439592,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp2syslog.zip?timestamp=1529415174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp2syslog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp2syslog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp2syslog",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439593,
+                "time": "2018-06-19 13:32:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp2syslog.zip?timestamp=1529415174"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp2syslog\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp2syslog\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

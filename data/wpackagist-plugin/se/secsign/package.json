@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/secsign": {
+            "1.7.14": {
+                "name": "wpackagist-plugin\/secsign",
+                "version": "1.7.14",
+                "version_normalized": "1.7.14.0",
+                "uid": 302477,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secsign.zip?timestamp=1528884670"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secsign\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secsign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/secsign",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 302478,
+                "time": "2018-06-13 10:11:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/secsign.zip?timestamp=1528884670"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/secsign\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/secsign\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

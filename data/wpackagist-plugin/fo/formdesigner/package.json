@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/formdesigner": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/formdesigner",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 140399,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formdesigner.zip?timestamp=1484831071"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formdesigner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formdesigner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/formdesigner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140400,
+                "time": "2017-01-19 13:04:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/formdesigner.zip?timestamp=1484831071"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/formdesigner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/formdesigner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

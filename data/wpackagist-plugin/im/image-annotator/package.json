@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-annotator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/image-annotator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 172851,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-annotator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-annotator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-annotator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-annotator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172852,
+                "time": "2016-08-24 23:31:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-annotator.zip?timestamp=1472081487"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-annotator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-annotator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

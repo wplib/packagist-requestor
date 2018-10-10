@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dew-profile-picture": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dew-profile-picture",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 98520,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dew-profile-picture.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dew-profile-picture\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dew-profile-picture\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dew-profile-picture",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98521,
+                "time": "2018-02-28 16:37:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dew-profile-picture.zip?timestamp=1519835876"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dew-profile-picture\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dew-profile-picture\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

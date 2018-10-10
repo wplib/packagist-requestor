@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stfcopyright": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stfcopyright",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 336959,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stfcopyright.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stfcopyright\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stfcopyright\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stfcopyright",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336960,
+                "time": "2017-11-27 15:29:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stfcopyright.zip?timestamp=1511796590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stfcopyright\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stfcopyright\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

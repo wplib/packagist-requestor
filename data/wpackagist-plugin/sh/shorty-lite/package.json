@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shorty-lite": {
+            "1.4.1": {
+                "name": "wpackagist-plugin\/shorty-lite",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "uid": 310835,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shorty-lite.zip?timestamp=1527508376"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shorty-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shorty-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shorty-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 310836,
+                "time": "2018-05-28 11:52:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shorty-lite.zip?timestamp=1527508376"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shorty-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shorty-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

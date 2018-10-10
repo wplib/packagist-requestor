@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/revglue-mobile-comparison": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/revglue-mobile-comparison",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291776,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-mobile-comparison.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-mobile-comparison\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-mobile-comparison\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/revglue-mobile-comparison",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291777,
+                "time": "2018-10-05 12:59:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/revglue-mobile-comparison.zip?timestamp=1538744341"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/revglue-mobile-comparison\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/revglue-mobile-comparison\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

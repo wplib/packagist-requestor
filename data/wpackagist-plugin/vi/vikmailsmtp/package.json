@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vikmailsmtp": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/vikmailsmtp",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 375798,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vikmailsmtp.zip?timestamp=1524175311"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vikmailsmtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vikmailsmtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vikmailsmtp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 375799,
+                "time": "2018-04-19 22:01:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vikmailsmtp.zip?timestamp=1524175311"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vikmailsmtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vikmailsmtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

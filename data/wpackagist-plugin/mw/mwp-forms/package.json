@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mwp-forms": {
+            "3.1.2": {
+                "name": "wpackagist-plugin\/mwp-forms",
+                "version": "3.1.2",
+                "version_normalized": "3.1.2.0",
+                "uid": 226326,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mwp-forms.zip?timestamp=1517320504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mwp-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mwp-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mwp-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 226327,
+                "time": "2018-01-30 13:55:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mwp-forms.zip?timestamp=1517320504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mwp-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mwp-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

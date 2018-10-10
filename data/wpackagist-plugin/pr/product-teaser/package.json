@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/product-teaser": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/product-teaser",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 270243,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/product-teaser.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/product-teaser\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/product-teaser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/product-teaser",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 270244,
+                "time": "2018-04-14 05:31:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/product-teaser.zip?timestamp=1523683878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/product-teaser\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/product-teaser\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

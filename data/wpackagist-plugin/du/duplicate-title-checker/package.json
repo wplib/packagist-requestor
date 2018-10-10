@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/duplicate-title-checker": {
+            "1.1": {
+                "name": "wpackagist-plugin\/duplicate-title-checker",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 105844,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duplicate-title-checker.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duplicate-title-checker\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duplicate-title-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/duplicate-title-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105845,
+                "time": "2017-06-07 09:42:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/duplicate-title-checker.zip?timestamp=1496828520"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/duplicate-title-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/duplicate-title-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

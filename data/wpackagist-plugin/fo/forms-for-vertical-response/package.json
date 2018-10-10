@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forms-for-vertical-response": {
+            "1.1": {
+                "name": "wpackagist-plugin\/forms-for-vertical-response",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 140937,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-vertical-response.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-vertical-response\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-vertical-response\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forms-for-vertical-response",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140938,
+                "time": "2017-01-13 15:38:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forms-for-vertical-response.zip?timestamp=1484321906"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forms-for-vertical-response\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forms-for-vertical-response\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

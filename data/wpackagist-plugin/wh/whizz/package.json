@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/whizz": {
+            "1.1.8": {
+                "name": "wpackagist-plugin\/whizz",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "uid": 385612,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whizz.zip?timestamp=1524145537"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whizz\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whizz\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/whizz",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 385613,
+                "time": "2018-04-19 13:45:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/whizz.zip?timestamp=1524145537"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/whizz\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/whizz\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

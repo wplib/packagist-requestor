@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/agenda-running": {
+            "1.8": {
+                "name": "wpackagist-plugin\/agenda-running",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 15213,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-running.zip?timestamp=1455036066"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-running\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-running\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/agenda-running",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15214,
+                "time": "2016-02-09 16:41:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/agenda-running.zip?timestamp=1455036066"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/agenda-running\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/agenda-running\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

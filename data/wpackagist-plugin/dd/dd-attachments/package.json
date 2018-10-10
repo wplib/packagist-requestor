@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dd-attachments": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dd-attachments",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95576,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dd-attachments.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dd-attachments\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dd-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dd-attachments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95577,
+                "time": "2018-09-23 19:24:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dd-attachments.zip?timestamp=1537730663"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dd-attachments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dd-attachments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bandstand": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/bandstand",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 35575,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bandstand.zip?timestamp=1482170309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bandstand\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bandstand\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bandstand",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35576,
+                "time": "2016-12-19 17:58:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bandstand.zip?timestamp=1482170309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bandstand\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bandstand\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

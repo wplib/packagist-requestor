@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/appota-payment-gateway": {
+            "1.0": {
+                "name": "wpackagist-plugin\/appota-payment-gateway",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 25170,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appota-payment-gateway.zip?timestamp=1513759116"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appota-payment-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appota-payment-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/appota-payment-gateway",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25171,
+                "time": "2017-12-20 08:38:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appota-payment-gateway.zip?timestamp=1513759116"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appota-payment-gateway\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appota-payment-gateway\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

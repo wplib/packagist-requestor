@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/flag-me": {
+            "0.2": {
+                "name": "wpackagist-plugin\/flag-me",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 135167,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flag-me.0.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flag-me\/",
+                    "reference": "tags\/0.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flag-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/flag-me",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 135168,
+                "time": "2015-11-19 14:34:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/flag-me.zip?timestamp=1447943656"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/flag-me\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/flag-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

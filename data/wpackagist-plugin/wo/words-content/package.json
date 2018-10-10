@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/words-content": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/words-content",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 403500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/words-content.zip?timestamp=1512747711"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/words-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/words-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/words-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 403501,
+                "time": "2017-12-08 15:41:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/words-content.zip?timestamp=1512747711"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/words-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/words-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

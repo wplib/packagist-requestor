@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shopally": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/shopally",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 309146,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopally.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopally\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopally\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shopally",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 309147,
+                "time": "2016-10-03 07:58:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shopally.zip?timestamp=1475481519"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shopally\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shopally\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

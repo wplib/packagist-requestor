@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/redpen": {
+            "1.1.3": {
+                "name": "wpackagist-plugin\/redpen",
+                "version": "1.1.3",
+                "version_normalized": "1.1.3.0",
+                "uid": 284986,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/redpen.zip?timestamp=1457352606"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/redpen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/redpen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/redpen",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 284987,
+                "time": "2016-03-07 12:10:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/redpen.zip?timestamp=1457352606"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/redpen\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/redpen\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

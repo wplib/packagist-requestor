@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cs-add-featured-image-to-rss-feed": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cs-add-featured-image-to-rss-feed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 86982,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-add-featured-image-to-rss-feed.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-add-featured-image-to-rss-feed\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-add-featured-image-to-rss-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cs-add-featured-image-to-rss-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 86983,
+                "time": "2017-07-29 05:42:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-add-featured-image-to-rss-feed.zip?timestamp=1501306920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-add-featured-image-to-rss-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-add-featured-image-to-rss-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

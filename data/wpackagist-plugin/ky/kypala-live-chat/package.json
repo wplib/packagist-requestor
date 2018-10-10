@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kypala-live-chat": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/kypala-live-chat",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 192019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kypala-live-chat.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kypala-live-chat\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kypala-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kypala-live-chat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192020,
+                "time": "2016-09-22 06:32:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kypala-live-chat.zip?timestamp=1474525955"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kypala-live-chat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kypala-live-chat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

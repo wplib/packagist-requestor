@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rss-make-antenna": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rss-make-antenna",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 295570,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rss-make-antenna.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rss-make-antenna\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rss-make-antenna\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rss-make-antenna",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 295571,
+                "time": "2017-06-08 03:57:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rss-make-antenna.zip?timestamp=1496894234"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rss-make-antenna\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rss-make-antenna\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

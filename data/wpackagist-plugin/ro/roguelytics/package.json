@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/roguelytics": {
+            "1.0": {
+                "name": "wpackagist-plugin\/roguelytics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 293938,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/roguelytics.zip?timestamp=1507311680"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/roguelytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/roguelytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/roguelytics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 293939,
+                "time": "2017-10-06 17:41:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/roguelytics.zip?timestamp=1507311680"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/roguelytics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/roguelytics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

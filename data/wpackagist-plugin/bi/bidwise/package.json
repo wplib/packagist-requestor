@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bidwise": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/bidwise",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 41280,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bidwise.zip?timestamp=1502490004"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bidwise\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bidwise\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bidwise",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 41281,
+                "time": "2017-08-11 22:20:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bidwise.zip?timestamp=1502490004"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bidwise\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bidwise\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

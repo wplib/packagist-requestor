@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/color-picker": {
+            "0.1": {
+                "name": "wpackagist-plugin\/color-picker",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 74168,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-picker.zip?timestamp=1495531380"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/color-picker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 74169,
+                "time": "2017-05-23 09:23:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/color-picker.zip?timestamp=1495531380"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/color-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/color-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

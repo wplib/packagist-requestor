@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/organic-custom-content": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/organic-custom-content",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 245012,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/organic-custom-content.1.0.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/organic-custom-content\/",
+                    "reference": "tags\/1.0.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/organic-custom-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/organic-custom-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245013,
+                "time": "2018-01-24 21:55:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/organic-custom-content.zip?timestamp=1516830907"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/organic-custom-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/organic-custom-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

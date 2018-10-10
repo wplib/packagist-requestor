@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/newsgram": {
+            "1.0": {
+                "name": "wpackagist-plugin\/newsgram",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 232472,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newsgram.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newsgram\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newsgram\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/newsgram",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 232473,
+                "time": "2017-06-15 07:25:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/newsgram.zip?timestamp=1497511503"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/newsgram\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/newsgram\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

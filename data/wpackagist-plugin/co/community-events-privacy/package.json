@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/community-events-privacy": {
+            "0.1": {
+                "name": "wpackagist-plugin\/community-events-privacy",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 76471,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/community-events-privacy.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/community-events-privacy\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/community-events-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/community-events-privacy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76472,
+                "time": "2017-05-19 23:52:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/community-events-privacy.zip?timestamp=1495237960"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/community-events-privacy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/community-events-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

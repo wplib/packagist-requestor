@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dont-stat-me": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dont-stat-me",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 103631,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dont-stat-me.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dont-stat-me\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dont-stat-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dont-stat-me",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103632,
+                "time": "2016-03-12 07:26:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dont-stat-me.zip?timestamp=1457767580"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dont-stat-me\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dont-stat-me\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

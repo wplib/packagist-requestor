@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seriously-simple-podcasting-genesis-support": {
+            "1.0": {
+                "name": "wpackagist-plugin\/seriously-simple-podcasting-genesis-support",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 306157,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seriously-simple-podcasting-genesis-support.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seriously-simple-podcasting-genesis-support\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seriously-simple-podcasting-genesis-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seriously-simple-podcasting-genesis-support",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306158,
+                "time": "2016-12-12 08:38:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seriously-simple-podcasting-genesis-support.zip?timestamp=1481531928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seriously-simple-podcasting-genesis-support\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seriously-simple-podcasting-genesis-support\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

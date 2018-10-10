@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/richtext": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/richtext",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 292793,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/richtext.zip?timestamp=1452080754"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/richtext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/richtext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/richtext",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292794,
+                "time": "2016-01-06 11:45:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/richtext.zip?timestamp=1452080754"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/richtext\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/richtext\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

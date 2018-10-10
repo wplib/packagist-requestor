@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hello-dolly": {
+            "1.5": {
+                "name": "wpackagist-plugin\/hello-dolly",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 164302,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-dolly\/",
+                    "reference": "tags\/1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.6": {
+                "name": "wpackagist-plugin\/hello-dolly",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "uid": 164303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.1.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-dolly\/",
+                    "reference": "tags\/1.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hello-dolly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164304,
+                "time": "2018-03-18 10:45:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hello-dolly.zip?timestamp=1521369948"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hello-dolly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hello-dolly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

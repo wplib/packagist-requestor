@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aurifox": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/aurifox",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 29302,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aurifox.zip?timestamp=1531491982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aurifox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aurifox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aurifox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29303,
+                "time": "2018-07-13 14:26:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aurifox.zip?timestamp=1531491982"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aurifox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aurifox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/logging-with-papertrail": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/logging-with-papertrail",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 202724,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logging-with-papertrail.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logging-with-papertrail\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logging-with-papertrail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/logging-with-papertrail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202725,
+                "time": "2017-08-25 21:16:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logging-with-papertrail.zip?timestamp=1503695802"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logging-with-papertrail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logging-with-papertrail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

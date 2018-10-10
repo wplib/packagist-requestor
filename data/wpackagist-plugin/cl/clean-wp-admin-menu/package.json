@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clean-wp-admin-menu": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/clean-wp-admin-menu",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 69847,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-wp-admin-menu.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-wp-admin-menu\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-wp-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clean-wp-admin-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 69848,
+                "time": "2016-06-21 19:32:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clean-wp-admin-menu.zip?timestamp=1466537564"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clean-wp-admin-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clean-wp-admin-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/helpie-faq": {
+            "0.1": {
+                "name": "wpackagist-plugin\/helpie-faq",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 164629,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helpie-faq.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helpie-faq\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helpie-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/helpie-faq",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164630,
+                "time": "2018-09-24 06:24:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/helpie-faq.zip?timestamp=1537770288"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/helpie-faq\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/helpie-faq\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

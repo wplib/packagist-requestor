@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/require-jetpack-login": {
+            "1.0": {
+                "name": "wpackagist-plugin\/require-jetpack-login",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 288051,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/require-jetpack-login.zip?timestamp=1507487006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/require-jetpack-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/require-jetpack-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/require-jetpack-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 288052,
+                "time": "2017-10-08 18:23:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/require-jetpack-login.zip?timestamp=1507487006"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/require-jetpack-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/require-jetpack-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/goftino": {
+            "1.0": {
+                "name": "wpackagist-plugin\/goftino",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 153699,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goftino.zip?timestamp=1533559323"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goftino\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goftino\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/goftino",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 153700,
+                "time": "2018-08-06 12:42:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/goftino.zip?timestamp=1533559323"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/goftino\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/goftino\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

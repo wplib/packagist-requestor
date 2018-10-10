@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/comments-user-column": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/comments-user-column",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 76316,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-user-column.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-user-column\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-user-column\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/comments-user-column",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76317,
+                "time": "2015-08-27 17:09:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/comments-user-column.zip?timestamp=1440695395"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/comments-user-column\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/comments-user-column\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

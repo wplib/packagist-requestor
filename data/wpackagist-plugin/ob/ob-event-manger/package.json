@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ob-event-manger": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ob-event-manger",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 238974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ob-event-manger.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ob-event-manger\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ob-event-manger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ob-event-manger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238975,
+                "time": "2018-09-26 08:32:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ob-event-manger.zip?timestamp=1537950758"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ob-event-manger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ob-event-manger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

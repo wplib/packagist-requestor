@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/iaposter": {
+            "0.7.0": {
+                "name": "wpackagist-plugin\/iaposter",
+                "version": "0.7.0",
+                "version_normalized": "0.7.0.0",
+                "uid": 170429,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iaposter.0.7.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iaposter\/",
+                    "reference": "tags\/0.7.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iaposter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/iaposter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 170430,
+                "time": "2017-12-13 05:35:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iaposter.zip?timestamp=1513143315"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iaposter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iaposter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

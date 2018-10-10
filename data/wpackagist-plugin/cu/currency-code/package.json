@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/currency-code": {
+            "0.1": {
+                "name": "wpackagist-plugin\/currency-code",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 87899,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/currency-code.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/currency-code\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/currency-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/currency-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87900,
+                "time": "2016-11-08 14:21:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/currency-code.zip?timestamp=1478614874"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/currency-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/currency-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-terminal": {
+            "0.1": {
+                "name": "wpackagist-plugin\/post-terminal",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 264715,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-terminal.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-terminal\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-terminal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-terminal",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 264716,
+                "time": "2016-07-06 02:59:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-terminal.zip?timestamp=1467773995"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-terminal\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-terminal\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

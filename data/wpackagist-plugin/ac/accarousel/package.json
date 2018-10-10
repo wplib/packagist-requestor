@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/accarousel": {
+            "1.0": {
+                "name": "wpackagist-plugin\/accarousel",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 3137,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/accarousel.zip?timestamp=1459397902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/accarousel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/accarousel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/accarousel",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 3138,
+                "time": "2016-03-31 04:18:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/accarousel.zip?timestamp=1459397902"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/accarousel\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/accarousel\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

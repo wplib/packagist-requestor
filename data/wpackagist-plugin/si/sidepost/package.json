@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sidepost": {
+            "1.0.7": {
+                "name": "wpackagist-plugin\/sidepost",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "uid": 312031,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidepost.zip?timestamp=1466098444"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidepost\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidepost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sidepost",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312032,
+                "time": "2016-06-16 17:34:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidepost.zip?timestamp=1466098444"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidepost\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidepost\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

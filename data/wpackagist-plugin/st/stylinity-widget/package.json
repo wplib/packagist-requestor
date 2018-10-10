@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stylinity-widget": {
+            "1": {
+                "name": "wpackagist-plugin\/stylinity-widget",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 339551,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylinity-widget.zip?timestamp=1472495501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylinity-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylinity-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stylinity-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339552,
+                "time": "2016-08-29 18:31:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylinity-widget.zip?timestamp=1472495501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylinity-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylinity-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/netgsm": {
+            "1.6.1": {
+                "name": "wpackagist-plugin\/netgsm",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "uid": 230643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netgsm.zip?timestamp=1534322266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netgsm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netgsm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/netgsm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 230644,
+                "time": "2018-08-15 08:37:46",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/netgsm.zip?timestamp=1534322266"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/netgsm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/netgsm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-widgets-light": {
+            "1.5.9.4": {
+                "name": "wpackagist-plugin\/ultimate-widgets-light",
+                "version": "1.5.9.4",
+                "version_normalized": "1.5.9.4",
+                "uid": 367305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-widgets-light.1.5.9.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-widgets-light\/",
+                    "reference": "tags\/1.5.9.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-widgets-light\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-widgets-light",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 367306,
+                "time": "2017-02-10 05:24:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-widgets-light.zip?timestamp=1486704240"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-widgets-light\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-widgets-light\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/maps-buddybeacon": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/maps-buddybeacon",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 209079,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maps-buddybeacon.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maps-buddybeacon\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maps-buddybeacon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/maps-buddybeacon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209080,
+                "time": "2018-02-09 09:50:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/maps-buddybeacon.zip?timestamp=1518169800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/maps-buddybeacon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/maps-buddybeacon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

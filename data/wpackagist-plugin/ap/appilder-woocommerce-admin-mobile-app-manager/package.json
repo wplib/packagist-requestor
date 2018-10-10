@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/appilder-woocommerce-admin-mobile-app-manager": {
+            "0.1": {
+                "name": "wpackagist-plugin\/appilder-woocommerce-admin-mobile-app-manager",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 24460,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appilder-woocommerce-admin-mobile-app-manager.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appilder-woocommerce-admin-mobile-app-manager\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appilder-woocommerce-admin-mobile-app-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/appilder-woocommerce-admin-mobile-app-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24461,
+                "time": "2015-10-01 13:59:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/appilder-woocommerce-admin-mobile-app-manager.zip?timestamp=1443707959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/appilder-woocommerce-admin-mobile-app-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/appilder-woocommerce-admin-mobile-app-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

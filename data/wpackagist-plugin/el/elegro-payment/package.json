@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/elegro-payment": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/elegro-payment",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 116113,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elegro-payment.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elegro-payment\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elegro-payment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/elegro-payment",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 116114,
+                "time": "2018-07-26 10:19:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/elegro-payment.zip?timestamp=1532600373"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/elegro-payment\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/elegro-payment\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

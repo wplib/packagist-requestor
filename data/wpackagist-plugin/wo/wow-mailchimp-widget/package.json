@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wow-mailchimp-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wow-mailchimp-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 404367,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wow-mailchimp-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wow-mailchimp-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wow-mailchimp-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wow-mailchimp-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 404368,
+                "time": "2017-07-17 05:29:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wow-mailchimp-widget.zip?timestamp=1500269390"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wow-mailchimp-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wow-mailchimp-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mypacco": {
+            "0.9.0": {
+                "name": "wpackagist-plugin\/mypacco",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "uid": 228300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mypacco.0.9.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mypacco\/",
+                    "reference": "tags\/0.9.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mypacco\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.9.1": {
+                "name": "wpackagist-plugin\/mypacco",
+                "version": "0.9.1",
+                "version_normalized": "0.9.1.0",
+                "uid": 228301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mypacco.0.9.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mypacco\/",
+                    "reference": "tags\/0.9.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mypacco\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mypacco",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 228302,
+                "time": "2016-12-28 03:42:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mypacco.zip?timestamp=1482896575"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mypacco\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mypacco\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jumbo-share": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/jumbo-share",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 186862,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumbo-share.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumbo-share\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumbo-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jumbo-share",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186863,
+                "time": "2015-12-06 23:19:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jumbo-share.zip?timestamp=1449443994"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jumbo-share\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jumbo-share\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

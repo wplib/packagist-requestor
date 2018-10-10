@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/what-template-file-am-i-viewing": {
+            "1.2": {
+                "name": "wpackagist-plugin\/what-template-file-am-i-viewing",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 384975,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-template-file-am-i-viewing.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-template-file-am-i-viewing\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-template-file-am-i-viewing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/what-template-file-am-i-viewing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384976,
+                "time": "2017-11-12 11:06:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/what-template-file-am-i-viewing.zip?timestamp=1510484804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/what-template-file-am-i-viewing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/what-template-file-am-i-viewing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

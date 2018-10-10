@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/members-role-hierarchy": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/members-role-hierarchy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 214178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-role-hierarchy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-role-hierarchy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-role-hierarchy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/members-role-hierarchy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214179,
+                "time": "2017-02-08 17:55:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/members-role-hierarchy.zip?timestamp=1486576558"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/members-role-hierarchy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/members-role-hierarchy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

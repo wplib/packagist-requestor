@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backlinks-saver": {
+            "1.0": {
+                "name": "wpackagist-plugin\/backlinks-saver",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 34518,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backlinks-saver.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backlinks-saver\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backlinks-saver\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backlinks-saver",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34519,
+                "time": "2015-05-05 09:29:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backlinks-saver.zip?timestamp=1430818164"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backlinks-saver\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backlinks-saver\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

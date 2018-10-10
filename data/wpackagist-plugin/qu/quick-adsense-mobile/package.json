@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quick-adsense-mobile": {
+            "2.0": {
+                "name": "wpackagist-plugin\/quick-adsense-mobile",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 276305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quick-adsense-mobile.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quick-adsense-mobile\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quick-adsense-mobile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quick-adsense-mobile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 276306,
+                "time": "2017-05-26 15:33:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quick-adsense-mobile.zip?timestamp=1495812834"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quick-adsense-mobile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quick-adsense-mobile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

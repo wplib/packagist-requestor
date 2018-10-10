@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minimal-admin": {
+            "2.3.0": {
+                "name": "wpackagist-plugin\/minimal-admin",
+                "version": "2.3.0",
+                "version_normalized": "2.3.0.0",
+                "uid": 217999,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimal-admin.zip?timestamp=1475476022"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimal-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimal-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minimal-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218000,
+                "time": "2016-10-03 06:27:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimal-admin.zip?timestamp=1475476022"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimal-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimal-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

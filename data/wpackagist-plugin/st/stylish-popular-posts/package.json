@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stylish-popular-posts": {
+            "1.1": {
+                "name": "wpackagist-plugin\/stylish-popular-posts",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 339557,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylish-popular-posts.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylish-popular-posts\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylish-popular-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stylish-popular-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339558,
+                "time": "2018-02-24 23:04:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stylish-popular-posts.zip?timestamp=1519513461"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stylish-popular-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stylish-popular-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

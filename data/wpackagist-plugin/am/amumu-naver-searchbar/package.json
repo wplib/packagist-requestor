@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/amumu-naver-searchbar": {
+            "1.1": {
+                "name": "wpackagist-plugin\/amumu-naver-searchbar",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 21539,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amumu-naver-searchbar.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amumu-naver-searchbar\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amumu-naver-searchbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/amumu-naver-searchbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21540,
+                "time": "2016-08-22 01:51:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/amumu-naver-searchbar.zip?timestamp=1471830666"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/amumu-naver-searchbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/amumu-naver-searchbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

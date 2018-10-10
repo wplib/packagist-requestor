@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/am-hili-affiliate-manager-for-publishers": {
+            "1.0": {
+                "name": "wpackagist-plugin\/am-hili-affiliate-manager-for-publishers",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 19646,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/am-hili-affiliate-manager-for-publishers.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/am-hili-affiliate-manager-for-publishers\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/am-hili-affiliate-manager-for-publishers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/am-hili-affiliate-manager-for-publishers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 19647,
+                "time": "2016-10-23 13:19:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/am-hili-affiliate-manager-for-publishers.zip?timestamp=1477228745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/am-hili-affiliate-manager-for-publishers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/am-hili-affiliate-manager-for-publishers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

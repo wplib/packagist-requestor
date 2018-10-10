@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/addonpayments": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/addonpayments",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8077,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addonpayments.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addonpayments\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addonpayments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/addonpayments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8078,
+                "time": "2018-02-23 14:49:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/addonpayments.zip?timestamp=1519397382"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/addonpayments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/addonpayments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

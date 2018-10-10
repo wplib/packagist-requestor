@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/errandplace-shipping": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/errandplace-shipping",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 121507,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/errandplace-shipping.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/errandplace-shipping\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/errandplace-shipping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/errandplace-shipping",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121508,
+                "time": "2017-09-04 05:02:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/errandplace-shipping.zip?timestamp=1504501357"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/errandplace-shipping\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/errandplace-shipping\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

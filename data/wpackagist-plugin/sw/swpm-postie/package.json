@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/swpm-postie": {
+            "1.1": {
+                "name": "wpackagist-plugin\/swpm-postie",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 343923,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swpm-postie.zip?timestamp=1498133578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swpm-postie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swpm-postie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/swpm-postie",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 343924,
+                "time": "2017-06-22 12:12:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/swpm-postie.zip?timestamp=1498133578"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/swpm-postie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/swpm-postie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

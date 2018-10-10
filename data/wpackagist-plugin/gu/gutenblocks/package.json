@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gutenblocks": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/gutenblocks",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 161640,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenblocks.zip?timestamp=1523532175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gutenblocks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161641,
+                "time": "2018-04-12 11:22:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gutenblocks.zip?timestamp=1523532175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gutenblocks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gutenblocks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

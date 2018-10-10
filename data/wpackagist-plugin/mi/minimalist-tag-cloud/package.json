@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/minimalist-tag-cloud": {
+            "1.0": {
+                "name": "wpackagist-plugin\/minimalist-tag-cloud",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 218104,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimalist-tag-cloud.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimalist-tag-cloud\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimalist-tag-cloud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/minimalist-tag-cloud",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218105,
+                "time": "2017-11-12 07:29:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/minimalist-tag-cloud.zip?timestamp=1510471772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/minimalist-tag-cloud\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/minimalist-tag-cloud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/audio-widget": {
+            "0.1": {
+                "name": "wpackagist-plugin\/audio-widget",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 29193,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audio-widget.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audio-widget\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audio-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/audio-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29194,
+                "time": "2017-10-17 07:20:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/audio-widget.zip?timestamp=1508224859"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/audio-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/audio-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

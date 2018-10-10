@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/divisas-chilenas": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/divisas-chilenas",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102040,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/divisas-chilenas.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/divisas-chilenas\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/divisas-chilenas\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/divisas-chilenas",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102041,
+                "time": "2015-03-07 02:30:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/divisas-chilenas.zip?timestamp=1425695425"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/divisas-chilenas\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/divisas-chilenas\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

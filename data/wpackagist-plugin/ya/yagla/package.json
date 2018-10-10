@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/yagla": {
+            "1.2": {
+                "name": "wpackagist-plugin\/yagla",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 447140,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yagla.zip?timestamp=1518725045"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yagla\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yagla\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/yagla",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 447141,
+                "time": "2018-02-15 20:04:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/yagla.zip?timestamp=1518725045"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/yagla\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/yagla\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/links-auditor": {
+            "0.2": {
+                "name": "wpackagist-plugin\/links-auditor",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 199283,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/links-auditor.zip?timestamp=1428512186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/links-auditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/links-auditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/links-auditor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 199284,
+                "time": "2015-04-08 16:56:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/links-auditor.zip?timestamp=1428512186"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/links-auditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/links-auditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

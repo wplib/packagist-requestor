@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-news-desk-dashboard-feed": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-news-desk-dashboard-feed",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 424831,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-news-desk-dashboard-feed.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-news-desk-dashboard-feed\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-news-desk-dashboard-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-news-desk-dashboard-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 424832,
+                "time": "2016-06-03 15:45:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-news-desk-dashboard-feed.zip?timestamp=1464968730"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-news-desk-dashboard-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-news-desk-dashboard-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

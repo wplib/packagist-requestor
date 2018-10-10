@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/media-folder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/media-folder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 212306,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-folder.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-folder\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-folder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/media-folder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 212307,
+                "time": "2017-08-16 19:09:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/media-folder.zip?timestamp=1502910572"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/media-folder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/media-folder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/levelup": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/levelup",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 195951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/levelup.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/levelup\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/levelup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/levelup",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195952,
+                "time": "2018-09-15 09:44:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/levelup.zip?timestamp=1537004679"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/levelup\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/levelup\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

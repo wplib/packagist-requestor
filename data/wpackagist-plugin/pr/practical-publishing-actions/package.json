@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/practical-publishing-actions": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/practical-publishing-actions",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 267070,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/practical-publishing-actions.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/practical-publishing-actions\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/practical-publishing-actions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/practical-publishing-actions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267071,
+                "time": "2017-05-22 23:20:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/practical-publishing-actions.zip?timestamp=1495495242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/practical-publishing-actions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/practical-publishing-actions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

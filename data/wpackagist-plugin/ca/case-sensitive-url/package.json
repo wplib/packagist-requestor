@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/case-sensitive-url": {
+            "1.0a": {
+                "name": "wpackagist-plugin\/case-sensitive-url",
+                "version": "1.0a",
+                "version_normalized": "1.0.0.0-alpha",
+                "uid": 61429,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/case-sensitive-url.zip?timestamp=1475550411"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/case-sensitive-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/case-sensitive-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/case-sensitive-url",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61430,
+                "time": "2016-10-04 03:06:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/case-sensitive-url.zip?timestamp=1475550411"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/case-sensitive-url\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/case-sensitive-url\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

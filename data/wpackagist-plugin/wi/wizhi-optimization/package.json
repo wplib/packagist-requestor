@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wizhi-optimization": {
+            "1.2": {
+                "name": "wpackagist-plugin\/wizhi-optimization",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 387979,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wizhi-optimization.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wizhi-optimization\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wizhi-optimization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wizhi-optimization",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 387980,
+                "time": "2018-01-25 12:00:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wizhi-optimization.zip?timestamp=1516881643"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wizhi-optimization\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wizhi-optimization\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

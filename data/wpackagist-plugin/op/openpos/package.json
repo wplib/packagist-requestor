@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/openpos": {
+            "1.0": {
+                "name": "wpackagist-plugin\/openpos",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 243191,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openpos.zip?timestamp=1538619158"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openpos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openpos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/openpos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243192,
+                "time": "2018-10-04 02:12:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openpos.zip?timestamp=1538619158"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openpos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openpos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/quizmeister": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/quizmeister",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 277948,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quizmeister.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quizmeister\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quizmeister\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/quizmeister",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 277949,
+                "time": "2016-11-24 13:48:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/quizmeister.zip?timestamp=1479995325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/quizmeister\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/quizmeister\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

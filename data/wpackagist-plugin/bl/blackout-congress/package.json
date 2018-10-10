@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blackout-congress": {
+            "0.1": {
+                "name": "wpackagist-plugin\/blackout-congress",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 43332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blackout-congress.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blackout-congress\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blackout-congress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blackout-congress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43333,
+                "time": "2015-05-29 23:02:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blackout-congress.zip?timestamp=1432940571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blackout-congress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blackout-congress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

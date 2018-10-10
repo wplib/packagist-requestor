@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/openinbound-for-wp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/openinbound-for-wp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 243158,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openinbound-for-wp.zip?timestamp=1498681449"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openinbound-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openinbound-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/openinbound-for-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 243159,
+                "time": "2017-06-28 20:24:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/openinbound-for-wp.zip?timestamp=1498681449"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/openinbound-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/openinbound-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

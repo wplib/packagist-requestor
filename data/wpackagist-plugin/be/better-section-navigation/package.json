@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-section-navigation": {
+            "1.5.2": {
+                "name": "wpackagist-plugin\/better-section-navigation",
+                "version": "1.5.2",
+                "version_normalized": "1.5.2.0",
+                "uid": 40596,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-section-navigation.1.5.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-section-navigation\/",
+                    "reference": "tags\/1.5.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-section-navigation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-section-navigation",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40597,
+                "time": "2018-08-24 14:11:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-section-navigation.zip?timestamp=1535119875"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-section-navigation\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-section-navigation\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

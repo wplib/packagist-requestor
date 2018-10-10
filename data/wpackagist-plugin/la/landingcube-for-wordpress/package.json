@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/landingcube-for-wordpress": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/landingcube-for-wordpress",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 192526,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/landingcube-for-wordpress.zip?timestamp=1532500722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/landingcube-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/landingcube-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/landingcube-for-wordpress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192527,
+                "time": "2018-07-25 06:38:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/landingcube-for-wordpress.zip?timestamp=1532500722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/landingcube-for-wordpress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/landingcube-for-wordpress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

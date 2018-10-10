@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-size-selection": {
+            "1.1": {
+                "name": "wpackagist-plugin\/image-size-selection",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 173468,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-size-selection.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-size-selection\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-size-selection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-size-selection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173469,
+                "time": "2017-03-11 01:49:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-size-selection.zip?timestamp=1489196998"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-size-selection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-size-selection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

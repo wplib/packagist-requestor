@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/vht-sms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/vht-sms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 374422,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vht-sms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vht-sms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vht-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/vht-sms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 374423,
+                "time": "2018-04-17 02:56:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/vht-sms.zip?timestamp=1523933815"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/vht-sms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/vht-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

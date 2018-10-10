@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jbm-top-salary-jobs-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jbm-top-salary-jobs-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 182878,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jbm-top-salary-jobs-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jbm-top-salary-jobs-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jbm-top-salary-jobs-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jbm-top-salary-jobs-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 182879,
+                "time": "2018-04-03 17:29:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jbm-top-salary-jobs-widget.zip?timestamp=1522776590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jbm-top-salary-jobs-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jbm-top-salary-jobs-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

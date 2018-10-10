@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ooyyo-car-search": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ooyyo-car-search",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 242744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ooyyo-car-search.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ooyyo-car-search\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ooyyo-car-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ooyyo-car-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 242745,
+                "time": "2017-10-26 19:53:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ooyyo-car-search.zip?timestamp=1509047624"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ooyyo-car-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ooyyo-car-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ezredirect": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/ezredirect",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 126831,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezredirect.zip?timestamp=1437849928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezredirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezredirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ezredirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126832,
+                "time": "2015-07-25 18:45:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ezredirect.zip?timestamp=1437849928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ezredirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ezredirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

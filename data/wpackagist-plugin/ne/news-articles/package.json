@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/news-articles": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/news-articles",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 231985,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/news-articles.zip?timestamp=1517338501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/news-articles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/news-articles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/news-articles",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 231986,
+                "time": "2018-01-30 18:55:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/news-articles.zip?timestamp=1517338501"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/news-articles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/news-articles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

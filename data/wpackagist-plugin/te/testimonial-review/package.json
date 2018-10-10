@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/testimonial-review": {
+            "1.0": {
+                "name": "wpackagist-plugin\/testimonial-review",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349065,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/testimonial-review.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/testimonial-review\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/testimonial-review\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/testimonial-review",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349066,
+                "time": "2018-06-26 08:17:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/testimonial-review.zip?timestamp=1530001024"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/testimonial-review\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/testimonial-review\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dynamic-search-widget": {
+            "0.14.01": {
+                "name": "wpackagist-plugin\/dynamic-search-widget",
+                "version": "0.14.01",
+                "version_normalized": "0.14.01.0",
+                "uid": 106733,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-search-widget.0.14.01.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-search-widget\/",
+                    "reference": "tags\/0.14.01"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-search-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dynamic-search-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106734,
+                "time": "2015-05-13 07:41:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamic-search-widget.zip?timestamp=1431502905"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamic-search-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamic-search-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/silver-bullet": {
+            "1.0": {
+                "name": "wpackagist-plugin\/silver-bullet",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 312324,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/silver-bullet.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/silver-bullet\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/silver-bullet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/silver-bullet",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312325,
+                "time": "2016-11-29 04:37:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/silver-bullet.zip?timestamp=1480394227"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/silver-bullet\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/silver-bullet\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

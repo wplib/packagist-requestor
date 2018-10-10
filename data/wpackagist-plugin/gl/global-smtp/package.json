@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/global-smtp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/global-smtp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 152763,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/global-smtp.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/global-smtp\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/global-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/global-smtp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 152764,
+                "time": "2015-09-07 18:40:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/global-smtp.zip?timestamp=1441651229"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/global-smtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/global-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

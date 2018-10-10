@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/category-gallery": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/category-gallery",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 62670,
+                "time": "2015-08-29 22:13:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/category-gallery.zip?timestamp=1440886427"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/category-gallery\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/category-gallery\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gravity-froms-monthpicker": {
+            "0.1": {
+                "name": "wpackagist-plugin\/gravity-froms-monthpicker",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 159153,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravity-froms-monthpicker.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravity-froms-monthpicker\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravity-froms-monthpicker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gravity-froms-monthpicker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 159154,
+                "time": "2015-04-27 20:25:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gravity-froms-monthpicker.zip?timestamp=1430166340"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gravity-froms-monthpicker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gravity-froms-monthpicker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ys-fp-md2pd": {
+            "0.1": {
+                "name": "wpackagist-plugin\/ys-fp-md2pd",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 451188,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ys-fp-md2pd.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ys-fp-md2pd\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ys-fp-md2pd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ys-fp-md2pd",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 451189,
+                "time": "2017-11-21 06:35:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ys-fp-md2pd.zip?timestamp=1511246113"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ys-fp-md2pd\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ys-fp-md2pd\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

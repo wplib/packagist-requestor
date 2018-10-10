@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/utm-for-feeds": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/utm-for-feeds",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 372396,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utm-for-feeds.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utm-for-feeds\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utm-for-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/utm-for-feeds",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372397,
+                "time": "2018-03-06 23:07:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/utm-for-feeds.zip?timestamp=1520377653"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/utm-for-feeds\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/utm-for-feeds\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

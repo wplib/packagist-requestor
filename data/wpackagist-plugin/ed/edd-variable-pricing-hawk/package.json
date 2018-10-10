@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-variable-pricing-hawk": {
+            "1.1": {
+                "name": "wpackagist-plugin\/edd-variable-pricing-hawk",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 113827,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-variable-pricing-hawk.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-variable-pricing-hawk\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-variable-pricing-hawk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-variable-pricing-hawk",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113828,
+                "time": "2018-03-30 10:13:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-variable-pricing-hawk.zip?timestamp=1522404828"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-variable-pricing-hawk\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-variable-pricing-hawk\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hangman": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hangman",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 162483,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hangman.zip?timestamp=1534327403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hangman\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hangman\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hangman",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 162484,
+                "time": "2018-08-15 10:03:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hangman.zip?timestamp=1534327403"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hangman\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hangman\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

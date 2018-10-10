@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/display-blog-time": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/display-blog-time",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 101203,
+                "time": "2016-01-31 02:47:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/display-blog-time.zip?timestamp=1454208474"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/display-blog-time\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/display-blog-time\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

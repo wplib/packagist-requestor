@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pofio": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/pofio",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 260276,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pofio.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pofio\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pofio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pofio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 260277,
+                "time": "2018-01-15 12:12:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pofio.zip?timestamp=1516018335"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pofio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pofio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

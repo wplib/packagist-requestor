@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/webpassio": {
+            "1.0": {
+                "name": "wpackagist-plugin\/webpassio",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383459,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webpassio.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webpassio\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webpassio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/webpassio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383460,
+                "time": "2016-06-28 14:21:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/webpassio.zip?timestamp=1467123670"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/webpassio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/webpassio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

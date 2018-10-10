@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/click-to-call-button": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/click-to-call-button",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 70843,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/click-to-call-button.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/click-to-call-button\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/click-to-call-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/click-to-call-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 70844,
+                "time": "2015-08-18 12:11:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/click-to-call-button.zip?timestamp=1439899875"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/click-to-call-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/click-to-call-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

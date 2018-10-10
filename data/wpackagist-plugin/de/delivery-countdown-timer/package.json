@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/delivery-countdown-timer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/delivery-countdown-timer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 97230,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/delivery-countdown-timer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/delivery-countdown-timer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/delivery-countdown-timer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/delivery-countdown-timer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97231,
+                "time": "2016-06-03 02:28:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/delivery-countdown-timer.zip?timestamp=1464920918"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/delivery-countdown-timer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/delivery-countdown-timer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

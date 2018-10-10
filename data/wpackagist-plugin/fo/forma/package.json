@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/forma": {
+            "2.2": {
+                "name": "wpackagist-plugin\/forma",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 140257,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forma.zip?timestamp=1516258509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forma\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forma\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/forma",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 140258,
+                "time": "2018-01-18 06:55:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/forma.zip?timestamp=1516258509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/forma\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/forma\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

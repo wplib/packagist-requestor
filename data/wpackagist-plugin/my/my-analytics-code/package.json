@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-analytics-code": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/my-analytics-code",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 226470,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-analytics-code.zip?timestamp=1512031919"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-analytics-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-analytics-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-analytics-code",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 226471,
+                "time": "2017-11-30 08:51:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-analytics-code.zip?timestamp=1512031919"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-analytics-code\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-analytics-code\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

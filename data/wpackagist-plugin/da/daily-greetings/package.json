@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/daily-greetings": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/daily-greetings",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 93530,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-greetings.zip?timestamp=1459973801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-greetings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-greetings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/daily-greetings",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93531,
+                "time": "2016-04-06 20:16:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/daily-greetings.zip?timestamp=1459973801"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/daily-greetings\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/daily-greetings\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

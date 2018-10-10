@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/latest-post-slider": {
+            "1.1": {
+                "name": "wpackagist-plugin\/latest-post-slider",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 193282,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/latest-post-slider.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/latest-post-slider\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/latest-post-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/latest-post-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 193283,
+                "time": "2015-05-17 13:49:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/latest-post-slider.zip?timestamp=1431870566"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/latest-post-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/latest-post-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

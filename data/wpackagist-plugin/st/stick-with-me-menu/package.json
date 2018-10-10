@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stick-with-me-menu": {
+            "1.0": {
+                "name": "wpackagist-plugin\/stick-with-me-menu",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 336996,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stick-with-me-menu.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stick-with-me-menu\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stick-with-me-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stick-with-me-menu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336997,
+                "time": "2016-03-03 01:34:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stick-with-me-menu.zip?timestamp=1456968850"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stick-with-me-menu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stick-with-me-menu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

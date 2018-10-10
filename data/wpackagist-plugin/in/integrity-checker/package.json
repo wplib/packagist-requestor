@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/integrity-checker": {
+            "0.10.0": {
+                "name": "wpackagist-plugin\/integrity-checker",
+                "version": "0.10.0",
+                "version_normalized": "0.10.0.0",
+                "uid": 179107,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrity-checker.0.10.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrity-checker\/",
+                    "reference": "tags\/0.10.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrity-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.9.3": {
+                "name": "wpackagist-plugin\/integrity-checker",
+                "version": "0.9.3",
+                "version_normalized": "0.9.3.0",
+                "uid": 179108,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrity-checker.0.9.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrity-checker\/",
+                    "reference": "tags\/0.9.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrity-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/integrity-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 179109,
+                "time": "2017-05-01 11:49:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/integrity-checker.zip?timestamp=1493639349"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/integrity-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/integrity-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

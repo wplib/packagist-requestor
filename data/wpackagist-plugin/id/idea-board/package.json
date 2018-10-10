@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/idea-board": {
+            "0.3.4": {
+                "name": "wpackagist-plugin\/idea-board",
+                "version": "0.3.4",
+                "version_normalized": "0.3.4.0",
+                "uid": 171233,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idea-board.zip?timestamp=1477331242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idea-board\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idea-board\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/idea-board",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171234,
+                "time": "2016-10-24 17:47:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idea-board.zip?timestamp=1477331242"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idea-board\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idea-board\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

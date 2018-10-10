@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/backup-by-vogapress": {
+            "0.5.8": {
+                "name": "wpackagist-plugin\/backup-by-vogapress",
+                "version": "0.5.8",
+                "version_normalized": "0.5.8.0",
+                "uid": 34579,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backup-by-vogapress.zip?timestamp=1474683149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backup-by-vogapress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backup-by-vogapress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/backup-by-vogapress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34580,
+                "time": "2016-09-24 02:12:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/backup-by-vogapress.zip?timestamp=1474683149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/backup-by-vogapress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/backup-by-vogapress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mim-preloader": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mim-preloader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 217310,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mim-preloader.zip?timestamp=1513187642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mim-preloader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mim-preloader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mim-preloader",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 217311,
+                "time": "2017-12-13 17:54:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mim-preloader.zip?timestamp=1513187642"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mim-preloader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mim-preloader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

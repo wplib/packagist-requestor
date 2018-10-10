@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wps-testimonials": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wps-testimonials",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 443250,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wps-testimonials.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wps-testimonials\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wps-testimonials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wps-testimonials",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443251,
+                "time": "2018-10-09 07:11:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wps-testimonials.zip?timestamp=1539069089"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wps-testimonials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wps-testimonials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

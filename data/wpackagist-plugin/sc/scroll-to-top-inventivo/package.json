@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/scroll-to-top-inventivo": {
+            "0.0.4": {
+                "name": "wpackagist-plugin\/scroll-to-top-inventivo",
+                "version": "0.0.4",
+                "version_normalized": "0.0.4.0",
+                "uid": 301203,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scroll-to-top-inventivo.0.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scroll-to-top-inventivo\/",
+                    "reference": "tags\/0.0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scroll-to-top-inventivo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/scroll-to-top-inventivo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 301204,
+                "time": "2018-09-24 15:22:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/scroll-to-top-inventivo.zip?timestamp=1537802543"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/scroll-to-top-inventivo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/scroll-to-top-inventivo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

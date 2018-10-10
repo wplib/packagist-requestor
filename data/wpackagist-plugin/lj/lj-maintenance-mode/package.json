@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lj-maintenance-mode": {
+            "2.4.3": {
+                "name": "wpackagist-plugin\/lj-maintenance-mode",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "uid": 201659,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lj-maintenance-mode.zip?timestamp=1512041176"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lj-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lj-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lj-maintenance-mode",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201660,
+                "time": "2017-11-30 11:26:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lj-maintenance-mode.zip?timestamp=1512041176"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lj-maintenance-mode\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lj-maintenance-mode\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/prayers": {
+            "0.9.0": {
+                "name": "wpackagist-plugin\/prayers",
+                "version": "0.9.0",
+                "version_normalized": "0.9.0.0",
+                "uid": 267204,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prayers.zip?timestamp=1452919504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prayers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prayers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/prayers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 267205,
+                "time": "2016-01-16 04:45:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prayers.zip?timestamp=1452919504"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prayers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prayers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

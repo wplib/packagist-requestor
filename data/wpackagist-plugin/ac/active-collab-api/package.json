@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/active-collab-api": {
+            "0.1": {
+                "name": "wpackagist-plugin\/active-collab-api",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 5750,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/active-collab-api.zip?timestamp=1529503536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/active-collab-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/active-collab-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/active-collab-api",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5751,
+                "time": "2018-06-20 14:05:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/active-collab-api.zip?timestamp=1529503536"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/active-collab-api\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/active-collab-api\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

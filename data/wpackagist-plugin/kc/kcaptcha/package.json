@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kcaptcha": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/kcaptcha",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 188605,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kcaptcha.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kcaptcha\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kcaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kcaptcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 188606,
+                "time": "2016-09-14 17:39:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kcaptcha.zip?timestamp=1473874794"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kcaptcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kcaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

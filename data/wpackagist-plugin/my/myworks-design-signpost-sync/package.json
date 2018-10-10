@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/myworks-design-signpost-sync": {
+            "1.4": {
+                "name": "wpackagist-plugin\/myworks-design-signpost-sync",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 228807,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/myworks-design-signpost-sync.1.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/myworks-design-signpost-sync\/",
+                    "reference": "tags\/1.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/myworks-design-signpost-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/myworks-design-signpost-sync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 228808,
+                "time": "2017-04-18 14:16:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/myworks-design-signpost-sync.zip?timestamp=1492524980"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/myworks-design-signpost-sync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/myworks-design-signpost-sync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

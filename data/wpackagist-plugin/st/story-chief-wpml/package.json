@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/story-chief-wpml": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/story-chief-wpml",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 338305,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/story-chief-wpml.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/story-chief-wpml\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/story-chief-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/story-chief-wpml",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 338306,
+                "time": "2018-07-20 15:26:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/story-chief-wpml.zip?timestamp=1532100411"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/story-chief-wpml\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/story-chief-wpml\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

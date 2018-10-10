@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/devicons": {
+            "1.0": {
+                "name": "wpackagist-plugin\/devicons",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 98451,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devicons.zip?timestamp=1521600958"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devicons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devicons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/devicons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 98452,
+                "time": "2018-03-21 02:55:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/devicons.zip?timestamp=1521600958"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/devicons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/devicons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

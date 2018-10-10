@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/iro": {
+            "1": {
+                "name": "wpackagist-plugin\/iro",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 180979,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iro.zip?timestamp=1538984163"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/iro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180980,
+                "time": "2018-10-08 07:36:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/iro.zip?timestamp=1538984163"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/iro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/iro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

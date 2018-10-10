@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-time-estimator": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/post-time-estimator",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 264801,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-time-estimator.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-time-estimator\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-time-estimator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-time-estimator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 264802,
+                "time": "2017-04-25 10:28:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-time-estimator.zip?timestamp=1493116086"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-time-estimator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-time-estimator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

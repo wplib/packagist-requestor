@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/one-click-print": {
+            "4.9.8": {
+                "name": "wpackagist-plugin\/one-click-print",
+                "version": "4.9.8",
+                "version_normalized": "4.9.8.0",
+                "uid": 241381,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/one-click-print.zip?timestamp=1536527295"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/one-click-print\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/one-click-print\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/one-click-print",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 241382,
+                "time": "2018-09-09 21:08:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/one-click-print.zip?timestamp=1536527295"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/one-click-print\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/one-click-print\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

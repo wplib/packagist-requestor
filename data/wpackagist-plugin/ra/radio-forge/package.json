@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/radio-forge": {
+            "1.8": {
+                "name": "wpackagist-plugin\/radio-forge",
+                "version": "1.8",
+                "version_normalized": "1.8.0.0",
+                "uid": 279210,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/radio-forge.zip?timestamp=1502955623"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/radio-forge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/radio-forge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/radio-forge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 279211,
+                "time": "2017-08-17 07:40:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/radio-forge.zip?timestamp=1502955623"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/radio-forge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/radio-forge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

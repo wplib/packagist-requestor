@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tab-my-content": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tab-my-content",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 344653,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tab-my-content.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tab-my-content\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tab-my-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tab-my-content",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344654,
+                "time": "2017-07-07 21:07:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tab-my-content.zip?timestamp=1499461639"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tab-my-content\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tab-my-content\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

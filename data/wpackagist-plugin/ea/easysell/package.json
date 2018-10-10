@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/easysell": {
+            "1.0": {
+                "name": "wpackagist-plugin\/easysell",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 111787,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easysell.zip?timestamp=1453704099"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easysell\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easysell\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/easysell",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 111788,
+                "time": "2016-01-25 06:41:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/easysell.zip?timestamp=1453704099"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/easysell\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/easysell\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

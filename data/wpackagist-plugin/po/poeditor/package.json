@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/poeditor": {
+            "0.9.2": {
+                "name": "wpackagist-plugin\/poeditor",
+                "version": "0.9.2",
+                "version_normalized": "0.9.2.0",
+                "uid": 260215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/poeditor.zip?timestamp=1536148140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/poeditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/poeditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/poeditor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 260216,
+                "time": "2018-09-05 11:49:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/poeditor.zip?timestamp=1536148140"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/poeditor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/poeditor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rus-package": {
+            "1.1": {
+                "name": "wpackagist-plugin\/rus-package",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 297156,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rus-package.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rus-package\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rus-package\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rus-package",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 297157,
+                "time": "2018-01-20 23:25:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rus-package.zip?timestamp=1516490756"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rus-package\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rus-package\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dx-sources": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/dx-sources",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 106347,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dx-sources.1.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dx-sources\/",
+                    "reference": "tags\/1.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dx-sources\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dx-sources",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 106348,
+                "time": "2016-12-08 08:01:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dx-sources.zip?timestamp=1481184119"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dx-sources\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dx-sources\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

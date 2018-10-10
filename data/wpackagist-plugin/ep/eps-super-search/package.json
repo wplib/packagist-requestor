@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/eps-super-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/eps-super-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 121278,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eps-super-search.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eps-super-search\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eps-super-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/eps-super-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 121279,
+                "time": "2015-03-01 23:34:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/eps-super-search.zip?timestamp=1425252862"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/eps-super-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/eps-super-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

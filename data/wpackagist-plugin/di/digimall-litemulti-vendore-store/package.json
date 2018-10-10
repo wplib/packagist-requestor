@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/digimall-litemulti-vendore-store": {
+            "2.4.2": {
+                "name": "wpackagist-plugin\/digimall-litemulti-vendore-store",
+                "version": "2.4.2",
+                "version_normalized": "2.4.2.0",
+                "uid": 99301,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digimall-litemulti-vendore-store.2.4.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digimall-litemulti-vendore-store\/",
+                    "reference": "tags\/2.4.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digimall-litemulti-vendore-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/digimall-litemulti-vendore-store",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99302,
+                "time": "2015-12-09 07:46:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digimall-litemulti-vendore-store.zip?timestamp=1449647187"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digimall-litemulti-vendore-store\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digimall-litemulti-vendore-store\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

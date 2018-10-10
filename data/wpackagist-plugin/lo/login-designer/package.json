@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/login-designer": {
+            "1.1.10": {
+                "name": "wpackagist-plugin\/login-designer",
+                "version": "1.1.10",
+                "version_normalized": "1.1.10.0",
+                "uid": 202819,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-designer.zip?timestamp=1537281141"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-designer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-designer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/login-designer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202820,
+                "time": "2018-09-18 14:32:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/login-designer.zip?timestamp=1537281141"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/login-designer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/login-designer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

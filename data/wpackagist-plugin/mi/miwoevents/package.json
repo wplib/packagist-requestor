@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miwoevents": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/miwoevents",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 218978,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwoevents.zip?timestamp=1512651731"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwoevents\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwoevents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miwoevents",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218979,
+                "time": "2017-12-07 13:02:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miwoevents.zip?timestamp=1512651731"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miwoevents\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miwoevents\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/freshmarketer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/freshmarketer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 142991,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freshmarketer.zip?timestamp=1510048002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freshmarketer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freshmarketer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/freshmarketer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142992,
+                "time": "2017-11-07 09:46:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/freshmarketer.zip?timestamp=1510048002"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/freshmarketer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/freshmarketer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/googles-no-captcha-recaptcha": {
+            "1.0": {
+                "name": "wpackagist-plugin\/googles-no-captcha-recaptcha",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 156769,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/googles-no-captcha-recaptcha.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/googles-no-captcha-recaptcha\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/googles-no-captcha-recaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/googles-no-captcha-recaptcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 156770,
+                "time": "2015-01-23 10:00:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/googles-no-captcha-recaptcha.zip?timestamp=1422007218"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/googles-no-captcha-recaptcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/googles-no-captcha-recaptcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

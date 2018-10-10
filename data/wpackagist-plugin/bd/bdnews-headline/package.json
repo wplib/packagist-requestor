@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bdnews-headline": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bdnews-headline",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 38137,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bdnews-headline.zip?timestamp=1460288780"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bdnews-headline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bdnews-headline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bdnews-headline",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38138,
+                "time": "2016-04-10 11:46:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bdnews-headline.zip?timestamp=1460288780"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bdnews-headline\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bdnews-headline\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

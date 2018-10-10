@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpbackupessentials": {
+            "16.6.4": {
+                "name": "wpackagist-plugin\/wpbackupessentials",
+                "version": "16.6.4",
+                "version_normalized": "16.6.4.0",
+                "uid": 439876,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpbackupessentials.zip?timestamp=1465077528"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpbackupessentials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpbackupessentials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpbackupessentials",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439877,
+                "time": "2016-06-04 21:58:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpbackupessentials.zip?timestamp=1465077528"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpbackupessentials\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpbackupessentials\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

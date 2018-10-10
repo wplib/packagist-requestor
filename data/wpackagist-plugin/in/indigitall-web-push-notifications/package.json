@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/indigitall-web-push-notifications": {
+            "1.0": {
+                "name": "wpackagist-plugin\/indigitall-web-push-notifications",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 175918,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/indigitall-web-push-notifications.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/indigitall-web-push-notifications\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/indigitall-web-push-notifications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/indigitall-web-push-notifications",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 175919,
+                "time": "2018-09-25 10:28:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/indigitall-web-push-notifications.zip?timestamp=1537871296"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/indigitall-web-push-notifications\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/indigitall-web-push-notifications\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/universal-ads": {
+            "1.0": {
+                "name": "wpackagist-plugin\/universal-ads",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 368500,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/universal-ads.zip?timestamp=1485168729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/universal-ads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/universal-ads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/universal-ads",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368501,
+                "time": "2017-01-23 10:52:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/universal-ads.zip?timestamp=1485168729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/universal-ads\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/universal-ads\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/customizer-refresh": {
+            "1.0": {
+                "name": "wpackagist-plugin\/customizer-refresh",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 92375,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customizer-refresh.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customizer-refresh\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customizer-refresh\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/customizer-refresh",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 92376,
+                "time": "2018-06-03 06:12:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/customizer-refresh.zip?timestamp=1528006330"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/customizer-refresh\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/customizer-refresh\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

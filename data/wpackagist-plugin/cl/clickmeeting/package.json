@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/clickmeeting": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/clickmeeting",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 71033,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickmeeting.zip?timestamp=1497343534"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickmeeting\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickmeeting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/clickmeeting",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 71034,
+                "time": "2017-06-13 08:45:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/clickmeeting.zip?timestamp=1497343534"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/clickmeeting\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/clickmeeting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

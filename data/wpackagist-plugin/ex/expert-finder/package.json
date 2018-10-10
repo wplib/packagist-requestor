@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/expert-finder": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/expert-finder",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 125204,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expert-finder.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expert-finder\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expert-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/expert-finder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 125205,
+                "time": "2016-06-23 07:42:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/expert-finder.zip?timestamp=1466667734"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/expert-finder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/expert-finder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

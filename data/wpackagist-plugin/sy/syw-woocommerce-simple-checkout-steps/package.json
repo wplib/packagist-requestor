@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/syw-woocommerce-simple-checkout-steps": {
+            "1.0": {
+                "name": "wpackagist-plugin\/syw-woocommerce-simple-checkout-steps",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 344611,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syw-woocommerce-simple-checkout-steps.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syw-woocommerce-simple-checkout-steps\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syw-woocommerce-simple-checkout-steps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/syw-woocommerce-simple-checkout-steps",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344612,
+                "time": "2016-04-08 23:46:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syw-woocommerce-simple-checkout-steps.zip?timestamp=1460159189"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syw-woocommerce-simple-checkout-steps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syw-woocommerce-simple-checkout-steps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

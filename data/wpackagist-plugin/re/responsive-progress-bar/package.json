@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/responsive-progress-bar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/responsive-progress-bar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 289929,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-progress-bar.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-progress-bar\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-progress-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/responsive-progress-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 289930,
+                "time": "2016-02-01 18:33:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-progress-bar.zip?timestamp=1454351639"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-progress-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-progress-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

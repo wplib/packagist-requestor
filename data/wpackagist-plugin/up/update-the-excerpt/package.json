@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/update-the-excerpt": {
+            "1": {
+                "name": "wpackagist-plugin\/update-the-excerpt",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 369182,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/update-the-excerpt.zip?timestamp=1516848965"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/update-the-excerpt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/update-the-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/update-the-excerpt",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 369183,
+                "time": "2018-01-25 02:56:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/update-the-excerpt.zip?timestamp=1516848965"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/update-the-excerpt\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/update-the-excerpt\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

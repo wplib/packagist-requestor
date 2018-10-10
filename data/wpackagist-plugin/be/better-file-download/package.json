@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-file-download": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/better-file-download",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 40235,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-file-download.zip?timestamp=1535260083"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-file-download\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-file-download\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-file-download",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40236,
+                "time": "2018-08-26 05:08:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-file-download.zip?timestamp=1535260083"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-file-download\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-file-download\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

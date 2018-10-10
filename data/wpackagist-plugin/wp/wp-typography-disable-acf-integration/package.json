@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-typography-disable-acf-integration": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/wp-typography-disable-acf-integration",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 437244,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-typography-disable-acf-integration.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-typography-disable-acf-integration\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-typography-disable-acf-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-typography-disable-acf-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437245,
+                "time": "2017-06-15 17:56:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-typography-disable-acf-integration.zip?timestamp=1497549393"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-typography-disable-acf-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-typography-disable-acf-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/corgi-forms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/corgi-forms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 83241,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/corgi-forms.zip?timestamp=1504468550"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/corgi-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/corgi-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/corgi-forms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 83242,
+                "time": "2017-09-03 19:55:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/corgi-forms.zip?timestamp=1504468550"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/corgi-forms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/corgi-forms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

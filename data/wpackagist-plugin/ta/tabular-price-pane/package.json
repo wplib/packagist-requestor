@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tabular-price-pane": {
+            "1.0": {
+                "name": "wpackagist-plugin\/tabular-price-pane",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 345109,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tabular-price-pane.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tabular-price-pane\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tabular-price-pane\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tabular-price-pane",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 345110,
+                "time": "2016-12-11 19:02:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tabular-price-pane.zip?timestamp=1481482953"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tabular-price-pane\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tabular-price-pane\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

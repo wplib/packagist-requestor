@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-search-custom-fields-lite": {
+            "1.9.1": {
+                "name": "wpackagist-plugin\/live-search-custom-fields-lite",
+                "version": "1.9.1",
+                "version_normalized": "1.9.1.0",
+                "uid": 201056,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-search-custom-fields-lite.1.9.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-search-custom-fields-lite\/",
+                    "reference": "tags\/1.9.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-search-custom-fields-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-search-custom-fields-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201057,
+                "time": "2017-11-11 16:51:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-search-custom-fields-lite.zip?timestamp=1510419064"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-search-custom-fields-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-search-custom-fields-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

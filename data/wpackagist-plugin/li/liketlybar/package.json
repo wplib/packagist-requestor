@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/liketlybar": {
+            "1.2": {
+                "name": "wpackagist-plugin\/liketlybar",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 197925,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liketlybar.zip?timestamp=1438710795"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liketlybar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liketlybar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/liketlybar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 197926,
+                "time": "2015-08-04 17:53:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/liketlybar.zip?timestamp=1438710795"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/liketlybar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/liketlybar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

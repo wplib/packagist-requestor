@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wham-bam": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wham-bam",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 384938,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wham-bam.zip?timestamp=1495740491"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wham-bam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wham-bam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wham-bam",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384939,
+                "time": "2017-05-25 19:28:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wham-bam.zip?timestamp=1495740491"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wham-bam\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wham-bam\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

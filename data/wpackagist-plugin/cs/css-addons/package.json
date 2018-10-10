@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/css-addons": {
+            "1.7": {
+                "name": "wpackagist-plugin\/css-addons",
+                "version": "1.7",
+                "version_normalized": "1.7.0.0",
+                "uid": 87125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-addons.zip?timestamp=1481190867"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/css-addons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87126,
+                "time": "2016-12-08 09:54:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-addons.zip?timestamp=1481190867"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

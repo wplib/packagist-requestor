@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/veristore": {
+            "1.2.5": {
+                "name": "wpackagist-plugin\/veristore",
+                "version": "1.2.5",
+                "version_normalized": "1.2.5.0",
+                "uid": 374004,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/veristore.zip?timestamp=1512104613"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/veristore\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/veristore\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/veristore",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 374005,
+                "time": "2017-12-01 05:03:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/veristore.zip?timestamp=1512104613"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/veristore\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/veristore\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

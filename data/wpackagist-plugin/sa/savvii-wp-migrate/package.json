@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/savvii-wp-migrate": {
+            "1.72": {
+                "name": "wpackagist-plugin\/savvii-wp-migrate",
+                "version": "1.72",
+                "version_normalized": "1.72.0.0",
+                "uid": 299627,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/savvii-wp-migrate.zip?timestamp=1538243053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/savvii-wp-migrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/savvii-wp-migrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/savvii-wp-migrate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299628,
+                "time": "2018-09-29 17:44:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/savvii-wp-migrate.zip?timestamp=1538243053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/savvii-wp-migrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/savvii-wp-migrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

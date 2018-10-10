@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cs-require-featured-image-to-publish-posts": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cs-require-featured-image-to-publish-posts",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87015,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-require-featured-image-to-publish-posts.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-require-featured-image-to-publish-posts\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-require-featured-image-to-publish-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cs-require-featured-image-to-publish-posts",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87016,
+                "time": "2017-07-31 05:21:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cs-require-featured-image-to-publish-posts.zip?timestamp=1501478509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cs-require-featured-image-to-publish-posts\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cs-require-featured-image-to-publish-posts\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

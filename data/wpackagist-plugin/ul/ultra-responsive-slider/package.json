@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultra-responsive-slider": {
+            "0.0.3": {
+                "name": "wpackagist-plugin\/ultra-responsive-slider",
+                "version": "0.0.3",
+                "version_normalized": "0.0.3.0",
+                "uid": 367447,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultra-responsive-slider.0.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultra-responsive-slider\/",
+                    "reference": "tags\/0.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultra-responsive-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultra-responsive-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 367448,
+                "time": "2017-10-10 17:41:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultra-responsive-slider.zip?timestamp=1507657309"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultra-responsive-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultra-responsive-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

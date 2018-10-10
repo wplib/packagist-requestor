@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/application-insights": {
+            "2.3": {
+                "name": "wpackagist-plugin\/application-insights",
+                "version": "2.3",
+                "version_normalized": "2.3.0.0",
+                "uid": 24583,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-insights.zip?timestamp=1527369349"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-insights\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-insights\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/application-insights",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24584,
+                "time": "2018-05-26 21:15:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/application-insights.zip?timestamp=1527369349"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/application-insights\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/application-insights\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

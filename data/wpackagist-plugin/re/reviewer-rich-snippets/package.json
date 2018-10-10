@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/reviewer-rich-snippets": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/reviewer-rich-snippets",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291920,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reviewer-rich-snippets.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reviewer-rich-snippets\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reviewer-rich-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/reviewer-rich-snippets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291921,
+                "time": "2017-11-10 18:16:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/reviewer-rich-snippets.zip?timestamp=1510337802"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/reviewer-rich-snippets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/reviewer-rich-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

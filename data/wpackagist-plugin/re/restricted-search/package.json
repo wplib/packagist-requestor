@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restricted-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/restricted-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 291150,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restricted-search.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restricted-search\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restricted-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restricted-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291151,
+                "time": "2016-11-29 13:11:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restricted-search.zip?timestamp=1480425083"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restricted-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restricted-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

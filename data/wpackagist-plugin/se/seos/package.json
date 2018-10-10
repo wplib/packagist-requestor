@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/seos": {
+            "1.1": {
+                "name": "wpackagist-plugin\/seos",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 305642,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seos.zip?timestamp=1487854955"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/seos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 305643,
+                "time": "2017-02-23 13:02:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/seos.zip?timestamp=1487854955"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/seos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/seos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sapphire-rms": {
+            "1.5.9": {
+                "name": "wpackagist-plugin\/sapphire-rms",
+                "version": "1.5.9",
+                "version_normalized": "1.5.9.0",
+                "uid": 299202,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sapphire-rms.zip?timestamp=1464768079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sapphire-rms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sapphire-rms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sapphire-rms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 299203,
+                "time": "2016-06-01 08:01:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sapphire-rms.zip?timestamp=1464768079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sapphire-rms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sapphire-rms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

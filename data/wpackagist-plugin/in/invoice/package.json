@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/invoice": {
+            "1.0.6": {
+                "name": "wpackagist-plugin\/invoice",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "uid": 180108,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoice.zip?timestamp=1471415350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoice\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/invoice",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 180109,
+                "time": "2016-08-17 06:29:10",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/invoice.zip?timestamp=1471415350"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/invoice\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/invoice\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

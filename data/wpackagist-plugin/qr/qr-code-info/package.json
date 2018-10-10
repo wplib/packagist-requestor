@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/qr-code-info": {
+            "0.1a": {
+                "name": "wpackagist-plugin\/qr-code-info",
+                "version": "0.1a",
+                "version_normalized": "0.1.0.0-alpha",
+                "uid": 275422,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-code-info.0.1a.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-code-info\/",
+                    "reference": "tags\/0.1a"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-code-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/qr-code-info",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 275423,
+                "time": "2016-08-27 09:43:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/qr-code-info.zip?timestamp=1472291036"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/qr-code-info\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/qr-code-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

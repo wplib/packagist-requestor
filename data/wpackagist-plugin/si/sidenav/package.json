@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sidenav": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/sidenav",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 312009,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidenav.zip?timestamp=1501107662"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidenav\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidenav\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sidenav",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 312010,
+                "time": "2017-07-26 22:21:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sidenav.zip?timestamp=1501107662"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sidenav\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sidenav\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

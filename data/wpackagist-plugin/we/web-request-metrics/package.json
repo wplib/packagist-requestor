@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/web-request-metrics": {
+            "0.2.2": {
+                "name": "wpackagist-plugin\/web-request-metrics",
+                "version": "0.2.2",
+                "version_normalized": "0.2.2.0",
+                "uid": 382672,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/web-request-metrics.0.2.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/web-request-metrics\/",
+                    "reference": "tags\/0.2.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/web-request-metrics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/web-request-metrics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 382673,
+                "time": "2018-06-12 02:20:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/web-request-metrics.zip?timestamp=1528770053"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/web-request-metrics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/web-request-metrics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hidden-wp-admin": {
+            "1.1": {
+                "name": "wpackagist-plugin\/hidden-wp-admin",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 165214,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hidden-wp-admin.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hidden-wp-admin\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hidden-wp-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.2": {
+                "name": "wpackagist-plugin\/hidden-wp-admin",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 165215,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hidden-wp-admin.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hidden-wp-admin\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hidden-wp-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hidden-wp-admin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165216,
+                "time": "2015-02-11 06:25:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hidden-wp-admin.zip?timestamp=1423635904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hidden-wp-admin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hidden-wp-admin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

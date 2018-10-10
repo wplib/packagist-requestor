@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/async-background-worker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/async-background-worker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 28029,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/async-background-worker.zip?timestamp=1514370124"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/async-background-worker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/async-background-worker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/async-background-worker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 28030,
+                "time": "2017-12-27 10:22:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/async-background-worker.zip?timestamp=1514370124"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/async-background-worker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/async-background-worker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

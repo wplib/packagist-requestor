@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-cron-pixie": {
+            "1.3": {
+                "name": "wpackagist-plugin\/wp-cron-pixie",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 411351,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-cron-pixie.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-cron-pixie\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-cron-pixie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.3.1": {
+                "name": "wpackagist-plugin\/wp-cron-pixie",
+                "version": "1.3.1",
+                "version_normalized": "1.3.1.0",
+                "uid": 411352,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-cron-pixie.1.3.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-cron-pixie\/",
+                    "reference": "tags\/1.3.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-cron-pixie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-cron-pixie",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 411353,
+                "time": "2018-09-05 19:54:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-cron-pixie.zip?timestamp=1536177268"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-cron-pixie\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-cron-pixie\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

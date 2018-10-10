@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/apptoe": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/apptoe",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 25379,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apptoe.zip?timestamp=1514977851"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apptoe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apptoe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/apptoe",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 25380,
+                "time": "2018-01-03 11:10:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/apptoe.zip?timestamp=1514977851"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/apptoe\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/apptoe\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

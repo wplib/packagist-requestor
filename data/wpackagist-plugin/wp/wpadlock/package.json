@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpadlock": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wpadlock",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 439677,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadlock.zip?timestamp=1510691661"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadlock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadlock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpadlock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 439678,
+                "time": "2017-11-14 20:34:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpadlock.zip?timestamp=1510691661"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpadlock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpadlock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

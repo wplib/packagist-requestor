@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/legit-local-integration": {
+            "1.1.2": {
+                "name": "wpackagist-plugin\/legit-local-integration",
+                "version": "1.1.2",
+                "version_normalized": "1.1.2.0",
+                "uid": 195550,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/legit-local-integration.zip?timestamp=1528909318"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/legit-local-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/legit-local-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/legit-local-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195551,
+                "time": "2018-06-13 17:01:58",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/legit-local-integration.zip?timestamp=1528909318"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/legit-local-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/legit-local-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

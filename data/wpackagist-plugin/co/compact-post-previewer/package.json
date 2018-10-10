@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/compact-post-previewer": {
+            "1.0": {
+                "name": "wpackagist-plugin\/compact-post-previewer",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 76545,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/compact-post-previewer.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/compact-post-previewer\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/compact-post-previewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/compact-post-previewer",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 76546,
+                "time": "2017-06-16 17:49:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/compact-post-previewer.zip?timestamp=1497635384"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/compact-post-previewer\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/compact-post-previewer\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

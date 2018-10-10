@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/another-comments-cleaner": {
+            "0.8": {
+                "name": "wpackagist-plugin\/another-comments-cleaner",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 22833,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/another-comments-cleaner.0.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/another-comments-cleaner\/",
+                    "reference": "tags\/0.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/another-comments-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/another-comments-cleaner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 22834,
+                "time": "2017-05-16 18:14:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/another-comments-cleaner.zip?timestamp=1494958480"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/another-comments-cleaner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/another-comments-cleaner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/syntax-highlighting": {
+            "0.1": {
+                "name": "wpackagist-plugin\/syntax-highlighting",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 344390,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntax-highlighting.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntax-highlighting\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntax-highlighting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/syntax-highlighting",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344391,
+                "time": "2017-05-01 15:21:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/syntax-highlighting.zip?timestamp=1493652098"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/syntax-highlighting\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/syntax-highlighting\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

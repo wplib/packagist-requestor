@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/feenban": {
+            "0.2": {
+                "name": "wpackagist-plugin\/feenban",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 132367,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feenban.zip?timestamp=1434064429"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feenban\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feenban\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/feenban",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 132368,
+                "time": "2015-06-11 23:13:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/feenban.zip?timestamp=1434064429"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/feenban\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/feenban\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

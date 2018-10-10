@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bs-social-icons": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/bs-social-icons",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 53033,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bs-social-icons.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bs-social-icons\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bs-social-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bs-social-icons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 53034,
+                "time": "2017-10-03 12:56:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bs-social-icons.zip?timestamp=1507035379"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bs-social-icons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bs-social-icons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

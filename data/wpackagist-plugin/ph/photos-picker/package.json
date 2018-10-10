@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/photos-picker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/photos-picker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 255138,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/photos-picker.zip?timestamp=1461598622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/photos-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/photos-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/photos-picker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255139,
+                "time": "2016-04-25 15:37:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/photos-picker.zip?timestamp=1461598622"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/photos-picker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/photos-picker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

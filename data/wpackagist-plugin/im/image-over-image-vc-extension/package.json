@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-over-image-vc-extension": {
+            "1.0": {
+                "name": "wpackagist-plugin\/image-over-image-vc-extension",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 173329,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-over-image-vc-extension.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-over-image-vc-extension\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-over-image-vc-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-over-image-vc-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173330,
+                "time": "2018-10-09 05:05:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-over-image-vc-extension.zip?timestamp=1539061522"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-over-image-vc-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-over-image-vc-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

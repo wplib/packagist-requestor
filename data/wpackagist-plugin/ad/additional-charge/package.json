@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/additional-charge": {
+            "1.0": {
+                "name": "wpackagist-plugin\/additional-charge",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 8014,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/additional-charge.zip?timestamp=1519361750"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/additional-charge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/additional-charge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/additional-charge",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 8015,
+                "time": "2018-02-23 04:55:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/additional-charge.zip?timestamp=1519361750"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/additional-charge\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/additional-charge\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

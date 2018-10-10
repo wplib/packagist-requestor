@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ultimate-addons-for-gutenberg": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/ultimate-addons-for-gutenberg",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 365397,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-addons-for-gutenberg.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-addons-for-gutenberg\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-addons-for-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ultimate-addons-for-gutenberg",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 365398,
+                "time": "2018-06-14 08:55:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ultimate-addons-for-gutenberg.zip?timestamp=1528966509"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ultimate-addons-for-gutenberg\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ultimate-addons-for-gutenberg\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

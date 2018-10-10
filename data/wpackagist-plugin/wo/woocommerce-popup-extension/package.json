@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocommerce-popup-extension": {
+            "1.0": {
+                "name": "wpackagist-plugin\/woocommerce-popup-extension",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 397951,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-popup-extension.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-popup-extension\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-popup-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocommerce-popup-extension",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 397952,
+                "time": "2017-09-05 08:33:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-popup-extension.zip?timestamp=1504600422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-popup-extension\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-popup-extension\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

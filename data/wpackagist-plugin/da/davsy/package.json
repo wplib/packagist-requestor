@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/davsy": {
+            "1.0": {
+                "name": "wpackagist-plugin\/davsy",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 95246,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/davsy.zip?timestamp=1533149160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/davsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/davsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/davsy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 95247,
+                "time": "2018-08-01 18:46:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/davsy.zip?timestamp=1533149160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/davsy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/davsy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

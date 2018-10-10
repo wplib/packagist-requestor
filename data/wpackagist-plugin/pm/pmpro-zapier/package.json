@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pmpro-zapier": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pmpro-zapier",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 259862,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-zapier.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-zapier\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-zapier\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pmpro-zapier",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 259863,
+                "time": "2018-05-02 15:28:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pmpro-zapier.zip?timestamp=1525274937"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pmpro-zapier\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pmpro-zapier\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

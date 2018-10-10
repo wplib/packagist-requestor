@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/social-media-panel-for-images": {
+            "1.1": {
+                "name": "wpackagist-plugin\/social-media-panel-for-images",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 328499,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-media-panel-for-images.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-media-panel-for-images\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-media-panel-for-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/social-media-panel-for-images",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 328500,
+                "time": "2016-04-22 10:45:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-media-panel-for-images.zip?timestamp=1461321959"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-media-panel-for-images\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-media-panel-for-images\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

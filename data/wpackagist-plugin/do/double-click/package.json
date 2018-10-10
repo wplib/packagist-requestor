@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/double-click": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/double-click",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 103871,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/double-click.zip?timestamp=1437592762"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/double-click\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/double-click\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/double-click",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 103872,
+                "time": "2015-07-22 19:19:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/double-click.zip?timestamp=1437592762"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/double-click\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/double-click\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

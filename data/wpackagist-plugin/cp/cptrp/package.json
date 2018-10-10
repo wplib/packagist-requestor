@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cptrp": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cptrp",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 85189,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cptrp.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cptrp\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cptrp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cptrp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 85190,
+                "time": "2016-05-10 15:22:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cptrp.zip?timestamp=1462893744"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cptrp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cptrp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

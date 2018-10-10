@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/legacy-google-calendar-events": {
+            "2.4.1": {
+                "name": "wpackagist-plugin\/legacy-google-calendar-events",
+                "version": "2.4.1",
+                "version_normalized": "2.4.1.0",
+                "uid": 195489,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/legacy-google-calendar-events.2.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/legacy-google-calendar-events\/",
+                    "reference": "tags\/2.4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/legacy-google-calendar-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/legacy-google-calendar-events",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 195490,
+                "time": "2017-07-06 20:30:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/legacy-google-calendar-events.zip?timestamp=1499373034"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/legacy-google-calendar-events\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/legacy-google-calendar-events\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

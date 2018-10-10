@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/auth-using-google-authenticator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/auth-using-google-authenticator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 29383,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auth-using-google-authenticator.zip?timestamp=1440807153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auth-using-google-authenticator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auth-using-google-authenticator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/auth-using-google-authenticator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 29384,
+                "time": "2015-08-29 00:12:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/auth-using-google-authenticator.zip?timestamp=1440807153"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/auth-using-google-authenticator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/auth-using-google-authenticator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

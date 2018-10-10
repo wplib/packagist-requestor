@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/findusat": {
+            "1.1": {
+                "name": "wpackagist-plugin\/findusat",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 134298,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/findusat.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/findusat\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/findusat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/findusat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 134299,
+                "time": "2018-09-15 04:41:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/findusat.zip?timestamp=1536986478"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/findusat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/findusat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

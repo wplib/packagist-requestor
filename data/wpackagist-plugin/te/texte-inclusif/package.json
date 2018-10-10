@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/texte-inclusif": {
+            "1.0": {
+                "name": "wpackagist-plugin\/texte-inclusif",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 349609,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/texte-inclusif.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/texte-inclusif\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/texte-inclusif\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/texte-inclusif",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 349610,
+                "time": "2018-03-20 22:02:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/texte-inclusif.zip?timestamp=1521583329"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/texte-inclusif\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/texte-inclusif\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

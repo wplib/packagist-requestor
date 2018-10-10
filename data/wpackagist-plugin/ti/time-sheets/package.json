@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/time-sheets": {
+            "1.7.2": {
+                "name": "wpackagist-plugin\/time-sheets",
+                "version": "1.7.2",
+                "version_normalized": "1.7.2.0",
+                "uid": 354687,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/time-sheets.zip?timestamp=1538253599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/time-sheets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/time-sheets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/time-sheets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354688,
+                "time": "2018-09-29 20:39:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/time-sheets.zip?timestamp=1538253599"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/time-sheets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/time-sheets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

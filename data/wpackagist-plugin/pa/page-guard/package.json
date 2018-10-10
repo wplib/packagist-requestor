@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/page-guard": {
+            "1.0": {
+                "name": "wpackagist-plugin\/page-guard",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 247134,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-guard.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-guard\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-guard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/page-guard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 247135,
+                "time": "2017-03-25 17:16:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/page-guard.zip?timestamp=1490462168"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/page-guard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/page-guard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

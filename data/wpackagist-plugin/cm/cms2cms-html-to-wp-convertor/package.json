@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cms2cms-html-to-wp-convertor": {
+            "3.7.0": {
+                "name": "wpackagist-plugin\/cms2cms-html-to-wp-convertor",
+                "version": "3.7.0",
+                "version_normalized": "3.7.0.0",
+                "uid": 72291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cms2cms-html-to-wp-convertor.3.7.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cms2cms-html-to-wp-convertor\/",
+                    "reference": "tags\/3.7.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cms2cms-html-to-wp-convertor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cms2cms-html-to-wp-convertor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 72292,
+                "time": "2018-09-12 13:09:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cms2cms-html-to-wp-convertor.zip?timestamp=1536757760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cms2cms-html-to-wp-convertor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cms2cms-html-to-wp-convertor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

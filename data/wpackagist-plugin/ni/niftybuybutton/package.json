@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/niftybuybutton": {
+            "3.4.1": {
+                "name": "wpackagist-plugin\/niftybuybutton",
+                "version": "3.4.1",
+                "version_normalized": "3.4.1.0",
+                "uid": 234821,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/niftybuybutton.3.4.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/niftybuybutton\/",
+                    "reference": "tags\/3.4.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/niftybuybutton\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/niftybuybutton",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234822,
+                "time": "2016-08-23 17:35:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/niftybuybutton.zip?timestamp=1471973719"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/niftybuybutton\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/niftybuybutton\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/loading-bar": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/loading-bar",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 201901,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loading-bar.zip?timestamp=1471735928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loading-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loading-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/loading-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 201902,
+                "time": "2016-08-20 23:32:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/loading-bar.zip?timestamp=1471735928"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/loading-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/loading-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

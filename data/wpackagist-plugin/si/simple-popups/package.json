@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/simple-popups": {
+            "1": {
+                "name": "wpackagist-plugin\/simple-popups",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 316521,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-popups.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-popups\/",
+                    "reference": "tags\/1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-popups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/simple-popups",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 316522,
+                "time": "2017-09-13 11:57:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/simple-popups.zip?timestamp=1505303847"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/simple-popups\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/simple-popups\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/block-spammers": {
+            "0.3": {
+                "name": "wpackagist-plugin\/block-spammers",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 44013,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/block-spammers.zip?timestamp=1502222800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/block-spammers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/block-spammers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/block-spammers",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 44014,
+                "time": "2017-08-08 20:06:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/block-spammers.zip?timestamp=1502222800"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/block-spammers\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/block-spammers\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

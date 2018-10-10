@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/responsive-slideshow": {
+            "1.1": {
+                "name": "wpackagist-plugin\/responsive-slideshow",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 290023,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-slideshow.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-slideshow\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-slideshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/responsive-slideshow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290024,
+                "time": "2018-03-02 15:20:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/responsive-slideshow.zip?timestamp=1520004013"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/responsive-slideshow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/responsive-slideshow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

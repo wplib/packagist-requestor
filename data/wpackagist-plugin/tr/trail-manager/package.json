@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/trail-manager": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/trail-manager",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 358681,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trail-manager.zip?timestamp=1494367895"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trail-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trail-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/trail-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 358682,
+                "time": "2017-05-09 22:11:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/trail-manager.zip?timestamp=1494367895"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/trail-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/trail-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

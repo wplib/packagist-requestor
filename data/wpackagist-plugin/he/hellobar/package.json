@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hellobar": {
+            "0.6": {
+                "name": "wpackagist-plugin\/hellobar",
+                "version": "0.6",
+                "version_normalized": "0.6.0.0",
+                "uid": 164477,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellobar.zip?timestamp=1535396148"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellobar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellobar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.3": {
+                "name": "wpackagist-plugin\/hellobar",
+                "version": "0.3",
+                "version_normalized": "0.3.0.0",
+                "uid": 164478,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellobar.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellobar\/",
+                    "reference": "tags\/0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellobar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hellobar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 164479,
+                "time": "2018-08-27 18:55:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hellobar.zip?timestamp=1535396148"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hellobar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hellobar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

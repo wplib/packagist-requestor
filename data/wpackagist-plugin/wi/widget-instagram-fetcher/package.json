@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/widget-instagram-fetcher": {
+            "1.0": {
+                "name": "wpackagist-plugin\/widget-instagram-fetcher",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 386372,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widget-instagram-fetcher.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widget-instagram-fetcher\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widget-instagram-fetcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/widget-instagram-fetcher",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 386373,
+                "time": "2018-08-20 20:11:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widget-instagram-fetcher.zip?timestamp=1534795863"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widget-instagram-fetcher\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widget-instagram-fetcher\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/json-ld-breadcrumbs": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/json-ld-breadcrumbs",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 186503,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-ld-breadcrumbs.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-ld-breadcrumbs\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-ld-breadcrumbs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/json-ld-breadcrumbs",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 186504,
+                "time": "2018-02-06 12:51:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/json-ld-breadcrumbs.zip?timestamp=1517921488"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/json-ld-breadcrumbs\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/json-ld-breadcrumbs\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

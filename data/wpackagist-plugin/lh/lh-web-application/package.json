@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lh-web-application": {
+            "1.27": {
+                "name": "wpackagist-plugin\/lh-web-application",
+                "version": "1.27",
+                "version_normalized": "1.27.0.0",
+                "uid": 196332,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-web-application.zip?timestamp=1526612256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-web-application\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-web-application\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lh-web-application",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196333,
+                "time": "2018-05-18 02:57:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lh-web-application.zip?timestamp=1526612256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lh-web-application\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lh-web-application\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/schema-factory-free": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/schema-factory-free",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 300205,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/schema-factory-free.zip?timestamp=1538507332"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/schema-factory-free\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/schema-factory-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/schema-factory-free",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 300206,
+                "time": "2018-10-02 19:08:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/schema-factory-free.zip?timestamp=1538507332"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/schema-factory-free\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/schema-factory-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

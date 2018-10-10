@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/extrawatch-pro": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/extrawatch-pro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 126553,
+                "time": "2018-04-30 12:31:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/extrawatch-pro.zip?timestamp=1525091461"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/extrawatch-pro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/extrawatch-pro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

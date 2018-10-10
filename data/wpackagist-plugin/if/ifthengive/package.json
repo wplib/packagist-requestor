@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ifthengive": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/ifthengive",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 172081,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifthengive.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifthengive\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifthengive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ifthengive",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 172082,
+                "time": "2018-09-22 05:57:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ifthengive.zip?timestamp=1537595860"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ifthengive\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ifthengive\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

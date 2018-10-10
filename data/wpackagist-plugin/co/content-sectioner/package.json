@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/content-sectioner": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/content-sectioner",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 80877,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-sectioner.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-sectioner\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-sectioner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/content-sectioner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 80878,
+                "time": "2016-10-04 00:42:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/content-sectioner.zip?timestamp=1475541742"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/content-sectioner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/content-sectioner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

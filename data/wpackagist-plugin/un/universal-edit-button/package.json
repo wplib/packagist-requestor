@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/universal-edit-button": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/universal-edit-button",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 368526,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/universal-edit-button.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/universal-edit-button\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/universal-edit-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/universal-edit-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368527,
+                "time": "2016-04-27 16:46:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/universal-edit-button.zip?timestamp=1461775600"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/universal-edit-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/universal-edit-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

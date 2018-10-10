@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mark-it-down-wp": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/mark-it-down-wp",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 209499,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mark-it-down-wp.2.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mark-it-down-wp\/",
+                    "reference": "tags\/2.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mark-it-down-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mark-it-down-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 209500,
+                "time": "2017-05-17 11:46:29",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mark-it-down-wp.zip?timestamp=1495021589"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mark-it-down-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mark-it-down-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

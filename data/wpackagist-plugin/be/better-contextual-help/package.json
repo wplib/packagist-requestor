@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/better-contextual-help": {
+            "1.0": {
+                "name": "wpackagist-plugin\/better-contextual-help",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 40187,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-contextual-help.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-contextual-help\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-contextual-help\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/better-contextual-help",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 40188,
+                "time": "2015-02-19 21:45:27",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/better-contextual-help.zip?timestamp=1424382327"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/better-contextual-help\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/better-contextual-help\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

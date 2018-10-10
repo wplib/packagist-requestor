@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/back-to-top-scroll": {
+            "1.0": {
+                "name": "wpackagist-plugin\/back-to-top-scroll",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 34407,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/back-to-top-scroll.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/back-to-top-scroll\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/back-to-top-scroll\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/back-to-top-scroll",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34408,
+                "time": "2018-02-06 06:27:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/back-to-top-scroll.zip?timestamp=1517898425"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/back-to-top-scroll\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/back-to-top-scroll\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

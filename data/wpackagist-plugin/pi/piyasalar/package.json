@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/piyasalar": {
+            "0.1.2-beta": {
+                "name": "wpackagist-plugin\/piyasalar",
+                "version": "0.1.2-beta",
+                "version_normalized": "0.1.2.0-beta",
+                "uid": 257652,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/piyasalar.zip?timestamp=1456266154"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/piyasalar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/piyasalar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/piyasalar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 257653,
+                "time": "2016-02-23 22:22:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/piyasalar.zip?timestamp=1456266154"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/piyasalar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/piyasalar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/shift8-remote-update": {
+            "1.01": {
+                "name": "wpackagist-plugin\/shift8-remote-update",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 308417,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shift8-remote-update.zip?timestamp=1532528593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shift8-remote-update\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shift8-remote-update\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/shift8-remote-update",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 308418,
+                "time": "2018-07-25 14:23:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/shift8-remote-update.zip?timestamp=1532528593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/shift8-remote-update\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/shift8-remote-update\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

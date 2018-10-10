@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dynamik-website-builder-and-beaver-builder-integration": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dynamik-website-builder-and-beaver-builder-integration",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 107068,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamik-website-builder-and-beaver-builder-integration.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamik-website-builder-and-beaver-builder-integration\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamik-website-builder-and-beaver-builder-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dynamik-website-builder-and-beaver-builder-integration",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 107069,
+                "time": "2015-04-03 02:41:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dynamik-website-builder-and-beaver-builder-integration.zip?timestamp=1428028873"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dynamik-website-builder-and-beaver-builder-integration\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dynamik-website-builder-and-beaver-builder-integration\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

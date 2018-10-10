@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-modern-password-hashing": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/wp-modern-password-hashing",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 424130,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-modern-password-hashing.zip?timestamp=1538522300"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-modern-password-hashing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-modern-password-hashing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-modern-password-hashing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 424131,
+                "time": "2018-10-02 23:18:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-modern-password-hashing.zip?timestamp=1538522300"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-modern-password-hashing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-modern-password-hashing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

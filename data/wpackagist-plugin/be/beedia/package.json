@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/beedia": {
+            "2.0.1": {
+                "name": "wpackagist-plugin\/beedia",
+                "version": "2.0.1",
+                "version_normalized": "2.0.1.0",
+                "uid": 38742,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beedia.zip?timestamp=1530351176"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beedia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beedia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/beedia",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 38743,
+                "time": "2018-06-30 09:32:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/beedia.zip?timestamp=1530351176"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/beedia\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/beedia\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

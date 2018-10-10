@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wsfed-client": {
+            "1.0.15": {
+                "name": "wpackagist-plugin\/wsfed-client",
+                "version": "1.0.15",
+                "version_normalized": "1.0.15.0",
+                "uid": 445115,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wsfed-client.1.0.15.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wsfed-client\/",
+                    "reference": "tags\/1.0.15"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wsfed-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wsfed-client",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 445116,
+                "time": "2018-02-23 05:40:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wsfed-client.zip?timestamp=1519364422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wsfed-client\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wsfed-client\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

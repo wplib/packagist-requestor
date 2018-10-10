@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/saksh-wp-smtp": {
+            "4.1.1": {
+                "name": "wpackagist-plugin\/saksh-wp-smtp",
+                "version": "4.1.1",
+                "version_normalized": "4.1.1.0",
+                "uid": 298350,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/saksh-wp-smtp.zip?timestamp=1461328425"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/saksh-wp-smtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/saksh-wp-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/saksh-wp-smtp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 298351,
+                "time": "2016-04-22 12:33:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/saksh-wp-smtp.zip?timestamp=1461328425"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/saksh-wp-smtp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/saksh-wp-smtp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

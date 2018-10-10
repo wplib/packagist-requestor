@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ie-compatibility-mode-checker": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ie-compatibility-mode-checker",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 171523,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ie-compatibility-mode-checker.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ie-compatibility-mode-checker\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ie-compatibility-mode-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ie-compatibility-mode-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171524,
+                "time": "2017-11-10 09:46:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ie-compatibility-mode-checker.zip?timestamp=1510307196"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ie-compatibility-mode-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ie-compatibility-mode-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

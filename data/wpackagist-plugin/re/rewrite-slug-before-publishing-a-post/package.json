@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rewrite-slug-before-publishing-a-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/rewrite-slug-before-publishing-a-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 292256,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rewrite-slug-before-publishing-a-post.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rewrite-slug-before-publishing-a-post\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rewrite-slug-before-publishing-a-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rewrite-slug-before-publishing-a-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 292257,
+                "time": "2016-06-09 10:39:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rewrite-slug-before-publishing-a-post.zip?timestamp=1465468772"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rewrite-slug-before-publishing-a-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rewrite-slug-before-publishing-a-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

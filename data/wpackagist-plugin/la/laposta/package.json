@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/laposta": {
+            "1.3": {
+                "name": "wpackagist-plugin\/laposta",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 192688,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/laposta.zip?timestamp=1510303689"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/laposta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/laposta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/laposta",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 192689,
+                "time": "2017-11-10 08:48:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/laposta.zip?timestamp=1510303689"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/laposta\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/laposta\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/http-flood": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/http-flood",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 168779,
+                "time": "2018-02-06 10:35:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/http-flood.zip?timestamp=1517913323"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/http-flood\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/http-flood\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

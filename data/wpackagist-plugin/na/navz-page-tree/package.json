@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/navz-page-tree": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/navz-page-tree",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 229663,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/navz-page-tree.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/navz-page-tree\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/navz-page-tree\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/navz-page-tree",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229664,
+                "time": "2016-05-28 10:18:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/navz-page-tree.zip?timestamp=1464430734"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/navz-page-tree\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/navz-page-tree\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

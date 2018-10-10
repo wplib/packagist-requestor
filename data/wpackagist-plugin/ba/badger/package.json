@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/badger": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/badger",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 35153,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badger.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badger\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/badger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35154,
+                "time": "2017-12-08 13:17:59",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badger.zip?timestamp=1512739079"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

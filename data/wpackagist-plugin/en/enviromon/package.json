@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/enviromon": {
+            "0.5": {
+                "name": "wpackagist-plugin\/enviromon",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 120752,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enviromon.zip?timestamp=1529456933"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enviromon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enviromon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/enviromon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 120753,
+                "time": "2018-06-20 01:08:53",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/enviromon.zip?timestamp=1529456933"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/enviromon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/enviromon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

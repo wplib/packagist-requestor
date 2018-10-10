@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/kpir": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/kpir",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 191362,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kpir.zip?timestamp=1536823422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kpir\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kpir\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/kpir",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 191363,
+                "time": "2018-09-13 07:23:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/kpir.zip?timestamp=1536823422"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/kpir\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/kpir\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

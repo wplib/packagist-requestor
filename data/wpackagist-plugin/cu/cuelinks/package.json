@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cuelinks": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cuelinks",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87826,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cuelinks.zip?timestamp=1480067881"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cuelinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cuelinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cuelinks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87827,
+                "time": "2016-11-25 09:58:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cuelinks.zip?timestamp=1480067881"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cuelinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cuelinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

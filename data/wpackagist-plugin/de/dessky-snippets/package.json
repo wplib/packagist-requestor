@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dessky-snippets": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dessky-snippets",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 97950,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dessky-snippets.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dessky-snippets\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dessky-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dessky-snippets",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 97951,
+                "time": "2017-03-25 16:02:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dessky-snippets.zip?timestamp=1490457748"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dessky-snippets\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dessky-snippets\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

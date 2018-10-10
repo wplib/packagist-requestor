@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/social-shadow": {
+            "1.0": {
+                "name": "wpackagist-plugin\/social-shadow",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 329372,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-shadow.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-shadow\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-shadow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/social-shadow",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 329373,
+                "time": "2016-08-06 23:41:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/social-shadow.zip?timestamp=1470526864"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/social-shadow\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/social-shadow\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

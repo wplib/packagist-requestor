@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mailerlite-featured-image-in-rss-feed": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/mailerlite-featured-image-in-rss-feed",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206892,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailerlite-featured-image-in-rss-feed.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailerlite-featured-image-in-rss-feed\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailerlite-featured-image-in-rss-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mailerlite-featured-image-in-rss-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206893,
+                "time": "2018-06-14 17:38:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mailerlite-featured-image-in-rss-feed.zip?timestamp=1528997904"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mailerlite-featured-image-in-rss-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mailerlite-featured-image-in-rss-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

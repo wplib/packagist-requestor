@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/smsfly": {
+            "1.0": {
+                "name": "wpackagist-plugin\/smsfly",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 326309,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smsfly.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smsfly\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smsfly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/smsfly",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 326310,
+                "time": "2017-03-20 13:03:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/smsfly.zip?timestamp=1490014987"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/smsfly\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/smsfly\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

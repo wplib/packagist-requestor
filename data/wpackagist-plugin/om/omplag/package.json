@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/omplag": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/omplag",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 241117,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/omplag.zip?timestamp=1538551768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/omplag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/omplag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/omplag",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 241118,
+                "time": "2018-10-03 07:29:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/omplag.zip?timestamp=1538551768"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/omplag\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/omplag\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

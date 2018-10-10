@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpjm-opening-hours": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpjm-opening-hours",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441888,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpjm-opening-hours.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpjm-opening-hours\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpjm-opening-hours\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpjm-opening-hours",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441889,
+                "time": "2017-05-03 11:25:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpjm-opening-hours.zip?timestamp=1493810714"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpjm-opening-hours\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpjm-opening-hours\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

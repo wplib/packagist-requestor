@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/live-photos": {
+            "0.1": {
+                "name": "wpackagist-plugin\/live-photos",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 200975,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-photos.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-photos\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/live-photos",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200976,
+                "time": "2017-04-24 17:44:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/live-photos.zip?timestamp=1493055878"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/live-photos\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/live-photos\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

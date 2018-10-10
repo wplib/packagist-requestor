@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/log-deprecated-calls": {
+            "1.4": {
+                "name": "wpackagist-plugin\/log-deprecated-calls",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "uid": 202639,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/log-deprecated-calls.1.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/log-deprecated-calls\/",
+                    "reference": "tags\/1.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/log-deprecated-calls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/log-deprecated-calls",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202640,
+                "time": "2016-04-25 21:50:52",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/log-deprecated-calls.zip?timestamp=1461621052"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/log-deprecated-calls\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/log-deprecated-calls\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

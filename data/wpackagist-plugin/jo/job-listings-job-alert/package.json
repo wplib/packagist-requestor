@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/job-listings-job-alert": {
+            "0.1.0": {
+                "name": "wpackagist-plugin\/job-listings-job-alert",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "uid": 184388,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings-job-alert.0.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings-job-alert\/",
+                    "reference": "tags\/0.1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings-job-alert\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/job-listings-job-alert",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184389,
+                "time": "2017-05-29 04:02:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/job-listings-job-alert.zip?timestamp=1496030540"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/job-listings-job-alert\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/job-listings-job-alert\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

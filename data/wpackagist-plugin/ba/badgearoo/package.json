@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/badgearoo": {
+            "1.0.14": {
+                "name": "wpackagist-plugin\/badgearoo",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "uid": 35075,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badgearoo.zip?timestamp=1488261377"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badgearoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badgearoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/badgearoo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 35076,
+                "time": "2017-02-28 05:56:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/badgearoo.zip?timestamp=1488261377"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/badgearoo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/badgearoo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

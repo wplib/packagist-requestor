@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/coon-google-maps": {
+            "1.0": {
+                "name": "wpackagist-plugin\/coon-google-maps",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 82885,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coon-google-maps.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coon-google-maps\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coon-google-maps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/coon-google-maps",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 82886,
+                "time": "2015-02-03 14:57:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/coon-google-maps.zip?timestamp=1422975420"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/coon-google-maps\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/coon-google-maps\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

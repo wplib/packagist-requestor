@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/adv-graphicmail": {
+            "1.0": {
+                "name": "wpackagist-plugin\/adv-graphicmail",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 11159,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adv-graphicmail.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adv-graphicmail\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adv-graphicmail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/adv-graphicmail",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 11160,
+                "time": "2015-03-26 11:25:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/adv-graphicmail.zip?timestamp=1427369113"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/adv-graphicmail\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/adv-graphicmail\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

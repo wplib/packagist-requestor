@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jetrouter": {
+            "0.1.2.1": {
+                "name": "wpackagist-plugin\/jetrouter",
+                "version": "0.1.2.1",
+                "version_normalized": "0.1.2.1",
+                "uid": 183530,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetrouter.0.1.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetrouter\/",
+                    "reference": "tags\/0.1.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetrouter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jetrouter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183531,
+                "time": "2017-06-08 15:09:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jetrouter.zip?timestamp=1496934575"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jetrouter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jetrouter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

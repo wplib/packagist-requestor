@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hot-weather": {
+            "1.2": {
+                "name": "wpackagist-plugin\/hot-weather",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 167511,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hot-weather.zip?timestamp=1519206751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hot-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hot-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hot-weather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 167512,
+                "time": "2018-02-21 09:52:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hot-weather.zip?timestamp=1519206751"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hot-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hot-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

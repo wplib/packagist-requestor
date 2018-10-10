@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/litesub": {
+            "1.0": {
+                "name": "wpackagist-plugin\/litesub",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 200303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/litesub.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/litesub\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/litesub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/litesub",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 200304,
+                "time": "2018-03-01 17:53:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/litesub.zip?timestamp=1519926781"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/litesub\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/litesub\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

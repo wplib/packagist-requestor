@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/prism": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/prism",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 269284,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prism.zip?timestamp=1475404724"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prism\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/prism",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 269285,
+                "time": "2016-10-02 10:38:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/prism.zip?timestamp=1475404724"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/prism\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/prism\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

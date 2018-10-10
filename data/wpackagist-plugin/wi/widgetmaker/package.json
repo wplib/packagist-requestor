@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/widgetmaker": {
+            "1.3.9": {
+                "name": "wpackagist-plugin\/widgetmaker",
+                "version": "1.3.9",
+                "version_normalized": "1.3.9.0",
+                "uid": 386763,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgetmaker.zip?timestamp=1516109930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgetmaker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgetmaker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/widgetmaker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 386764,
+                "time": "2018-01-16 13:38:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/widgetmaker.zip?timestamp=1516109930"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/widgetmaker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/widgetmaker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

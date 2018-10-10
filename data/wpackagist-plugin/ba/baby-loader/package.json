@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/baby-loader": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/baby-loader",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 34336,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/baby-loader.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/baby-loader\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/baby-loader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/baby-loader",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 34337,
+                "time": "2017-12-03 04:09:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/baby-loader.zip?timestamp=1512274158"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/baby-loader\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/baby-loader\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

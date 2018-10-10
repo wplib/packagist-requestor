@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mahjong-tiles": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mahjong-tiles",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206271,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mahjong-tiles.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mahjong-tiles\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mahjong-tiles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mahjong-tiles",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206272,
+                "time": "2017-06-01 05:22:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mahjong-tiles.zip?timestamp=1496294562"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mahjong-tiles\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mahjong-tiles\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

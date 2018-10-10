@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/benchmark-email-integration-for-cf7": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/benchmark-email-integration-for-cf7",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 39187,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/benchmark-email-integration-for-cf7.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/benchmark-email-integration-for-cf7\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/benchmark-email-integration-for-cf7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/benchmark-email-integration-for-cf7",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 39188,
+                "time": "2015-07-24 19:37:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/benchmark-email-integration-for-cf7.zip?timestamp=1437766658"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/benchmark-email-integration-for-cf7\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/benchmark-email-integration-for-cf7\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

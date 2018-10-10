@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/miniorange-saml-cloud": {
+            "5.0.3": {
+                "name": "wpackagist-plugin\/miniorange-saml-cloud",
+                "version": "5.0.3",
+                "version_normalized": "5.0.3.0",
+                "uid": 218512,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miniorange-saml-cloud.5.0.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miniorange-saml-cloud\/",
+                    "reference": "tags\/5.0.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miniorange-saml-cloud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/miniorange-saml-cloud",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 218513,
+                "time": "2018-02-22 17:49:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/miniorange-saml-cloud.zip?timestamp=1519321743"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/miniorange-saml-cloud\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/miniorange-saml-cloud\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

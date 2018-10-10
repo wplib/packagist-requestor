@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/button": {
+            "1.1.4": {
+                "name": "wpackagist-plugin\/button",
+                "version": "1.1.4",
+                "version_normalized": "1.1.4.0",
+                "uid": 57574,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/button.zip?timestamp=1537343409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 57575,
+                "time": "2018-09-19 07:50:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/button.zip?timestamp=1537343409"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

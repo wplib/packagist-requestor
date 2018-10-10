@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/osi-affiliate": {
+            "1.1.1": {
+                "name": "wpackagist-plugin\/osi-affiliate",
+                "version": "1.1.1",
+                "version_normalized": "1.1.1.0",
+                "uid": 245666,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/osi-affiliate.1.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/osi-affiliate\/",
+                    "reference": "tags\/1.1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/osi-affiliate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/osi-affiliate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 245667,
+                "time": "2017-06-27 20:09:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/osi-affiliate.zip?timestamp=1498594144"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/osi-affiliate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/osi-affiliate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

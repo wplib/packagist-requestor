@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tizra-connect": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/tizra-connect",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 356196,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tizra-connect.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tizra-connect\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tizra-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tizra-connect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356197,
+                "time": "2017-05-30 16:43:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tizra-connect.zip?timestamp=1496162593"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tizra-connect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tizra-connect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

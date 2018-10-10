@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/setmore-plus": {
+            "3.7.1": {
+                "name": "wpackagist-plugin\/setmore-plus",
+                "version": "3.7.1",
+                "version_normalized": "3.7.1.0",
+                "uid": 306638,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/setmore-plus.3.7.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/setmore-plus\/",
+                    "reference": "tags\/3.7.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/setmore-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/setmore-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 306639,
+                "time": "2018-05-22 19:04:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/setmore-plus.zip?timestamp=1527015862"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/setmore-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/setmore-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

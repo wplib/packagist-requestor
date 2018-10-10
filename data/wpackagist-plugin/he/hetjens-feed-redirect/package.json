@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hetjens-feed-redirect": {
+            "0.4": {
+                "name": "wpackagist-plugin\/hetjens-feed-redirect",
+                "version": "0.4",
+                "version_normalized": "0.4.0.0",
+                "uid": 165014,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hetjens-feed-redirect.0.4.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hetjens-feed-redirect\/",
+                    "reference": "tags\/0.4"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hetjens-feed-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hetjens-feed-redirect",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 165015,
+                "time": "2016-02-25 19:39:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hetjens-feed-redirect.zip?timestamp=1456429147"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hetjens-feed-redirect\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hetjens-feed-redirect\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

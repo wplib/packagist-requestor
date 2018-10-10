@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/a360-embedder": {
+            "0.1": {
+                "name": "wpackagist-plugin\/a360-embedder",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 2201,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/a360-embedder.zip?timestamp=1500838749"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/a360-embedder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/a360-embedder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/a360-embedder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 2202,
+                "time": "2017-07-23 19:39:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/a360-embedder.zip?timestamp=1500838749"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/a360-embedder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/a360-embedder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

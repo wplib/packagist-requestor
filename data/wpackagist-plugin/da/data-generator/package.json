@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/data-generator": {
+            "1.1": {
+                "name": "wpackagist-plugin\/data-generator",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 94641,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/data-generator.zip?timestamp=1477829555"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/data-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/data-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/data-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94642,
+                "time": "2016-10-30 12:12:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/data-generator.zip?timestamp=1477829555"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/data-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/data-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

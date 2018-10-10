@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/css-share-buttons": {
+            "1.0": {
+                "name": "wpackagist-plugin\/css-share-buttons",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 87282,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-share-buttons.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-share-buttons\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-share-buttons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/css-share-buttons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87283,
+                "time": "2016-04-28 18:14:03",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/css-share-buttons.zip?timestamp=1461867243"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/css-share-buttons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/css-share-buttons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

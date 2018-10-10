@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/psygraph": {
+            "0.8.6": {
+                "name": "wpackagist-plugin\/psygraph",
+                "version": "0.8.6",
+                "version_normalized": "0.8.6.0",
+                "uid": 272810,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/psygraph.0.8.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/psygraph\/",
+                    "reference": "tags\/0.8.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/psygraph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/psygraph",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 272811,
+                "time": "2018-03-03 00:42:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/psygraph.zip?timestamp=1520037728"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/psygraph\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/psygraph\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/call-button": {
+            "1.0": {
+                "name": "wpackagist-plugin\/call-button",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 59124,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/call-button.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/call-button\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/call-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/call-button",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59125,
+                "time": "2017-07-04 01:47:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/call-button.zip?timestamp=1499132843"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/call-button\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/call-button\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

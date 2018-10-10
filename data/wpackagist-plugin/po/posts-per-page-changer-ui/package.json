@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/posts-per-page-changer-ui": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/posts-per-page-changer-ui",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 266296,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-per-page-changer-ui.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-per-page-changer-ui\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-per-page-changer-ui\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/posts-per-page-changer-ui",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 266297,
+                "time": "2018-08-02 14:24:48",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/posts-per-page-changer-ui.zip?timestamp=1533219888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/posts-per-page-changer-ui\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/posts-per-page-changer-ui\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

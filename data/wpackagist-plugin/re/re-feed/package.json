@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/re-feed": {
+            "1.1": {
+                "name": "wpackagist-plugin\/re-feed",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 281647,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/re-feed.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/re-feed\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/re-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/re-feed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 281648,
+                "time": "2017-10-09 13:40:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/re-feed.zip?timestamp=1507556445"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/re-feed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/re-feed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

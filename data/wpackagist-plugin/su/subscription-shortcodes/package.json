@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subscription-shortcodes": {
+            "v1.0.0-Beta-1": {
+                "name": "wpackagist-plugin\/subscription-shortcodes",
+                "version": "v1.0.0-Beta-1",
+                "version_normalized": "1.0.0.0-beta1",
+                "uid": 340463,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscription-shortcodes.v1.0.0-Beta-1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscription-shortcodes\/",
+                    "reference": "tags\/v1.0.0-Beta-1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscription-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subscription-shortcodes",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 340464,
+                "time": "2016-07-22 05:42:15",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subscription-shortcodes.zip?timestamp=1469166135"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subscription-shortcodes\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subscription-shortcodes\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-ultimate-reviews-free": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/wp-ultimate-reviews-free",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 437444,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-ultimate-reviews-free.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-ultimate-reviews-free\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-ultimate-reviews-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-ultimate-reviews-free",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 437445,
+                "time": "2018-06-18 16:49:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-ultimate-reviews-free.zip?timestamp=1529340590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-ultimate-reviews-free\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-ultimate-reviews-free\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

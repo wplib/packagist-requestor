@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/on-page-and-post-seo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/on-page-and-post-seo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 241174,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/on-page-and-post-seo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/on-page-and-post-seo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/on-page-and-post-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/on-page-and-post-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 241175,
+                "time": "2016-12-14 17:35:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/on-page-and-post-seo.zip?timestamp=1481736954"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/on-page-and-post-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/on-page-and-post-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

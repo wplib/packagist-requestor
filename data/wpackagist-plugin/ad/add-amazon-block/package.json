@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/add-amazon-block": {
+            "0.2.1": {
+                "name": "wpackagist-plugin\/add-amazon-block",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "uid": 6864,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-amazon-block.0.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-amazon-block\/",
+                    "reference": "tags\/0.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-amazon-block\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/add-amazon-block",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6865,
+                "time": "2018-01-09 08:36:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/add-amazon-block.zip?timestamp=1515486974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/add-amazon-block\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/add-amazon-block\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

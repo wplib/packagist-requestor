@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/3dvieweronline-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/3dvieweronline-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 1212,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/3dvieweronline-wp.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/3dvieweronline-wp\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/3dvieweronline-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/3dvieweronline-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 1213,
+                "time": "2018-10-06 08:51:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/3dvieweronline-wp.zip?timestamp=1538815868"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/3dvieweronline-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/3dvieweronline-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

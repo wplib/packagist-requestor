@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/get-backlinks": {
+            "1.0": {
+                "name": "wpackagist-plugin\/get-backlinks",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 150433,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-backlinks.zip?timestamp=1486134701"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-backlinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-backlinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/get-backlinks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150434,
+                "time": "2017-02-03 15:11:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/get-backlinks.zip?timestamp=1486134701"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/get-backlinks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/get-backlinks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

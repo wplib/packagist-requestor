@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/rest-logger": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/rest-logger",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 290460,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-logger.zip?timestamp=1481290353"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-logger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-logger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/rest-logger",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 290461,
+                "time": "2016-12-09 13:32:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/rest-logger.zip?timestamp=1481290353"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/rest-logger\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/rest-logger\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

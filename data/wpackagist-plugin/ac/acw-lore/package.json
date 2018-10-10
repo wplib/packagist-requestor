@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acw-lore": {
+            "1.0": {
+                "name": "wpackagist-plugin\/acw-lore",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 6123,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acw-lore.zip?timestamp=1423077216"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acw-lore\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acw-lore\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acw-lore",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 6124,
+                "time": "2015-02-04 19:13:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acw-lore.zip?timestamp=1423077216"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acw-lore\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acw-lore\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

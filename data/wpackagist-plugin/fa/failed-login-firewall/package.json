@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/failed-login-firewall": {
+            "0.2": {
+                "name": "wpackagist-plugin\/failed-login-firewall",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 128802,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/failed-login-firewall.zip?timestamp=1485197499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/failed-login-firewall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/failed-login-firewall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/failed-login-firewall",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 128803,
+                "time": "2017-01-23 18:51:39",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/failed-login-firewall.zip?timestamp=1485197499"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/failed-login-firewall\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/failed-login-firewall\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

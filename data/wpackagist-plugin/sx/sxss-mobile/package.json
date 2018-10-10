@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sxss-mobile": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sxss-mobile",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 343997,
+                "time": "2016-01-24 11:09:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sxss-mobile.zip?timestamp=1453633778"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sxss-mobile\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sxss-mobile\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/support-helper": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/support-helper",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 342358,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/support-helper.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/support-helper\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/support-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/support-helper",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 342359,
+                "time": "2018-02-09 03:27:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/support-helper.zip?timestamp=1518146871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/support-helper\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/support-helper\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

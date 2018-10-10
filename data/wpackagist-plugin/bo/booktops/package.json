@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/booktops": {
+            "1.1": {
+                "name": "wpackagist-plugin\/booktops",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 48803,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/booktops.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/booktops\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/booktops\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/booktops",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 48804,
+                "time": "2017-03-27 12:48:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/booktops.zip?timestamp=1490618915"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/booktops\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/booktops\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hatch-for-wp": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hatch-for-wp",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 163019,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hatch-for-wp.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hatch-for-wp\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hatch-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hatch-for-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 163020,
+                "time": "2016-08-02 08:24:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hatch-for-wp.zip?timestamp=1470126262"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hatch-for-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hatch-for-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

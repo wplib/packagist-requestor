@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hooks": {
+            "1.1.0": {
+                "name": "wpackagist-plugin\/hooks",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "uid": 167127,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hooks.zip?timestamp=1478034856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hooks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 167128,
+                "time": "2016-11-01 21:14:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hooks.zip?timestamp=1478034856"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hooks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hooks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

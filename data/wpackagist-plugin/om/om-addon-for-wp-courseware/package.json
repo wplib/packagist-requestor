@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/om-addon-for-wp-courseware": {
+            "1.1": {
+                "name": "wpackagist-plugin\/om-addon-for-wp-courseware",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 240810,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/om-addon-for-wp-courseware.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/om-addon-for-wp-courseware\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/om-addon-for-wp-courseware\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/om-addon-for-wp-courseware",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 240811,
+                "time": "2018-05-31 14:33:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/om-addon-for-wp-courseware.zip?timestamp=1527777181"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/om-addon-for-wp-courseware\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/om-addon-for-wp-courseware\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

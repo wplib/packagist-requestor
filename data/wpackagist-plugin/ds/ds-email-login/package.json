@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ds-email-login": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/ds-email-login",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 105231,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ds-email-login.zip?timestamp=1420490481"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ds-email-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ds-email-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ds-email-login",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105232,
+                "time": "2015-01-05 20:41:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ds-email-login.zip?timestamp=1420490481"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ds-email-login\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ds-email-login\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

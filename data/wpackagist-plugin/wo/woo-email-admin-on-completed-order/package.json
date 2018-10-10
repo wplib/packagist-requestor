@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woo-email-admin-on-completed-order": {
+            "0.1": {
+                "name": "wpackagist-plugin\/woo-email-admin-on-completed-order",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 389889,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-email-admin-on-completed-order.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-email-admin-on-completed-order\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-email-admin-on-completed-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woo-email-admin-on-completed-order",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 389890,
+                "time": "2018-07-09 06:10:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woo-email-admin-on-completed-order.zip?timestamp=1531116618"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woo-email-admin-on-completed-order\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woo-email-admin-on-completed-order\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

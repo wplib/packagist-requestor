@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fmenu": {
+            "1.1": {
+                "name": "wpackagist-plugin\/fmenu",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 138304,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fmenu.zip?timestamp=1464791406"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fmenu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fmenu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fmenu",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 138305,
+                "time": "2016-06-01 14:30:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fmenu.zip?timestamp=1464791406"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fmenu\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fmenu\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dagens-horoskop": {
+            "1.0": {
+                "name": "wpackagist-plugin\/dagens-horoskop",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 93440,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dagens-horoskop.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dagens-horoskop\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dagens-horoskop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dagens-horoskop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 93441,
+                "time": "2017-01-24 12:36:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dagens-horoskop.zip?timestamp=1485261374"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dagens-horoskop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dagens-horoskop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

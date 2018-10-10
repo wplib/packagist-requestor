@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/custom-fonts-for-beaver-builder": {
+            "1.0": {
+                "name": "wpackagist-plugin\/custom-fonts-for-beaver-builder",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 89849,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-fonts-for-beaver-builder.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-fonts-for-beaver-builder\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-fonts-for-beaver-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/custom-fonts-for-beaver-builder",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 89850,
+                "time": "2018-02-18 08:19:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/custom-fonts-for-beaver-builder.zip?timestamp=1518941981"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/custom-fonts-for-beaver-builder\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/custom-fonts-for-beaver-builder\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

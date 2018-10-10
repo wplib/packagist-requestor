@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/well-known-uris": {
+            "1.0.3": {
+                "name": "wpackagist-plugin\/well-known-uris",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "uid": 384552,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/well-known-uris.zip?timestamp=1478179256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/well-known-uris\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/well-known-uris\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/well-known-uris",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 384553,
+                "time": "2016-11-03 13:20:56",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/well-known-uris.zip?timestamp=1478179256"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/well-known-uris\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/well-known-uris\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

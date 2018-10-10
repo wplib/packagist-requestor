@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/home-slider": {
+            "1.0": {
+                "name": "wpackagist-plugin\/home-slider",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 166957,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/home-slider.zip?timestamp=1439492684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/home-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/home-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/home-slider",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166958,
+                "time": "2015-08-13 19:04:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/home-slider.zip?timestamp=1439492684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/home-slider\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/home-slider\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

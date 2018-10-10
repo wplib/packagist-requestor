@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gameconfs-widget": {
+            "1.1": {
+                "name": "wpackagist-plugin\/gameconfs-widget",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 146970,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gameconfs-widget.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gameconfs-widget\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gameconfs-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gameconfs-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 146971,
+                "time": "2016-03-10 10:45:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gameconfs-widget.zip?timestamp=1457606704"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gameconfs-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gameconfs-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

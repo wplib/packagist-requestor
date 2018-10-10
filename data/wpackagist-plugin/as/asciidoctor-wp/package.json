@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/asciidoctor-wp": {
+            "1.2.4": {
+                "name": "wpackagist-plugin\/asciidoctor-wp",
+                "version": "1.2.4",
+                "version_normalized": "1.2.4.0",
+                "uid": 27258,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciidoctor-wp.zip?timestamp=1457130065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciidoctor-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciidoctor-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/asciidoctor-wp",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27259,
+                "time": "2016-03-04 22:21:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/asciidoctor-wp.zip?timestamp=1457130065"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/asciidoctor-wp\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/asciidoctor-wp\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

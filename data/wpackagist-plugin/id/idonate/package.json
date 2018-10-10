@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/idonate": {
+            "1.3": {
+                "name": "wpackagist-plugin\/idonate",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 171384,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idonate.zip?timestamp=1521663804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idonate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idonate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/idonate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 171385,
+                "time": "2018-03-21 20:23:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/idonate.zip?timestamp=1521663804"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/idonate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/idonate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

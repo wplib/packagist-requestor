@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/blackboxcool": {
+            "0.1": {
+                "name": "wpackagist-plugin\/blackboxcool",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 43213,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blackboxcool.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blackboxcool\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blackboxcool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/blackboxcool",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 43214,
+                "time": "2016-08-09 17:39:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/blackboxcool.zip?timestamp=1470764372"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/blackboxcool\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/blackboxcool\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

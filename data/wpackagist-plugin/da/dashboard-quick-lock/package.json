@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dashboard-quick-lock": {
+            "1.2": {
+                "name": "wpackagist-plugin\/dashboard-quick-lock",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "uid": 94473,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashboard-quick-lock.1.2.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashboard-quick-lock\/",
+                    "reference": "tags\/1.2"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashboard-quick-lock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dashboard-quick-lock",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 94474,
+                "time": "2016-03-29 08:58:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dashboard-quick-lock.zip?timestamp=1459241924"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dashboard-quick-lock\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dashboard-quick-lock\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

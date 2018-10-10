@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-add-on-salesforce": {
+            "2.0": {
+                "name": "wpackagist-plugin\/gf-add-on-salesforce",
+                "version": "2.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 151110,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-add-on-salesforce.2.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-add-on-salesforce\/",
+                    "reference": "tags\/2.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-add-on-salesforce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-add-on-salesforce",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151111,
+                "time": "2018-01-15 09:14:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-add-on-salesforce.zip?timestamp=1516007659"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-add-on-salesforce\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-add-on-salesforce\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

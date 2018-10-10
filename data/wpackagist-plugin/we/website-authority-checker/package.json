@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/website-authority-checker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/website-authority-checker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383600,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-authority-checker.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-authority-checker\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-authority-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/website-authority-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383601,
+                "time": "2016-12-18 18:26:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-authority-checker.zip?timestamp=1482085598"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-authority-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-authority-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

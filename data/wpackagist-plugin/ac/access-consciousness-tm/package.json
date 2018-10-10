@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/access-consciousness-tm": {
+            "2.1.3": {
+                "name": "wpackagist-plugin\/access-consciousness-tm",
+                "version": "2.1.3",
+                "version_normalized": "2.1.3.0",
+                "uid": 3380,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/access-consciousness-tm.2.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/access-consciousness-tm\/",
+                    "reference": "tags\/2.1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/access-consciousness-tm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/access-consciousness-tm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 3381,
+                "time": "2018-07-31 13:07:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/access-consciousness-tm.zip?timestamp=1533042424"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/access-consciousness-tm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/access-consciousness-tm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

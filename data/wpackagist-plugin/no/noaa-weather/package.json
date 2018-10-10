@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/noaa-weather": {
+            "1.3.13": {
+                "name": "wpackagist-plugin\/noaa-weather",
+                "version": "1.3.13",
+                "version_normalized": "1.3.13.0",
+                "uid": 236365,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/noaa-weather.zip?timestamp=1534304035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/noaa-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/noaa-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/noaa-weather",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 236366,
+                "time": "2018-08-15 03:33:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/noaa-weather.zip?timestamp=1534304035"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/noaa-weather\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/noaa-weather\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

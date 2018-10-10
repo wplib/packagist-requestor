@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/website-speed-checker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/website-speed-checker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 383696,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-speed-checker.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-speed-checker\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-speed-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/website-speed-checker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383697,
+                "time": "2017-02-24 05:20:38",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/website-speed-checker.zip?timestamp=1487913638"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/website-speed-checker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/website-speed-checker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cameleon": {
+            "1.6.0": {
+                "name": "wpackagist-plugin\/cameleon",
+                "version": "1.6.0",
+                "version_normalized": "1.6.0.0",
+                "uid": 59415,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cameleon.zip?timestamp=1426261702"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cameleon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cameleon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cameleon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59416,
+                "time": "2015-03-13 15:48:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cameleon.zip?timestamp=1426261702"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cameleon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cameleon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

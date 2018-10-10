@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/dnetwo-bot": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/dnetwo-bot",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 102529,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dnetwo-bot.zip?timestamp=1537372096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dnetwo-bot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dnetwo-bot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/dnetwo-bot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 102530,
+                "time": "2018-09-19 15:48:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/dnetwo-bot.zip?timestamp=1537372096"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/dnetwo-bot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/dnetwo-bot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

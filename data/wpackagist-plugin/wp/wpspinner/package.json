@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpspinner": {
+            "1.0.01": {
+                "name": "wpackagist-plugin\/wpspinner",
+                "version": "1.0.01",
+                "version_normalized": "1.0.01.0",
+                "uid": 443715,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpspinner.zip?timestamp=1520767396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpspinner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpspinner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpspinner",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 443716,
+                "time": "2018-03-11 11:23:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpspinner.zip?timestamp=1520767396"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpspinner\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpspinner\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/menuwizard": {
+            "1": {
+                "name": "wpackagist-plugin\/menuwizard",
+                "version": 1,
+                "version_normalized": "1.0.0.0",
+                "uid": 214735,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/menuwizard.zip?timestamp=1470741428"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/menuwizard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/menuwizard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/menuwizard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214736,
+                "time": "2016-08-09 11:17:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/menuwizard.zip?timestamp=1470741428"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/menuwizard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/menuwizard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

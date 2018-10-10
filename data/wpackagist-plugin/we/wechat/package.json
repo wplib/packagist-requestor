@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wechat": {
+            "0.5": {
+                "name": "wpackagist-plugin\/wechat",
+                "version": "0.5",
+                "version_normalized": "0.5.0.0",
+                "uid": 383827,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wechat.zip?timestamp=1522744444"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wechat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wechat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wechat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 383828,
+                "time": "2018-04-03 08:34:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wechat.zip?timestamp=1522744444"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wechat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wechat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

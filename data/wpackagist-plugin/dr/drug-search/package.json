@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/drug-search": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/drug-search",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 105206,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/drug-search.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/drug-search\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/drug-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/drug-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 105207,
+                "time": "2018-05-22 18:37:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/drug-search.zip?timestamp=1527014248"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/drug-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/drug-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

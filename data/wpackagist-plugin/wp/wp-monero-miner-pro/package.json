@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-monero-miner-pro": {
+            "3.8": {
+                "name": "wpackagist-plugin\/wp-monero-miner-pro",
+                "version": "3.8",
+                "version_normalized": "3.8.0.0",
+                "uid": 424201,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-monero-miner-pro.3.8.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-monero-miner-pro\/",
+                    "reference": "tags\/3.8"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-monero-miner-pro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-monero-miner-pro",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 424202,
+                "time": "2018-02-07 22:18:08",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-monero-miner-pro.zip?timestamp=1518041888"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-monero-miner-pro\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-monero-miner-pro\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

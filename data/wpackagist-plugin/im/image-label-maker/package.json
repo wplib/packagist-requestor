@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/image-label-maker": {
+            "1.0": {
+                "name": "wpackagist-plugin\/image-label-maker",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 173271,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-label-maker.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-label-maker\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-label-maker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/image-label-maker",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 173272,
+                "time": "2018-08-20 20:05:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/image-label-maker.zip?timestamp=1534795521"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/image-label-maker\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/image-label-maker\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

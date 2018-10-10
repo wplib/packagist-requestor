@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/digipass": {
+            "0.2.1": {
+                "name": "wpackagist-plugin\/digipass",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "uid": 99303,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digipass.0.2.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digipass\/",
+                    "reference": "tags\/0.2.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digipass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "0.3.0": {
+                "name": "wpackagist-plugin\/digipass",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "uid": 99304,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digipass.0.3.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digipass\/",
+                    "reference": "tags\/0.3.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digipass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/digipass",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 99305,
+                "time": "2016-02-28 06:47:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/digipass.zip?timestamp=1456642038"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/digipass\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/digipass\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

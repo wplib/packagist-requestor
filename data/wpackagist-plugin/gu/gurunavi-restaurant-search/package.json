@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gurunavi-restaurant-search": {
+            "0.0": {
+                "name": "wpackagist-plugin\/gurunavi-restaurant-search",
+                "version": "0.0",
+                "version_normalized": "0.0.0.0",
+                "uid": 161539,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gurunavi-restaurant-search.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gurunavi-restaurant-search\/",
+                    "reference": "tags\/0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gurunavi-restaurant-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gurunavi-restaurant-search",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 161540,
+                "time": "2017-12-19 02:00:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gurunavi-restaurant-search.zip?timestamp=1513648807"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gurunavi-restaurant-search\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gurunavi-restaurant-search\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

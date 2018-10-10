@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/cio-gravity-forms-add-on": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/cio-gravity-forms-add-on",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 68686,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cio-gravity-forms-add-on.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cio-gravity-forms-add-on\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cio-gravity-forms-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/cio-gravity-forms-add-on",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 68687,
+                "time": "2017-08-26 15:37:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/cio-gravity-forms-add-on.zip?timestamp=1503761871"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/cio-gravity-forms-add-on\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/cio-gravity-forms-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

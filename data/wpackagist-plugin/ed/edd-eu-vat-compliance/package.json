@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/edd-eu-vat-compliance": {
+            "1.0": {
+                "name": "wpackagist-plugin\/edd-eu-vat-compliance",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 113421,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-eu-vat-compliance.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-eu-vat-compliance\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-eu-vat-compliance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/edd-eu-vat-compliance",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 113422,
+                "time": "2015-02-27 06:41:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/edd-eu-vat-compliance.zip?timestamp=1425019291"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/edd-eu-vat-compliance\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/edd-eu-vat-compliance\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

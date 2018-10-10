@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/toggle-toolbar": {
+            "1601": {
+                "name": "wpackagist-plugin\/toggle-toolbar",
+                "version": 1601,
+                "version_normalized": "1601.0.0.0",
+                "uid": 356744,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toggle-toolbar.1601.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toggle-toolbar\/",
+                    "reference": "tags\/1601"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toggle-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/toggle-toolbar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 356745,
+                "time": "2016-01-29 09:46:26",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/toggle-toolbar.zip?timestamp=1454060786"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/toggle-toolbar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/toggle-toolbar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

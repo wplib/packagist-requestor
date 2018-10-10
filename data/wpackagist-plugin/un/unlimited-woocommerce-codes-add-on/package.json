@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/unlimited-woocommerce-codes-add-on": {
+            "0.1": {
+                "name": "wpackagist-plugin\/unlimited-woocommerce-codes-add-on",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 368683,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unlimited-woocommerce-codes-add-on.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unlimited-woocommerce-codes-add-on\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unlimited-woocommerce-codes-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/unlimited-woocommerce-codes-add-on",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 368684,
+                "time": "2018-05-30 20:28:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/unlimited-woocommerce-codes-add-on.zip?timestamp=1527712120"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/unlimited-woocommerce-codes-add-on\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/unlimited-woocommerce-codes-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

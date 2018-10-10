@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/subnet-info": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/subnet-info",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339786,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subnet-info.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subnet-info\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subnet-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/subnet-info",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339787,
+                "time": "2018-05-26 05:05:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/subnet-info.zip?timestamp=1527311149"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/subnet-info\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/subnet-info\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

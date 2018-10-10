@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/getcontentfromurl": {
+            "1.0": {
+                "name": "wpackagist-plugin\/getcontentfromurl",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 150842,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/getcontentfromurl.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/getcontentfromurl\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/getcontentfromurl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/getcontentfromurl",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150843,
+                "time": "2017-07-14 18:53:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/getcontentfromurl.zip?timestamp=1500058400"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/getcontentfromurl\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/getcontentfromurl\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

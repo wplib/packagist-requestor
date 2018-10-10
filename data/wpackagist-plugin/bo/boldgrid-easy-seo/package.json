@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/boldgrid-easy-seo": {
+            "1.5.1": {
+                "name": "wpackagist-plugin\/boldgrid-easy-seo",
+                "version": "1.5.1",
+                "version_normalized": "1.5.1.0",
+                "uid": 47469,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boldgrid-easy-seo.1.5.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boldgrid-easy-seo\/",
+                    "reference": "tags\/1.5.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boldgrid-easy-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/boldgrid-easy-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47470,
+                "time": "2018-01-10 14:33:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/boldgrid-easy-seo.zip?timestamp=1515594802"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/boldgrid-easy-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/boldgrid-easy-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

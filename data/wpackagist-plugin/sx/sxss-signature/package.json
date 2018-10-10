@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sxss-signature": {
+            "1.4.1": {
+                "name": "wpackagist-plugin\/sxss-signature",
+                "version": "1.4.1",
+                "version_normalized": "1.4.1.0",
+                "uid": 344002,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sxss-signature.zip?timestamp=1456082250"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sxss-signature\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sxss-signature\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sxss-signature",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 344003,
+                "time": "2016-02-21 19:17:30",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sxss-signature.zip?timestamp=1456082250"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sxss-signature\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sxss-signature\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

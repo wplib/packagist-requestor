@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpfomo": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpfomo",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 441291,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfomo.zip?timestamp=1509122591"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfomo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfomo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpfomo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 441292,
+                "time": "2017-10-27 16:43:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpfomo.zip?timestamp=1509122591"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpfomo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpfomo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

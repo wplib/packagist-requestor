@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/analyticator": {
+            "2.0.0": {
+                "name": "wpackagist-plugin\/analyticator",
+                "version": "2.0.0",
+                "version_normalized": "2.0.0.0",
+                "uid": 21682,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analyticator.zip?timestamp=1515611755"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analyticator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analyticator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/analyticator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21683,
+                "time": "2018-01-10 19:15:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analyticator.zip?timestamp=1515611755"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analyticator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analyticator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

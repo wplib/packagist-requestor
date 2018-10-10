@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/analytics-tracking": {
+            "2.6": {
+                "name": "wpackagist-plugin\/analytics-tracking",
+                "version": "2.6",
+                "version_normalized": "2.6.0.0",
+                "uid": 21814,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analytics-tracking.2.6.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analytics-tracking\/",
+                    "reference": "tags\/2.6"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analytics-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/analytics-tracking",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 21815,
+                "time": "2018-03-07 08:53:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/analytics-tracking.zip?timestamp=1520412835"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/analytics-tracking\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/analytics-tracking\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

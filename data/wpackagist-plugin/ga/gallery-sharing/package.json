@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gallery-sharing": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gallery-sharing",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 146704,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gallery-sharing.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gallery-sharing\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gallery-sharing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gallery-sharing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 146705,
+                "time": "2017-04-20 06:40:06",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gallery-sharing.zip?timestamp=1492670406"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gallery-sharing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gallery-sharing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

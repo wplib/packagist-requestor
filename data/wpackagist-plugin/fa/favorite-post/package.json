@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/favorite-post": {
+            "1.0": {
+                "name": "wpackagist-plugin\/favorite-post",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 130183,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/favorite-post.zip?timestamp=1477296853"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/favorite-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/favorite-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/favorite-post",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 130184,
+                "time": "2016-10-24 08:14:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/favorite-post.zip?timestamp=1477296853"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/favorite-post\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/favorite-post\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

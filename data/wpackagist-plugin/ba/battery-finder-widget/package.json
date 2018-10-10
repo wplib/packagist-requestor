@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/battery-finder-widget": {
+            "1.0": {
+                "name": "wpackagist-plugin\/battery-finder-widget",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 36505,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/battery-finder-widget.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/battery-finder-widget\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/battery-finder-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/battery-finder-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 36506,
+                "time": "2016-10-10 01:32:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/battery-finder-widget.zip?timestamp=1476063127"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/battery-finder-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/battery-finder-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

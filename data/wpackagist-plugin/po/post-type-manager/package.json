@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/post-type-manager": {
+            "1.0": {
+                "name": "wpackagist-plugin\/post-type-manager",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 264982,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-type-manager.zip?timestamp=1501340527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-type-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-type-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/post-type-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 264983,
+                "time": "2017-07-29 15:02:07",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/post-type-manager.zip?timestamp=1501340527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/post-type-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/post-type-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

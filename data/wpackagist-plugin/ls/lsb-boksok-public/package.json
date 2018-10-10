@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lsb-boksok-public": {
+            "1.0": {
+                "name": "wpackagist-plugin\/lsb-boksok-public",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 204334,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lsb-boksok-public.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lsb-boksok-public\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lsb-boksok-public\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lsb-boksok-public",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 204335,
+                "time": "2016-09-19 10:05:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lsb-boksok-public.zip?timestamp=1474279522"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lsb-boksok-public\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lsb-boksok-public\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

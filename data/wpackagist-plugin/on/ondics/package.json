@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ondics": {
+            "1.0": {
+                "name": "wpackagist-plugin\/ondics",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 241256,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ondics.zip?timestamp=1539006456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ondics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ondics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ondics",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 241257,
+                "time": "2018-10-08 13:47:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ondics.zip?timestamp=1539006456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ondics\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ondics\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

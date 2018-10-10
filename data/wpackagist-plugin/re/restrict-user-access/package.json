@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/restrict-user-access": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/restrict-user-access",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 291042,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-user-access.zip?timestamp=1528698261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-user-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-user-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/restrict-user-access",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 291043,
+                "time": "2018-06-11 06:24:21",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/restrict-user-access.zip?timestamp=1528698261"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/restrict-user-access\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/restrict-user-access\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

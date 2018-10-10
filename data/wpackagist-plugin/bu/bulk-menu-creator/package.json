@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bulk-menu-creator": {
+            "1.0": {
+                "name": "wpackagist-plugin\/bulk-menu-creator",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 55851,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-menu-creator.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-menu-creator\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-menu-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bulk-menu-creator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 55852,
+                "time": "2018-03-17 12:38:45",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bulk-menu-creator.zip?timestamp=1521290325"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bulk-menu-creator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bulk-menu-creator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

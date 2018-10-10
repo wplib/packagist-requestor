@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bible-plus": {
+            "3.6": {
+                "name": "wpackagist-plugin\/bible-plus",
+                "version": "3.6",
+                "version_normalized": "3.6.0.0",
+                "uid": 41085,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bible-plus.zip?timestamp=1504467016"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bible-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bible-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bible-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 41086,
+                "time": "2017-09-03 19:30:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bible-plus.zip?timestamp=1504467016"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bible-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bible-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/chatsystemio": {
+            "1.0": {
+                "name": "wpackagist-plugin\/chatsystemio",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 66579,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatsystemio.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatsystemio\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatsystemio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/chatsystemio",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 66580,
+                "time": "2015-08-16 00:41:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/chatsystemio.zip?timestamp=1439685684"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/chatsystemio\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/chatsystemio\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

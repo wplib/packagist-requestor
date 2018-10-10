@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/su-wp-email": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/su-wp-email",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 339598,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/su-wp-email.zip?timestamp=1488786404"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/su-wp-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/su-wp-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/su-wp-email",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 339599,
+                "time": "2017-03-06 07:46:44",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/su-wp-email.zip?timestamp=1488786404"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/su-wp-email\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/su-wp-email\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sm-google-plus": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/sm-google-plus",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 324199,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sm-google-plus.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sm-google-plus\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sm-google-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sm-google-plus",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 324200,
+                "time": "2016-12-21 03:56:24",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sm-google-plus.zip?timestamp=1482292584"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sm-google-plus\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sm-google-plus\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

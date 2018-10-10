@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/picosearch": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/picosearch",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 255867,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/picosearch.zip?timestamp=1530483244"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/picosearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/picosearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/picosearch",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 255868,
+                "time": "2018-07-01 22:14:04",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/picosearch.zip?timestamp=1530483244"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/picosearch\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/picosearch\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

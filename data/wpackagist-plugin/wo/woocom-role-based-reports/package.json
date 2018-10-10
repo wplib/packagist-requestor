@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocom-role-based-reports": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/woocom-role-based-reports",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 393626,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocom-role-based-reports.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocom-role-based-reports\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocom-role-based-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocom-role-based-reports",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 393627,
+                "time": "2016-10-28 21:26:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocom-role-based-reports.zip?timestamp=1477690000"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocom-role-based-reports\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocom-role-based-reports\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

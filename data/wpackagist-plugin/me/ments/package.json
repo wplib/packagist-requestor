@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ments": {
+            "2.2": {
+                "name": "wpackagist-plugin\/ments",
+                "version": "2.2",
+                "version_normalized": "2.2.0.0",
+                "uid": 214431,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ments.zip?timestamp=1516258487"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ments",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 214432,
+                "time": "2018-01-18 06:54:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ments.zip?timestamp=1516258487"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ments\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ments\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

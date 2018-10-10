@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/api-bearer-auth": {
+            "20171208": {
+                "name": "wpackagist-plugin\/api-bearer-auth",
+                "version": 20171208,
+                "version_normalized": "20171208",
+                "uid": 24030,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/api-bearer-auth.zip?timestamp=1512905299"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/api-bearer-auth\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/api-bearer-auth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/api-bearer-auth",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 24031,
+                "time": "2017-12-10 11:28:19",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/api-bearer-auth.zip?timestamp=1512905299"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/api-bearer-auth\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/api-bearer-auth\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

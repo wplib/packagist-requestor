@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/etc-mods-bundle": {
+            "1.0.5": {
+                "name": "wpackagist-plugin\/etc-mods-bundle",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "uid": 122312,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/etc-mods-bundle.zip?timestamp=1519764037"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/etc-mods-bundle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/etc-mods-bundle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/etc-mods-bundle",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 122313,
+                "time": "2018-02-27 20:40:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/etc-mods-bundle.zip?timestamp=1519764037"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/etc-mods-bundle\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/etc-mods-bundle\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

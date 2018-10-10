@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/csv-to-301-redirects": {
+            "1.0.1": {
+                "name": "wpackagist-plugin\/csv-to-301-redirects",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "uid": 87439,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/csv-to-301-redirects.1.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/csv-to-301-redirects\/",
+                    "reference": "tags\/1.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/csv-to-301-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/csv-to-301-redirects",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 87440,
+                "time": "2017-01-24 13:25:28",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/csv-to-301-redirects.zip?timestamp=1485264328"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/csv-to-301-redirects\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/csv-to-301-redirects\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

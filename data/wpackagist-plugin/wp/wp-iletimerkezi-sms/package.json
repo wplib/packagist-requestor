@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-iletimerkezi-sms": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wp-iletimerkezi-sms",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 419846,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-iletimerkezi-sms.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-iletimerkezi-sms\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-iletimerkezi-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-iletimerkezi-sms",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 419847,
+                "time": "2018-04-12 06:48:37",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-iletimerkezi-sms.zip?timestamp=1523515717"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-iletimerkezi-sms\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-iletimerkezi-sms\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

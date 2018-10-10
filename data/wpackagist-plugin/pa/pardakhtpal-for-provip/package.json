@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pardakhtpal-for-provip": {
+            "1.0": {
+                "name": "wpackagist-plugin\/pardakhtpal-for-provip",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 249497,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pardakhtpal-for-provip.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pardakhtpal-for-provip\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pardakhtpal-for-provip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pardakhtpal-for-provip",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 249498,
+                "time": "2016-02-02 07:29:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pardakhtpal-for-provip.zip?timestamp=1454398183"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pardakhtpal-for-provip\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pardakhtpal-for-provip\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

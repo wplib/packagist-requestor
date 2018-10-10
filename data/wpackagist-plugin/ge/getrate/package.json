@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/getrate": {
+            "1.01": {
+                "name": "wpackagist-plugin\/getrate",
+                "version": "1.01",
+                "version_normalized": "1.01.0.0",
+                "uid": 150889,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/getrate.zip?timestamp=1516192371"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/getrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/getrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/getrate",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 150890,
+                "time": "2018-01-17 12:32:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/getrate.zip?timestamp=1516192371"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/getrate\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/getrate\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

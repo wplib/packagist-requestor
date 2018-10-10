@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/catalogo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/catalogo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 61817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catalogo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catalogo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catalogo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/catalogo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 61818,
+                "time": "2017-04-21 09:04:16",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catalogo.zip?timestamp=1492765456"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catalogo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catalogo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

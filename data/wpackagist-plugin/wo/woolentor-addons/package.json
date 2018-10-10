@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woolentor-addons": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/woolentor-addons",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 399906,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woolentor-addons.zip?timestamp=1534315992"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woolentor-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woolentor-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woolentor-addons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 399907,
+                "time": "2018-08-15 06:53:12",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woolentor-addons.zip?timestamp=1534315992"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woolentor-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woolentor-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

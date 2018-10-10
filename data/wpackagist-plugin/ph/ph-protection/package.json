@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ph-protection": {
+            "0.0.1": {
+                "name": "wpackagist-plugin\/ph-protection",
+                "version": "0.0.1",
+                "version_normalized": "0.0.1.0",
+                "uid": 253817,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ph-protection.0.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ph-protection\/",
+                    "reference": "tags\/0.0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ph-protection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ph-protection",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 253818,
+                "time": "2016-02-25 17:52:09",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ph-protection.zip?timestamp=1456422729"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ph-protection\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ph-protection\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/targetpop": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/targetpop",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 346449,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/targetpop.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/targetpop\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/targetpop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/targetpop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 346450,
+                "time": "2018-04-10 00:01:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/targetpop.zip?timestamp=1523318515"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/targetpop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/targetpop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

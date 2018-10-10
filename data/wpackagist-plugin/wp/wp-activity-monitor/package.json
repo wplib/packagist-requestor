@@ -1,0 +1,27 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-activity-monitor": {
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-activity-monitor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 404821,
+                "time": "2017-06-15 06:36:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-activity-monitor.zip?timestamp=1497508611"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-activity-monitor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-activity-monitor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

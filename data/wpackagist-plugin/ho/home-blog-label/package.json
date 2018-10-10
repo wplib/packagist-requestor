@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/home-blog-label": {
+            "14.10": {
+                "name": "wpackagist-plugin\/home-blog-label",
+                "version": "14.10",
+                "version_normalized": "14.10.0.0",
+                "uid": 166932,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/home-blog-label.14.10.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/home-blog-label\/",
+                    "reference": "tags\/14.10"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/home-blog-label\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/home-blog-label",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 166933,
+                "time": "2015-04-29 12:48:32",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/home-blog-label.zip?timestamp=1430311712"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/home-blog-label\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/home-blog-label\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

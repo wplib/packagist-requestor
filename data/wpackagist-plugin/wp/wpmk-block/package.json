@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpmk-block": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpmk-block",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 442296,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmk-block.zip?timestamp=1536773582"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmk-block\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmk-block\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpmk-block",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 442297,
+                "time": "2018-09-12 17:33:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpmk-block.zip?timestamp=1536773582"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpmk-block\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpmk-block\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

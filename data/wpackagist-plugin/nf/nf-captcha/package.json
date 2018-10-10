@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nf-captcha": {
+            "1.0": {
+                "name": "wpackagist-plugin\/nf-captcha",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 234109,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nf-captcha.zip?timestamp=1454564840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nf-captcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nf-captcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nf-captcha",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 234110,
+                "time": "2016-02-04 05:47:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nf-captcha.zip?timestamp=1454564840"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nf-captcha\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nf-captcha\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

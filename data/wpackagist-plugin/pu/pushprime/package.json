@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/pushprime": {
+            "1.5": {
+                "name": "wpackagist-plugin\/pushprime",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "uid": 274348,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pushprime.1.5.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pushprime\/",
+                    "reference": "tags\/1.5"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pushprime\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/pushprime",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 274349,
+                "time": "2017-02-25 06:21:42",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/pushprime.zip?timestamp=1488003702"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/pushprime\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/pushprime\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

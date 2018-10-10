@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/channel-io": {
+            "0.8": {
+                "name": "wpackagist-plugin\/channel-io",
+                "version": "0.8",
+                "version_normalized": "0.8.0.0",
+                "uid": 65919,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/channel-io.zip?timestamp=1526529527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/channel-io\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/channel-io\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/channel-io",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 65920,
+                "time": "2018-05-17 03:58:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/channel-io.zip?timestamp=1526529527"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/channel-io\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/channel-io\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

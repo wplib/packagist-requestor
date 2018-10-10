@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpzeerat": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/wpzeerat",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 444527,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpzeerat.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpzeerat\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpzeerat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpzeerat",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 444528,
+                "time": "2016-12-30 15:52:47",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpzeerat.zip?timestamp=1483113167"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpzeerat\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpzeerat\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

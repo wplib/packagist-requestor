@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/naversync": {
+            "1.1": {
+                "name": "wpackagist-plugin\/naversync",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 229596,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/naversync.zip?timestamp=1471867421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/naversync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/naversync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/naversync",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 229597,
+                "time": "2016-08-22 12:03:41",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/naversync.zip?timestamp=1471867421"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/naversync\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/naversync\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

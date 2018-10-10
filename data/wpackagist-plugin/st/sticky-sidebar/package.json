@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/sticky-sidebar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/sticky-sidebar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337146,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-sidebar.zip?timestamp=1462595157"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-sidebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-sidebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/sticky-sidebar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337147,
+                "time": "2016-05-07 04:25:57",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/sticky-sidebar.zip?timestamp=1462595157"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/sticky-sidebar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/sticky-sidebar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

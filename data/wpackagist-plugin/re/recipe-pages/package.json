@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/recipe-pages": {
+            "1.0": {
+                "name": "wpackagist-plugin\/recipe-pages",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 284046,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recipe-pages.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recipe-pages\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recipe-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/recipe-pages",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 284047,
+                "time": "2016-06-12 04:40:18",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/recipe-pages.zip?timestamp=1465706418"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/recipe-pages\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/recipe-pages\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

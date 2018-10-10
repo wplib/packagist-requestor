@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jl-login-logo": {
+            "1.0": {
+                "name": "wpackagist-plugin\/jl-login-logo",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 184174,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jl-login-logo.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jl-login-logo\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jl-login-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jl-login-logo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 184175,
+                "time": "2015-09-02 22:14:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jl-login-logo.zip?timestamp=1441232063"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jl-login-logo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jl-login-logo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

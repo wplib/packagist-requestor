@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/acf-repeater-editor-accordion": {
+            "1.0": {
+                "name": "wpackagist-plugin\/acf-repeater-editor-accordion",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 5300,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-repeater-editor-accordion.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-repeater-editor-accordion\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-repeater-editor-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/acf-repeater-editor-accordion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 5301,
+                "time": "2015-09-21 23:03:55",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/acf-repeater-editor-accordion.zip?timestamp=1442876635"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/acf-repeater-editor-accordion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/acf-repeater-editor-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

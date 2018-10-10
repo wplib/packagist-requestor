@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wpdevhub-dlm": {
+            "2.4": {
+                "name": "wpackagist-plugin\/wpdevhub-dlm",
+                "version": "2.4",
+                "version_normalized": "2.4.0.0",
+                "uid": 440731,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdevhub-dlm.zip?timestamp=1522194155"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdevhub-dlm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdevhub-dlm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wpdevhub-dlm",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 440732,
+                "time": "2018-03-27 23:42:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wpdevhub-dlm.zip?timestamp=1522194155"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wpdevhub-dlm\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wpdevhub-dlm\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

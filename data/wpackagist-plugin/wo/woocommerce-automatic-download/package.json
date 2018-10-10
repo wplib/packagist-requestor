@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/woocommerce-automatic-download": {
+            "1.1": {
+                "name": "wpackagist-plugin\/woocommerce-automatic-download",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 394053,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-automatic-download.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-automatic-download\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-automatic-download\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/woocommerce-automatic-download",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 394054,
+                "time": "2017-06-19 18:16:01",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/woocommerce-automatic-download.zip?timestamp=1497896161"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/woocommerce-automatic-download\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/woocommerce-automatic-download\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

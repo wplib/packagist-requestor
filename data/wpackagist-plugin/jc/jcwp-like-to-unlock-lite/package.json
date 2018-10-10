@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/jcwp-like-to-unlock-lite": {
+            "1.1": {
+                "name": "wpackagist-plugin\/jcwp-like-to-unlock-lite",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 183059,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-like-to-unlock-lite.1.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-like-to-unlock-lite\/",
+                    "reference": "tags\/1.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-like-to-unlock-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/jcwp-like-to-unlock-lite",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 183060,
+                "time": "2015-04-16 02:02:25",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/jcwp-like-to-unlock-lite.zip?timestamp=1429149745"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/jcwp-like-to-unlock-lite\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/jcwp-like-to-unlock-lite\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

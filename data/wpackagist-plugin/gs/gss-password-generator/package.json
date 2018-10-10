@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gss-password-generator": {
+            "0.1": {
+                "name": "wpackagist-plugin\/gss-password-generator",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 160974,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gss-password-generator.zip?timestamp=1437630271"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gss-password-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gss-password-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gss-password-generator",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 160975,
+                "time": "2015-07-23 05:44:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gss-password-generator.zip?timestamp=1437630271"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gss-password-generator\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gss-password-generator\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

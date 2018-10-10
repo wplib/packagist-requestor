@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/real-performance-benignsource": {
+            "1.0": {
+                "name": "wpackagist-plugin\/real-performance-benignsource",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 282537,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-performance-benignsource.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-performance-benignsource\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-performance-benignsource\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/real-performance-benignsource",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 282538,
+                "time": "2017-07-29 14:48:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/real-performance-benignsource.zip?timestamp=1501339682"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/real-performance-benignsource\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/real-performance-benignsource\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

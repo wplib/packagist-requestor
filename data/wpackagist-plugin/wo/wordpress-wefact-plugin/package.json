@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wordpress-wefact-plugin": {
+            "2.4.3": {
+                "name": "wpackagist-plugin\/wordpress-wefact-plugin",
+                "version": "2.4.3",
+                "version_normalized": "2.4.3.0",
+                "uid": 403333,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-wefact-plugin.zip?timestamp=1498548160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-wefact-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-wefact-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wordpress-wefact-plugin",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 403334,
+                "time": "2017-06-27 07:22:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wordpress-wefact-plugin.zip?timestamp=1498548160"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wordpress-wefact-plugin\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wordpress-wefact-plugin\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

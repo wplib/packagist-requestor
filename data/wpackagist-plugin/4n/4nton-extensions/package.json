@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/4nton-extensions": {
+            "1.2.1": {
+                "name": "wpackagist-plugin\/4nton-extensions",
+                "version": "1.2.1",
+                "version_normalized": "1.2.1.0",
+                "uid": 1586,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/4nton-extensions.zip?timestamp=1527170760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/4nton-extensions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/4nton-extensions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/4nton-extensions",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 1587,
+                "time": "2018-05-24 14:06:00",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/4nton-extensions.zip?timestamp=1527170760"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/4nton-extensions\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/4nton-extensions\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

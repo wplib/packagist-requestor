@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/users-activity": {
+            "1.0": {
+                "name": "wpackagist-plugin\/users-activity",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 372107,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/users-activity.zip?timestamp=1510566571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/users-activity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/users-activity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/users-activity",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 372108,
+                "time": "2017-11-13 09:49:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/users-activity.zip?timestamp=1510566571"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/users-activity\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/users-activity\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

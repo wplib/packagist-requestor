@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-admin-bookmarks": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/my-admin-bookmarks",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 226455,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-admin-bookmarks.zip?timestamp=1524315971"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-admin-bookmarks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-admin-bookmarks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-admin-bookmarks",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 226456,
+                "time": "2018-04-21 13:06:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-admin-bookmarks.zip?timestamp=1524315971"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-admin-bookmarks\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-admin-bookmarks\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

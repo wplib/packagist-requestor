@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/logic-hop": {
+            "3.0.9": {
+                "name": "wpackagist-plugin\/logic-hop",
+                "version": "3.0.9",
+                "version_normalized": "3.0.9.0",
+                "uid": 202729,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logic-hop.zip?timestamp=1534307297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logic-hop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logic-hop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/logic-hop",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 202730,
+                "time": "2018-08-15 04:28:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/logic-hop.zip?timestamp=1534307297"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/logic-hop\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/logic-hop\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

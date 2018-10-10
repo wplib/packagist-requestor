@@ -1,0 +1,67 @@
+{
+    "packages": {
+        "wpackagist-plugin\/embed-privacy": {
+            "0.1": {
+                "name": "wpackagist-plugin\/embed-privacy",
+                "version": "0.1",
+                "version_normalized": "0.1.0.0",
+                "uid": 118343,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-privacy.0.1.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-privacy\/",
+                    "reference": "tags\/0.1"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "1.0.0": {
+                "name": "wpackagist-plugin\/embed-privacy",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 118344,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-privacy.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-privacy\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/embed-privacy",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 118345,
+                "time": "2018-10-06 07:52:11",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/embed-privacy.zip?timestamp=1538812331"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/embed-privacy\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/embed-privacy\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

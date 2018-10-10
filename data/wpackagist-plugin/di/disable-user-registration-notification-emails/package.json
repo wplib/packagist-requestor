@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/disable-user-registration-notification-emails": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/disable-user-registration-notification-emails",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 100608,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-user-registration-notification-emails.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-user-registration-notification-emails\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-user-registration-notification-emails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/disable-user-registration-notification-emails",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 100609,
+                "time": "2016-12-15 02:49:02",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/disable-user-registration-notification-emails.zip?timestamp=1481770142"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/disable-user-registration-notification-emails\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/disable-user-registration-notification-emails\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

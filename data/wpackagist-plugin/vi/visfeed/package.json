@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/visfeed": {
+            "1.2.2": {
+                "name": "wpackagist-plugin\/visfeed",
+                "version": "1.2.2",
+                "version_normalized": "1.2.2.0",
+                "uid": 376722,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visfeed.zip?timestamp=1496105209"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visfeed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visfeed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/visfeed",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 376723,
+                "time": "2017-05-30 00:46:49",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/visfeed.zip?timestamp=1496105209"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/visfeed\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/visfeed\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

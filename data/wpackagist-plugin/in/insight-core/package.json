@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/insight-core": {
+            "1.0": {
+                "name": "wpackagist-plugin\/insight-core",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 177612,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insight-core.zip?timestamp=1525744491"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insight-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insight-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/insight-core",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 177613,
+                "time": "2018-05-08 01:54:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/insight-core.zip?timestamp=1525744491"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/insight-core\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/insight-core\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

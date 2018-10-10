@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/glofox": {
+            "1.0.10": {
+                "name": "wpackagist-plugin\/glofox",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "uid": 152838,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/glofox.zip?timestamp=1466776463"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/glofox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/glofox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/glofox",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 152839,
+                "time": "2016-06-24 13:54:23",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/glofox.zip?timestamp=1466776463"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/glofox\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/glofox\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/steempress": {
+            "1.4.2": {
+                "name": "wpackagist-plugin\/steempress",
+                "version": "1.4.2",
+                "version_normalized": "1.4.2.0",
+                "uid": 336855,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/steempress.zip?timestamp=1532419116"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/steempress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/steempress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/steempress",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 336856,
+                "time": "2018-07-24 07:58:36",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/steempress.zip?timestamp=1532419116"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/steempress\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/steempress\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/socicon": {
+            "1.5.0": {
+                "name": "wpackagist-plugin\/socicon",
+                "version": "1.5.0",
+                "version_normalized": "1.5.0.0",
+                "uid": 330178,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socicon.zip?timestamp=1505603740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socicon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socicon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/socicon",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 330179,
+                "time": "2017-09-16 23:15:40",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/socicon.zip?timestamp=1505603740"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/socicon\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/socicon\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

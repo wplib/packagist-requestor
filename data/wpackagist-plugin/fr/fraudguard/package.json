@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/fraudguard": {
+            "1.1": {
+                "name": "wpackagist-plugin\/fraudguard",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 142126,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fraudguard.zip?timestamp=1533759511"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fraudguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fraudguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/fraudguard",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 142127,
+                "time": "2018-08-08 20:18:31",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/fraudguard.zip?timestamp=1533759511"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/fraudguard\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/fraudguard\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

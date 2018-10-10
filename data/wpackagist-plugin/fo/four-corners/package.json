@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/four-corners": {
+            "1.3": {
+                "name": "wpackagist-plugin\/four-corners",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "uid": 141490,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/four-corners.1.3.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/four-corners\/",
+                    "reference": "tags\/1.3"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/four-corners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/four-corners",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 141491,
+                "time": "2017-11-24 11:59:33",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/four-corners.zip?timestamp=1511524773"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/four-corners\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/four-corners\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

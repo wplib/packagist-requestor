@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/hw-override-default-sender": {
+            "1.0": {
+                "name": "wpackagist-plugin\/hw-override-default-sender",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 169499,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hw-override-default-sender.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hw-override-default-sender\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hw-override-default-sender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/hw-override-default-sender",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 169500,
+                "time": "2015-02-04 09:14:34",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/hw-override-default-sender.zip?timestamp=1423041274"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/hw-override-default-sender\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/hw-override-default-sender\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

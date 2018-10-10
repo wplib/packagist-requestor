@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/ticketmaster": {
+            "1.0.4": {
+                "name": "wpackagist-plugin\/ticketmaster",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "uid": 354125,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketmaster.zip?timestamp=1525780757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketmaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketmaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/ticketmaster",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354126,
+                "time": "2018-05-08 11:59:17",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/ticketmaster.zip?timestamp=1525780757"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/ticketmaster\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/ticketmaster\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/tilde-widget": {
+            "0.2": {
+                "name": "wpackagist-plugin\/tilde-widget",
+                "version": "0.2",
+                "version_normalized": "0.2.0.0",
+                "uid": 354491,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tilde-widget.zip?timestamp=1506082175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tilde-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tilde-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/tilde-widget",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 354492,
+                "time": "2017-09-22 12:09:35",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/tilde-widget.zip?timestamp=1506082175"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/tilde-widget\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/tilde-widget\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

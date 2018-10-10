@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/bonkers-addons": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/bonkers-addons",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 47643,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bonkers-addons.zip?timestamp=1515433385"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bonkers-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bonkers-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/bonkers-addons",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 47644,
+                "time": "2018-01-08 17:43:05",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/bonkers-addons.zip?timestamp=1515433385"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/bonkers-addons\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/bonkers-addons\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

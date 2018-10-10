@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/catch-breadcrumb": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/catch-breadcrumb",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 62022,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catch-breadcrumb.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catch-breadcrumb\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catch-breadcrumb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/catch-breadcrumb",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 62023,
+                "time": "2018-10-05 05:19:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/catch-breadcrumb.zip?timestamp=1538716754"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/catch-breadcrumb\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/catch-breadcrumb\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

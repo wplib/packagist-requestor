@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/limit-revision-publishing": {
+            "1.1.8": {
+                "name": "wpackagist-plugin\/limit-revision-publishing",
+                "version": "1.1.8",
+                "version_normalized": "1.1.8.0",
+                "uid": 198210,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limit-revision-publishing.zip?timestamp=1510698920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limit-revision-publishing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limit-revision-publishing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/limit-revision-publishing",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 198211,
+                "time": "2017-11-14 22:35:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/limit-revision-publishing.zip?timestamp=1510698920"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/limit-revision-publishing\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/limit-revision-publishing\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

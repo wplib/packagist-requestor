@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/aivey-seo": {
+            "1.0a": {
+                "name": "wpackagist-plugin\/aivey-seo",
+                "version": "1.0a",
+                "version_normalized": "1.0.0.0-alpha",
+                "uid": 15809,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aivey-seo.1.0a.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aivey-seo\/",
+                    "reference": "tags\/1.0a"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aivey-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/aivey-seo",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 15810,
+                "time": "2015-12-03 06:11:51",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/aivey-seo.zip?timestamp=1449123111"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/aivey-seo\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/aivey-seo\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

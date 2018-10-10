@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/assets-manager": {
+            "1.0.2": {
+                "name": "wpackagist-plugin\/assets-manager",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "uid": 27723,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/assets-manager.zip?timestamp=1480385923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/assets-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/assets-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/assets-manager",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 27724,
+                "time": "2016-11-29 02:18:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/assets-manager.zip?timestamp=1480385923"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/assets-manager\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/assets-manager\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/stionic-users": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/stionic-users",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 337191,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stionic-users.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stionic-users\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stionic-users\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/stionic-users",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 337192,
+                "time": "2018-03-11 02:52:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/stionic-users.zip?timestamp=1520736742"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/stionic-users\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/stionic-users\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

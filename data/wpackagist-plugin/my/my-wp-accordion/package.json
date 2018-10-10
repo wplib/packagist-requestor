@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/my-wp-accordion": {
+            "1.1": {
+                "name": "wpackagist-plugin\/my-wp-accordion",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "uid": 227632,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-accordion.zip?timestamp=1487595854"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-accordion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/my-wp-accordion",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 227633,
+                "time": "2017-02-20 13:04:14",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/my-wp-accordion.zip?timestamp=1487595854"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/my-wp-accordion\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/my-wp-accordion\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

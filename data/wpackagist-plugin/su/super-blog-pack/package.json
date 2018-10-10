@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/super-blog-pack": {
+            "1.0": {
+                "name": "wpackagist-plugin\/super-blog-pack",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 341479,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-blog-pack.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-blog-pack\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-blog-pack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/super-blog-pack",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 341480,
+                "time": "2017-10-02 20:19:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/super-blog-pack.zip?timestamp=1506975590"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/super-blog-pack\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/super-blog-pack\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

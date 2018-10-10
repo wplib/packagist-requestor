@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/gf-klaviyo-add-on": {
+            "1.0": {
+                "name": "wpackagist-plugin\/gf-klaviyo-add-on",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 151210,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-klaviyo-add-on.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-klaviyo-add-on\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-klaviyo-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/gf-klaviyo-add-on",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 151211,
+                "time": "2018-01-12 02:52:13",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/gf-klaviyo-add-on.zip?timestamp=1515725533"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/gf-klaviyo-add-on\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/gf-klaviyo-add-on\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

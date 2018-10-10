@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/nugget-by-ingot": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/nugget-by-ingot",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 238451,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nugget-by-ingot.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nugget-by-ingot\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nugget-by-ingot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/nugget-by-ingot",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 238452,
+                "time": "2016-03-16 14:52:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/nugget-by-ingot.zip?timestamp=1458139974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/nugget-by-ingot\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/nugget-by-ingot\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

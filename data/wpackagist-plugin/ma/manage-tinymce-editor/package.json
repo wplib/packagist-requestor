@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/manage-tinymce-editor": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/manage-tinymce-editor",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 208246,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-tinymce-editor.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-tinymce-editor\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-tinymce-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/manage-tinymce-editor",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 208247,
+                "time": "2017-07-13 11:22:54",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/manage-tinymce-editor.zip?timestamp=1499944974"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/manage-tinymce-editor\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/manage-tinymce-editor\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

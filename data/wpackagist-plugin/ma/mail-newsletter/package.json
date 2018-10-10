@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/mail-newsletter": {
+            "1.0": {
+                "name": "wpackagist-plugin\/mail-newsletter",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 206338,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-newsletter.zip?timestamp=1492088722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/mail-newsletter",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 206339,
+                "time": "2017-04-13 13:05:22",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/mail-newsletter.zip?timestamp=1492088722"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/mail-newsletter\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/mail-newsletter\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

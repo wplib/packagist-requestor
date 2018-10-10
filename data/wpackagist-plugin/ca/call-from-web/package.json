@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/call-from-web": {
+            "3.1": {
+                "name": "wpackagist-plugin\/call-from-web",
+                "version": "3.1",
+                "version_normalized": "3.1.0.0",
+                "uid": 59126,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/call-from-web.zip?timestamp=1496831060"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/call-from-web\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/call-from-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/call-from-web",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 59127,
+                "time": "2017-06-07 10:24:20",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/call-from-web.zip?timestamp=1496831060"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/call-from-web\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/call-from-web\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

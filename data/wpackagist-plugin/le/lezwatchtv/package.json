@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/lezwatchtv": {
+            "1.0.0": {
+                "name": "wpackagist-plugin\/lezwatchtv",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 196113,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lezwatchtv.1.0.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lezwatchtv\/",
+                    "reference": "tags\/1.0.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lezwatchtv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/lezwatchtv",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 196114,
+                "time": "2018-09-13 05:54:50",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/lezwatchtv.zip?timestamp=1536818090"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/lezwatchtv\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/lezwatchtv\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "packages": {
+        "wpackagist-plugin\/wp-responsive-demo-switch-bar": {
+            "1.0": {
+                "name": "wpackagist-plugin\/wp-responsive-demo-switch-bar",
+                "version": "1.0",
+                "version_normalized": "1.0.0.0",
+                "uid": 429374,
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-responsive-demo-switch-bar.1.0.zip"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-responsive-demo-switch-bar\/",
+                    "reference": "tags\/1.0"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-responsive-demo-switch-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            },
+            "dev-trunk": {
+                "name": "wpackagist-plugin\/wp-responsive-demo-switch-bar",
+                "version": "dev-trunk",
+                "version_normalized": "9999999-dev",
+                "uid": 429375,
+                "time": "2017-01-22 10:33:43",
+                "dist": {
+                    "type": "zip",
+                    "url": "https:\/\/downloads.wordpress.org\/plugin\/wp-responsive-demo-switch-bar.zip?timestamp=1485081223"
+                },
+                "source": {
+                    "type": "svn",
+                    "url": "https:\/\/plugins.svn.wordpress.org\/wp-responsive-demo-switch-bar\/",
+                    "reference": "trunk"
+                },
+                "homepage": "https:\/\/wordpress.org\/plugins\/wp-responsive-demo-switch-bar\/",
+                "require": {
+                    "composer\/installers": "~1.0"
+                },
+                "type": "wordpress-plugin"
+            }
+        }
+    }
+}

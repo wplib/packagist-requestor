@@ -1,0 +1,22 @@
+{
+    "name": "wplib/wpackagist-scraper",
+    "description": "Tool to scrape WPackagist to enable creating composer.json files for WordPress projects",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Mike Schinkel",
+            "email": "mike@newclarity.net"
+        }
+    ],
+    "require": {
+        "rmccue/requests": "v1.7.0",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-0": { "WPackagistRequestor": "src/" }
+    },
+    "license": "Apache-2.0",
+    "config": {
+        "optimize-autoloader": true
+    }
+}

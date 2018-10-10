@@ -1,2 +1,2 @@
 # packagist-requestor
-A simple-to-use PHP Library for Requesting Information from Packagist, WPackagist.
+A simple-to-use PHP Library for requesting information from Packagist, WPackagist.

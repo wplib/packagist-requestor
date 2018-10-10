@@ -1,12 +1,17 @@
 <?php
-
-namespace WPackagistRequestor;
+/**
+ * Adapter Pattern Class for HTTP GET request
+ *
+ * Uses either WordPress wp_remote_get() or Requests::get()
+ *
+ * https://www.geeksforgeeks.org/adapter-pattern/
+ *
+ */
+namespace PackagistRequestor;
 
 use Requests;
 
 class HttpRequest {
-
-	public static $config;
 
 	public $success;
 
@@ -16,15 +21,11 @@ class HttpRequest {
 
 	public $status_code;
 
-	function __construct() {
-	}
-
 	static function get( $url, $args = array() ) {
 		$args = array_merge( array(
 			'headers' => array(),
 		), $args );
 		do {
-			$config = Config::instance();
 			$request = new self();
 
 			if ( function_exists( 'wp_remote_get' ) ) {

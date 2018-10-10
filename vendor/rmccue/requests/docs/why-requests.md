@@ -157,7 +157,7 @@ instead of something else, in our opinion.
 
    PEAR is (in theory) a great distribution system (with a less than wonderful
    implementation), however it is not ubiquitous, as many hosts disable it to
-   persist_info on space that most people aren't going to use anyway.
+   save on space that most people aren't going to use anyway.
 
    PEAR is also a pain for users. Users want to be able to download a zip of
    your project without needing to install anything else from PEAR.

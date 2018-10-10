@@ -1,6 +1,6 @@
 <?php
 
-namespace WPackagistRequestor;
+namespace PackagistRequestor;
 
 use Exception;
 
@@ -16,8 +16,8 @@ class Requestor implements Logger {
 	 */
 	public $last_error;
 
-	function __construct() {
-		$this->config = Config::instance();
+	function __construct( $config ) {
+		$this->config = $config;
 	}
 
 	function log( $message ) {
@@ -36,12 +36,12 @@ class Requestor implements Logger {
 		do {
 			$success = false;
 			$groups = array();
-			$response = HttpRequest::get( $this->config->packages_url );
+			$response = HttpRequest::get( $this->config->packages_url() );
 			if ( 200 !== $response->status_code ) {
 				$this->log( sprintf(
 					'FAILED: Status code #%d: %s',
 					$response->status_code,
-					$this->config->packages_url
+					$this->config->packages_url()
 				));
 				break;
 			}
@@ -61,9 +61,9 @@ class Requestor implements Logger {
 			$providers_arr = get_object_vars( $packages_arr[ 'provider-includes' ] );
 			krsort( $providers_arr );
 			foreach( $providers_arr as $provider_url => $provider_obj ) {
-				if ( 'p/providers-old$%hash%.json' === $provider_url ) {
-					continue;
-				}
+//				if ( 'p/providers-old$%hash%.json' === $provider_url ) {
+//					continue;
+//				}
 
 				if ( ! isset( $provider_obj->sha256 ) ) {
 					$this->log( "\nWARNING: {$provider_url} object has no sha256 property.\n" );

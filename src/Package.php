@@ -1,6 +1,6 @@
 <?php
 
-namespace WPackagistRequestor;
+namespace PackagistRequestor;
 
 use DateTime;
 use DateInterval;
@@ -45,7 +45,7 @@ class Package {
 	 * @return string
 	 */
 	function info_url() {
-		return "{$this->config->base_url}/p/{$this->slug}\${$this->hash}.json";
+		return "{$this->config->base_url()}/p/{$this->slug}\${$this->hash}.json";
 	}
 
 	/**
@@ -75,9 +75,24 @@ class Package {
 	 * @return string
 	 */
 	function info_dir() {
-		$two_letter = substr( basename( $this->slug ), 0, 2 );
-		list( $type, $name ) = explode( '/', $this->slug );
-		return "{$this->config->data_dir}/{$type}/{$two_letter}/{$name}";
+		$config = $this->config;
+		$dir = $config->subdir()
+			? "{$this->config->data_dir()}/{$config->subdir()}"
+			: $this->config->data_dir();
+		switch ( $config->subdivide_by() ) {
+			case Config::SUBDIVIDE_BY_NAME:
+				$two_letter = substr( basename( $this->slug ), 0, 2 );
+				list( $type, $name ) = explode( '/', $this->slug );
+				$dir = "{$dir}/{$type}/{$two_letter}/{$name}";
+				break;
+			case Config::SUBDIVIDE_BY_ORG:
+			default:
+				list( $type, $name ) = explode( '/', $this->slug );
+				$two_letter = substr( $type, 0, 2 );
+				$dir = "{$dir}/{$two_letter}/{$type}/{$name}";
+				break;
+		}
+		return $dir;
 	}
 
 	/**

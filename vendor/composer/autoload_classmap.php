@@ -6,6 +6,15 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'PackagistRequestor\\Config' => $baseDir . '/src/Config.php',
+    'PackagistRequestor\\Config\\PackagistConfig' => $baseDir . '/src/Config/PackagistConfig.php',
+    'PackagistRequestor\\Config\\WPackagistConfig' => $baseDir . '/src/Config/WPackagistConfig.php',
+    'PackagistRequestor\\HttpRequest' => $baseDir . '/src/HttpRequest.php',
+    'PackagistRequestor\\Logger' => $baseDir . '/src/Logger.php',
+    'PackagistRequestor\\Package' => $baseDir . '/src/Package.php',
+    'PackagistRequestor\\PackageGroup' => $baseDir . '/src/PackageGroup.php',
+    'PackagistRequestor\\Requestor' => $baseDir . '/src/Requestor.php',
+    'PackagistRequestor\\Util' => $baseDir . '/src/Util.php',
     'Requests' => $vendorDir . '/rmccue/requests/library/Requests.php',
     'Requests_Auth' => $vendorDir . '/rmccue/requests/library/Requests/Auth.php',
     'Requests_Auth_Basic' => $vendorDir . '/rmccue/requests/library/Requests/Auth/Basic.php',
@@ -64,11 +73,4 @@ return array(
     'Requests_Transport_fsockopen' => $vendorDir . '/rmccue/requests/library/Requests/Transport/fsockopen.php',
     'Requests_Utility_CaseInsensitiveDictionary' => $vendorDir . '/rmccue/requests/library/Requests/Utility/CaseInsensitiveDictionary.php',
     'Requests_Utility_FilteredIterator' => $vendorDir . '/rmccue/requests/library/Requests/Utility/FilteredIterator.php',
-    'WPackagistRequestor\\Config' => $baseDir . '/src/Config.php',
-    'WPackagistRequestor\\HttpRequest' => $baseDir . '/src/HttpRequest.php',
-    'WPackagistRequestor\\Logger' => $baseDir . '/src/Logger.php',
-    'WPackagistRequestor\\Package' => $baseDir . '/src/Package.php',
-    'WPackagistRequestor\\PackageGroup' => $baseDir . '/src/PackageGroup.php',
-    'WPackagistRequestor\\Requestor' => $baseDir . '/src/Requestor.php',
-    'WPackagistRequestor\\Util' => $baseDir . '/src/Util.php',
 );

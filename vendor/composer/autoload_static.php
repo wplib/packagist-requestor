@@ -4,16 +4,9 @@
 
 namespace Composer\Autoload;
 
-class ComposerStaticInit89f638fd55107b1e9eef82d9c0d77448
+class ComposerStaticInit58f3e9bffd2f9b52ac4df945a04f1c7c
 {
     public static $prefixesPsr0 = array (
-        'W' => 
-        array (
-            'WPackagistRequestor' => 
-            array (
-                0 => __DIR__ . '/../..' . '/src',
-            ),
-        ),
         'R' => 
         array (
             'Requests' => 
@@ -21,9 +14,25 @@ class ComposerStaticInit89f638fd55107b1e9eef82d9c0d77448
                 0 => __DIR__ . '/..' . '/rmccue/requests/library',
             ),
         ),
+        'P' => 
+        array (
+            'PackagistRequestor' => 
+            array (
+                0 => __DIR__ . '/../..' . '/src',
+            ),
+        ),
     );
 
     public static $classMap = array (
+        'PackagistRequestor\\Config' => __DIR__ . '/../..' . '/src/Config.php',
+        'PackagistRequestor\\Config\\PackagistConfig' => __DIR__ . '/../..' . '/src/Config/PackagistConfig.php',
+        'PackagistRequestor\\Config\\WPackagistConfig' => __DIR__ . '/../..' . '/src/Config/WPackagistConfig.php',
+        'PackagistRequestor\\HttpRequest' => __DIR__ . '/../..' . '/src/HttpRequest.php',
+        'PackagistRequestor\\Logger' => __DIR__ . '/../..' . '/src/Logger.php',
+        'PackagistRequestor\\Package' => __DIR__ . '/../..' . '/src/Package.php',
+        'PackagistRequestor\\PackageGroup' => __DIR__ . '/../..' . '/src/PackageGroup.php',
+        'PackagistRequestor\\Requestor' => __DIR__ . '/../..' . '/src/Requestor.php',
+        'PackagistRequestor\\Util' => __DIR__ . '/../..' . '/src/Util.php',
         'Requests' => __DIR__ . '/..' . '/rmccue/requests/library/Requests.php',
         'Requests_Auth' => __DIR__ . '/..' . '/rmccue/requests/library/Requests/Auth.php',
         'Requests_Auth_Basic' => __DIR__ . '/..' . '/rmccue/requests/library/Requests/Auth/Basic.php',
@@ -82,20 +91,13 @@ class ComposerStaticInit89f638fd55107b1e9eef82d9c0d77448
         'Requests_Transport_fsockopen' => __DIR__ . '/..' . '/rmccue/requests/library/Requests/Transport/fsockopen.php',
         'Requests_Utility_CaseInsensitiveDictionary' => __DIR__ . '/..' . '/rmccue/requests/library/Requests/Utility/CaseInsensitiveDictionary.php',
         'Requests_Utility_FilteredIterator' => __DIR__ . '/..' . '/rmccue/requests/library/Requests/Utility/FilteredIterator.php',
-        'WPackagistRequestor\\Config' => __DIR__ . '/../..' . '/src/Config.php',
-        'WPackagistRequestor\\HttpRequest' => __DIR__ . '/../..' . '/src/HttpRequest.php',
-        'WPackagistRequestor\\Logger' => __DIR__ . '/../..' . '/src/Logger.php',
-        'WPackagistRequestor\\Package' => __DIR__ . '/../..' . '/src/Package.php',
-        'WPackagistRequestor\\PackageGroup' => __DIR__ . '/../..' . '/src/PackageGroup.php',
-        'WPackagistRequestor\\Requestor' => __DIR__ . '/../..' . '/src/Requestor.php',
-        'WPackagistRequestor\\Util' => __DIR__ . '/../..' . '/src/Util.php',
     );
 
     public static function getInitializer(ClassLoader $loader)
     {
         return \Closure::bind(function () use ($loader) {
-            $loader->prefixesPsr0 = ComposerStaticInit89f638fd55107b1e9eef82d9c0d77448::$prefixesPsr0;
-            $loader->classMap = ComposerStaticInit89f638fd55107b1e9eef82d9c0d77448::$classMap;
+            $loader->prefixesPsr0 = ComposerStaticInit58f3e9bffd2f9b52ac4df945a04f1c7c::$prefixesPsr0;
+            $loader->classMap = ComposerStaticInit58f3e9bffd2f9b52ac4df945a04f1c7c::$classMap;
 
         }, null, ClassLoader::class);
     }

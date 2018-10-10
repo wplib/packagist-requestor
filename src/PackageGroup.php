@@ -1,11 +1,6 @@
 <?php
 
-namespace WPackagistRequestor;
-
-use DateTime;
-use DateInterval;
-use DateTimeZone;
-use Exception;
+namespace PackagistRequestor;
 
 class PackageGroup {
 
@@ -41,7 +36,7 @@ class PackageGroup {
 
 	function __construct( $url_template, $hash, $args = array() ) {
 		$this->label = preg_replace(
-			'#^p/providers-(.+)\$\%hash\%\.json$#',
+			'#^p/(.+)\$\%hash\%\.json$#',
 			'$1',
 			$url_template
 		);
@@ -59,7 +54,7 @@ class PackageGroup {
 	 */
 	function group_url() {
 		$path = str_replace( '%hash%', $this->hash, $this->url_template );
-		return "{$this->config->base_url}/{$path}";
+		return "{$this->config->base_url()}/{$path}";
 	}
 
 }

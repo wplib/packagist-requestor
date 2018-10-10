@@ -1,44 +1,94 @@
 <?php
 
-namespace WPackagistRequestor;
+namespace PackagistRequestor;
 
-class Config {
+abstract class Config {
 
-	private static $_instance;
+	const SUBDIVIDE_BY_ORG = 1;
+	const SUBDIVIDE_BY_NAME = 2;
+
+	protected static $_instance;
 
 	/**
 	 * @var string Time To Live
 	 *
 	 * @see http://php.net/manual/en/dateinterval.construct.php#refsect1-dateinterval.construct-parameters
 	 *
-	 * 'P1W': Period 1 Week
+	 * 'P1W': Period 1 Hour
 	 */
-	public $ttl = 'P1H';
+	public $ttl = 'PT1H';
 
 	/**
 	 * @var string
 	 */
-	public $data_dir = __DIR__ . '/../data';
+	public $provider;
+
+	/**
+	 * This is used
+	 * @var string
+	 */
+	protected $_data_dir = __DIR__ . '/../data';
 
 	/**
 	 * @var string
 	 */
-	public $base_url = 'https://wpackagist.org';
+	protected $_base_url;
 
 	/**
 	 * @var string
 	 */
-	public $packages_url = 'https://wpackagist.org/packages.json';
+	protected $_subdivide_by;
 
-	private function __construct() {
-		$this->data_dir = realpath( $this->data_dir );
-	}
+	/**
+	 * @var string
+	 */
+	protected $_subdir;
 
 	static function instance() {
 		if ( ! isset( self::$_instance ) ) {
-			self::$_instance = new self();
+			static::$_instance = new static();
 		}
-		return self::$_instance;
+		return static::$_instance;
+	}
+
+	protected function __construct() {
+		$this->_data_dir = realpath( $this->_data_dir );
+	}
+
+	function packages_url() {
+		return "{$this->_base_url}/packages.json";
+	}
+
+	function subdivide_by() {
+		return $this->_subdivide_by;
+	}
+
+	function set_subdivide_by( $subdivide_by ) {
+		$this->_subdivide_by = $subdivide_by;
+	}
+
+	function data_dir() {
+		return $this->_data_dir;
+	}
+
+	function set_data_dir( $data_dir ) {
+		$this->_data_dir = $data_dir;
+	}
+
+	function base_url() {
+		return $this->_base_url;
+	}
+
+	function set_base_url( $base_url ) {
+		$this->_base_url = $base_url;
+	}
+
+	function subdir() {
+		return $this->_subdir;
+	}
+
+	function set_subdir( $subdir ) {
+		$this->_subdir = $subdir;
 	}
 
 }

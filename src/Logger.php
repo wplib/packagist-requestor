@@ -1,6 +1,6 @@
 <?php
 
-namespace WPackagistRequestor;
+namespace PackagistRequestor;
 
 interface Logger {
 	function log( $message );

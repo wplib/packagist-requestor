@@ -1,13 +1,16 @@
 <?php
 
-namespace WPackagistRequestor;
+namespace PackagistRequestor;
 
 use Exception;
 
 require __DIR__ . '/vendor/autoload.php';
 
-$requester = new Requestor();
+$requester = new Requestor( new Config\WPackagistConfig() );
 do {
+
+	echo "Processing {$requester->config->provider}";
+
 	try {
 		$groups = $requester->request_groups();
 		foreach ( $groups as $group ) {
@@ -28,14 +31,14 @@ do {
 		/**
 		 * Wait a minute after an error.
 		 */
-		echo "\n\nSleeping for a minute.\n\n";
+		echo "\n\nSleeping for a minute";
 		sleep( 60 );
 		continue;
 	}
 	/**
 	 * Wait an hour after processing the full list.
 	 */
-	echo "\n\nSleeping for an hour.\n\n";
+	echo "\n\nSleeping for an hour";
 	sleep( 60 * 60 );
 } while ( true );
 

@@ -6,6 +6,6 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'WPackagistRequestor' => array($baseDir . '/src'),
     'Requests' => array($vendorDir . '/rmccue/requests/library'),
+    'PackagistRequestor' => array($baseDir . '/src'),
 );

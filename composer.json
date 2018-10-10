@@ -1,6 +1,6 @@
 {
-    "name": "wplib/wpackagist-scraper",
-    "description": "Tool to scrape WPackagist to enable creating composer.json files for WordPress projects",
+    "name": "wplib/packagist-requestor",
+    "description": "Tool to scrape Packagist/WPackagist to enable creating composer.json files for PHP and WordPress projects",
     "type": "library",
     "authors": [
         {
@@ -13,7 +13,7 @@
         "ext-json": "*"
     },
     "autoload": {
-        "psr-0": { "WPackagistRequestor": "src/" }
+        "psr-0": { "PackagistRequestor": "src/" }
     },
     "license": "Apache-2.0",
     "config": {

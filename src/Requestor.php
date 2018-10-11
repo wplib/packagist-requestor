@@ -33,7 +33,7 @@ class Requestor implements Logger {
 	 */
 	function request_groups() {
 		$groups = array();
-		foreach ( $this->yield_requested_group() as $group ) {
+		foreach ( $this->yield_requested_groups() as $group ) {
 			/**
 			 * @var PackageGroup $group
 			 */
@@ -48,7 +48,7 @@ class Requestor implements Logger {
 	 * @return PackageGroup[]
 	 * @throws Exception
 	 */
-	function yield_requested_group() {
+	function yield_requested_groups() {
 
 		do {
 
@@ -110,7 +110,7 @@ class Requestor implements Logger {
 	 */
 	function request_packages( $package_group ) {
 		$packages = array();
-		foreach ( $this->yield_requested_package( $package_group ) as $package ) {
+		foreach ( $this->yield_requested_packages( $package_group ) as $package ) {
 			/**
 			 * @var Package $package
 			 */
@@ -126,7 +126,7 @@ class Requestor implements Logger {
 	 * @return Package[]
 	 * @throws Exception
 	 */
-	function yield_requested_package( $package_group ) {
+	function yield_requested_packages( $package_group ) {
 
 		do {
 			$success = false;

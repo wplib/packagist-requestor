@@ -21,10 +21,10 @@ foreach( $configs as $config ) {
 			$requester = new Requestor( $config );
 
 			echo "\nProcessing [{$config->provider}] (Memory used: {$config->memory_used()})";
-			foreach ( $requester->yield_requested_group() as $group ) {
+			foreach ( $requester->yield_requested_groups() as $group ) {
 				echo "\n\nProcessing [{$group->label}] (Memory used: {$config->memory_used()})\n";
 
-				foreach ( $requester->yield_requested_package( $group ) as $package ) {
+				foreach ( $requester->yield_requested_packages( $group ) as $package ) {
 					if ( $package->exists() && ! $group->download_again() ) {
 						continue;
 					}

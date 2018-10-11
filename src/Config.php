@@ -96,6 +96,9 @@ abstract class Config {
 		$this->_subdir = $subdir;
 	}
 
+	function memory_used() {
+		return Util::memory_used();
+	}
 }
 
 

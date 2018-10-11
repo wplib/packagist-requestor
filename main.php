@@ -20,10 +20,10 @@ foreach( $configs as $config ) {
 		try {
 			$requester = new Requestor( $config );
 
-			echo "\nProcessing {$config->provider}";
+			echo "\nProcessing [{$config->provider}] (Memory used: {$config->memory_used()})";
 
 			foreach ( $requester->request_groups( $yield ) as $group ) {
-				echo "\n\nProcessing {$group->label}\n";
+				echo "\n\nProcessing [{$group->label}] (Memory used: {$config->memory_used()})\n";
 
 				foreach ( $requester->request_packages( $group, $yield ) as $package ) {
 					if ( $package->exists() && ! $group->download_again() ) {
@@ -33,8 +33,9 @@ foreach( $configs as $config ) {
 						echo ".";
 						continue;
 					}
-					echo "\nSaving {$package->slug}";
+
 					$package->persist_info();
+					echo "\nPackage [{$package->slug}] saved (Memory used: {$config->memory_used()})";
 
 				}
 			}
@@ -42,7 +43,7 @@ foreach( $configs as $config ) {
 			/**
 			 * Wait a minute after an error.
 			 */
-			echo "\n\nSleeping for a minute";
+			echo "\n\nSleeping for a minute (Memory used: {$config->memory_used()})";
 			sleep( 60 );
 			continue;
 		}

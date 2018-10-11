@@ -49,6 +49,10 @@ class PackageGroup {
 		$this->hash = $hash;
 	}
 
+	function download_again() {
+		return $this->label === $this->config->recent_updates;
+	}
+
 	/**
 	 * @return string
 	 */

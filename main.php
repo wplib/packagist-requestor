@@ -14,18 +14,17 @@ $configs = array(
  * @var Config $config
  */
 foreach( $configs as $config ) {
-	$yield = array( 'yield' => true );
+
 	do {
 
 		try {
 			$requester = new Requestor( $config );
 
 			echo "\nProcessing [{$config->provider}] (Memory used: {$config->memory_used()})";
-
-			foreach ( $requester->request_groups( $yield ) as $group ) {
+			foreach ( $requester->yield_requested_group() as $group ) {
 				echo "\n\nProcessing [{$group->label}] (Memory used: {$config->memory_used()})\n";
 
-				foreach ( $requester->request_packages( $group, $yield ) as $package ) {
+				foreach ( $requester->yield_requested_package( $group ) as $package ) {
 					if ( $package->exists() && ! $group->download_again() ) {
 						continue;
 					}

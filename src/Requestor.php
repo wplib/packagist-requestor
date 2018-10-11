@@ -28,19 +28,33 @@ class Requestor implements Logger {
 	}
 
 	/**
+`	 * @return PackageGroup[]
+	 * @throws Exception
+	 */
+	function request_groups() {
+		$groups = array();
+		foreach ( $this->yield_requested_group() as $group ) {
+			/**
+			 * @var PackageGroup $group
+			 */
+			$groups[ $group->url_template ] = $group;
+		}
+		return $groups;
+
+	}
+
+	/**
 	 * @param array $args
 	 * @return PackageGroup[]
 	 * @throws Exception
 	 */
-	function request_groups( $args = array() ) {
-		$args = Util::default_args( $args, array(
-			'yield' => false,
-		));
+	function yield_requested_group() {
 
 		do {
 
+			$package_group = null;
+
 			$success = false;
-			$groups = array();
 			$response = HttpRequest::get( $this->config->packages_url() );
 			if ( 200 !== $response->status_code ) {
 				$this->log( sprintf(
@@ -66,29 +80,17 @@ class Requestor implements Logger {
 			$providers_arr = get_object_vars( $packages_arr[ 'provider-includes' ] );
 			krsort( $providers_arr );
 			foreach( $providers_arr as $provider_url => $provider_obj ) {
-//				if ( 'p/providers-old$%hash%.json' === $provider_url ) {
-//					continue;
-//				}
 
 				if ( ! isset( $provider_obj->sha256 ) ) {
 					$this->log( "\nWARNING: {$provider_url} object has no sha256 property.\n" );
 					continue;
 				}
 
-				$package_group = new PackageGroup(
+				yield new PackageGroup(
 					$provider_url,
 					$provider_obj->sha256,
-					array(
-						'logger' => $this,
-						'config' => $this->config,
-					)
+					[ 'config' => $this->config, ],
 				);
-				if ( $args[ 'yield' ] ) {
-					yield $package_group;
-					continue;
-				}
-
-				$groups[ $provider_url ] = $package_group;
 
 			}
 			$success = true;
@@ -98,26 +100,36 @@ class Requestor implements Logger {
 		if ( ! $success ) {
 			throw new Exception( $this->last_error );
 		}
-
-		return $groups;
+		return array();
 	}
 
 	/**
 	 * @param PackageGroup $package_group
-	 * @param array $args
+	 * @return Package[]
+	 * @throws Exception
+	 */
+	function request_packages( $package_group ) {
+		$packages = array();
+		foreach ( $this->yield_requested_package( $package_group ) as $package ) {
+			/**
+			 * @var Package $package
+			 */
+			$packages[ $package->slug ] = $package;
+		}
+		return $packages;
+
+	}
+
+	/**
+	 * @param PackageGroup $package_group
 	 *
 	 * @return Package[]
 	 * @throws Exception
 	 */
-	function request_packages( $package_group, $args = array() ) {
-
-		$args = Util::default_args( $args, array(
-			'yield' => false,
-		));
+	function yield_requested_package( $package_group ) {
 
 		do {
 			$success = false;
-			$packages = array();
 			$response = HttpRequest::get( $url = $package_group->group_url() );
 			if ( 200 !== $response->status_code ) {
 				$this->log( sprintf( "\nFAILED: Status code #%d: %s", $response->status_code, $url ) );
@@ -143,15 +155,12 @@ class Requestor implements Logger {
 					continue;
 				}
 
-				$package = new Package( $package_slug, $package_obj->sha256, array(
-					'logger' => $this,
-					'config' => $this->config,
-				));
-				if ( $args[ 'yield' ] ) {
-					yield $package;
-					continue;
-				}
-				$packages[ $package_slug ] = $package;
+				yield new Package(
+					$package_slug,
+					$package_obj->sha256,
+					[ 'config' => $this->config ]
+				);
+
 			}
 			$success = true;
 
@@ -159,7 +168,7 @@ class Requestor implements Logger {
 		if ( ! $success ) {
 			throw new Exception( $this->last_error );
 		}
-		return $packages;
+		return array();
 	}
 
 	/**

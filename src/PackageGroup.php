@@ -50,7 +50,7 @@ class PackageGroup {
 	}
 
 	function download_again() {
-		return $this->label === $this->config->recent_updates;
+		return $this->label === $this->config->latest_group;
 	}
 
 	/**

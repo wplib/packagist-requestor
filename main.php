@@ -14,6 +14,7 @@ $configs = array(
  * @var Config $config
  */
 foreach( $configs as $config ) {
+	$yield = array( 'yield' => true );
 	do {
 
 		try {
@@ -21,12 +22,10 @@ foreach( $configs as $config ) {
 
 			echo "\nProcessing {$config->provider}";
 
-			$groups = $requester->request_groups();
-			foreach ( $groups as $group ) {
-				$packages = $requester->request_packages( $group );
+			foreach ( $requester->request_groups( $yield ) as $group ) {
 				echo "\n\nProcessing {$group->label}\n";
 
-				foreach ( $packages as $package ) {
+				foreach ( $requester->request_packages( $group, $yield ) as $package ) {
 					if ( $package->exists() && ! $group->download_again() ) {
 						continue;
 					}

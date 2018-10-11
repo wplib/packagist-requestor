@@ -15,6 +15,10 @@ class Util {
 			: $arg;
 	}
 
+	static function default_args( $args, $defaults ) {
+		return array_merge( $defaults, $args );
+	}
+
 }
 
 

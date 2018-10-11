@@ -34,7 +34,7 @@ class Package {
 	 */
 	function __construct( $slug, $hash, $args = array() ) {
 		$args = array_merge( array(
-			'config' => function() { return Config::instance(); },
+			'config' => function() { return Config\PackagistConfig::instance(); },
 		), $args );
 		$this->config = Util::get_arg( $args[ 'config' ] );
 		$this->slug = $slug;

@@ -42,7 +42,7 @@ class PackageGroup {
 		);
 
 		$args = array_merge( array(
-			'config' => function() { return Config::instance(); },
+			'config' => function() { return Config\PackagistConfig::instance(); },
 		), $args );
 		$this->config = Util::get_arg( $args[ 'config' ] );
 		$this->url_template = $url_template;

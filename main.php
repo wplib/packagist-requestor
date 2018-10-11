@@ -10,14 +10,16 @@ $configs = array(
 	new Config\WPackagistConfig(),
 	new Config\PackagistConfig(),
 );
-
+/**
+ * @var Config $config
+ */
 foreach( $configs as $config ) {
 	do {
 
 		try {
 			$requester = new Requestor( $config );
 
-			echo "Processing {$requester->config->provider}";
+			echo "\nProcessing {$config->provider}";
 
 			$groups = $requester->request_groups();
 			foreach ( $groups as $group ) {
@@ -25,6 +27,9 @@ foreach( $configs as $config ) {
 				echo "\n\nProcessing {$group->label}\n";
 
 				foreach ( $packages as $package ) {
+					if ( $package->exists() && ! $group->download_again() ) {
+						continue;
+					}
 					if ( ! $requester->request_package( $package ) ) {
 						echo ".";
 						continue;

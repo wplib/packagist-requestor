@@ -21,6 +21,11 @@ abstract class Config {
 	/**
 	 * @var string
 	 */
+	public $latest_group;
+
+	/**
+	 * @var string
+	 */
 	public $provider;
 
 	/**

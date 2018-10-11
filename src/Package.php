@@ -44,6 +44,13 @@ class Package {
 	/**
 	 * @return string
 	 */
+	function exists() {
+		return is_file( $this->filepath() );
+	}
+
+	/**
+	 * @return string
+	 */
 	function info_url() {
 		return "{$this->config->base_url()}/p/{$this->slug}\${$this->hash}.json";
 	}

@@ -89,7 +89,7 @@ class Requestor implements Logger {
 				yield new PackageGroup(
 					$provider_url,
 					$provider_obj->sha256,
-					[ 'config' => $this->config, ],
+					[ 'config' => $this->config, ]
 				);
 
 			}

@@ -8,7 +8,7 @@ require __DIR__ . '/vendor/autoload.php';
 
 $configs = array(
 	new Config\WPackagistConfig(),
-	new Config\PackagistConfig(),
+	//new Config\PackagistConfig(),
 );
 $index = 0;
 do {

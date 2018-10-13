@@ -50,6 +50,9 @@ do {
 	}
 	unset( $requestor );
 
+	echo "\n\nSleeping 10 minutes (Memory used: {$config->memory_used()})";
+	sleep( 60*10 );
+
 	$index = ++$index % count( $configs );
 
 } while ( true );
